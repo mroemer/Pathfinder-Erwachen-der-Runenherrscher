@@ -6,7 +6,7 @@
 - **Brodert Quink**: Gelehrter aus Sandspitze, Spezialist für antike Runenmagie und Verbündeter von Gina bei der Untersuchung der Runenherrscher-Relikte.
 - **Dr. Dranzel**: Ehemaliger Lieblingsautor von Tobin, selbsterklärter Abenteurer und Leiter von Dr. Dranzels Spektakulärer Abenteurertruppe, Professor in Sirathu (nahe Kaer Maga) und in Tobins Wahrnehmung als Dummschwätzer entlarvt.
 - **Richter Eisendorn**: Ehemaliger Anhänger des Sihedron-Kults, der uns einen Brief mit Informationen über Xanesha zugespielt hat.
-- **Gellin Schwatzbart**: Händler und reisender Kaufmann, der uns von Sandspitze nach Magnimar und weiter nach Schildkrötenfähre begleitete. Derzeit in Schildkrötenfähre anwesend.
+- **Gellin Schwatzbart**: Händler und reisender Kaufmann, der uns von Sandspitze nach Magnimar und weiter nach Schildkrötenfähre begleitete. War bei der Rückkehr nach Schildkrötenfähre anwesend und erneut ein Ansprechpartner für regionale Gerüchte.
 - **Oberbürgermeister Haldmeer Grobaras**:  Oberbürgermeister von Magnimar. Wurde nach Xaneshas Tod über die Machenschaften des Kultes informiert und erteilte später den Auftrag zur Rettung von Fort Ranik.
 - **Iesha Foxglove**:  Geist der verstorbenen Adligen im Anwesen der Familie Foxglove – tragische Figur aus Alderns Vergangenheit.
 - **Bürgermeisterin Kendra Deverin**:  Bürgermeisterin von Sandspitze. Vermittelt zwischen Abenteurern, Bürgern und der Stadtverwaltung, hat aber selten konkrete Antworten auf die seltsamen Ereignisse rund um die Stadt.
@@ -31,8 +31,8 @@
 
 ## Schildkrötenfähre
 - **Kess Tyloma**: Wirtin des Wirtshaus "Zur Schildkröte" und Dame mit graumeliertem Haar. Empfing die Helden mit nüchterner Gastfreundschaft.
-- **Lucrezia**: Namentlich erwähnte Betreiberin des untergegangenen Glücksspielschiffs "Paradies" in Schildkrötenfähre. Wurde vom Fallensteller als Verantwortliche genannt; ihr Schicksal gilt seit dem Untergang des Schiffs als ungewiss. Steht möglicherweise im Zusammenhang mit dem Zeichen des siebenzackigen Sterns.
-- **Melin Schried**: Bürgermeister und seit 55 Jahren Priester Erastils. Melin hatte Unterstützung bei Oberbürgermeister Haldmeer Grobaras angefragt, woraufhin wir nach Schildkrötenfähre reisten. Er entsandte die Gruppe zur Ranickfeste, um das Ausbleiben der Schwarzpfeile zu untersuchen.
-- **Unbenannter Fallensteller**: Ortsansässiger Jäger und Kenner von Fallen und Kräutern. Trägt ein Tätowierungssymbol eines siebenzackigen Sterns auf dem Unterarm. Stand offenbar in Verbindung mit einem untergegangenen Glücksspielschiff namens "Paradies" und erwähnte den Namen Lucrezia im Zusammenhang mit dessen Betrieb.
-- **Tom**: Einheimischer Landwirt und neuer Bekannter von Tobin. Berichtete von einer vierzig Jahre zurückliegenden Überschwemmung, die angeblich durch eine Hexe ausgelöst worden sei, die Dorfbewohner in Frösche verwandeln wollte. Ob Aberglaube oder verschüttete Wahrheit, blieb unklar.
-- **Unbekannter Flüchtling**: Schwer verletzter Mensch, der aus der Ranickfeste entkommen ist und die Gruppe im Wald erreichte. Berichtete panisch von Ogern und möglicher Verfolgung; wurde von Fafnir versorgt und in Sicherheit gebracht.
+- **Lucrezia**: Namentlich erwähnte Betreiberin des untergegangenen Glücksspielschiffs "Paradies" in Schildkrötenfähre. Wurde vom Fallensteller als Verantwortliche genannt; ihr Schicksal gilt seit dem Untergang des Schiffs als ungewiss. Steht im Zusammenhang mit dem Zeichen des siebenzackigen Sterns.
+- **Melin Schried**: Bürgermeister und seit 55 Jahren Priester Erastils. Hatte Unterstützung bei Oberbürgermeister Haldmeer Grobaras angefragt und entsandte die Gruppe zur Ranickfeste, um das Ausbleiben der Schwarzpfeile zu untersuchen.
+- **Unbenannter Fallensteller**: Ortsansässiger Jäger und Kenner von Fallen und Kräutern. Trägt ein Tätowierungssymbol eines siebenzackigen Sterns auf dem Unterarm. Stand offenbar in Verbindung mit einem untergegangenen Glücksspielschiff namens "Paradies" und empfahl einen Nachtschattensud als mögliche Waffe gegen die Oger.
+- **Tom**: Einheimischer Landwirt und neuer Bekannter von Tobin. Berichtete von einer vierzig Jahre zurückliegenden Überschwemmung, die angeblich von einer Hexe ausgelöst wurde, die Dorfbewohner in Frösche verwandeln wollte. Ob Aberglaube oder verschüttete Wahrheit, blieb unklar.
+- **Unbekannter Flüchtling**: Schwer verletzter Mensch, der aus der Ranickfeste entkommen ist und die Gruppe im Wald erreichte. Berichtete panisch von Ogern und möglicher Verfolgung; wurde von Fafnir geheilt und in Sicherheit gebracht.
