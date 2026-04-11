@@ -33,7 +33,7 @@ in Ogerhand ist:
 
 **Wichtige Erkenntnisse:**
 
--   **Wachen:\
+-   **Wachen:
     > **Jeweils **3 Oger pro Tor (Nord & Süd)** → insgesamt mindestens 6
     > sichtbar
 
@@ -52,7 +52,7 @@ in Ogerhand ist:
 
     -   **Weiterer Wechsel bei Einbruch der Nacht**
 
--   **Gesamtzahl (geschätzt):\
+-   **Gesamtzahl (geschätzt):
     > **Deutlich mehr als ein Dutzend -- wahrscheinlich **30+ Oger** in
     > der Festung
 
@@ -72,7 +72,7 @@ Fox schleicht den fünf Ogern nach, um ihr Verhalten zu studieren:
 
 -   Verlassen den Weg und gehen in den Wald → offenbar Jagdverhalten
 
-Ein Fehler:\
+Ein Fehler:
 Fox tritt auf einen Zweig -- die Oger werden aufmerksam.
 
 **Reaktion:**
@@ -83,13 +83,13 @@ Fox tritt auf einen Zweig -- die Oger werden aufmerksam.
 
 Später kehren die Oger mit einem erlegten Hirsch zur Festung zurück.
 
-**Erkenntnis:\
+**Erkenntnis:
 **Ogerpatrouillen sind nicht nur Wachen, sondern auch Jagdtrupps -- und
 bewegen sich unvorhersehbar durch den Wald.
 
 ## **Zwischenszene im Lager**
 
-Währenddessen sorgt ein vermeintliches Geräusch für Aufregung:\
+Währenddessen sorgt ein vermeintliches Geräusch für Aufregung:
 Tobin entdeckt ein „bedrohliches Rascheln" -- das sich als Kaninchen
 herausstellt.
 
@@ -105,9 +105,9 @@ Die Gruppe verbringt mehrere Stunden mit Beobachtung:
 
 -   Innerhalb der Festung herrscht ständiger Lärm und Bewegung
 
-**Auffälligkeit:\
+**Auffälligkeit:
 **Das Verhalten widerspricht Tobins Wissen über Oger (chaotisch,
-undiszipliniert).\
+undiszipliniert).
 → **Hinweis auf eine starke Führung oder äußeren Einfluss**
 
 ## **Rückkehr ins Lager & Taktikdiskussion**
@@ -130,7 +130,7 @@ Strategien:
 -   Unsichtbarkeit für Spähaktionen
 
 Ein klarer Plan entsteht noch nicht, aber ein Ansatz kristallisiert sich
-heraus:\
+heraus:
 → **Schwächung der Oger durch gezielte, kleine Angriffe statt
 Frontalangriff**
 
@@ -222,7 +222,7 @@ Plan, ein starkes **Sedativum aus Nachtschatten** herzustellen, das
 später gegen die Oger eingesetzt werden könnte. Grundlage ist ein
 Rezept, das sie zuvor von einem Fallensteller erhalten haben.
 
-Zunächst werden in einem **Gemischtwarenladen** Zutaten beschafft:\
+Zunächst werden in einem **Gemischtwarenladen** Zutaten beschafft:
 Ziegenmilch, Baldrianwurzel und Honig. Während des Einkaufs versucht die
 Gruppe, möglichst unauffällig zu bleiben und gibt sich als Reisende aus,
 die in der ruhigen Stadt nur ein wenig Erholung suchen. Nebenbei lädt
@@ -236,7 +236,7 @@ Waldrändern wachsen. Nach kurzer Suche gelingt es ihnen, genügend Beeren
 zu sammeln.
 
 Die beiden brauen daraufhin außerhalb der Stadt ein improvisiertes
-Gift:\
+Gift:
 Die Beeren werden zerstoßen, mit Baldrianwurzel vermischt und in
 erhitzter Ziegenmilch verarbeitet. Währenddessen unterstützt **Tobin**
 den Prozess mit einem inspirierenden Lied. Am Ende entsteht eine größere
@@ -370,7 +370,7 @@ Ein kurzer Austausch führte zu einer halb ernsten, halb spöttischen
 Diskussion über die Führungsstruktur, bei der Tobins Rolle als
 selbsternannter Anführer hinterfragt wurde. Hagen schlug trocken vor,
 einen „Kummerkasten" einzurichten, über den man anonym Nachrichten an
-die Gruppenführung -- namentlich Tobin -- richten könne.\
+die Gruppenführung -- namentlich Tobin -- richten könne.
 Tobin selbst war der Erste, der davon Gebrauch machte -- kaum
 ausgesprochen, begann er demonstrativ eine Beschwerde zu verfassen,
 während Kyras trocken vorschlug, Hagen könne doch als „Mittelschicht"
@@ -705,21 +705,21 @@ height="6.177083333333333in"}
 
 ## **Aktueller Stand der Quests**
 
-**„Rettet Fort Ranik vor den Ogern"\
+**„Rettet Fort Ranik vor den Ogern"
 **Die Gerüchte haben sich bestätigt: Feste Ranik ist gefallen. Drei
 überlebende Schwarzpfeile -- Jakardros, Thal und Kaven -- sind nun
 Verbündete der Gruppe. Ein unvorbereiteter Frontalangriff wäre
 Selbstmord; die Waldläufer drängen auf Rast, Ausrüstung und einen
 durchdachten Plan, bevor man die Feste zurückerobert.
 
-**„Findet Xaneshas Schwester"\
+**„Findet Xaneshas Schwester"
 **Der Bezug zur Region Schildkrötenfähre bleibt bestehen. Noch keine
 neuen Erkenntnisse, doch die Entwicklungen rund um Ranik könnten
 Zusammenhänge offenbaren.
 
 Der Graul-Hof ist vernichtet -- Haus und Scheune brannten bis auf die
-Grundmauern nieder.\
-Die Schwarzpfeile leben.\
+Grundmauern nieder.
+Die Schwarzpfeile leben.
 Und der Krieg gegen die Oger hat ein Gesicht bekommen.
 
 # Sitzung 4. Februar 2026: *Das Graulsche Anwesen -- Obergeschoss und Keller*======================
@@ -929,7 +929,7 @@ bereits **Spiegelbilder** aktiv.
 ## **Verstärkung: Glueckspilz und Klatschko**
 
 Das mysteriöse Klopfen entpuppte sich schliesslich als Ankunft von Mama
-Grauls \"Kindern\":\
+Grauls "Kindern":
 **Glueckspilz** und **Klatschko**, zwei lebende, ausgewachsene Oger.
 
 -   Beim Eintritt provozierte einer der Oger **Gelegenheitsangriffe**:
@@ -970,7 +970,7 @@ Grauls \"Kindern\":\
 
 -   Nach weiterem Schlagabtausch, verfehlten Zaubern und einem
     > zerstörten Rüstungsteil von Kyras, setzte Mako mit einem
-    > **kritischen Biss** den Schlusspunkt:\
+    > **kritischen Biss** den Schlusspunkt:
     > **Mama Graul war tot.**
 
 **💀 Nachwirkungen und Beute**
@@ -1006,7 +1006,7 @@ Grauls \"Kindern\":\
 
     -   Kampfstab (Meisterarbeit, liegen gelassen)
 
--   **Mama Grauls Zauberbuch** mit u.a.:\
+-   **Mama Grauls Zauberbuch** mit u.a.:
     > Magisches Geschoss, Schwachestrahl, Tote beleben, Ansteckung,
     > Dimensionstuer, Fluch, Entkräftender Strahl, Spiegelbilder,
     > Vampirgriff, Verlangsamen, Blind- oder Taubheit verursachen,
@@ -1055,3 +1055,4310 @@ oder Schätze.
 
 -   Vollständige Durchsuchung des Hauses offenbart massive Gräuel,
     > insbesondere gegen weibliche Ogerkinder
+
+**Zusammenfassung der Session vom 7. Januar 2026**
+--------------------------------------------------
+
+### **Der Grauf-Hof**
+
+Die Gruppe befindet sich auf dem Grauf-Hof, einem abscheulichen,
+offensichtlich von Ogern misshandelten Bauernhof neben einem
+labyrinthartigen Maisfeld mit kränkelnden Pflanzen. Überall hängen
+primitive Fetische, die Gebäude sind windschief, überwuchert von Moos
+und Pilzen, die Fenster vernagelt. Ein muffiger, fauliger Geruch liegt
+in der Luft. Schnell wird klar: Oger taugen nicht als Landwirte.
+
+Ein Oger wurde bewusstlos gefangen genommen und gefesselt. Innerhalb der
+Gruppe kommt es zu moralischen Spannungen: Brocc möchte ihn töten,
+Fafnir ist innerlich zerrissen aufgrund seines zwergischen Hasses auf
+Riesenartige, während Tobin pragmatisch bleibt.
+
+### **Beute und Untersuchungen**
+
+Tobin durchsucht die Oger und findet:
+
+-   zwei Tränke "Schwere Wunden heilen" (je einer für Kyras und
+    > Tobin),
+
+-   eine Lederrüstung,
+
+-   eine schmutzige Tunika,
+
+-   ein Amulett der natürlichen Rüstung +1 (vorübergehend an Hagen),
+
+-   einen Schutzring +1 (vorübergehend an Kyras).
+
+Gina (Überlebenskunst 22) und Tobin (Wissen Natur 12) untersuchen die
+Pilze auf dem Hof, kommen aber zu dem Ergebnis, dass es sich lediglich
+um eine zufällige, natürliche Mischung ohne besondere Bedeutung handelt.
+
+Versuche von Fox und Gina, Haus oder Stall unauffällig zu öffnen,
+scheitern. Der Hof bleibt unnatürlich still.
+
+### **Die Veranda des Bauernhauses**
+
+Das Haupthaus wirkt besonders verstörend: wackelige Stufen führen zu
+einer Veranda, deren Dachtraufe aus dicken Kiefernstämmen besteht. Die
+Veranda ist vollständig mit grausamen Schnitzereien bedeckt, die wie von
+einem Kind gefertigt wirken, aber zunehmend sadistischer werden. Ein
+unheimlich großer Schaukelstuhl aus Knochen schaukelt im Wind.
+
+Unklar bleibt, ob die vernagelten Fenster Eindringlinge fernhalten oder
+etwas im Inneren festhalten sollen.
+
+Fox betritt die Veranda (A1) und spürt sofort massives Unbehagen. Sie
+entdeckt mehrere mechanische Fallen:
+
+-   Eine Bodenfalle entschärft sie erfolgreich (Mechanismus ausschalten
+    > 29 gegen SG 25).
+
+-   Eine Türfalle löst sie unbeabsichtigt aus (14 gegen SG 25): vier
+    > geschärfte Knochensporne schnellen herab. Dank Broccs
+    > Magierrüstung wird Fox nur leicht getroffen (7 Schaden).
+
+Beim Lauschen hören Fox (Wahrnehmung 19) und Tobin (Wahrnehmung 26)
+nichts außer Wind, Knarzen und ein dumpfes, nicht näher
+identifizierbares Klopfen.
+
+### **Sicherung des Geländes**
+
+Kyras versteckt den gefesselten Oger am Waldrand. Gina und Tobin
+schaffen den toten Oger ins Maisfeld.
+
+Mehrere Versuche, die Haustür aufzubrechen, scheitern spektakulär:
+Fafnir rutscht bei einem Tritt aus und fällt rückwärts, auch Mako und
+Kyras kommen mit dem Vorschlaghammer nicht weiter. Schließlich öffnet
+sich die Tür überraschend leicht durch sanften Druck - sie hatte
+lediglich geklemmt.
+
+### **Das Innere des Hauses**
+
+Im Erdgeschoss (A2) bietet sich ein Bild blanken Grauens:
+
+-   ein schäbiges Bärenfell, das immer noch wie knurrend wirkt,
+
+-   ein Sofa, bespannt mit Menschen- und Tierhäuten, dekoriert mit
+    > Krallen und menschlichen Händen,
+
+-   im Kamin verkohltes Holz und kleine Knochen.
+
+Fox bemerkt eine weitere Falle am Sofa, ausgelöst durch ein verdächtig
+knarrendes Brett unter Fafnirs Fuß. Sie entschärft die Falle
+improvisiert, indem sie einen Rost über das Brett legt (Mechanismus
+ausschalten 30 gegen SG 12).
+
+Eine weitere Tür führt in einen kleinen Flur mit mehreren Türen und
+einer Treppe nach oben.
+
+### **Das Grauen im Nebenraum**
+
+Hinter einer Tür im linken Flur nimmt Brocc eine starke nekromantische
+Aura wahr (Zauberkunde 25). Fafnir öffnet die Tür - und die Gruppe
+blickt auf eine verstörende Szene:
+
+-   Eine Staffelei, bespannt mit Haut.
+
+-   Pinsel aus menschlichem Haar.
+
+-   Missgestaltete humanoide Kreaturen mit zugenähten Mündern.
+
+-   Auf dem Bett: ein unfassbar fettes, monströses Wesen mit strähnigem
+    > Haar.
+
+Die Kreatur wird von mehreren kleineren Dienern geschützt, die keine
+Oger (mehr) sind. Brocc erkennt sie als Quelle der nekromantischen Aura.
+Beim Betreten des Raumes schreit das Monster:
+
+"Meine unfahigen Kinder - wie konnten sie euch hereinlassen!"
+
+Die Kreatur, offenbar "Mama Graul", ist von Spiegelbildern umgeben.
+
+### **Kampf gegen Mama Graul**
+
+Der Kampf bricht sofort los:
+
+-   Gina eröffnet und zerstört ein Spiegelbild.
+
+-   Brocc wirkt einen Feuerball (13 Feuerschaden); ein Diener besteht
+    > den Rettungswurf, alle anderen sowie Mama Graul nicht.
+
+-   Kyras greift einen Diener an und verursacht 12 Schaden.
+
+-   Zwei Diener greifen an, verfehlen jedoch.
+
+-   Fox greift an, trifft aber nicht.
+
+-   Mako landet mehrere Treffer (15 Schaden) und verwickelt einen Diener
+    > erfolgreich in einen Ringkampf (KMV 27).
+
+-   Ein weiterer Diener trifft Mako für 11 Schaden.
+
+-   Hagen erleidet einen kritischen Fehlschlag mit der Armbrust und
+    > trifft sich selbst für 3 Schaden.
+
+-   Tobin beginnt mit seinem "Lied des Mutes" und stärkt die Gruppe.
+
+-   Mama Graul belegt Kyras mit einem Fluch. Der Willenswurf misslingt
+    > trotz Saving Finale von Tobin.
+
+-   Fafnir reagiert sofort und wirkt "Fluch brechen" (20 gegen SG 17),
+    > wodurch der Fluch aufgehoben wird.
+
+Die Session endet mitten im Kampf gegen Mama Graul und ihre Diener, mit
+der Gruppe bereits schwer in das Grauen des Grauf-Hofs verstrickt.
+
+**Zusammenfassung der Session vom 17. Dezember 2025**
+-----------------------------------------------------
+
+### **Aufbruch aus Schildkrötenfähre**
+
+Die Gruppe verlässt Schildkrötenfähre in Richtung Norden, um dem Auftrag
+nachzugehen und die Feste Ranik zu erreichen. Noch in Stadtnähe wird die
+Stimmung des Dorfes nachträglich eingeordnet: rund 400 Einwohner,
+zurückhaltend und verängstigt. Der Bürgermeister hatte berichtet, dass
+seit Wochen keine Waldläufer mehr aus Ranik zurückkehren, Boten
+verschwunden sind und die Gefahr aus dem Umland immer näher an das Dorf
+heranrückt. Fremden begegnet man daher mit Misstrauen, auch wenn Tobin
+durch einen außergewöhnlich guten Diplomatiewurf zumindest etwas
+Offenheit erreichen konnte.
+
+Der empfohlene Weg führt über eine alte Straße entlang des
+Schädelflusses, über eine Holzbrücke zum Westufer und weiter an einer
+tassilonischen Ruine vorbei.
+
+### **Diskussionen unterwegs**
+
+Während des Marsches kommt es zu Gesprächen über Prioritäten: Soll
+zuerst die Feste Ranik angesteuert werden oder lohnen Abstecher zu
+Ruinen? Gina zeigt deutliches Interesse an den alten Bauwerken, während
+Fox skeptisch bleibt. Die Gruppe einigt sich jedoch darauf, dem
+Hauptauftrag zu folgen.
+
+Andere Reisende begegnen ihnen nicht - ein weiteres Zeichen dafür, wie
+sehr die Region gemieden wird.
+
+### **Begegnung an der Brücke - der gefangene Puma**
+
+In der Nähe der Holzbrücke hört die Gruppe ein schmerzverzerrtes Fauchen
+aus dem Wald. Gina nähert sich vorsichtig und entdeckt einen pumaartigen
+Raubkater, der in einer schweren eisernen Bärenfalle gefangen ist. Das
+Tier ist verletzt, aggressiv aus Angst, aber eindeutig kein Monster.
+
+Brocc spricht mit dem Puma mithilfe von "Mit Tieren sprechen". Dabei
+stellt sich heraus, dass der Puma kein wildes Tier ist, sondern ein
+Tiergefährte. Sein "Waldmensch", ein ihm vertrauter Mensch, wurde von
+mehreren großen humanoiden Wesen verschleppt. Der Puma selbst konnte
+entkommen, wurde jedoch später in der Falle gefangen. Seit Tagen
+versucht er vergeblich, Hilfe zu finden.
+
+Fox deaktiviert schließlich die Bärenfalle mit Werkzeug, Brocc heilt die
+schwere Wunde des Tieres. Der Puma ist dankbar, aber kampfunwillig. Er
+erklärt, dass die Entführer sich etwa einen halben Tagesmarsch entfernt
+in einem Waldgebiet aufhalten.
+
+### **Entscheidung zur Hilfe**
+
+Nach kurzer Beratung beschließt die Gruppe, dem Puma zu folgen und
+zunächst den entführten Waldmenschen zu suchen, auch wenn dies einen
+Umweg zur Feste Ranik bedeutet. Der Puma führt sie westwärts zu einer
+verlassen wirkenden Hofstelle am Waldrand.
+
+### **Das Ogergehöft**
+
+Die Gruppe erreicht ein Gelände mit einem labyrinthartigen Maisfeld
+sowie zwei stark verfallenen Gebäuden - einer Scheune und einem
+Bauernhaus. Alles ist überwuchert, vernagelt und riecht intensiv nach
+Ogern. Hinweise auf kürzlich verschleppte menschliche Bewohner finden
+sich nicht; vielmehr scheint das Gehöft schon länger von Ogern genutzt
+zu werden.
+
+Fox und Gina schleichen voraus und entdecken zwei ogerartige Humanoide
+auf Patrouille. Die Situation eskaliert schnell, als die Oger die Gruppe
+bemerken und laut nach ihrer "Mama" schreien.
+
+### **Kampf gegen die Oger**
+
+Der Kampf beginnt chaotisch und eng:
+
+-   Gina eröffnet mit ihrer Muskete und richtet schweren Schaden an.
+
+-   Tobin unterstützt mit Trommeln und Bardengesang, trotz Dornen im
+    > Gebüsch.
+
+-   Brocc setzt offensive Magie und später einen Lachzauber ein, der
+    > einen der Oger kampfunfähig macht.
+
+-   Fafnir, Kyras und Marco gehen in den Nahkampf.
+
+-   Hagen unterstützt taktisch und sichert mögliche Zugänge.
+
+Ein Oger wird im Kampf getötet, der andere durch Fox bewusstlos
+geschlagen, nachdem sich innerhalb der Gruppe eine Diskussion
+entwickelt, ob man ihn töten oder als Geisel nutzen sollte.
+
+### **Moralische Diskussion und Nachspiel**
+
+Nach dem Kampf entsteht eine längere Debatte:
+
+-   Sind die Oger Täter oder Teil eines größeren Problems?
+
+-   Ist Folter oder Verhör gerechtfertigt?
+
+-   Wie steht es um Fox' Entscheidung, den Oger nicht zu töten?
+
+Fafnir reflektiert seine zwiespältige Haltung - als Zwerg hegt er tiefes
+Misstrauen gegen Riesen, erkennt aber Fox' Zurückhaltung als positive
+Entwicklung an.
+
+Der Puma bleibt in der Nähe, deutlich traumatisiert, aber erleichtert.
+Niemand reagiert auf den Kampflärm aus den Gebäuden, obwohl sich
+offensichtlich weitere Oger vor Ort befinden.
+
+### **Offene Fragen und Cliffhanger**
+
+-   Wo befindet sich der entführte Waldmensch genau?
+
+-   Gehört das Gehöft zu einer größeren Ogerstruktur?
+
+-   Warum sind die Waldläufer aus der Region verschwunden?
+
+-   Was hat die aktuelle Ogerplage ausgelöst?
+
+**🗓 Zusammenfassung -- Pathfinder-Session vom 10. Dezember 2025 (Reise nach Schildkrötenfähre & Ankunft)**
+==========================================================================================================
+
+**Zweifel, Geld und Verantwortung**
+-----------------------------------
+
+Zurück in der Taverne diskutierte die Gruppe hitzig, ob sie tatsächlich
+zur Feste Ranik aufbrechen sollte. Fox war strikt dagegen -- der
+Auftraggeber (Bürgermeister Grobaras) erschien ihr zu zwielichtig, und
+zwei Wochen Fußmarsch in die Wildnis klangen ohnehin nach Ärger.
+
+Tobin bestand darauf, dass **Geld angenommen = Auftrag angenommen**
+bedeute -- und argumentierte zusätzlich, dass Raven in Gefahr sein
+könnte, falls in Schildkrötenfähre tatsächlich jemand gierige Seelen
+sammelt.
+Brocc merkte an, dass besonders **gierige Straßenkinder gefährdet**
+wären -- eine Bemerkung, die Fox sichtbar traf.
+
+Am nächsten Morgen fragte Fox die geretteten Kinder Anna und Tom nach
+ihrer Entscheidung. Die beiden wussten es noch nicht.
+Tobin überbrückte die Zeit für sie mit **50 Silber**, damit sie weitere
+Tage in der Taverne bleiben konnten.
+
+**Ein neuer Brief -- und ein alter Bekannter**
+----------------------------------------------
+
+Ein Bote des Oberbürgermeisters brachte eine Nachricht:
+
+> *Am Nordtor wartet ein Händler, der denselben Weg reist und euch
+> begleiten wird.*
+
+Unterdessen traf Fox Raven heimlich. Sie erzählte von Xaneshas Tod,
+musste aber zugeben, dass sie beim Oberbürgermeister **nichts
+gestohlen** hatte -- worauf Raven sie prompt aufzog.
+Raven berichtete außerdem, dass die Stadtplage eine neue **Höhle als
+Versteck** gefunden habe. Ob Anna und Tom dort reinpassen würden,
+bezweifelte sie.
+
+**Aufbruchsvorbereitungen**
+---------------------------
+
+Hagen verkleidete Mako, damit der Bär unauffällig durch die Stadt
+kommt.
+Es wurden Vorräte eingekauft, und Brocc führte stolz sein neues
+**Mithrilkettenhemd +1** vor.
+
+Am Nordtor angekommen, verkleidete Fox sich mithilfe ihres Hutes als
+Anna und beobachtete den Händler heimlich.
+
+Doch der Händler war kein Unbekannter: **Gellin Schwatzbart**, der uns
+schon von Sandspitze nach Magnimar begleitet hatte.
+
+Mit einem fröhlichen *Bei Abadar und seinen Kupferlingen!* begrüßte er
+uns -- wieder einmal deutlich enthusiastischer als wir ihn.
+
+Tobin setzte sich sofort zu ihm auf den Wagen und begann, die Abenteuer
+des Turms der Schattenuhr auszuschmücken. Der Rest hielt höflichen
+Sicherheitsabstand.
+
+**Die Reise nach Schildkrötenfähre**
+------------------------------------
+
+Die Woche verlief erstaunlich ereignislos.
+Keine Überfälle, keine Monster, kein Ärger -- was fast schon unheimlich
+wirkte.
+
+Gina verbesserte ihre Muskete, was länger dauerte als gewöhnlich, weil
+sie, um auf dem Wagen zu arbeiten, Gellin und Tobin ausblenden musste.
+
+Unterwegs diskutierten Brocc und Fox über Motivation:
+
+-   Warum ist Brocc eigentlich mitgekommen?
+    > Antwort: Eigentlich weiß er das selbst nicht so genau -- aber
+    > irgendjemand müsse ja die Welt retten.
+
+-   Warum ist Fox dabei?
+    > Antwort: Auch nicht klar. Wahrscheinlich hat sie sich irgendwie
+    > überreden lassen. Oder es gab Geld. Oder beides.
+
+**Ankunft in Schildkrötenfähre**
+--------------------------------
+
+Das Dorf lag am Rand eines träge fließenden Flusses.
+Es bestand aus kleinen Holzhäusern, die Wege waren schlammig, die Luft
+roch nach Gras, Rauch und Fisch. Auf einem Dach saß eine
+Wasserschildkröte und schien uns zu mustern.
+
+Die Bewohner musterten ebenfalls -- allerdings **misstrauisch**,
+wortkarg und unfreundlich.
+Nur eine einzige erkennbare Einladung gab es: Das Wirtshausschild mit
+einer gemütlich blickenden Schildkröte darauf.
+
+### **Wirtshaus "Zur Schildkröte"**
+
+Innen roch es nach Suppe, Kamin und feuchter Kleidung.
+Die Wirtin **Kess Tyloma** empfing uns mit nüchterner Gastfreundschaft:
+Es gab Betten, Essen und Bier -- und die Versicherung, dass **hier
+drinnen** alles sicher sei.
+
+Von der Feste Ranik habe man schon **seit Wochen** nichts gehört.
+
+**Rundgang durchs Dorf**
+------------------------
+
+Wir erfuhren die lokalen Gegebenheiten, **Rathaus** -- klein,
+unscheinbar, **Lehmgrundfähre** -- einige fliegende Händler,
+**Eisenzahns Metallarbeiten** -- Schmiede von Eisenzahn Yoroveni,
+**Gemischtwarenladen** -- einfache Waren, geführt von Jungfer Vendalini,
+und die **Kirche von Erastil** -- größtes und wichtigstes Gebäude des
+Ortes.
+
+**Treffen mit Bürgermeister Melin Schried**
+
+Mit dem offiziellen Schreiben aus Magnimar gingen wir zum Rathaus. Die
+Tür zum Büro stand offen; der müde aussehende ältere Mann stellte sich
+als:
+
+**Melin Schried -- Bürgermeister und seit 55 Jahren Priester Erastils**
+
+Wir übergaben den Brief, und seine Miene erhellte sich sichtlich, als er
+hörte, dass *"die Hilfe"* eingetroffen sei.
+
+Er schilderte den Ernst der Lage:
+
+-   Die Feste Ranik schweigt seit Wochen.
+
+-   Die Wälder sind unsicher, Kreaturen streifen umher.
+
+-   Jäger sind verschwunden.
+
+-   Dorfbewohner gehen kaum noch vor die Tür.
+
+-   Niemand hat die Kraft oder Ausbildung, selbst nachzusehen.
+
+-   Und ja: Es gibt Gerüchte über **Oger**.
+
+Wir beschlossen, **am nächsten Morgen** zur Feste Ranik aufzubrechen.
+
+**Abend im Wirtshaus**
+----------------------
+
+Beim Essen erzählte Gellin von einem Gerücht, das er gehört hatte:
+Ein Mann aus dem Dorf soll eine **sternförmige Tätowierung** auf der
+Schulter tragen und sei sehr wütend geworden, als jemand ihn darauf
+ansprach.
+Hagen fand im Wirtshaus jedoch keinen Hinweis darauf.
+
+Tobin mischte sich anschließend unter die Einheimischen und hörte neue
+Schauergeschichten:
+
+-   Die **Schwarze Maga** tauche manchmal durch unterirdische Tunnel im
+    > Schwarzgrundsee auf und ziehe Fischer in die Tiefe.
+
+Die anderen hatten weniger Erfolg -- außer Tobin zeigte niemand
+wirkliche Sozialkompetenz in diesem Dorf.
+
+Alle schliefen ausgezeichnet. Tobin verschlief sogar, weil er vom
+Fischen träumte.
+
+**Aufbruch zur Ruine Schädeldamm**
+----------------------------------
+
+Am Morgen brachen wir auf.
+Die alten Straßen führten am Schädelfluss entlang und über eine
+Holzbrücke zum Westufer.
+
+Dort lag eine tassilonische Ruine: **der Schädeldamm** -- ein Ort, an
+dem Ginas archäologisches Herz direkt höher schlug.
+
+Hier endete die Session.
+
+**🧩 Kurzzusammenfassung**
+=========================
+
+-   Diskussion über Auftrag und Verantwortung
+
+-   Übergabe von Silber an Anna und Tom
+
+-   Fox trifft Raven; neue Infos über Stadtplage
+
+-   Wiedersehen mit Gellin Schwatzbart
+
+-   Eine Woche ruhiger Reise
+
+-   Ankunft in Schildkrötenfähre: misstrauisches Dorf, erste Gerüchte
+
+-   Bürgermeister Schried bittet dringend um Hilfe
+
+-   Hinweis auf Tätowierungen und Schwarze Maga
+
+-   Aufbruch zur Feste Ranik über die Ruine Schädeldamm
+
+**🗓 Zusammenfassung -- Pathfinder-Session vom 3. Dezember 2025**
+================================================================
+
+**Besuch beim Exorzisten**
+--------------------------
+
+Tobin, Brocc und Kyras suchten erneut den Exorzisten im Exil auf. Er
+dankte der Gruppe für die Vernichtung Xaneshas, konnte jedoch mit seinen
+Visionen nichts Neues beitragen.
+
+Weitere Fragen zu den seltsamen Ereignissen Magnimars verliefen im Sand.
+
+**Erkundung der Stadt**
+-----------------------
+
+### **Das Waisenhaus**
+
+Tobin folgte einem Hinweis in die ärmeren Stadtviertel und fand ein
+überraschend gepflegtes Waisenhaus vor.
+
+Ein schüchternes Kind bestätigte, dass es ihm gut gehe und nahm eine
+Kupfermünze an. Der Eindruck entstand: Hier fließen offenbar großzügige
+Spenden.
+
+### **Am Hafen**
+
+Auf dem Rückweg begegnete die Gruppe einem grummeligen Hafenmeister.
+Tobin half beim Tragen einer Kiste und erkundigte sich nach Arbeit. Der
+Hafenmeister hätte ehrliche Jobs für ehrliche Leute.
+
+### **Fox und die Straßenjugend**
+
+Fox sprach intensiv mit zwei Jugendlichen, die keinerlei Familie mehr
+haben und früher Hunger und Ungewissheit gewohnt waren.
+
+Das Versprechen eines „sicheren und langweiligen" Lebens schien für sie
+ideal - sehr zum Missfallen von Fox.
+
+**Rückkehr in die Taverne -- Austausch der Erkenntnisse**
+---------------------------------------------------------
+
+Die Gruppe tauschte ihre Eindrücke aus:
+
+-   Das nutzlose Gespräch beim Exorzisten
+
+-   Alternativen zu unserer bisherigen Unterkunft
+
+-   Die Lage des Waisenhauses
+
+-   Der potenzielle Arbeitgeber Hafenmeister
+
+-   Das Geld des Bürgermeisters, dessen Herkunft und Zweck
+
+Anna und Tom, die zwei geretteten Kinder, wurden ausführlich über
+Optionen informiert und gebeten, in Ruhe darüber nachzudenken.
+
+**Verteilung der Beute**
+------------------------
+
+-   **Gina**: Schlangenhauttunika + Maske der Medusa
+
+-   **Fox**: Ring der Sprungkraft
+
+-   **Kyras**: Skarabäus des Golembanns (plus gratis Erklärung, was
+    > Golems sind)
+
+**Vorbereitung auf das Festmahl beim Bürgermeister**
+----------------------------------------------------
+
+Die Gruppe machte sich schick und kaufte noch Ausrüstung:
+
+-   Hagen erhielt z.B. eine meisterhaft gefertigte Armbrust
+
+-   Fox verkleidete sich mithilfe ihres Hutes als Mädchen im gelben
+    > Sommerkleid
+
+-   Gina trug ihr elegantes Seidenkleid, aber nicht das Sihedron-Amulett
+
+-   Fafnir polierte seine Rüstung
+
+-   Tobin, Hagen und Kyras zogen feine Kleidung an
+
+Weitere Upgrades wurden ebenfalls erworben.
+
+**Das Festmahl bei Bürgermeister Haldmeer Grobaras**
+----------------------------------------------------
+
+### **Ankunft**
+
+Das Anwesen war opulent -- Brunnen, gepflegte Gärten, erkennbar viel
+Geld im Spiel. Im Speisesaal warteten bereits adlige Gäste.
+
+### **Neue Bekanntschaft: Dr. Dranzel**
+
+Der Bürgermeister stellte seine Ehrengäste vor, darunter einen besonders
+prominenten:
+**Herr Prof. Dr. Dramarukesthoran Nimroth Zelvester III „Dr. Dranzel"**,
+berühmter Verleger und Abenteurer (angeblich). Mit Spitzbart, Monokel
+und feinem Zwirn erklärte er, in Magnimar zu sein, um sein neues Buch
+**„Mut zur Lücke"** vorzustellen.
+
+Tobin (Motiv erkennen 31) kam zu der Einsicht: Dr. Dranzel glaubt
+selbst, es sei alles gut recherchiert, was er schreibt. Hagen (Motiv
+erkennen 2) glaubte Dr. Dranzel nicht.
+
+Misstrauisch geworden durch das vorgebliche Dr. Dranzel-Buch, das Hagen
+ihm untergejubelt hatte, fragte Tobin Dr. Dranzel, ob er seine Bücher
+überarbeiten würde, was dieser verneinte. Tobin schilderte Gina und
+Brocc seine Zweifel daran, dass Dr. Dranzel tatsächlich alles erlebt
+hat, was er in seinen Büchern beschreibt, und konfrontierte daraufhin
+Dr. Dranzel -- im stark betrunkenen Zustand -- mit dem Verdacht, seine
+Bücher seien frei erfunden - die perfekte Ablenkung für Fox und Gina.
+
+### **Der Plan: Im Büro des Bürgermeisters schnüffeln**
+
+Hagen schlug vor, dass Fox und Gina sich während der Ablenkung ins Büro
+schleichen. Gesagt, getan:
+
+Fox und Gina schlichen sich fort und fanden:
+
+-   offene Briefe, u.a. von **Richter Eisendorn**: „Alles ruhig, keine
+    > besonderen Vorkommnisse".
+
+-   einen **verschlossenen, dringenden Brief der Stadtwache**, den der
+    > Bürgermeister ignoriert hatte.
+
+-   Gina öffnete ihn professionell (Fingerfertigkeit 28), las ihn und
+    > versiegelte ihn wieder (Fingerfertigkeit 20 gegen SG 20).
+
+**Inhalt des Briefes:**
+
+-   Zunahme von Verbrechen
+
+-   Mehrere verschwundene Personen
+
+-   Deutliche Warnung an die Stadtführung
+
+Die beiden durchsuchten das Büro weiter und versuchten, den wertvollsten
+Gegenstand zu identifizieren (Schätzen: Gina 10, Fox 20). Das
+wertvollste ist ein riesiges, nicht transportables Gemälde.
+
+### **Rede des Bürgermeisters**
+
+Grobaras hielt eine Rede:
+
+-   Er lobte die Gruppe für Mut und Leistungen
+
+-   Er erwähnte zwei Probleme:
+
+    -   **Feste Ranik** -- von Waldläufern geführt, aber seit Wochen
+        > keine Meldungen
+
+    -   **Gerüchte über Oger in Schildkrötenfähre
+        > **
+
+-   Seine „Bitte" (die wie ein Auftrag klang):
+    > → Die Gruppe soll nach **Schildkrötenfähre** reisen und
+    > Nachforschungen anstellen.
+
+Ein Assistent übergab Hagen eine Schatulle mit:
+
+-   Siegel
+
+-   Reisepapieren
+
+-   Brief an die Bürger von Schildkrötenfähre
+
+**Belohnung:**
+
+-   350 GM pro Person -- Hagen handelte auf **355 GM** hoch.
+
+Der Bürgermeister erhob einen Toast auf die Heldengruppe.
+
+**Abschluss des Abends**
+
+Die Helden speisten, tranken und kehrten später in die Taverne zurück.
+
+**🧩 Kurzzusammenfassung**
+=========================
+
+-   Gespräch mit dem Exorzisten ohne neue Erkenntnisse
+
+-   Ermittlungen in Armenvierteln, Waisenhaus und Hafen
+
+-   Wichtige Informationen über verschwundene Personen im verschlossenen
+    > Brief
+
+-   Kontakt mit Dr. Dranzel -- „Authentizität fraglich"
+
+-   Große Einladung durch Bürgermeister Grobaras
+
+-   Neuer offizieller Auftrag: **Schildkrötenfähre** untersuchen
+
+-   "Großzügige" Bezahlung vereinbart
+
+-   Beuteverteilung abgeschlossen - Einkäufe bitte offline erledigen
+    > (Budget 1885,1 GM pro Person)
+
+Zusammenfassung -- Pathfinder-Session vom 19. November 2025
+
+Nach dem Sieg über Xanesha stand die Gruppe auf der Kuppel der
+Schattenuhr, umgeben von den Resten des Kampfes und der Stille nach dem
+Sturm.
+
+### **🔮 Die Runenstele**
+
+Gina entzifferte die altthassilonische Inschrift der gefundenen
+Steintafel:
+
+> „Ein Atem, ein Name, ein letzter Funke.
+> Nehmt ihr Runen, was ihr fordert.
+> Schließt den Kreis.
+> Speist den Stein."
+
+Doch das Artefakt war nicht tot -- es flüsterte. Erst in Ginas, dann in
+Hagens Gedanken hörten sie Stimmen: „Nimm es! Töte sie! Sie wollen nur
+dein Gold!" Beide widerstanden der Versuchung (Willenswürfe bestanden).
+
+Kyras übergab Fafnir den Vorschlaghammer, um das Relikt zu zerstören.
+Mit einem einzigen Hieb zerbrach Fafnir die Stele -- ein
+markerschütterndes Kreischen von unzähligen Seelen erfüllte den Raum,
+während ein **Schatten aus Licht** aufstieg und über Magnimar
+niederfuhr. Damit erfüllte sich die Prophezeiung des Exorzisten:
+
+> „Wenn die Schleierkönigin fällt, wird ein Schatten aus Licht
+> geboren..."
+
+### **🏚 Rückkehr durch den Turm**
+
+Die Gruppe sammelte die Beute ein -- Fafnir erhielt die
+**Schlangenhauttunika** (+1 RK, +2 GE, +2 RW gegen Gift) -- und begann
+den Abstieg.
+In den unteren Etagen fanden sie die beiden bewusstlosen Opfer der
+Kultisten, Anja und Tom. Nach einer kurzen Untersuchung (Heilkunde 28
+vs. 6) stellten Fafnir und Tobin fest, dass sie nur Ruhe benötigten.
+
+Über die kaputte Wendeltreppe ging es mithilfe von Seil, Vergrößerung
+und Akrobatik (Fox 25, Brocc 11) sicher nach unten.
+Draußen zeigte sich, dass die **Illusion, die den Turm verborgen hatte,
+erloschen war**.
+
+### **💤 Rast und die Stimme im Traum**
+
+Die Gruppe brachte die beiden Kinder in das Gasthaus in dem die Gruppe
+wohnt. Nach hitziger Diskussion, ob man sie bei der Stadtwache oder im
+Krankenhaus abgeben solle (Tobins Kompromissvorschlag scheiterte an
+Fafnirs Pragmatismus), richteten sie sich zur Ruhe.
+
+In der Nacht, während der Wachwechsel, fiel die gesamte Gruppe für einen
+kurzen Moment in einen mystischen Schlaf -- alle sahen **einen Nebel**
+und hörten eine Stimme sagen:
+
+> „Eines meiner Augen ist gebrochen, doch meine Sicht bleibt ungeteilt."
+
+Kurz darauf erwachten alle wieder, hellwach, als wäre nichts geschehen.
+Hagen nutzte seine Wache, um die Schuhe der Gruppe zu polieren.
+
+### **🌅 Der nächste Morgen**
+
+Am Morgen wachten die Kinder auf -- verängstigt, aber lebend. Sie
+stellten sich als **Anja** und **Tom** vor, Waisen, die von den
+Kultisten als „würdig" bezeichnet worden waren. Tobins Versuch, sie beim
+Wirt unterzubringen, scheiterte an dessen (des Wirts) Unfähigkeit.
+
+Die Gruppe teilte sich auf, um Nachforschungen über den „Schatten aus
+Licht" anzustellen:
+
+-   **Fafnir, Gina und Hagen** suchten die Stadtverwaltung auf.
+
+-   **Kyras, Brocc und Tobin** wollten den Einsiedler befragen -- liefen
+    > jedoch denselben Weg.
+
+### **🏛 Begegnung mit Vogt Schierling und dem Oberbürgermeister**
+
+In der Stadtverwaltung traf die Gruppe **Vogt Schierling** aus
+Sandspitze, der sich an sie erinnerte. Nachdem Fafnir ihre Geschichte
+erzählt hatte (auf erstaunlich „tobineske" Art), empfahl er, den
+erbeuteten Brief Xaneshas dem **Oberbürgermeister Haldmeer Grobaras**
+vorzulegen.
+
+Gemeinsam suchten sie den Oberbürgermeister auf, der nach Ginas Bericht
+über Xaneshas Kult **in Ohnmacht fiel**.
+Hagen erkundigte sich diplomatisch, warum der Kult ausgerechnet ihn als
+Ziel gewählt habe -- Grobaras erklärte, er sei lediglich ein Sammler
+seltener Weine.
+
+Nach kurzer Beratung setzte Vogt Schierling den Lohn für die Helden auf
+**6.000 Goldmünzen** fest. Grobaras dankte ihnen und lud sie zu einem
+**Festmahl in der Trutzburg bei Sonnenuntergang** ein -- ausdrücklich
+„bewaffnet".
+
+### **🧩 Zusammenfassung in Kürze**
+
+-   Zerstörung der Runenstele → Schatten aus Licht entfesselt
+
+-   Prophezeiung des Exorzisten erfüllt sich teilweise
+
+-   Rettung der Opfer Anja und Tom
+
+-   Mysteriöse Vision im Schlaf
+
+-   Treffen mit Vogt Schierling und Oberbürgermeister Grobaras
+
+-   Belohnung: 6.000 GM und Einladung zum Festmahl
+
+Ort: Magnimar, nach der Zerstörung der Schattenuhr
+Erfahrung: keine 🙁
+
+🗓 **Zusammenfassung -- Pathfinder-Session vom 29. Oktober 2025**
+
+Die Session begann mitten im Showdown gegen **Xanesha**. Der Kampf fand
+unter dem Einfluss des *geweihten Orts* und Tobins *Spuknebels* statt --
+ein heiliger, aber unheimlicher Schauplatz, der alle Beteiligten mit
+Verzweiflung erfüllte (-2 auf alles).
+Xanesha selbst war bereits geschwächt: --4 GE, --1 KO.
+
+### **⚔️ Der Kampf gegen Xanesha**
+
+-   **Fafnir** griff mit seiner *Sichel aus kaltem Eisen* an, traf
+    > zunächst nicht und zog sich in defensive Haltung zurück.
+
+-   **Tobin** trommelte und erkannte durch sein Wissen über Religion
+    > (27), dass der *Engel über dem Raum* in Wahrheit die
+    > **Runenstele** sein könnte.
+
+-   **Kyras**, schwer angeschlagen, trat vor, verfiel in Kampfrausch und
+    > traf Xanesha für 16 Schaden.
+
+-   **Brocc** untersuchte die Engelsstatue -- sie stand 4,5 m über der
+    > Mitte, gestützt durch Balken. Er bot an, sich in einen Baum zu
+    > verwandeln, um den Aufstieg zu erleichtern.
+
+-   **Fox** landete mit Kurzschwert und Dolch einen erfolgreichen
+    > Angriff: 4 + 12 hinterhältiger Schaden, 3 Blutung und
+    > „*hampered*".
+
+-   **Mako** verfehlte trotz mehrerer Angriffe.
+
+-   **Hagen** ließ Brocc in Baumform klettern, um eine beschriftete
+    > Tafel an der Statue zu erreichen. Er konnte sie nicht lesen und
+    > warf sie hinunter.
+
+-   **Gina** goss Weihwasser über die Tafel (ohne Effekt) und
+    > entzifferte schließlich den Text -- ein uraltes Ritual.
+
+Xanesha zeigte ihre typische Heimtücke: Sie wirbelte akrobatisch (30)
+durch die Reihen, rief **Spiegelbilder** herbei und provozierte
+vergebliche Gelegenheitsangriffe. Sie erschuf acht Spiegelbilder.
+
+### **🔮 Zäher Schlagabtausch**
+
+-   Fafnir und Tobin zerstörten mehrere Spiegelbilder.
+
+-   Kyras stürmte vor (Gelegenheitsangriff 29 → 12 Schaden), erzielte
+    > dann einen **kritischen Treffer** -- leider nur auf ein Bild.
+
+-   Brocc traf mit Weihwasser, Hagen schoss daneben, Mako verfehlte, Fox
+    > beschädigte ihre Waffe (--3 TP).
+
+-   Gina traf erneut ein Spiegelbild (noch 4).
+
+-   Xanesha wirkte **Tiefschlaf** (SG 20): Brocc widerstand, Kyras fiel
+    > -- wurde aber durch Fafnir sofort wieder geweckt.
+
+-   Tobin zerstörte das letzte Spiegelbild.
+
+-   Kyras stand auf, würfelte einen **kritischen Treffer ×3**,
+    > verursachte **49 Schaden** -- **Xanesha fiel**.
+
+### **🩹 Nach dem Kampf**
+
+-   Hagen stürzte beim Abstieg von der Statue auf Xaneshas Leiche (4
+    > Fallschaden).
+
+-   Die Gruppe erhielt **6 800 XP**.
+
+-   Fafnir heilte Fox und Kyras (je 10 HP) und nutzte *Energie
+    > fokussieren* (+11 HP für alle).
+
+### **💎 Xaneshas Schätze**
+
+Die Lamia trug:
+
+-   **Dornenpfahl** (ihre magische Waffe)
+
+-   **Maske der Medusa** -- +4 auf Rettungswürfe gegen Blickangriffe /
+    > 1× täglich *Fleisch zu Stein* (SG 15)
+
+-   **Schlangenhauttunika** -- RK +1, GE +2, Resistenz +2 gegen Gift
+
+-   **Mehrere Schlüssel
+    > **
+
+-   **Sihedron-Amulett
+    > **
+
+### **🧰 Der Fund im Turm**
+
+Brocc entdeckte an der Wand **sieben Truhen**.
+Fox prüfte sie (und fand keine Fallen). Tobin fand einen **Brief** --
+von Xaneshas „Schwester" (laut Interpretation von Tobin), die in
+**Schildkrötenfahre** wirke. Darin prahlte sie mit ihren eigenen
+Mordritualen und forderte Xanesha auf, den Oberbürgermeister von
+Magnimar zu opfern.
+
+Die Truhen enthielten:
+1-5: 33 000 KM, 8 100 SM, 900 GM, 100 PM
+6: Schmuck & Edelsteine (4 200 GM Wert)
+7: 4 Tränke (*Mittelschwere Wunden heilen*), Kukri +2 (klein), **Ring
+der Sprungkraft**, **Skarabäus des Golembanns**
+
+→ Die Gruppe erhielt weitere **4 800 XP**.
+
+### **🏁 Ende der Session**
+
+Xanesha ist besiegt, ihre Pläne enttarnt.
+Die Runenstele -- möglicherweise getarnt als Engelsstatue -- steht noch
+im Raum.
+Die Helden sammeln Beute und bereiten sich darauf vor, die Spitze des
+Turms -- die Kuppel -- zu untersuchen.
+
+**Erfahrung insgesamt:** 11 600 XP
+**Ort:** Kuppel des Schattenuhr-Turms, Magnimar.
+
+🗓 **Zusammenfassung -- Pathfinder-Session vom 22. Oktober 2025
+** Die Gruppe setzte ihre Erkundung der Turmruinen fort. Nach dem Sieg
+über die gesichtslosen Attentäter durchsuchten sie den unheimlichen
+Ritualraum weiter --- und entdeckten dabei ein neues, noch
+gefährlicheres Geheimnis.
+
+### **🧩 Die Runen der Gier**
+
+Zwischen Blutbecken, Käfig und Runenplatte fanden die Helden eine
+Inschrift, die immer wieder dasselbe Wort zeigte: **„Gier"**.
+Brocc und Gina analysierten die Runen -- sie erinnerten an alte Zeichen
+aus Karzoug-Zeiten, dem Runenherrscher der Gier. Fafnir deutete die
+blutgetränkten Käfigrituale als seelische Vorbereitung der Opfer. Fox
+entdeckte währenddessen am Altar einen **unnatürlichen Schatten**, der
+sich anders bewegte als Lichtquellen es erklären konnten.
+
+### **🌑 Der Spiegel der Versuchung**
+
+Brocc entdeckte in dem Schatten eine **Aura von Illusionsmagie**.
+Als Fox mit einem Kriegsmesser den Schatten berührte, verwandelte sich
+dieser in eine schwarze, wasserähnliche Oberfläche -- ein **magischer
+Spiegel**.
+Wer hineinsah, erblickte sein Spiegelbild, wie es den größten Wunsch
+auslebte:
+
+-   Fox sah sich selbst, wie sie Goldmünzen in die Luft warf,
+
+-   Brocc sah sich triumphierend mit einem Stab,
+
+-   Hagen inmitten von Schuhen,
+
+-   Gina mit einer vergoldeten Muskete,
+
+-   Tobin vor einem Publikum,
+
+-   Kyras als zornigen, stolzen Halbelf.
+
+Der Spiegel reagierte auf Bewegungen, nicht aber auf Worte. Es war kein
+Portal -- bis Hagen ihn berührte:
+Die Fläche gab nach, und er **verschwand hindurch**.
+
+### **⚙️ Durch das Tor der Gier**
+
+Hagen tauchte in einem dunklen Gang wieder auf, der nach oben führte.
+Kurz darauf folgten Fox, Gina, Brocc, Tobin und schließlich Kyras (nach
+kurzem Widerstreben). Nur wer **sein Spiegelbild direkt ansah**, konnte
+hindurchtreten. Fafnir schloss als Letzter auf.
+Hinter ihnen schloss sich die spiegelnde Fläche wieder, nun ein
+undurchdringliches Schwarz.
+
+### **🪞 Aufstieg in den Turm**
+
+Der Gang führte zu einer schmalen Treppe, die in einen neuen Raum
+mündete:
+Ein **verwinkelter Dachboden** unter einem rußgeschwärzten Engel aus
+Onyx, dessen Züge dämonisch wirkten.
+Unter der Statue lagen **Decken, Kissen und kleine Truhen** -- das Lager
+eines Wesens.
+Kaum hatten sich alle gesammelt, formte sich eine Rauchwolke ... und
+daraus erhob sich ein **fliegender Dämon**.
+Die Gruppe machte sich kampfbereit -- doch plötzlich spürten einige von
+ihnen eine **zweite, unsichtbare Präsenz** im Raum.
+
+### **⚔️ Der Kampf gegen Xanesha**
+
+Noch ehe sie reagieren konnten, wurde **Gina aus dem Hinterhalt
+angegriffen** -- die unsichtbare Angreiferin offenbarte sich als
+**Xanesha**, die Schlangenfrau aus den Aufzeichnungen des Richters
+Eisendorn.
+Ein chaotischer Kampf begann:
+
+-   **Fafnir** wirkte *Ort weihen* und schuf einen geweihten Bereich,
+    > der Xaneshas dunkle Magie schwächte und eine Illusion eines Dämons
+    > bannte.
+
+-   **Tobin** unterstützte mit Trommeln, *Spuknebel* und scharfem Humor.
+
+-   **Kyras** tunkte sein Schwert in Weihwasser und führte den
+    > Sturmangriff, traf Xanesha mit kaltem Eisen.
+
+-   **Brocc** schleuderte Säurestrahlen und wirkte Schutzzauber auf
+    > Kyras.
+
+-   **Fox** warf Weihwasser, flankierte mit Kyras und fügte Xanesha
+    > blutende Wunden zu.
+
+-   **Gina** schoss mit tödlicher Präzision -- ihre Kugeln aus kaltem
+    > Eisen durchdrangen selbst Xaneshas magische Haut.
+
+-   **Hagen** verstärkte Mako mit *Magierschild*; der Bär riss Xanesha
+    > nieder und verursachte Konstitutionsblutung.
+
+Xanesha konterte mit einem *Dornenpfahl*-Zauber: eine **Welle aus
+Verzweiflung**, die alle außer Tobin (der in sichererer Entfernung
+stand) in Trauer stürzte.
+Nur Kyras (dank Saving Finale von Tobin) und Gina (dank Schutz vor Bösem
+von Brocc) widerstanden der magischen Depression.
+Fafnir heilte in letzter Sekunde die Schwerverwundeten, während Tobin
+erneut den schützenden Nebel beschwor.
+
+### **🩸 Letzte Szenen und Cliffhanger**
+
+Xanesha, schwer verwundet und blutend, zog sich in eine Ecke des Raumes
+zurück und heilte sich, doch die Gruppe hatte sie festgesetzt.
+Ihre Bewegungen wurden langsamer -- geschwächt durch Wunden und die
+heilige Energie.
+Der Kampf tobte weiter, als die Session endete.
+Xanesha blutet, die Gruppe steht, erschöpft, aber vereint.
+
+### **🧩 Zusammenfassung in Kürze**
+
+-   Untersuchung der **Runen der Gier** im Ritualraum
+
+-   Entdeckung des **Spiegels der Versuchung
+    > **
+
+-   Durchgang durch das **Tor der Gier** in einen oberen Turmraum
+
+-   Konfrontation mit **Xanesha**, der Schlangenfrau
+
+-   Weihwasser, kaltes Eisen und Trommeln gegen Magie der Verzweiflung
+
+-   **Fafnirs geweihter Bereich** schwächt die Gegnerin
+
+-   **Fox' und Ginas Angriffe** verursachen schwere Blutung
+
+-   **Makos Kritischer Treffer** führt zu Konstitutionsverlust
+
+-   Kampf endet offen -- **Xanesha angeschlagen**, Gruppe erschöpft
+
+**🗓 Zusammenfassung -- Pathfinder-Session vom 15. Oktober 2025**
+----------------------------------------------------------------
+
+Der Kampf gegen die gesichtslosen Attentäter im Schattenraum der
+Turmruinen ging weiter. Nebel, Blut und Schatten dominierten das Chaos
+-- doch die Gruppe kämpfte sich mit Disziplin und schwarzem Humor durch.
+
+### **⚔️ Kampf im Spuknebel**
+
+Zu Beginn herrschte Verwirrung: Im dichten Spuknebel von Tobin sah
+niemand weiter als 1,50 Meter. Gegner und Gefährten bewegten sich
+tastend vorwärts. Kyras aktivierte die Kriegstrommel, während Fafnir die
+Heilungen koordinierte.
+
+Brocc setzte **Schockgriff** und **Säurestrahl** ein, um Gegner im
+Dunkeln zu treffen, und Mako stürzte sich mit einem vollen Angriff auf
+einen der verbliebenen Schattenassassinen. Gina konnte ihre Muskete
+nachladen und schoss mit **tödlicher Zielgenauigkeit** einen Angreifer
+schwer verwundet nieder.
+
+Fox nutzte einen Heiltrank, um sich nach mehreren Verwundungen zu
+stabilisieren, und versteckte sich vorsichtig hinter Fafnir -- eine
+kluge Entscheidung, wie sich bald zeigen sollte.
+
+### **🌫 Orientierung im Dunkeln**
+
+Während die Gegner sich durch **Schattengang** zwischen dunklen
+Bereichen teleportierten, versuchte die Gruppe, die Übersicht zu
+behalten. Brocc setzte **Dancing Lights**, um die Ecken des Raumes zu
+erhellen -- endlich wurde sichtbar, wo sich einige Feinde verborgen
+hielten.
+Kyras erkannte ihre Bewegung und forderte Licht im nördlichen Teil des
+Raumes, während Hagen und Tobin eine neue Formation planten.
+
+### **🧠 Taktische Neuordnung**
+
+Tobin schlug eine **Phalanx-Formation in V-Form** vor -- „mit dem Zwerg
+an der Spitze". Die Gruppe sammelte sich, Gina und Fafnir hielten die
+Front, Brocc und Fox unterstützten aus der zweiten Reihe.
+
+Hagen untersuchte währenddessen den unheimlichen Käfig in der Raummitte:
+Blut, Knochen, Runen -- offenbar ein Ort für Menschenopfer. Fox
+untersuchte eine Leiche und stellte fest, dass diese Gesichtslosen sich
+von jenen früheren Exemplaren unterschieden -- humanoider, aber mit
+Runenmale auf der Haut.
+
+### **💥 Der zweite Angriff**
+
+Ein dumpfer Schlag ertönte -- eine Steintür fiel und versperrte den
+Rückweg. Die Attentäter hatten sich neu gruppiert. Kyras sah sie im
+Licht wieder auftauchen und brüllte: „Da sind sie!"
+
+Mako stürmte erneut vor, Gina feuerte mit tödlicher Präzision, Broccs
+**Magic Missiles** flogen, und Fafnir hielt eine heilende Aura
+aufrecht.
+Kyras führte den Sturmangriff an, flankiert von Fox, deren präziser
+Doppelschlag einen Gegner **bluten und taumeln** ließ. Hagen und Marco
+(Mako) griffen gleichzeitig an -- Krallen, Bisse, Donnerhall.
+
+Schließlich fielen einer nach dem anderen. Der letzte Gegner wurde von
+Gina mit einem gezielten Schuss getroffen -- 19 Schaden, Gritpunkt
+zurück, Treffer. **Der Kampf war vorbei.**
+
+### **⚖️ Nach dem Sieg**
+
+Die Gruppe atmete schwer auf. Alle sieben Attentäter lagen tot am
+Boden.
+Fox sammelte ihre Armbrust auf, Brocc überprüfte den Raum mit Magie
+entdecken, und Fafnir begann sofort, Verwundete zu heilen. Kyras, fast
+bewusstlos, wurde mit Heiltränken und Zaubern wieder auf die Beine
+gebracht.
+
+Die Gruppe erhielt **je 1400 EP**.
+Diskussionen folgten: Rasten? Rückzug? Tür aufsprengen? Am Ende
+beschloss man, für den Moment im Raum zu bleiben, sich zu heilen -- und
+am nächsten Tag weiterzusehen.
+
+### **🧩 Zusammenfassung in Kürze**
+
+-   Fortsetzung des Kampfes gegen die gesichtslosen Attentäter
+
+-   Orientierung im Nebel durch **Dancing Lights
+    > **
+
+-   Gegner nutzen **Schattengang**, um zu fliehen und erneut anzugreifen
+
+-   **Phalanx-Formation** mit Tobins taktischer Leitung
+
+-   **Fox** stabilisiert sich, **Gina** schießt präzise, **Kyras**
+    > stürmt vor
+
+-   **Broccs Magic Missiles** und **Makos Angriff** beenden den Kampf
+
+-   **Fafnir** heilt die Gruppe
+
+-   Steintür fällt -- Rückweg blockiert
+
+-   Sieg über alle sieben Attentäter, Gruppe sammelt **1400 EP pro
+    > Person
+    > **
+
+-   Ende der Session mit kurzer Heilphase und Diskussion über den
+    > nächsten Schritt
+
+### **🗓 Zusammenfassung -- Pathfinder-Session vom 1. Oktober 2025**
+
+Die Session begann mit einem kurzen Recap der letzten Ereignisse: Der
+Kampf gegen die Kultisten im Ritualraum war überstanden, zwei Gefangene
+waren gerettet worden, und die Gruppe stand nun vor einer weiteren Tür
+im Turm der Schattenuhr.
+
+#### **🗝 Erkundung des nächsten Raums**
+
+**Fox** und **Brocc** beschlossen, den nächsten Raum vorsichtig zu
+erkunden. Beide versuchten, sich schleichend hineinzubewegen --
+allerdings mit mäßigem Erfolg: Die Heimlichkeitswürfe misslangen, und
+die Gruppe wurde prompt überrascht.
+
+Der neue Raum war düster und unheimlich:
+
+-   Der Boden bestand aus hellem, von feinen Adern durchzogenen Marmor.
+
+-   In den Ecken herrschte völlige Dunkelheit, als wären dort
+    > Schattenmagie oder Illusionen am Werk.
+
+-   In der Mitte stand ein **massiver dunkelroter Käfig** mit einer
+    > **goldenen Runenplatte** an seiner Basis.
+
+-   An der Rückwand befand sich ein **violett schimmernder Altar**, und
+    > im Süden ein **Becken voller dunkler Flüssigkeit**, vermutlich
+    > Blut.
+
+-   Alte **Puppenständer und Ritualfiguren** säumten die Wände.
+
+Brocc entdeckte durch *Magie entdecken*, dass der gesamte Raum von
+**Illusionsmagie** erfüllt war -- überall, ohne klar erkennbare Quelle.
+Bevor sie weitere Nachforschungen anstellen konnten, griffen plötzlich
+**gesichtslose Attentäter** aus den Schatten an.
+
+#### **⚔️ Überfall der Gesichtslosen**
+
+Die Überraschungsrunde traf die Gruppe hart:
+
+-   **Brocc** wurde von einem Hinterhalt schwer verwundet und fiel
+    > beinahe bewusstlos zu Boden.
+
+-   **Fox** geriet in einen Ringkampf und musste sich mühsam befreien.
+
+-   Die restliche Gruppe -- **Kyras**, **Hagen**, **Fafnir**, **Gina**
+    > und **Tobin** -- stürmte auf die Hilferufe hin in den Raum, um die
+    > beiden zu unterstützen.
+
+Die **Gesichtslosen** kämpften mit übermenschlicher Präzision und
+nutzten **Hinterhältige Angriffe**, **Klauen** und **Schwertgriffe**, um
+ihre Gegner zu flankieren. Besonders Fox und Brocc gerieten mehrfach in
+Lebensgefahr.
+
+-   **Gina** schoss mit ihrer Muskete, doch eine Fehlzündung beschädigte
+    > ihre Waffe.
+
+-   **Fafnir** heilte Brocc mit „*Schwere Wunden heilen*", wodurch der
+    > Gnom knapp dem Tod entkam.
+
+-   **Mako** stürzte sich in den Nahkampf und versuchte, einen der
+    > Angreifer zu packen.
+
+-   **Kyras** kämpfte im Kampfrausch und fügte einem Gegner mit kaltem
+    > Eisen massiven Schaden zu.
+
+-   **Hagen** aktivierte schließlich den Zauber **Haste**, um die Gruppe
+    > zu beschleunigen.
+
+Trotz der Unterstützung geriet **Fox** erneut unter Beschuss: Ein
+kritischer Treffer spaltete beinahe ihre Kehle, sie brach zusammen und
+blutete stark, konnte jedoch dank **Broccs Heilzauberstab** stabilisiert
+werden.
+
+#### **🌫 Tobins Spuknebel**
+
+Um die Übermacht zu brechen, setzte **Tobin** schließlich seinen
+Illusionszauber **Spuknebel** ein. Ein dichter Nebel breitete sich über
+den Kampfbereich aus, erschwerte den Feinden die Sicht und bot der
+Gruppe dringend benötigte Deckung.
+Einige Gegner verloren durch den Nebel ihre Orientierung, während Tobin
+die Gefährten über *Message* warnte, dass die Illusion harmlos sei.
+
+#### **💥 Kampfverlauf und Wendepunkte**
+
+-   **Hagen** und **Kyras** hielten die Linie, während **Fafnir** durch
+    > *Energie fokussieren* alle Verwundeten um 16 Trefferpunkte heilte.
+
+-   **Gina** schlug mit dem Kolben ihrer defekten Muskete zu und schlug
+    > einem Gegner symbolisch „den Zahn aus dem Gesicht".
+
+-   Die Gegner zeigten erste Schwächen -- einige taumelten, einer fiel.
+
+-   Dennoch standen mehrere Gesichtlose noch, und **Marco** (Makos
+    > tierischer Begleiter) war schwer angeschlagen.
+
+Ein vollständiger Rückzug wurde diskutiert, doch die Gruppe entschied
+geschlossen:
+
+> „Wenn wir sterben, dann alle zusammen."
+
+#### **⚖️ Ende der Session**
+
+Die Session endete mitten im laufenden Gefecht:
+
+-   **Fox** stand wieder, aber schwer gezeichnet.
+
+-   **Gina**, **Fafnir** und **Brocc** hielten mühsam die Stellung.
+
+-   **Tobins Spuknebel** verschaffte vorübergehend Deckung.
+
+-   **Kyras** wütete weiter im Nahkampf.
+
+-   **Mehrere Gesichtlose** waren besiegt oder verletzt, doch der Kampf
+    > war längst nicht entschieden.
+
+Roman beendete die Runde mit den Worten:
+
+> „Dann machen wir hier Schluss. Einen haben wir down -- wir führen."
+
+### **🧩 Zusammenfassung in Kürze**
+
+-   Erkundung des neuen Ritualraums unterhalb der Schattenuhr
+
+-   Überraschungsangriff durch **gesichtslose Attentäter
+    > **
+
+-   **Brocc** schwer verwundet, **Fox** zweimal niedergeschlagen
+
+-   **Fafnir** rettet durch Heilzauber, **Hagen** aktiviert *Haste
+    > *
+
+-   **Tobin** erschafft Illusionsnebel zur Deckung
+
+-   **Kyras** und **Mako** halten den Nahkampf
+
+-   **Gina** beschädigt Waffe, kämpft mit Kolben weiter
+
+-   Kampf endet mit Vorteil, aber hoher Erschöpfung der Gruppe
+
+### **Zusammenfassung der Pathfinder-Session vom 24. September 2025**
+
+Die Session setzte direkt im Kampf gegen die neun Kultisten im
+Ritualraum des Schattenuhr-Turms an.
+
+#### **Der Kampf gegen die Kultisten**
+
+-   **Einstieg:** Die Gruppe befand sich bereits im Nahkampf. Tobins
+    > Trommeln wirkten als Buff (+2 Angriff und Schaden), dazu lagen
+    > weitere Effekte wie Resistenz und Magierrüstung auf der Gruppe.
+    > Einige Kultisten waren durch Ginas Blendmunition noch leicht
+    > beeinträchtigt.
+
+-   **Kyras** wurde von mehreren Gegnern bedrängt und in einen Ringkampf
+    > verwickelt. Er steckte dadurch den Großteil des Schadens ein und
+    > war zeitweise stark angeschlagen.
+
+-   **Fox** griff mit Kurzschwert und Dolch flankierend an, nutzte
+    > Two-Weapon-Fighting und landete mehrere präzise Treffer. Sie
+    > verursachte Blutungsschaden und schwächte Gegner mit „debilitating
+    > injury".
+
+-   **Gina** setzte ihre Muskete effektiv ein und erzielte u. a. einen
+    > kritischen Treffer, der einen Kultisten sofort ausschaltete.
+
+-   **Brocc** wirkte mehrfach offensive Zauber (Ätzender Strahl,
+    > Brennende Hände). Mit einem verstärkten Brennende Hände fügte er
+    > drei Gegnern die Kyras umzingelt hatten schweren Schaden zu und
+    > löste damit auch den Ringkampf um Kyras auf.
+
+-   **Hagen** unterstützte taktisch mit Armbrustschüssen und steuerte
+    > seinen Vertrauten.
+
+-   **Mako** war eine Schlüsselfigur: Er packte den „Anführer"-Kultisten
+    > (der sich durch Runenzauber hervortat), schleppte ihn zum Rand der
+    > magischen Grube, die Hagen zuvor gezaubert hatte, und stieß ihn
+    > hinunter. Dabei fiel er selbst mit hinein und zerschmetterte den
+    > Gegner endgültig beim Aufprall.
+
+-   **Fafnir** hielt die Front im Nahkampf stabil. Nach einigen
+    > Fehlschlägen gelang es ihm schließlich, mit seinem Morgenstern
+    > einen Kultisten niederzustrecken.
+
+-   **Tobin** unterstützte mit seiner Bardenmusik, schoss zwischendurch
+    > mit der Armbrust und setzte „Saving Finale" ein, um Fox oder Mako
+    > eine zweite Chance bei einem Rettungswurf zu geben.
+
+Schließlich endete der Kampf mit einem spektakulären Schlag: **Kyras**
+durchtrennte mit einem kritischen Treffer das Rückgrat eines der letzten
+Gegner und beendete so das Gefecht.
+
+#### **Befreiung der Geiseln**
+
+-   Am hinteren Ende des Raums fanden die Helden zwei etwa 15-jährige
+    > Gefangene, einen Jungen und ein Mädchen. Sie waren an Säulen
+    > gefesselt und durch den betäubenden Rauch von Räuchergefäßen
+    > bewusstlos.
+
+-   Die Gefangenen wiesen oberflächliche Schnittwunden mit eingeritzten
+    > Runen auf, aber keine lebensbedrohlichen Verletzungen. Puls und
+    > Atmung waren schwach und unregelmäßig.
+
+-   Fafnir und Brocc stabilisierten sie mit Heilkunde und Verbänden.
+
+-   Der Rauch hatte sich über längere Zeit aufgebaut, sodass es laut
+    > Roman noch etwa zwei Stunden dauern würde, bis die beiden wieder
+    > zu Bewusstsein kommen.
+
+#### **Vorsichtsmaßnahmen**
+
+-   Die Helden löschten die Räuchergefäße, um weitere Schäden zu
+    > verhindern.
+
+-   Da der Rückweg nur über das gefährliche Spiegelkabinett führte,
+    > entschied die Gruppe, die Kinder nicht sofort mitzunehmen.
+    > Stattdessen machten sie es ihnen bequem und hinterließen
+    > Warnungen: eine Notiz sowie einen Totenkopf als Symbol, damit sie
+    > beim Aufwachen nicht versehentlich ins Spiegelkabinett laufen.
+
+-   Diskussionen ergaben, dass die beiden als geschwächte Jugendliche
+    > ohnehin nicht kampffähig wären.
+
+#### **Nachbereitung**
+
+-   Fafnir und Brocc setzten Heilung ein -- sowohl mit Zaubern als auch
+    > mit dem Heilstab --, um die Gruppe wieder kampffähig zu machen.
+    > Besonders Kyras und Mako wurden behandelt.
+
+-   Die Gruppe plünderte die Kultisten: Kriegsmesser, Roben und
+    > Ausrüstung. Mehrere Helden tauschten ihre Roben gegen die der
+    > Gegner, um im Turm unerkannt weiter vordringen zu können.
+
+-   Erfahrungspunkte wurden verteilt: 600 XP pro Kultist, unabhängig vom
+    > „Anführer".
+
+#### **Cliffhanger**
+
+Am Ende öffnete Fox vorsichtig die nächste Tür. Was dahinter lag, blieb
+unklar -- die Session endete mit einem Cliffhanger und der Aussicht auf
+den weiteren Aufstieg im Turm, wo Xanesha selbst noch wartet
+
+**Zusammenfassung -- Pathfinder-Session vom 17. September 2025**
+----------------------------------------------------------------
+
+### **Rückblick auf Vorbereitung & Exorzist**
+
+Die Gruppe hatte nach den Geschehnissen auf dem Schwarzmarkt (Fox'
+missglückter Taschendiebstahl, Strafe 50 Gold) und Hagens Begegnung mit
+seinem alten Freund Melchor bereits beim letzten Mal den blinden
+Exorzisten aufgesucht. Von ihm erhielten sie Weihwasser, Schriftrollen,
+einen Segen und eine rätselhafte Prophezeiung über die „Schleierkönigin"
+Xanesha. Außerdem gestand Fox vor ihm ihre Schuld, eine Stadtwache
+getötet zu haben -- was zu moralischen Diskussionen in der Gruppe
+führte.
+
+### **Der Weg zum zahnlosen Raben**
+
+Tobin führte die Gruppe sicher zu der Statue des „zahnlosen Raben" in
+Unter-Magnimar (zahnlos, weil er keinen (mehr) Schnabel hat). Dort
+entdeckten die Helden einen versteckten Pfad nach Osten. Hinter einer
+von Moos überwucherten Wand fanden sie ein schwarzes Tor mit
+Runensymbol. Als Fox es berührte und die geheimen Worte sprach,
+verzerrte sich die Mauer wie Wasser -- und der **Turm der Schattenuhr
+erhob sich aus der Illusion**.
+
+### **Einstieg in den Turm**
+
+Im Inneren fanden sie eine morsche Wendeltreppe, die sich am Rand des
+gewaltigen Raumes nach oben wandte. Viele Stufen waren gebrochen,
+Geländer fehlten, alles wirkte lebensgefährlich.
+
+-   Fox und Brocc kletterten als Erste hinauf, sprangen über die Lücke
+    > in der Treppe, sicherten mit Seilen und warfen sie den anderen
+    > hinunter.
+
+-   Brocc vergrößerte Fox magisch, sodass sie die Kameraden mit bloßer
+    > Kraft hochziehen konnte.
+
+-   Nach und nach kamen alle oben an, die meisten über die Treppe,
+    > Fafnir und Tobin per Seilzug, wenn auch mit vereinzelten
+    > kritischen Momenten (als Tobin am im Seil hing, lief Fox'
+    > Vergrößerung fast genau im falschen Moment aus).
+
+### **Das Spiegelkabinett**
+
+Oben stießen sie auf einen Raum voller Spiegel -- das bereits
+angekündigte Schutzlabyrinth vor Xaneshas Gemach.
+
+-   Fafnir wagte den Test: Beim Zerschlagen eines Spiegels nahm er
+    > **Charismaschaden** und bestätigte, dass jeder Spiegel eine Gefahr
+    > barg.
+
+-   Schließlich entschied die Gruppe, blind und mit Körperkontakt durchs
+    > Labyrinth zu schleichen. So erreichten sie nach 10 Minuten tastend
+    > das Ende des Raumes -- ohne weitere Verluste.
+
+### **Der Ritualraum**
+
+Hinter der nächsten Tür hörten sie Stimmen. Die Helden wussten: Im Turm
+warten **Kultisten, Vogelscheuchen und Gesichtlose** -- und irgendwann
+Xanesha selbst. Im nächsten Raum hörten sie Kultisten und beschlossen
+diese verkleidet zu infiltrieren und aus dem Hinterhalt anzugreifen.
+
+Fox wagte die Täuschung: verkleidet als Kultistin trat sie ein. Im Raum:
+neun Kultisten, die gerade ein Ritual mit zwei gefesselten Opfern
+vollzogen. Der Anführer wies sie schroff ab, doch Fox schrie „Feuer!" --
+das Signal.
+
+### **Kampf gegen die Kultisten**
+
+-   **Fox** eröffnete die Überraschungsrunde mit Dolch und Kurzschwert:
+    > ein Kultist blutete stark, erhielt Malus auf Angriffe.
+
+-   **Mako** stürmte hinein und zerlegte einen Kultisten fast im
+    > Alleingang -- die Maske fiel, das Opfer brüllte: „Nicht schon
+    > wieder dieser Bär!"
+
+-   **Gina** feuerte eine Blendkartusche, die mehrere Kultisten
+    > kurzzeitig blendete.
+
+-   **Hagen** öffnete mit *Create Pit* ein sechs Meter tiefes Loch, in
+    > das mehrere Kultisten fast gestürzt wären.
+
+-   **Kyras** wurde im Nahkampf gepackt und in den Schwitzkasten
+    > genommen.
+
+-   **Tobin** unterstützte mit Trommeln (+2/+2 Buff) und Zaubern wie
+    > Resistenz.
+
+-   **Fafnir** hielt defensiv die Linie.
+
+-   **Brocc** verteilte Magierüstung und Vergrößerungen, um die Front zu
+    > stärken.
+
+Am Ende der ersten Kampfrunde stand die Gruppe mitten im Ritualraum,
+umgeben von Kultisten -- einige bereits leicht angeschlagen. Die
+gefesselten Opfer lagen noch am Rand, der Rauch der Räucherschalen
+betäubte sie weiterhin.
+
+Zusammenfassung der Session am 17. September von Lisa E
+-------------------------------------------------------
+
+Lisa E (Fox): Genau, es ging los, als wir gerade vor dieser Rabenstatue
+standen und den Eingang zu dieser Schattenuhr gesucht haben. Und der
+Schnabel, also wenn er noch da gewesen wäre, der Schnabel, dann hätte er
+den Pfad zwischen zwei befallenen Gebäuden gezeigt.
+
+Lisa E (Fox): Wir sind dem nachgelaufen er hat vor einer Wand voller
+Moos geendet. Wir haben das Moos abgekratzt und da war das Symbol
+darauf, dass wir auch in den Unterlagen von Richter Eisendorn gesehen
+hatten, das Mal des Schleiers, eine verschlungene Gravur aus drei
+Linien.
+
+Lisa E (Fox): Wir haben da ein bisschen diskutiert und Fox, die sich
+perfekt an diese Aufzeichnungen erinnern konnte, weil Gina sie
+hundertmal vorgelesen hat, hat dann die Hand da drauf gelegt und gesagt,
+"[unverständlich], Auge offenbart".
+
+Lisa E (Fox): Daraufhin ist dieses Gebäude, das anscheinend nur eine
+Illusion ist, verschwunden und man hat dann gesehen, dass da eigentlich
+tatsächlich ein Turm ist und die Tür ist aufgegangen.
+
+Lisa E (Fox): Rock hat daraufhin Magierrüstungen verteilt. (Rock klang
+übrigens sehr erkältet letztes Mal, also durchgehend.)
+
+Lisa E (Fox): Wir haben auch zwei Versuche gebraucht, um in den Turm
+reinzugehen, weil das Tor gleich wieder zuging. Aber auf jeden Fall sind
+wir irgendwann rein.
+
+Lisa E (Fox): Der Turm war innen hohl. Also es ist ein relativ hoher
+Hohlraum in der Mitte vom Turm. Und es hat so eine Treppe rundherum
+geführt, die sehr verfallen und zerbrechlich aussah.
+
+Lisa E (Fox): Ganz oben an der Decke waren vier Glocken. Dann haben wir
+nochmal unsere Ziele angeguckt und so auch aus diesen Brief von
+Eisendorn.
+
+Lisa E (Fox): Erstens die Runenstele: "So steht die Runenstele, sie
+steht oben bei dem Glockenwerk. Ihr Summen nährt den Runenbrunnen, jeder
+Tod, jede geteilte Seele stärkt die Rückkehr des Runenherrschers."
+
+Lisa E (Fox): Zweitens, rettet die Geiseln die noch leben. In einem
+Nebenraum, wahrscheinlich versiegelt, werden Opfer gehalten, betäubt
+durch Rauch und Riten. Ich glaube, mindestens zwei leben noch.
+
+Lisa E (Fox): Weiter "Stellt euch Xanesha. Solange sie lebt, werden die
+Seelen weiter brennen und Sandspitze wird nicht die letzte Stadt sein,
+die fällt."
+
+Lisa E (Fox): Wir wollten erst hoch. Die Höhe bis zu den Glocken war
+ungefähr sechs bis neun Tobins.
+
+Lisa E (Fox): Brocc und Fox sind vorgegangen. Wir haben uns mit einem
+Seil verbunden, mit drei Meter Abstand und haben die Seile der anderen
+Leute eingepackt, weil wir gesagt haben, wir könnten die oben irgendwo
+festmachen. Es gab zwischendurch eine 1,5 Meter Lücke in der Treppe, die
+wir mit Akrobatikchecks überwinden mussten. Wir haben es beide
+geschafft.
+
+Lisa E (Fox): Oben gab es eine Plattform, da haben wir Bücherregale und
+Schriftrollen gefunden, die alle golden geschimmert haben. Und Brocc hat
+Fox vergrößert, denn es gab nichts zum Festmachen von den Seilen. Also
+hat Brocc "Person vergrößern" auf Fox gewirkt und wir haben die Seile an
+Fox gewunden und die anderen haben das dann als Sicherung verwendet und
+sind hochgelaufen, außer Fafnir. Fafnir hat sich eine Schlaufe gemacht
+und sich hochziehen lassen.
+
+Lisa E (Fox): Oben gab es eine Treppe, die weiterging zu einer Tür.
+
+Lisa E (Fox): Fox hat reingeschaut -- dahinter war ein Spiegel, also
+eigentlich so ein ganzes Spiegelkabinett.
+
+Lisa E (Fox): Es war nicht ein einzelner Raum, sondern wie ein Labyrinth
+aus Spiegeln.
+
+Lisa E (Fox): Ich habe da nicht lange reingeschaut, weil wir aus den
+Notizen wussten, dass es innere Kammern gibt, die mit Spiegelzaubern
+geschützt sind.
+
+Lisa E (Fox): Wenn man zu lange hineinschaut, sieht man vielleicht
+schlimme Dinge.
+
+Lisa E (Fox): Also habe ich die Tür wieder zugemacht, wir haben
+diskutiert und so.
+
+Lisa E (Fox): Fafnir war aber der Meinung, dass Spiegel ihm nichts
+anhaben können.
+
+Lisa E (Fox): Also lief es so: Fafnir ist mit Morgenstern und dem Zauber
+*Schutz vor Bösem* da reingerannt und hat wild um sich gehauen. Der
+erste Spiegel ging kaputt.
+
+Lisa E (Fox): Er hat 6 Charisma-Schaden genommen.
+
+Lisa E (Fox): Zur Erinnerung: Bei null Charisma ist man genauso tot wie
+bei null Geschicklichkeit oder null Stärke.
+
+Lisa E (Fox): Wir haben dann beschlossen: so machen wir nicht weiter.
+
+Lisa E (Fox): Also haben wir uns die Augen verbunden.
+
+Lisa E (Fox): Und sind dann wie in einer Polonaise, Hand auf der
+Schulter des Vordermanns oder der Vorderfrau, blind durch das Labyrinth
+gelaufen.
+
+Lisa E (Fox): Fafnir hat die Spiegel mit Handschuhen berührt.
+
+Lisa E (Fox): Was eigentlich dumm war -- aber Gott hat es als
+ausreichend Schutz durchgehen lassen.
+
+Lisa E (Fox): Wir sind dann, als wir aus dem Spiegelkabinett rauskamen,
+wieder an eine Treppe und eine Tür gekommen.
+Lisa E (Fox): Gina hat gelauscht und Stimmen gehört.
+Lisa E (Fox): Wir haben vermutet, dass es Kultisten sind, weil es so ein
+Singsang war.
+Lisa E (Fox): Und wir waren ja gewarnt worden: Kultisten, Gesichtlose --
+vielleicht auch noch etwas anderes Monsteriges. Aber von den Geräuschen
+her konnten es eigentlich nur Kultisten sein.
+Lisa E (Fox): Wir haben dann überlegt, ob wir uns verkleiden oder ihnen
+irgendeine Lüge erzählen, z. B. von einem Feuer.
+
+Lisa E (Fox): Also hat Fox sich als Kultistin verkleidet, ist
+reingegangen und hat versucht zu bluffen: Eisendorn habe sie alle
+verraten, sie sollten dringend irgendwo anders hingehen.
+Lisa E (Fox): Es hat nicht funktioniert.
+
+Lisa E (Fox): Der Raum war ungewöhnlich groß -- unerwartet nach dem
+bisherigen Layout. Scheint magisch interessant zu sein, wie sich das in
+diesem Turm so befindet.
+Lisa E (Fox): Es gab eine Treppe nach hinten oben.
+Lisa E (Fox): Zwei Gefangene waren an Säulen gefesselt, betäubt von
+Rauch.
+Lisa E (Fox): Neun Kultisten standen im Raum, Messer gezückt, um die
+Opfer herum.
+Lisa E (Fox): Die Kutten sahen ein bisschen anders aus als die Kultisten
+von der Siebenmühle.
+
+Lisa E (Fox): Fox' Geschichte über Eisendorn und Feuer wurde nicht
+geglaubt. Trotzdem haben sie sich auch nicht wirklich daran gestört. „Du
+kannst hierbleiben oder gehen, stört uns nicht."
+Lisa E (Fox): Also habe ich mich neben einen Kultisten gestellt und
+„Feuer!" gerufen -- das Signal.
+Lisa E (Fox): Alle sind reingestürmt, wir hatten eine
+Überraschungsrunde.
+
+Lisa E (Fox): Im Kampf haben wir, glaube ich, eine Runde gespielt. Ein
+Kultist hatte direkt einen Krit gegen Fox -- die Karte hätte bedeutet:
+Hand ab.
+Lisa E (Fox): Roman war gnädig, wir haben neu gezogen.
+Lisa E (Fox): Brocc hat Kyras vergrößert.
+Lisa E (Fox): Fafnir hat mit Fox flankiert, Fox hatte dadurch auch einen
+Crit.
+Lisa E (Fox): Mako hat mit Sturmangriff angegriffen, ebenfalls Crit. Da
+kam der Spruch: „Nicht schon wieder dieser Bär!"
+Lisa E (Fox): Gina hat Blendmunition eingesetzt -- hat Kultisten und
+teilweise auch uns erwischt.
+Lisa E (Fox): Hagen hat eine Grube gezaubert, aber es ist noch niemand
+reingefallen. Theoretisch könnte man noch jemanden reinschubsen.
+Lisa E (Fox): Kyras hat einen Sturmangriff gemacht.
+Lisa E (Fox): Mako hat den ersten Kultisten gekillt, als der aufstehen
+wollte -- durch einen Gelegenheitsangriff.
+
+Micha (Tobin): Also for the record: Jan, ChatGPT fand deine Idee mit der
+Grube voll super und hat auch alle Kultisten reinfallen lassen. Ich habe
+das dann aber manuell wieder korrigiert.
+
+Lisa E (Fox): Ja, danke.
+
+Jan (Hagen): Danke dafür. Ich fand die Idee auch toll. Ich habe mich
+sehr geärgert, als die nicht reingefallen sind. Ob man das irgendwie
+kombinieren kann mit einem anderen Zauber, der Reflexwürfe schlechter
+macht oder so?
+
+Zusammenfassung -- Pathfinder-Session vom 3. September 2025
+
+Schwarzmarkt -- Fox' missglückter „Trick"
+
+Die Session setzte beim Cliffhanger ein: Fox' Versuch, auf dem
+Schwarzmarkt ihre Fingerfertigkeit zu beweisen, scheiterte. Ein Schläger
+packte ihre Hand, der Händler forderte wie üblich Strafe --
+Handabhacken. Nur durch Broccs Diplomatie („zwei Finger sind auch nur 40
+% einer Hand") konnte die Strafe auf 50 Gold reduziert werden. Brocc
+zahlte und Fox kam mit heiler Hand davon -- wenn auch gedemütigt und
+verärgert.
+
+Zwischenszenen
+
+Hagen besuchte einen Buchladen, verkleidete sich und traf unerwartet
+seinen alten Bekannten Melkor. Dieser überreichte ihm einen Brief von
+Hagens Tochter, den Hagen später in Ruhe las. Außerdem ersetzte er
+unauffällig das Buch von Dr. Dranzel in Tobins Besitz durch ein anderes
+Werk („Führung für Anfänger"), um Tobin etwas beizubringen.
+
+Tobin trat in einer Taverne auf, verdiente mit Geschichten und
+Auftritten 3 Gold (hauptsächlich in Kupfer) und etablierte seinen
+Künstlernamen „Tobin".
+
+Fafnir kaufte Weihwasser für die Gruppe -- insgesamt 14 Fläschchen,
+verteilt auf alle.
+
+Gina investierte 75 Gold in kaltes Eisen und stellte daraus 30 Kugeln
+für ihre Schusswaffenmunition her.
+
+Danach verteilte die Gruppe ihre Waffen aus kaltem Eisen.
+
+Treffen mit dem Exorzisten im Exil
+
+Die Helden suchten die Tempelruine der Sarenrae vor Magnimar auf und
+trafen dort den blinden Exorzisten mit grauen, vernarbten Augen.
+
+Er bestätigte, dass er Xanesha schon lange kannte, bevor sie ihren
+heutigen Namen trug, und dass sie ihn einst im Kampf geblendet hatte.
+
+Er war früher ein Geweihter der Sarenrae mit Schwerpunkt auf Bann- und
+Schutzritualen, ehe Xaneshas Kult ihn ausschaltete.
+
+Er segnete die Gruppe im Namen Sarenraes, gab ihnen vier Schriftrollen
+und sprach eine Prophezeiung:
+
+„Wenn die Schleierkönigin fällt,
+
+wird ein Schatten aus Licht geboren.
+
+Die Maske wird zerbrechen -- und der Träger wird vergessen, wem er
+gedient hat.
+
+Das Herz, das nie schlagen sollte, wird schlagen.
+
+Doch nicht für euch.
+
+Gebt ihm nicht die Krone.
+
+Gebt ihm nicht den Namen.
+
+Denn wenn er spricht, wird nicht er sprechen."
+
+Fox wurde vom Exorzisten direkt konfrontiert: Sie müsse ihre Schuld
+anerkennen, sonst würde der Segen sie meiden. Zögernd gestand sie, eine
+Stadtwache getötet zu haben -- aus Schutz für eine Freundin.
+
+Vorbereitungen und Aufbruch
+
+Die Gruppe entschied sich, zusätzlich Schutzausrüstung (Masken,
+Rauchbrillen, Ohrstöpsel) und Resistenzumhänge zu erwerben. Gina stellte
+ihre Munition fertig. Hagen las schließlich den Brief seiner Tochter,
+der ihn sichtlich berührte.
+
+Gemeinsam brachen die Helden schließlich auf. Unter Tobins Führung
+fanden sie in Unter-Magnimar den Eingang zu Xaneshas Versteck: eine
+verwitterte Statue des zahnlosen Raben. Dort endete die Session mit
+Cliffhanger.
+
+Zusammenfassung der Pathfinder-Session vom 27. August 2025:
+
+🧳 Schwarzmarkt, Strategien & seltsame Angebote
+
+Die Session drehte sich fast vollständig um Einkäufe und Vorbereitungen
+für den bevorstehenden Showdown mit Xanesha. Ein Großteil der Gruppe
+blieb in der Stadt, während Fox und Brocc mithilfe von Ravens
+Anweisungen Zugang zum Schwarzmarkt unter dem Fischmarkt erhielten.
+
+🛠️ Auf dem Schwarzmarkt:
+
+Fox und Brocc gelangten nach kleinen Schwierigkeiten (Fallgitter,
+Brecheisen, Verkleidung) in den Schwarzmarkt.
+
+Die Atmosphäre war rau, voll Halunken und zwielichtigen Gestalten.
+
+Die beiden trafen auf die Schmiedin Mecha, eine alte Bekannte von Fox,
+die bereit war, ihnen Waffen aus kaltem Eisen zu fertigen -- inklusive
+Mengenrabatt.
+
+Bestellt wurden unter anderem:
+
+Krummschwert (Kyras)
+
+Kurzschwert (Fox)
+
+Sichel (Brocc)
+
+Dolch (Gina)
+
+Bolzen (für Fox & Hagen)
+
+Kriegsmesser (Gina)
+
+Fox handelte außerdem mit einer Jadekette zusätzlich Gold heraus.
+
+Verhandlungen mit anderen Händlern ergaben:
+
+Splitterblut (Rauschmittel mit Nachteilen) wurde identifiziert, aber
+abgelehnt.
+
+Schattenessenz (Gift zur Schwächung, 250 Gold) war zu teuer.
+
+Magische Artefakte wie die Maske der Runenlosen (vermutlich Schutz gegen
+Runenfallen) und ein Armband der Stille (dauerhafte Stille beim Tragen)
+waren verfügbar -- aber teuer oder gefährlich.
+
+Der Händler bot einen kostenlosen Tausch gegen Mord an einer politischen
+Figur an -- wurde aber (vorerst?) abgelehnt.
+
+📦 Einkäufe außerhalb des Schwarzmarkts:
+
+Fafnir und andere übernahmen den Kauf von Weihwasser in einer örtlichen
+Kapelle.
+
+In der Gruppe wurden Strategien zu weiteren Einkäufen besprochen:
+
+Tränke von Schutz vor Bösem, Magie bannen, Fluch brechen
+
+Diskussion über Sinn von Splittermunition, Giftmunition, magische Kugeln
+
+Gina stellte erneut klar, dass sie Munition lieber selbst herstellt,
+aber Material (kaltes Eisen) teuer ist.
+
+🔍 Recherche & Erkenntnisse:
+
+Tobin wusste dank eines Wurfs genau, wo sich die moosbedeckte
+Rabenstatue befindet, die als Zugang zur Schattenuhr gilt.
+
+Die Gruppe diskutierte über den Aufbau des Turms anhand der Pläne von
+Richter Eisendorn: Es gibt eine Außentreppe, nur einen großen Innenraum
+oben, vermutlich mit Ritualraum.
+
+Gina sprach mit Raven, um herauszufinden, ob noch weitere Opfer vermisst
+werden -- bislang keine Hinweise.
+
+Raven empfahl, beim blinden Exorzisten außerhalb der Stadt
+vorbeizuschauen -- eventuell eine Quelle für seltene Schutzzauber oder
+Informationen.
+
+🎭 Cliffhanger zum Schluss:
+
+Fox versuchte am Ende der Session, kaltes Eisen vom Tisch eines Händlers
+zu stehlen, während Brocc ablenkte. Jemand bemerkte es, und die Session
+endete mit einem möglichen Beginn einer Eskalation auf dem Schwarzmarkt.
+
+Zusammenfassung der Pathfinder-Session vom 20. August 2025:
+
+🧠 Planungssession vor dem Showdown mit Xanesha
+
+Diese Session war rein der Vorbereitung auf den bevorstehenden Kampf
+gegen Xanesha und ihre Schergen gewidmet. Es wurde keine Erkundung und
+kein Kampf ausgespielt -- dafür aber umso mehr taktiert, gerechnet und
+diskutiert.
+
+🧱 Gegneranalyse & Gefahren
+
+Die Gruppe ging systematisch die bekannten Feinde durch:
+
+Gesichtslose: Meister der Tarnung und Überraschung, resistent gegen
+Bezauberung, greifen isolierte Gegner an.
+
+Kultisten: Teilweise unter direktem Einfluss Xaneshas, manche mit dem
+„Mal" gezeichnet, andere neu initiiert. Einige könnten mit Einschüchtern
+gebrochen werden.
+
+Vogelscheuchen: Schmerzlos und unbeeindruckbar, eventuell schon bekannt
+von früher. Vermutlich keine Willenswürfe möglich.
+
+Xanesha (die Lamia-Matriarchin):
+
+Extrem gefährlich im Fern- und Nahkampf.
+
+Besitzt den Wurmspeer, der Lebenskraft raubt und eventuell
+Domination-Effekte verursacht.
+
+Tarnungen und magische Illusionen erschweren den Zugang zu ihr.
+
+Schwächen: Heiliges Wasser, kaltes Eisen, wahres Silber, rechtschaffene
+göttliche Magie wie Magie bannen, Fluch brechen, Schutz vor Bösem.
+
+Ihre Kammer ist mit Spiegelzaubern, fluchbeladenen Büchern und magischen
+Schleiern geschützt.
+
+🛠️ Vorbereitungen & Einkäufe (geplant)
+
+Die Gruppe plante umfangreiche Anschaffungen und Buffs:
+
+Waffen aus kaltem Eisen:
+
+Fox: Kurzschwert
+
+Kyras: Zweihändige Axt
+
+Gina: Munition & evtl. Bajonett
+
+Zauber (teils als Schriftrollen):
+
+Ort weihen, Magie bannen, Fluch brechen, Schutz vor Bösem, Magierüstung
+
+Hilfsmittel gegen Unsichtbarkeit und Tarnung:
+
+Glitzerstaub (Brocc), Magie entdecken, Mirror Image
+
+Zusätzliche Items:
+
+Ohrstöpsel, Atemmasken, Rauchbrillen (für Sinnes- und Schutzwürfe)
+
+Tränke gegen Gift, Elixier der Sicht (+10 Wahrnehmung, 1h)
+
+Weihwasser (großzügig verteilt)
+
+Defensiv-Magic-Items: Diskussion um Umhänge der Resistenz, Armschienen,
+etc. -- Preis-/Nutzenfrage.
+
+⚖️ Taktikdiskussion
+
+Möglichkeit eines Überraschungsangriffs wurde erörtert.
+
+Diskussion über Einsatz von Silence, Grapple, Netzen und anderem Crowd
+Control.
+
+Déjà-vu von Tobin wurde erwähnt -- könnte Gegner zur Wiederholung
+zwingen.
+
+Wichtig: Nicht anschauen, nicht zuhören, nicht berühren -- Xaneshas
+Magie basiert auf Blicken und Worten.
+
+Notiz: Xanesha ist an einen Plan gebunden -- sie selbst ist Teil eines
+Rituals, keine „normale" Kreatur.
+
+🧮 Gold & Budgetplanung
+
+Rund 1700 Gold bereits für Waffen, Schriftrollen, Tränke und Weihwasser
+eingeplant.
+
+Noch etwa 1000 Gold verfügbar.
+
+Offene Frage: Soll in einen Resistenzumhang oder in mehrere Tränke und
+einmalige Items investiert werden?
+
+🔮 Nächste Schritte
+
+Frederik (Brocc) soll beim nächsten Mal eingebunden werden.
+
+Käufe und Zauberauswahl sollen erst nach seiner Rückmeldung und
+gegebenenfalls im Spiel finalisiert werden.
+
+Roman betonte, dass Items nicht automatisch gekauft werden sollen --
+Rollenspieloptionen wie der Schwarzmarkt bleiben offen.
+
+Zusammenfassung der Session am Mittwoch, 30. Juli
+
+Die Session setzte direkt nach dem letzten Kampf in der Krypta an. Der
+Plan, Tobin als Opfer zu präsentieren, lief weiter: Fox, Fafnir und Mako
+überwältigten zwei Kultisten im oberen Bereich, während sich der Rest
+der Gruppe als Kultisten verkleidet zurück in den Opferraum begab. Tobin
+wurde auf den Altar gelegt, und sobald alle vorbereitet waren, begann
+der Hinterhalt.
+
+Die Tür wurde verriegelt, und ein überraschender, koordinierter Angriff
+folgte. Viele Kultisten wurden direkt schwer verletzt. Gina, Fox, Hagen
+und Kyras führten gezielte Angriffe durch -- es hagelte Crits,
+Blutungsschaden und taktische Manöver. Mako kämpfte weiterhin draußen im
+Vorraum gegen zurückgelassene Kultisten, wurde aber zeitweise
+ausgesperrt.
+
+Ein Höhepunkt war Tobins Spuknebel, eine illusionäre Barriere, die
+Gegner und teils Verbündete verwirrte. Nur einige Charaktere erkannten
+rechtzeitig, dass der Nebel eine Illusion war. Nach einigen
+Willenswürfen und geflüsterten Warnungen konnte ein Teil der Gruppe
+wieder klar handeln. Fafnir verteidigte sich erfolgreich in
+Schildkrötenhaltung, während andere sich akrobatisch oder fluchend durch
+den Nebel manövrierten.
+
+In der Krypta lief der Kampf weiter mit viel Koordination und Schaden.
+Fox und Kyras konnten mit gezielten Treffern mehrere Gegner ausschalten.
+Tobin unterstützte weiterhin mit Schleuder und Zaubern. Schließlich
+wurde der letzte Kultist besiegt, der Kampf beendet und der Raum
+gesichert.
+
+🧒 Befreiung der Kinder
+
+Nach dem Kampf entdeckte die Gruppe in einem Nebenraum mehrere gefangene
+Straßenkinder -- darunter Raven, Whisper und Vespa. Es kam zu einer
+emotionalen Wiederbegegnung mit Fox. Die Kinder berichteten von ihrer
+Gefangenschaft, Hunger und der Tatsache, dass einige von ihnen bei der
+Flucht getötet wurden oder verschwanden.
+
+📜 Enthüllungen und Brief von Eisendorn
+
+Ein Brief von Richter Eisendorn offenbarte wichtige Informationen:
+
+Ziel: Die Schattenuhr in Magnimar, genauer gesagt ein Tor unterhalb der
+Uhr.
+
+Dort liegt der Zugang zur Runenstele, einem Ritualapparat, der Seelen
+absorbiert.
+
+Xanesha, die sogenannte Schattenspinne, ist eine Lamia Matriarchin,
+mächtig in Täuschung und Magie.
+
+Ihre Schwächen: Heiliges Wasser, kaltes Eisen, rechtschaffene göttliche
+Magie wie Magie bannen, Schutz vor Bösem.
+
+Ihre Kammer ist durch Spiegelzauber und verfluchte Bücher geschützt.
+
+Weitere Feinde: Gesichtslose Attentäter, eine Fleischkreatur, Kultisten
+mit unterschiedlichem Machtgrad.
+
+🛠️ Vorbereitungen
+
+Zurück in Magnimar bereitete sich die Gruppe intensiv auf die
+bevorstehende Konfrontation vor:
+
+Herstellung und Kauf von Waffen aus kaltem Eisen und Silbermunition.
+
+Besprechung der Zauberauswahl (z. B. Magie entdecken, Schutz vor Bösem,
+Fluch brechen).
+
+Diskussion über Waffenupgrades (Meisterarbeiten, geweihte Munition).
+
+Ein verfluchtes Amulett wurde von Fafnir durch Fluch brechen zerstört.
+
+Überlegungen, ob Vater Xanthos als zusätzlicher Kleriker mitkommen
+könnte.
+
+🧭 Nächste Schritte
+
+Die Gruppe plant nun, mit den befreiten Kindern in Sicherheit zu
+bleiben, sich auszurüsten und dann in die Unterstadt aufzubrechen, um
+Xanesha in der Schattenuhr gegenüberzutreten. Es wurde betont, dass Zeit
+kritisch ist -- die Runenstele nährt sich weiter mit jeder Seele.
+
+Besondere Momente:
+
+Marco wurde erneut ausgesperrt.
+
+Tobins Spuknebel führte zu Verwirrung, aber auch zur Wende.
+
+Fafnir blieb der Schildkrötenhaltung treu -- effektiv wie eh und je.
+
+Gina und Fox zogen ihre Kultistenkutten aus -- Symbol für das Ende der
+Täuschung.
+
+Richter Eisendorn, ursprünglich als Antagonist eingeführt, hinterließ
+eine eindrucksvolle Warnung und Anleitung -- möglicherweise als letzter
+Akt der Reue.
+
+Zusammenfassung der Session vom 9. Juli 2025
+
+Die Session begann mitten im Kampf in der Krypta. Zwei Kultisten waren
+noch aktiv -- einer geschwächt durch einen Kriteffekt (vermutlich -2
+RK). Gina, Brocc, Kyras und Hagen brachten den Kampf schnell zu Ende.
+
+Anschließend setzte die Gruppe ihren Plan fort: Tobin wurde mithilfe des
+Verkleidungshuts als Opfer inszeniert, während der Rest sich als
+Kultisten tarnte. Die verschlossene Krypta-Tür konnte durch ein korrekt
+rekonstruiertes magisches Symbol geöffnet werden -- ein Erfolg, der
+durch Erinnerungswürfe und Kyras' Nachzeichnung ermöglicht wurde.
+
+Im Opferraum überzeugte die Gruppe die dortigen Kultisten mit einer
+improvisierten Geschichte über Tobins angebliche Gier und
+Sündhaftigkeit. Es kam zu Misstrauen wegen eines vermissten
+vorgeschickten Kultisten, doch durch geschicktes Bluffen,
+Einschüchterung und Diplomatie konnte die Situation entschärft werden.
+Zwei Kultisten wurden nach draußen geschickt -- direkt in einen
+vorbereiteten Hinterhalt.
+
+Dort warteten bereits Fox, Fafnir und Mako (Hagens Bär). In einer
+Überraschungsrunde wurden die beiden Kultisten lautlos ausgeschaltet.
+Die Leichen wurden versteckt, und die Außengruppe kehrte in die Krypta
+zurück mit der Ausrede, die anderen würden nun draußen Wache halten.
+
+Im Inneren wurde Tobin auf den Altar gelegt, während alle anderen
+unauffällig Position bezogen. Als sich die Aufmerksamkeit der Kultisten
+auf das angebliche Opfer richtete, nutzte die Gruppe die Gelegenheit für
+einen Überraschungsangriff. Der Kampf begann mit einer erfolgreichen
+Überraschungsrunde -- mehrere Kultisten wurden sofort schwer verletzt
+oder ausgeschaltet.
+
+Die Session endete mitten in diesem Gefecht.
+
+2024
+
+- Drokkus mag Hagen am liebsten und ist ein Penner
+
+- Goblinohren verkauft
+
+- Besprechung des weiteren Vorgehens
+
+- Einkauf für Höhlenforschung (Spitzhacke, Schaufel, Eimer, Pastete)
+
+- Abmarsch Richtung Distelkrone
+
+--------------------------------------------
+
+Liebe Völker, lauscht und macht die Ohren spitz,
+
+(Verzeiht mir diesen kleinen Elfenwitz.)
+
+und strömt ein in Massen, Scharen, Horden,
+
+denn endlich ist es wahr geworden
+
+was mancher sich bisher nur erträumt,
+
+ich hoffe ihr habt es nicht versäumt,
+
+euch Karten zu besorgen zu eurem Glück
+
+für Tobin Tabors Premierenstück.
+
+Uraufgeführt in Sandspitzes Theater
+
+für die ganze Familie, Mutter, Kind und Vater.
+
+Das Stück fleißig geprobt und alle Linien einstudiert,
+
+und als Verliebte, Goblin oder Held kostümiert,
+
+mit viel Schauspielkunst von allen präsentiert,
+
+wird's vom Publikum zurecht mit Applaus quittiert.
+
+Brocc und Fafnir als Goblins überzeugen ebenso,
+
+wie Enya gespielt von Hagen und Kyras als Kiko.
+
+Die Heldengruppe, gespielt von Fox und Gina mit Muskete,
+
+sorgt für Action und die nötigen Knalleffekte.
+
+Als Erzähler führte Tobin durch die Handlung,
+
+und vollzog zwischendurch als Held noch eine Wandlung.
+
+Der Vorhang schloss sich und wir warten und lauschen,
+
+ob der Applaus ein Tröpfeln ist oder ein Rauschen.
+
+Doch wie's auch kommen mag, eines ist schon klar:
+
+dass dies ein unvergesslicher Theaterabend war.
+
+----------------------------------------------------------------
+
+Das Tagesziel war klar, es galt die Distelkrone zu erkunden,
+
+immerhin sind's dahin zu Fuß nur ein paar Stunden.
+
+Durch den Nesselwald ging's, ohne jede Eile,
+
+als plötzlich Fox eine Falle fand und von überall hagelte es Pfeile.
+
+Leider war'n's die Füße statt der Augen, die die Falle fanden,
+
+denn fallen zu sehen ist praktischer als darin zu landen.
+
+So lief der Kampf von Beginn an ziemlich schlecht
+
+und die Situation verbessert sich danach auch nicht so recht,
+
+denn die Goblins die uns fanden gehör'n wohl eher zu den Harten,
+
+wahrscheinlich waren sie sogar im Goblin-Elitekindergarten.
+
+Doch trotz der Klagen und dem vielen Fluchen
+
+gibt's immerhin noch keine Toten auf uns'rer Seite zu verbuchen.
+
+Und eure Hoffnung auf ein langes Stück muss ich nun dämpfen,
+
+denn die Goblins sind ungeduldig und wollen weiterkämpfen.
+
+Deshalb zum Abschluss noch ein letztes, weises Wort:
+
+Goblinohren sammeln ist kein Kinderspiel, sondern Heldensport!
+
+---------------------------------------
+
+Der Kampf lief, wer dabei war wird es wissen,
+
+in des Dichters Worten zusamm'gefasst: beschissen.
+
+Ein taktischer Rückzug schien deshalb angemessen,
+
+nur wie dieser geht wurde wohl von manchen vergessen.
+
+Und während Kyras schon fast in Sandspitze steht,
+
+kommt's so, dass das Blatt sich dreht.
+
+Die Goblins die vorher weder Dolch noch Bolzen traf,
+
+stecken plötzlich Treffer ein und sterben brav.
+
+Dann kommt auch noch ein Panther dazu,
+
+zahmer Partner uns'rer Bekannten Schalelu,
+
+und so geht's Schlag auf Schlag und im Nu
+
+für die Goblins auf auf zur ew'gen Ruh.
+
+So kam's dass sich der Wind unerwartet wendet
+
+und der Kampf hat doch mit einem Sieg für uns endet.
+
+Schalelu hat nicht viel Zeit und will weiter Goblins jagen,
+
+doch weil uns vom Kampf noch einige Wunden plagen
+
+bleiben wir und beschließen den Ausflug zu vertagen
+
+und den Sturm auf die Distelkrone erst am nächsten Tag zu wagen.
+
+---------------------------------------------
+
+Der Kampf war überstanden, nun tat's Not sich erstmal hinzulegen
+
+auszuruhen, und die Wunden und Verletzungen zu pflegen.
+
+Doch vorher beschlossen wir zu diskutieren und darüber nachzudenken,
+
+einen von uns zu bestimmen, um das Kampfgeschehen zu lenken.
+
+Denn das Chaos im letzten Kampf, ob nun Rückzug oder nicht,
+
+war für dessen Verlauf in der Tendenz doch eher schlecht.
+
+Auch wenn am Ende noch Fragen offen stehen
+
+ist's doch besser Probleme nicht zu meiden sondern anzugehen.
+
+Und während manche vorher noch zu üben wählen,
+
+geht's für die meisten direkt zum Schafe zählen.
+
+Nach einer Nacht d'rüber geschlafen gibt's neue Ideen,
+
+zum Beispiel alle mit Schild und Speer in einer Linie steh'n.
+
+Man müsste dazu nur noch Schild und Speere kaufen,
+
+doch wahrscheinlich scheitert's an der Disziplin in diesem Haufen...
+
+Also geht's erstmal ohne neue Taktik wieder in den Nesselwald,
+
+sonst wird die Spur der Goblins Richtung Distelkrone kalt.
+
+Der Nesselwald ist dicht und macht seinem Namen alle Ehre
+
+und als ob's mit Nesseln nicht schon reichlich anstregend wäre,
+
+drehen wir mangels Orientierung so manche Extrarunde
+
+und erreichen die Distelkrone erst zu fortgeschritt'ner Stunde.
+
+Doch jetzt noch die Zelte auszupacken wäre doch zu viel,
+
+schließlich stehen wir jetzt endlich kurz vor'm Ziel!
+
+--------------------------------------------------------
+
+Mit leiser Stimme werde ich versuchen euch, edle Recken,
+
+zu informieren ohne noch mehr Goblins aufzuwecken.
+
+Denn leider ist Fafnir in die Tunnel g'radzu reingekracht
+
+und deshalb sind die Goblinhunde aufgewacht.
+
+Das wär nicht so schlimm, tatsächlich schlafen sie schon wieder,
+
+doch leider brachte ihr Bellen auch noch Goblins auf uns nieder.
+
+Vorher untersuchten wir den Tunnel, so war's weise,
+
+langsam, geduckt, im Dunkeln, und vor allem leise.
+
+Gefunden haben wir bisher noch nichts von Wichtigkeit,
+
+doch angesichts der kurzen Zeit hat das wohl Richtigkeit.
+
+Doch nun ist erstmal genug geflüstert für Moment,
+
+jetzt ist Zeit den Goblins zu zeigen wo der Hammer hängt.
+
+-------------------------------------------
+
+Bevor es tiefer in the Goblinfestung geht,
+
+ein kurzer Bericht wie es um die Heldengruppe steht.
+
+Nicht nur in der Höhle, auch draußen ist es Nacht,
+
+was die Orientierung für manche Heldin schwierig macht.
+
+Zuletzt hatten wir reihenweise Goblins in den Golbinhimmel geschickt,
+
+nun wurden die Ohren gesammelt, eingepackt und gut versteckt.
+
+Im Kampf gab es erneut Verwirrung ob gekämpft wird oder nicht,
+
+und der Konsens dazu ist: Das ist schlecht.
+
+Deshalb beschlossen wir (erneut) einen Anführer zu ernennen,
+
+damit beim nächsten Kampf nicht wieder alle in verschied'ne Richtung'
+rennen.
+
+Der Wahlkampf ist für sich eher kurz und sachlich,
+
+denn die meisten sagen schlicht: Ich mach's nich'.
+
+So bleiben nur Kyras, Hagen und der Dichter übrig
+
+und ein Barbar wär als Vordenker nicht gerade üblich.
+
+Ein Anführer der in jedem Kampf zuerst einmal in Wut ausbricht...
+
+Hm, ich glaube eher nicht.
+
+In der Auswahl verbleiben also noch Tobin und Hagen,
+
+doch von Hagen lässt Fox sich nicht gern was sagen.
+
+Und so bleibt übrig, wer hätte das gedacht,
+
+nur euer geschätzter Dichter, der den Job jetzt macht.
+
+Ohne Gegenstimme wurde er gewählt,
+
+und manche schauen vor schierer Freude leicht gequält.
+
+Der neue Anführer beginnt mit einer leichten Aufgabe statt einer
+schweren,
+
+denn es gilt erstmal nur eine Brücke zu überqueren.
+
+Die Hängebrücke ist dunkel, wackelig und nicht ganz geheuer,
+
+aber sonst wär's ja auch kein echtes Abenteuer!
+
+Weil die Brücke wackelig und auf der and'ren Seite sicher böse Goblins
+sind,
+
+überqueren wir sie einzeln, vorsichtig und leise wie der Wind.
+
+Erst Fafnir, dann Fox, Brocc, und Kyras, der sieht,
+
+die Brücke wurde von irgendjemandem manipuliert!
+
+Bei zuviel Gewicht wäre sie gefallen und der Rückweg wäre abgeschnitten,
+
+zum Glück waren wir langsam und vorsichtig hinübergeschritten.
+
+Fast zu langsam und vorsichtig im Fall von Hagen
+
+während Gina und Tobin es einzeln auch in normalem Tempo wagen.
+
+Auf der and'ren Seite angekommen wird die Brücke inspiziert
+
+und für den Rückweg von Fox fachfraulich repariert.
+
+Vor uns steht nun die Goblinfestung auf einer Insel an der wohl viele
+Schiffe stranden,
+
+woraufhin ihre Trümmer, Bretter, Master neue Verwendung fanden.
+
+Nach wie vor blieben wir anscheinend ungesehen,
+
+obwohl zumindest auf einem der Wachtürme Goblins stehen.
+
+Heimlich, still und leise ölen wir der Festungstür Scharniere,
+
+und schleichen hinein wie, ..., sehr leise Tiere(?)
+
+Im Vorraum scheint sich auch niemand weiter aufzuhalten,
+
+also beschlossen wir zunächst die Wachen im Turm auszuschalten...
+
+---------------------------------------------
+
+Wertes Volk, sperrt weit eure edlen Ohren auf,
+
+denn wirklich wahre Geschichten habe ich für euch zu Hauf.
+
+Die erste Aufgabe des neuen Anführers (die Brücke) ist gemeistert,
+
+doch das Gefolge zeigt sich weiterhin noch nicht so recht begeitert.
+
+Doch auch wenn's noch nicht gelang alle vollends zu überzeugen,
+
+scheinen sie sich doch vorerst eures Dichters Weisheit zu beugen.
+
+Die Erkundung der Goblinfestung geht voran mit leiser Öffnung weit'rer
+Türen
+
+die in überwiegend leere Räume führen.
+
+Allerdings, und das weckt manch schlechte Erinnerungen,
+
+wird der Flur vom Schnarchen der Goblins nebenan durchdrungen.
+
+Bevor wir versuchen wollten die Goblins auf dem Wachturm zu
+massakrieren,
+
+beschloßen wir (also ich) die Helden im Wachturm zu gruppieren.
+
+Die Chance auf Heimlichkeit wird uns dann leider verbaut,
+
+denn Fafnir schleicht erneut statt eher leise sehr sehr laut.
+
+Und so kam's, dass zu uns'rem großen Kummer,
+
+die Goblins erwachten aus ihrem nicht so tiefen Schlummer.
+
+Und weil einer der Goblins nach Essen zu suchen beschließt,
+
+wird unser Plan, mit all der Heimlichkeit und so, leider vermiest.
+
+Vielleicht wäre der Plan auch nicht ganz so jämmerlich verreckt,
+
+hätte Kyras auf den Anführer gehört und sich versteckt!
+
+Stattdessen tritt er lieber laut die Türe ein
+
+und schlägt die Goblins kurz und klein.
+
+Fox und Brocc tun auch ihren Teil und erledigen noch ein paar mehr,
+
+nur dem Fernziel bringt uns das wohl nicht viel näher.
+
+Denn während wir drin kämpfen, hauen, stechen, rennen,
+
+tun draußen ein paar and're Goblins die Brücke niederbrennen.
+
+Da stehen wir nun und überlegen, wie soll's gelingen,
+
+dass wir verhindern dass die Goblins den/die/das Gefangene von der Insel
+bringen.
+
+-------------------------------------------------------------
+
+Das letzte Mal ist schon etwas länger her,
+
+deshalb fällt eurem Dichter die Erinnerung eher schwer.
+
+Nichtsdestotrotz macht er es sich nicht leicht,
+
+damit die Dichtung nicht zu weit von der Wahrheit Seite weicht.
+
+In Summe kann man sagen, und hier könnt ihr mir trauen,
+
+haben wir jede Menge Goblins und ihren Chef verhauen.
+
+Der Goblinchef hörte auf den Namen Broccenreißer
+
+und hielt sich wohl für sowas wie 'nen Goblinkaiser.
+
+Friedlich wie wir sind, wollten wir's zuerst mit Diplomatie versuchen,
+
+doch das führt nur dazu, dass wir die Goblins mehr denn je verfluchen.
+
+Doch die Falle geht nach hinten los und die Goblins sind schnell besiegt
+
+Bis auf Broccenreißer, der feige aus der eig'nen Falle flieht.
+
+Weit kommt er nicht, dann wird er im Innenhof eingeholt
+
+und bekommt ebenfalls den Hintern inkusive Lemur versohlt.
+
+Der Kampf war zwar hart, doch die Mühe war es wert,
+
+denn in des Hof's Gerätehäuschen fanden wir ein Pferd.
+
+Das Pferd, es sei forthin als Butterblume bekannt,
+
+war fast verhungert, von Goblins malträtiert und wäre fast davongerannt,
+
+Doch mit Geduld, Hingabe und einigen Karotten
+
+gelang es uns Butterblume aus dem Stall zu locken.
+
+Eine Suche in allen Räumen führt uns zu einer Truhe
+
+und für einen Moment genießen wir die ersehnte Ruhe.
+
+Doch noch ist es wohl zu früh zum Rasten,
+
+stattdessen heißt es weiter durch die Kelleretagen hasten,
+
+um zu versuchen einen Weg von dieser Insel herunter zu erkennen,
+
+bevor die Goblins diesen auch vor unser'n Augen niederbrennen.
+
+--------------------------------------------------------------------------
+
+Liebe Freunde, Zuhörer, Gäste, Fans und Leute,
+
+die Pause war lang, doch sie endet heute!
+
+Vor der Fülle von Material war dem Dichter zum verzagen,
+
+doch anstatt das Dichten weiter zu vertagen
+
+wird euer Dichter heute wagen
+
+einfach weniger statt mehr zu sagen.
+
+Deshalb nun das Wichtigste in aller Kürze,
+
+denn bekanntlich liegt darin ja die Würze.
+
+In der Zwischenzeit sind wir von der Golbininsel entkommen,
+
+mit Nualia, den Goblins, Fallen, Schatten war's da auch arg beklommen.
+
+Kaum zurück wurden wir von einem Händler angemietet,
+
+der für die Rückholung sein's Pferds ein nettes Sümmchen bietet.
+
+Und weil wir sowieso noch vorhatten in der Festung was zu finden
+
+lies sich das geschickt mit der Pferdabholung verbinden.
+
+Dafür mussten wir noch eine Brücke bauen
+
+und Diebe verhauen damit die nicht das Holz für ebendiese klauen.
+
+Zurück in der Festung wird das Gesuchte schnell gefunden
+
+und mit dem weiteren Erkunden des Untergeschosses verbunden.
+
+Dort begegneten wir einem schlecht gelaunten Malfeschnekor
+
+und knüpften uns diesen auch noch vor.
+
+Danach erwachten ein paar Statuen zum Leben
+
+und wir beschlossen Fersengold zu geben.
+
+Zum Glück war's möglich die Statuen abzuschalten
+
+bevor sie uns die Schädel spalten.
+
+Dann war's mit der Festung auch wieder genug
+
+und erstmal abzureisen erschien uns klug.
+
+Jetzt zieht es eure Helder in neue Abenteuer,
+
+ein Augenpilz für Kyras Blindheit Heilung lockt uns heuer.
+
+Die Vorbereitungen laufen auf vollen Touren
+
+d'rum stehle ich nun nicht noch mehr Zeit von euren Uhren
+
+-----------------------------------------------------------------------------------
+
+2023
+
+##### Tag 2 - Morgen ####
+
+Wir verbrachten die Nacht im Rostigen Drachen
+
+Und besser kann man es kaum machen!
+
+Der Tag begann mit einem Mahl
+
+Mit Ei und Speck und Schleim vom Aal.
+
+Kost und Logi waren frei
+
+und es war vorbei mit der Halsabschneiderei.
+
+Das Geld vom Wirt ohne Fenster
+
+holen wir noch von diesem Gangster.
+
+Der Markt war leer und viel kaputt
+
+Das Volk am räumen, schaufelt schutt.
+
+Als Helden haben wir mit angepackt
+
+Mit Muskelkraft und gutem Rat
+
+Als Dankeschön für gute Taten
+
+Gibt es nun Rabatt im Waffenladen
+
+Mit neuer Armbrust und fast allen Bolzen
+
+Hieß es wieder Goblins trotzdem
+
+Bei der Stadtwache im Gefängnis
+
+Brachten wir einen in Bedrängnis
+
+Die Bibliothek muss wohl noch warten
+
+Denn es rufen neue Heldentaten.
+
+Mit Fox, die zwischendurch verschwand
+
+folgten wir dem Vogt rasant
+
+zum Friedhof, wo der Priester stand.
+
+Er erzählte uns von seiner Not
+
+und wie man es als Helden tut
+
+erklärten wir uns bereit zu helfen,
+
+Menschen, Zwerg, Gnom, Halb-Orks und -Elfen,
+
+Denn ein offenes Grab, trotz Moder und Magie
+
+schreckt edle Helden wir uns nie!
+
+#### Tag 2 - Nachmittag ####
+
+Der Vogt verschwand auf ein paar Worte
+
+Und wir traten durch des Grabes Pforte
+
+In die totenstille Gruft.
+
+Kein Windhauch regt die staub'ge Luft.
+
+Zum Sarkophag in der Mitte
+
+taten wir kaum ein paar Schritte
+
+Da standen drei Skelette auf
+
+Und der Kampf nahm seinen Lauf.
+
+Mit Hauen Stechen Zaubern Schießen
+
+Gelang uns doch kein Blutvergießen
+
+Erst des Adlers Krallen Klauen Schwingen
+
+Konnten sie zu Boden bringen.
+
+Der Vogt kam, zu unserem Pech und seinem Glück,
+
+Erst nach dem Kampf zurück
+
+und glaubte uns kein Wort
+
+Denn die Skelette waren fort.
+
+Und statt des alten Priesters Gebeine
+
+Der nach der Kirche Brand
+
+Hier seine letzte Ruhe fand
+
+Befanden sich im Sarg nun keine.
+
+Wir stellten Vogt und Priester Fragen
+
+Doch sie konnten uns nichts sagen
+
+denn über Nekromantie
+
+spricht man in Sandspitze nie.
+
+Mit Hagens Pony und der Fragen schweren Hypothek
+
+war unser nächstes Ziel die Bibliothek
+
+In der so manches Buch vermodert
+
+Und stellten unsere Fragen Brodert.
+
+Er erzählte uns von Goblin-Horden
+
+und von den Hackebeil-Morden.
+
+Und nun fängt schlauer und doch ohne Plan
+
+unser nächstes Abenteuer an.
+
+----------------------------------
+
+Der Stufenaufstieg gab uns neuen Mut
+
+für einen weiteren Kampf gegen eine Sündenbrut.
+
+Diese Brut ist gemeinsam schnell geschlagen
+
+Worauf wir uns tiefer in die Gänge wagen.
+
+Doch schon erschienen noch mehr Brute angelockt vom Laut
+
+den euer Erzähler macht wenn er seine Trommeln haut
+
+Dieses mal waren's der Sündenbrüte drei
+
+und der Kampf deshalb nicht ganz so schnell vorbei.
+
+Gina und Mako sind verletzt und haben Rücken
+
+und hoffentlich im Rucksack ihre Notfallkrücken.
+
+Fafnir wurde zwischendurch auch mal geblendet
+
+wodurch das Blatt sich aber auch nicht wendet.
+
+Denn Tobin navigiert Fafnir mit Worten, sehr gewand,
+
+leider direkt vor die nächste Höhlenwand.
+
+Dann fängt auch noch Fafnirs Helm an hell zu leuchten
+
+weil's hieß dass wir noch etwas Licht im Dunkel bräuchten.
+
+Letztlich gelingt's die Sündenbruten alle zu bezwingen
+
+und die Trommeln können für den Tag verklingen.
+
+Wir erkundeten die Hallen, menschgemacht und kalt,
+
+mit Skeletten in den Zellen einer uralten Haftanstalt.
+
+Wie alt die Zellen sind erschließt sich uns leider nicht
+
+nur Holz und Scherben finden wir im Fackellicht.
+
+Zum Schluss fanden wir einen seltsamen Brunnen
+
+dessen Wasser wohl direkt der Hölle ist entsprungen
+
+und Tobin lässt verlauten dass dem der daraus trinkt
+
+ein Verslein zum Ruhm und eine Silbermünze winkt.
+
+- Kampf gegen eine Sündenbrut
+
+- Kampf gegen drei Sündenbrut, angelockt vom "Kampflärm"
+
+- Fafnir fällt zu Boden, Mako und Gina haben Rücken
+
+- Gefängnis durchsucht, aber nichts gefunden außer Skeletten und
+Scherben
+
+- Diskussion über Holz - Wie lange dauert es bis Holz verrottet?
+
+Wir machten uns zum Schmugglertunnel auf den Weg
+
+Mit einem Zwischenstopp in der Bibliothek
+
+Und während Brodert manche in den Schlaf wiegte,
+
+war's bei anderen der Wissensdurst der siegte.
+
+Wir erfuhren viel über Thassiloniens Geschichte
+
+und sahen darauf manches in and'rem Lichte,
+
+zum Beispiel auch die von Tsuto erwähnten Dämonen,
+
+die hoffentlich nicht schon im Schmugglertunnel wohnen.
+
+Irgendwann gelang es Broderts Redeschwall zu entrinnen
+
+und doch noch das Abenteuer zu beginnen.
+
+Zunächst fanden wir im Tunnel nur tote Enden,
+
+Geheimgänge zu verlass'nen Goblinlager an Stränden,
+
+mussten also nochmal kehrt machen und wenden,
+
+und im Dunkeln tasten mit Füßen und mit Händen.
+
+Letztlich standen wir vor einem dunklem Höhlenschlund
+
+und dachten uns "Höhlenluft, die ist gesund!"
+
+Immer vorsichtig, schlich Fox vorneweg hinein,
+
+leider schlecht getarnt in Hagens Fackelschein.
+
+So begann urplötzlich ein Gefecht
+
+und zu Beginn lief's eher schlecht als recht.
+
+Es waren zwei der angedrohten Missgeburten
+
+die im Dunkeln durch die Höhle spurten.
+
+Doch letztlich gelang uns noch die Wende
+
+und sogar Fox überlebte bis zum Ende!
+
+Euer werter Autor musst' sich weise eingestehen
+
+Meistens ist etwas zu tuen besser als nur rumzustehen.
+
+Doch lasst uns nicht zu lang' auf Vergangenem verweilen
+
+Denn nun galt es erstmal Punkte zu verteilen!
+
+Denn mit der Erfahrung die wurde gewonnen
+
+Hat endlich eine Stufe für uns begonnen.
+
+Grund genug dass wir beschlossen in Ruhe zu vertagen
+
+Bis wir uns beim nächsten Mal noch noch tiefer hineinwagen.
+
+#### Tag 2 - Abend ####
+
+Wir hatten Brodert just verlassen
+
+Und fanden uns in Sandspitz' ruhigen Gassen.
+
+Die Gruppe trennt sich ein paar Stunden
+
+Um verschied'ne Orte zu erkunden
+
+Die Herren zieht's zu des Weißen Hirsch's Taverne,
+
+Das Geld zurück das hättens gerne.
+
+Der Wirt verhandelt hart, bleibt stur
+
+Letztendlich bleibt den Helden nur
+
+Die Niederlage großmütig akzeptier'n
+
+Und ins Feuer starr'n bei ein paar Bier'n
+
+Am Nebentisch saßen ein paar junge Dam'n
+
+Doch das passte Tobin gar nicht in den Kram
+
+Denn statt auf Wolke Sieben schweben
+
+Wollt lieber Abenteuer er erleben
+
+Und so blieben sie am Tisch alleine
+
+Und tranken Bier, ein jeder's seine.
+
+Fox und Gina zieht's derweil
+
+Zur Insel von Herrn Hackebeil
+
+Doch für Hundert Meter senkrecht ohne Stufen
+
+muss einen laut die Muse rufen
+
+Und um beim Klettern sich nicht zu entleiben
+
+Ließen weise sie's dann heute bleiben
+
+Während die beiden im Drachen auf die ander'n warten
+
+Beeindruckt Fox Gina mit gezinkten Karten
+
+Dann treffen auch die Herren wieder ein
+
+Und's geht zu Bett um morgens fit zu sein
+
+Nur Tobin blieb im Hirsch zurück
+
+Sucht in Büchern noch nach seinem Glück
+
+Und wie die Zeit verrinnt
+
+und ein neuer Tag beginnt
+
+war gerade erst das Frühstück aufgetragen
+
+Da lud Aldern schon zum Jagen.
+
+Ein Pferd für jeden lässt er springen
+
+Schon kann die wilde Jagd beginnen.
+
+Unterwegs, Zu Ginas großen Unbehagen,
+
+Wird sie von Aldern ständig angegraben
+
+Und fühlt' er sich noch so galant,
+
+war's doch mehr penetrant denn amüsant.
+
+Die Jagd unterbricht endlich(!) die Zweisamkeit
+
+Zumindest für gewisse Zeit...
+
+Denn nun galt es auf schnellen Beinen
+
+Und zwischen unsichtbaren Wäscheleinen
+
+Durch Bauern, Esel, Dornen, Wurzeln,
+
+Dem Wildschwein hinterherzupurzeln,
+
+Im Nahkampf mit dem Viech zu Ringen
+
+Und es endgültig zu bezwingen.
+
+Da steh'n wir nun vor dem Kadaver
+
+Und jetzt reicht's es mit Palaver.
+
+- - Fox und Gina zur Hackebeil-Insel, dann zurück in den Drachen
+
+- Karten gespielt
+
+- Gina wollte nachmachen und gescheitert
+
+- Rest zur anderen Taverne (Zum Weißer Hirsch)
+
+- Kein Geld zurück, Vortrag mittelmäßig, Bier getrunken
+
+- Buch gelesen, nichts Interessantes darin
+
+- Geschlafen...
+
+- Aldern am nächsten Morgen getroffen
+
+- Einladung zur Wildschweinjagd
+
+- Spricht immer mit Gina
+
+- Schenkt uns Pferde
+
+- Wildschweinjagd
+
+#### Tag 3 - Abend ####
+
+Da standen wir, das Wildschwein war erlegt
+
+und wir hatten uns genug im Wald bewegt
+
+Statt weiter durch Gestrüpp zu hasten
+
+Stand der Gruppe Sinn nach Rasten
+
+So ließen wir uns zur Taverne tragen
+
+Wir zu Pferd, das Schwein im Wagen
+
+Und Aldern kann erneut nicht widersteh'n
+
+Gina auf den Geist zu geh'n
+
+Im Drachen wird das Schwein zum Kochen übergeben
+
+Während wir entspannt ein paar Krüge heben
+
+Als plötzlich die Tür wird aufgestoßen
+
+Und ein Mann tritt mein mit großem Tosen
+
+Der schreit dass er seine Tochter sucht
+
+Und dabei die Gäste mitverflucht
+
+Darunter uns're heldenhalfte Gruppe
+
+Als wär'n wir eine Schlägertruppe
+
+Als hätten wir die Goblins reingelassen
+
+In Sandspitz' feierliche Gassen
+
+Sagt wir hätten uns lieber rausgehalten
+
+Statt die Goblins auszuschalten.
+
+Doch dann lässt er ab und kann sein Ziel ausmachen
+
+Es ist die Wirtin selbst vom Rost'gen Drachen!
+
+Und so schreit er weiter in einem fort
+
+und wir versteh'n davon kein Wort
+
+Als es handgreiflich zu werden droht
+
+zieht Fox Ameikos Vater fort
+
+noch einmal mit dem Suppenlöffel auf die Wangen
+
+Dann macht der Streithahn sich von dannen.
+
+Worum ging es nun in diesem Streit?
+
+Ob der Vater ihre Abenteuer nicht verzeiht?
+
+Oder ist der Grund doch aktueller?
+
+Trotz Fragen werden wir nicht heller
+
+Kein Gast will mit uns drüber munkeln
+
+Und so tappen weiter wir im Dunkeln
+
+Und beschließen erstmal abzuwarten
+
+Mit Wildschweinbraten, Bier und Karten
+
+Dann wird die Tür schon wieder aufgestoßen
+
+Dieses Mal mit deutlich wen'ger Tosen
+
+Herein kommt eine Frau mit Kind
+
+Die angsterfüllt um Hilfe ringt
+
+Weil Monster wohl in ihrem Haus verweilen
+
+Woraufhin wir geschwind zur Hilfe eilen.
+
+Im Kinderzimmer soll das Monster sein
+
+Der Hund hat gebellt und der Vater ging hinein
+
+Und's hat wohl keinen guten Verlauf genommen
+
+Denn er ist nicht wieder rausgekommen.
+
+So stürmen wir heimlich die Treppe hoch
+
+Wer weiß, vielleicht lebt der Mann ja noch.
+
+Im Kinderzimmer lauert ein Goblin im Schrank
+
+Und war vor Hunger schon schier geisterkrank
+
+Trotz Trommeln und auch Sichellicht
+
+Trafen wir den Goblin nicht
+
+Doch als selbst Tobins mit der Schleuder traf
+
+erlegten wir das Viech im Schlaf
+
+Und auch wenn die Gruppe nicht verzagt
+
+War der Mann leider schon leicht angenagt
+
+Während so manch anderer sich ziert
+
+Ward die Witwe ausführlich informiert
+
+Und setzt's dafür auch eine Rüge
+
+ist diesem Barden Wahrheit mehr wert als die Lüge.
+
+Und mag die Wahrheit auch zuweil schwer zu ertragen sein,
+
+das Leben ist kein Ponyhof, fragt mal das jüngst erlegte Schwein.
+
+Nun denn, ein trauriges Ende war's für einen langen Tag
+
+Welche Abenteuer wohl der nächste bringen mag?
+
+Ein Wort zum Abschluss noch, wenn ihr gestattet
+
+So ihr denn zum Wahrheitsgehalt Fragen hattet,
+
+Wenn der Barde auch so manches leicht verkläre,
+
+ist's nicht schlimm, wenn's denn so wäre,
+
+denn über das was ein Barde dichtet,
+
+ist's das Publikum, nicht die Justiz, die richtet.
+
+#### Tag 4 - Morgen ####
+
+Der neue Tag beginnt mit Fastenbrechen
+
+Und nebenbei die Lage zu besprechen.
+
+Fox erinnert sich an ein Fenster voll Delikatessen
+
+Wie könnte man solch einen Anblick auch vergessen
+
+Und so beschließen Gina, Fox und Tobin
+
+"Zu diesem Laden geh'n wir hin"
+
+Doch auf dem Weg dahin erhör'n die Helden Klagen
+
+Doch weder Fox noch Gina wollen's wagen
+
+Der holden Maid zur Hilf zu eilen
+
+Und machen sich davon derweilen
+
+So blieb Tobin ganz allein zurück
+
+Und versuchte mit der Maid sein Glück
+
+Im Keller ihres Ladens gäb' es Ratten
+
+die sich verstecken in den Schatten
+
+Und weil die Maid gar sehr darauf bestand
+
+war's Tobin der sich schnell im Keller wiederfand
+
+Sein Ruf hat sich wohl herumgesprochen
+
+Denn die Ratten hatten sich verkrochen
+
+So groß ist nun mal der Monster Schrecken
+
+Dass sie sich vor Tobin nur verstecken
+
+Die Maid wollt' sich bei Tobin nun bedanken
+
+Doch wie, darum müssen sich Gerüchte ranken
+
+Denn der Holden Vater stand plötzlich in dem Raum
+
+Und glaubte Tobins Worten anfangs kaum
+
+Doch er musste sich der Logik beugen,
+
+ließ letztlich sich doch überzeugen.
+
+Und gab's für's Rattenjagen denn auch keinen Lohn,
+
+frag ich euch: welcher Held braucht den schon?
+
+Während Fox und Gina Delikatessen jagen
+
+Frühstückten Brocc, Fafnir und auch Hagen
+
+Und am Ende war's der Hafen
+
+Wo sich alle wieder trafen
+
+Ameikos Vaters Villa war das nächste Ziel
+
+Nur Wasser war auf dem direkten Weg zu viel
+
+Und so wurde lange über Boote diskutiert
+
+und zum Schluss zu Fuß um die Bucht herumspaziert.
+
+Die Villa war gar schwer bewacht
+
+Und alle Diskussion haben nichts gebracht
+
+Die Wache fragt ob sie aussieht wie ein Sekretär
+
+Was für uns besser gewesen wär
+
+Doch leider sah sie aus wie ein Soldat
+
+der genug von blöden Fragen hat.
+
+Auch bei der Handelsliga hatten wir kein Glück
+
+Und kehrten unverrichteter Dinge in die Stadt zurück
+
+Das Theater wurde unsere nächste Station
+
+Denn Tobin suchte dort die Konfrontation
+
+Mit Drokkus, der zwar Tobins Briefe ignoriert,
+
+Dafür jetzt die ganze Gruppe engagiert
+
+Den Kampf um Sandspitz nachzuspielen
+
+Auf des Theaters fulminanten Dielen.
+
+Kauft die Tickets jetzt, denn lasst euch sagen
+
+Die Premiere ist schon in fünf Tagen!
+
+Vom Theater ging's fast direkt weiter hin
+
+mit dem Vogt zum Rathaus und der Bürgermeisterin.
+
+Dort trafen wir die mächt'ge Schalelu
+
+Denn die Golbins schlugen in der Nähe zu.
+
+Höfe nah dem Mooswald wurden angezündet
+
+und die Goblinstämme haben sich verbündet
+
+Und ihr werdet es gewiss schon ahnen
+
+Mit Helden wie uns kann man planen
+
+Vor den Goblins, diesen Leidigen
+
+Werden wir Sandspitze gewissenhaft verteidigen
+
+Ein solcher Eid machte eine trock'ne Kehle
+
+Und wir hatten noch manche Frage auf der Seele.
+
+So trafen wir Schlalelu in der Zwei Ritter Brauerei
+
+Zur Vorbereitung der Goblinhauerei.
+
+Erst nach der Rückkehr in den Rost'gen Drachen
+
+Sollten wir die nächste Entdeckung machen
+
+Denn Ameiko, die Wirtin, war verschwunden
+
+Und stattdessen wurde nur ein Brief gefunden
+
+Von ihrem Bruder, lang geglaubt verloren
+
+Der zu einem geheimen Treffen sie hatte beschworen
+
+Eine Menge hat der letzte Tag gebracht
+
+Und nun steh'n wir hier in finst'rer Nacht.
+
+#### Tag 5 ####
+
+Zu Ende des Tages fanden wir einen Brief
+
+der Ameiko zu einem geheimen Treffen rief.
+
+Die Zeit drängte und ohne lange zu verweilen
+
+machten wir uns dran zur Hilfe ihr zu eilen.
+
+Die Glashütte, ihres Vaters wie wir lernen würden,
+
+stellte uns vor manche unerwartet' Hürden.
+
+Alle Fenster, alle Türen waren fest veriegelt
+
+was erst recht nicht uns're Neugier zügelt
+
+Wir scheiterten durch's Dachfenster hineinzulugen
+
+weil wir keine Leiter bei uns trugen
+
+Und es wollte uns auch nicht gelingen
+
+Die Wände kletternd zu bezwingen
+
+Fox stellte schließlich überraschend fest,
+
+dass sich der Nebeneingang öffnen lässt.
+
+In der Hütte müssen wir nicht lange suchen
+
+bis wir wieder über Goblins fluchen
+
+die den größten Raum bewachten
+
+während wir uns leise auf die Socken machten
+
+um den Rest des Hauses zu erkunden
+
+in langen und ergebnislosen Stunden.
+
+Und so gibt's nicht viel zu Berichten,
+
+außer dem Ergebnis, einem schlichten.
+
+Mit Goblins reden, das muss ich euch nicht sagen,
+
+bringt nichts, also muss man sie halt schlagen.
+
+---- Tag 6 ----
+
+Wir begannen sofort mitten im Gefecht,
+
+ist zur Abwechslung auch mal recht.
+
+Mako, schön geschmückt mit Ponyschopf,
+
+trennte Goblins reihenweis' von ihrem Kopf
+
+und so versank Fox schon zu Beginn in Goblinblut
+
+und zeigte leicht verstört gar übertrieb'nen Mut.
+
+Die Goblins fallen Stück für Stück
+
+und manche ziehen sich sogar zurück.
+
+Und als der Kampf schon fast gewonnen war
+
+dachte mancher wohl schon "Wunderbar!"
+
+Der letzte Goblin hat nur noch ein HP
+
+und darum tat's nochmal besonders weh
+
+als er Fox mit Scherben fast ums Leben bringt
+
+worauf mancher wohl mit seinen Entscheidungen ringt.
+
+Hätte etwa mancher länger nachgedacht,
+
+hätt' er vorher manch anderes gemacht
+
+und sich vielleicht doch nicht hingelegt
+
+sondern sich noch etwas fortbewegt.
+
+Letztlich wurde Fox' Leben doch noch gerettet
+
+Von eurem Barden selbst, wer hätte es gewettet.
+
+Doch kaum dass der erste Kampf vorüber war
+
+War'n auch schon die nächsten Goblins da
+
+Mit denen auch Ameikos Bruder Tsuto aus dem Keller kam
+
+und 's sah aus als passten wir ihm gar nicht in den
+[Kram.di](http://kram.di/)
+
+Doch auch diese Goblins wurden fix geschlachtet
+
+woraufhin nur Tsuto noch nach uns'rem Leben trachtet.
+
+Auch Fafnir hätt' es zwischendurch noch fast erwischt,
+
+Ist seine Untreffbarkeit wohl doch nur ein Gerücht?
+
+Doch natürlich kann auch Tsuto eure Helden nicht bezwingen
+
+Sonst könnte ich unsere Taten grad auch nicht besingen.
+
+Und während die Gruppe weiter in der Hütte weilt
+
+wurden Fafnir und Tsuto beide noch geheilt
+
+Tsuto wurde natürlich zuerst fest gebunden
+
+Und nun schauen wir gebannt auf die nächsten Stunden.
+
+Kampf:
+
+- Mako zerfetzt Goblin und Fox wird traumatisiert
+
+- Goblin fast tot, trifft Fox kritisch, blutet und stirbt fast
+
+- Tobin kann nicht rechtzeitig heilen, weil er sich hingelegt hat
+
+- Ameikos Bruder taucht auf und kämpf mit Goblins
+
+- Goblin trifft Brocc kritisch genau ins Auge
+
+- Tsuto ist besiegt, aber stabilisiert und gefesselt
+
+---- Tag7 ----
+
+Zuerst durchsuchten wir Tsutos Taschen
+
+um einen Einblick in seine Motive zu erhaschen.
+
+Und das gelang schon beim ersten Versuch,
+
+denn wir fanden unter anderem sein Tagebuch.
+
+Während außer Gina alle weiterziehen um den Keller zu erkunden
+
+schmökert Gina drin, gefühlt für ein paar Stunden,
+
+Vom Keller geht ein Gang nach draußen in den Wald,
+
+den zu erkunden verschoben wir jedoch erstmal auf "bald".
+
+Der Keller war ein Schmugglerversteck würd' ich wetten,
+
+doch das kann warten, denn erst mussten wir Ameiko retten.
+
+Fox und Hagen brachten sie zurück in die Taverne,
+
+während Gina vordringt zu des Pudel's Kerne
+
+und die Gruppe über Tsutos Taten informiert
+
+die sie aus dem Tagebuch hat extrahiert.
+
+Tsuto ist im Bunde mit seltsamen Dämonen
+
+und den Goblins, die in den nahen Wäldern wohnen.
+
+Er hat die Angriffe auf Sandspitze orchestriert
+
+und alles in seinem Tagebuch dokumentiert.
+
+Dieses neugewonn'ne Wissen will die Gruppe teilen,
+
+weshalb Hagen zum Priester und Tobin zur Bürgermeisterin eilen.
+
+Der Priester kommt zuerst und hält uns wohl für Schlächter,
+
+macht kehrt und holt erstmal die Wächter.
+
+Die Wächter sind zunächst rein gar nicht amüsiert
+
+bis die Bürgermeisterin erscheint und uns exkulpiert.
+
+Auf uns're Bitte wird noch Tsuto zum Verhör geweckt,
+
+doch der ist wohl nicht zum Sprechen aufgelegt.
+
+Und so bleibt der Gruppe nichts als es Ameiko gleichzutun,
+
+also zur Taverne zu gehen und sich auszuruh'n.
+
+Frisch erholt und voller Tatendrang
+
+erinner'n wir uns an den myst'riösen Gang
+
+in der Glashütte Keller Richtung Wald
+
+und beschließen jetzt ist's soweit, jetzt ist's "bald".
+
+- Gina liest Tsutos Tagebuch
+
+- Rest der Gruppe erforscht den Keller
+
+- Aufzeichnungen der Schmuggler gefunden
+
+- Ameiko gefunden und gerettet
+
+- Fox und Hagen bringen Ameiko zum Drachen
+
+- Gina informiert den Rest
+
+- Fox und Hagen kommen zurück
+
+- Hagen holt den Priester, Tobin die Bürgermeisterin
+
+- Priester holt die Stadtwache (alles ist voller Leichen)
+
+- Bürgermeisterin bestätigt dass Gruppe gut ist
+
+- Tsuto wird verhört und sagt nichts
+
+- Gruppe wird geheilt und geht schlafen
+
+- Gruppe geht Richtung Dungeon und macht bei Brodert Station
+
+2022
+
+##### Tag 2 - Morgen ####
+
+Wir verbrachten die Nacht im Rostigen Drachen
+
+Und besser kann man es kaum machen!
+
+Der Tag begann mit einem Mahl
+
+Mit Ei und Speck und Schleim vom Aal.
+
+Kost und Logi waren frei
+
+und es war vorbei mit der Halsabschneiderei.
+
+Das Geld vom Wirt ohne Fenster
+
+holen wir noch von diesem Gangster.
+
+Der Markt war leer und viel kaputt
+
+Das Volk am räumen, schaufelt schutt.
+
+Als Helden haben wir mit angepackt
+
+Mit Muskelkraft und gutem Rat
+
+Als Dankeschön für gute Taten
+
+Gibt es nun Rabatt im Waffenladen
+
+Mit neuer Armbrust und fast allen Bolzen
+
+Hieß es wieder Goblins trotzdem
+
+Bei der Stadtwache im Gefängnis
+
+Brachten wir einen in Bedrängnis
+
+Die Bibliothek muss wohl noch warten
+
+Denn es rufen neue Heldentaten.
+
+Mit Fox, die zwischendurch verschwand
+
+folgten wir dem Vogt rasant
+
+zum Friedhof, wo der Priester stand.
+
+Er erzählte uns von seiner Not
+
+und wie man es als Helden tut
+
+erklärten wir uns bereit zu helfen,
+
+Menschen, Zwerg, Gnom, Halb-Orks und -Elfen,
+
+Denn ein offenes Grab, trotz Moder und Magie
+
+schreckt edle Helden wir uns nie!
+
+#### Tag 2 - Nachmittag ####
+
+Der Vogt verschwand auf ein paar Worte
+
+Und wir traten durch des Grabes Pforte
+
+In die totenstille Gruft.
+
+Kein Windhauch regt die staub'ge Luft.
+
+Zum Sarkophag in der Mitte
+
+taten wir kaum ein paar Schritte
+
+Da standen drei Skelette auf
+
+Und der Kampf nahm seinen Lauf.
+
+Mit Hauen Stechen Zaubern Schießen
+
+Gelang uns doch kein Blutvergießen
+
+Erst des Adlers Krallen Klauen Schwingen
+
+Konnten sie zu Boden bringen.
+
+Der Vogt kam, zu unserem Pech und seinem Glück,
+
+Erst nach dem Kampf zurück
+
+und glaubte uns kein Wort
+
+Denn die Skelette waren fort.
+
+Und statt des alten Priesters Gebeine
+
+Der nach der Kirche Brand
+
+Hier seine letzte Ruhe fand
+
+Befanden sich im Sarg nun keine.
+
+Wir stellten Vogt und Priester Fragen
+
+Doch sie konnten uns nichts sagen
+
+denn über Nekromantie
+
+spricht man in Sandspitze nie.
+
+Mit Hagens Pony und der Fragen schweren Hypothek
+
+war unser nächstes Ziel die Bibliothek
+
+In der so manches Buch vermodert
+
+Und stellten unsere Fragen Brodert.
+
+Er erzählte uns von Goblin-Horden
+
+und von den Hackebeil-Morden.
+
+Und nun fängt schlauer und doch ohne Plan
+
+unser nächstes Abenteuer an.
+
+----------------------------------
+
+Der Stufenaufstieg gab uns neuen Mut
+
+für einen weiteren Kampf gegen eine Sündenbrut.
+
+Diese Brut ist gemeinsam schnell geschlagen
+
+Worauf wir uns tiefer in die Gänge wagen.
+
+Doch schon erschienen noch mehr Brute angelockt vom Laut
+
+den euer Erzähler macht wenn er seine Trommeln haut
+
+Dieses mal waren's der Sündenbrüte drei
+
+und der Kampf deshalb nicht ganz so schnell vorbei.
+
+Gina und Mako sind verletzt und haben Rücken
+
+und hoffentlich im Rucksack ihre Notfallkrücken.
+
+Fafnir wurde zwischendurch auch mal geblendet
+
+wodurch das Blatt sich aber auch nicht wendet.
+
+Denn Tobin navigiert Fafnir mit Worten, sehr gewand,
+
+leider direkt vor die nächste Höhlenwand.
+
+Dann fängt auch noch Fafnirs Helm an hell zu leuchten
+
+weil's hieß dass wir noch etwas Licht im Dunkel bräuchten.
+
+Letztlich gelingt's die Sündenbruten alle zu bezwingen
+
+und die Trommeln können für den Tag verklingen.
+
+Wir erkundeten die Hallen, menschgemacht und kalt,
+
+mit Skeletten in den Zellen einer uralten Haftanstalt.
+
+Wie alt die Zellen sind erschließt sich uns leider nicht
+
+nur Holz und Scherben finden wir im Fackellicht.
+
+Zum Schluss fanden wir einen seltsamen Brunnen
+
+dessen Wasser wohl direkt der Hölle ist entsprungen
+
+und Tobin lässt verlauten dass dem der daraus trinkt
+
+ein Verslein zum Ruhm und eine Silbermünze winkt.
+
+- Kampf gegen eine Sündenbrut
+
+- Kampf gegen drei Sündenbrut, angelockt vom "Kampflärm"
+
+- Fafnir fällt zu Boden, Mako und Gina haben Rücken
+
+- Gefängnis durchsucht, aber nichts gefunden außer Skeletten und
+Scherben
+
+- Diskussion über Holz - Wie lange dauert es bis Holz verrottet?
+
+Wir machten uns zum Schmugglertunnel auf den Weg
+
+Mit einem Zwischenstopp in der Bibliothek
+
+Und während Brodert manche in den Schlaf wiegte,
+
+war's bei anderen der Wissensdurst der siegte.
+
+Wir erfuhren viel über Thassiloniens Geschichte
+
+und sahen darauf manches in and'rem Lichte,
+
+zum Beispiel auch die von Tsuto erwähnten Dämonen,
+
+die hoffentlich nicht schon im Schmugglertunnel wohnen.
+
+Irgendwann gelang es Broderts Redeschwall zu entrinnen
+
+und doch noch das Abenteuer zu beginnen.
+
+Zunächst fanden wir im Tunnel nur tote Enden,
+
+Geheimgänge zu verlass'nen Goblinlager an Stränden,
+
+mussten also nochmal kehrt machen und wenden,
+
+und im Dunkeln tasten mit Füßen und mit Händen.
+
+Letztlich standen wir vor einem dunklem Höhlenschlund
+
+und dachten uns "Höhlenluft, die ist gesund!"
+
+Immer vorsichtig, schlich Fox vorneweg hinein,
+
+leider schlecht getarnt in Hagens Fackelschein.
+
+So begann urplötzlich ein Gefecht
+
+und zu Beginn lief's eher schlecht als recht.
+
+Es waren zwei der angedrohten Missgeburten
+
+die im Dunkeln durch die Höhle spurten.
+
+Doch letztlich gelang uns noch die Wende
+
+und sogar Fox überlebte bis zum Ende!
+
+Euer werter Autor musst' sich weise eingestehen
+
+Meistens ist etwas zu tuen besser als nur rumzustehen.
+
+Doch lasst uns nicht zu lang' auf Vergangenem verweilen
+
+Denn nun galt es erstmal Punkte zu verteilen!
+
+Denn mit der Erfahrung die wurde gewonnen
+
+Hat endlich eine Stufe für uns begonnen.
+
+Grund genug dass wir beschlossen in Ruhe zu vertagen
+
+Bis wir uns beim nächsten Mal noch noch tiefer hineinwagen.
+
+#### Tag 2 - Abend ####
+
+Wir hatten Brodert just verlassen
+
+Und fanden uns in Sandspitz' ruhigen Gassen.
+
+Die Gruppe trennt sich ein paar Stunden
+
+Um verschied'ne Orte zu erkunden
+
+Die Herren zieht's zu des Weißen Hirsch's Taverne,
+
+Das Geld zurück das hättens gerne.
+
+Der Wirt verhandelt hart, bleibt stur
+
+Letztendlich bleibt den Helden nur
+
+Die Niederlage großmütig akzeptier'n
+
+Und ins Feuer starr'n bei ein paar Bier'n
+
+Am Nebentisch saßen ein paar junge Dam'n
+
+Doch das passte Tobin gar nicht in den Kram
+
+Denn statt auf Wolke Sieben schweben
+
+Wollt lieber Abenteuer er erleben
+
+Und so blieben sie am Tisch alleine
+
+Und tranken Bier, ein jeder's seine.
+
+Fox und Gina zieht's derweil
+
+Zur Insel von Herrn Hackebeil
+
+Doch für Hundert Meter senkrecht ohne Stufen
+
+muss einen laut die Muse rufen
+
+Und um beim Klettern sich nicht zu entleiben
+
+Ließen weise sie's dann heute bleiben
+
+Während die beiden im Drachen auf die ander'n warten
+
+Beeindruckt Fox Gina mit gezinkten Karten
+
+Dann treffen auch die Herren wieder ein
+
+Und's geht zu Bett um morgens fit zu sein
+
+Nur Tobin blieb im Hirsch zurück
+
+Sucht in Büchern noch nach seinem Glück
+
+Und wie die Zeit verrinnt
+
+und ein neuer Tag beginnt
+
+war gerade erst das Frühstück aufgetragen
+
+Da lud Aldern schon zum Jagen.
+
+Ein Pferd für jeden lässt er springen
+
+Schon kann die wilde Jagd beginnen.
+
+Unterwegs, Zu Ginas großen Unbehagen,
+
+Wird sie von Aldern ständig angegraben
+
+Und fühlt' er sich noch so galant,
+
+war's doch mehr penetrant denn amüsant.
+
+Die Jagd unterbricht endlich(!) die Zweisamkeit
+
+Zumindest für gewisse Zeit...
+
+Denn nun galt es auf schnellen Beinen
+
+Und zwischen unsichtbaren Wäscheleinen
+
+Durch Bauern, Esel, Dornen, Wurzeln,
+
+Dem Wildschwein hinterherzupurzeln,
+
+Im Nahkampf mit dem Viech zu Ringen
+
+Und es endgültig zu bezwingen.
+
+Da steh'n wir nun vor dem Kadaver
+
+Und jetzt reicht's es mit Palaver.
+
+- - Fox und Gina zur Hackebeil-Insel, dann zurück in den Drachen
+
+- Karten gespielt
+
+- Gina wollte nachmachen und gescheitert
+
+- Rest zur anderen Taverne (Zum Weißer Hirsch)
+
+- Kein Geld zurück, Vortrag mittelmäßig, Bier getrunken
+
+- Buch gelesen, nichts Interessantes darin
+
+- Geschlafen...
+
+- Aldern am nächsten Morgen getroffen
+
+- Einladung zur Wildschweinjagd
+
+- Spricht immer mit Gina
+
+- Schenkt uns Pferde
+
+- Wildschweinjagd
+
+#### Tag 3 - Abend ####
+
+Da standen wir, das Wildschwein war erlegt
+
+und wir hatten uns genug im Wald bewegt
+
+Statt weiter durch Gestrüpp zu hasten
+
+Stand der Gruppe Sinn nach Rasten
+
+So ließen wir uns zur Taverne tragen
+
+Wir zu Pferd, das Schwein im Wagen
+
+Und Aldern kann erneut nicht widersteh'n
+
+Gina auf den Geist zu geh'n
+
+Im Drachen wird das Schwein zum Kochen übergeben
+
+Während wir entspannt ein paar Krüge heben
+
+Als plötzlich die Tür wird aufgestoßen
+
+Und ein Mann tritt mein mit großem Tosen
+
+Der schreit dass er seine Tochter sucht
+
+Und dabei die Gäste mitverflucht
+
+Darunter uns're heldenhalfte Gruppe
+
+Als wär'n wir eine Schlägertruppe
+
+Als hätten wir die Goblins reingelassen
+
+In Sandspitz' feierliche Gassen
+
+Sagt wir hätten uns lieber rausgehalten
+
+Statt die Goblins auszuschalten.
+
+Doch dann lässt er ab und kann sein Ziel ausmachen
+
+Es ist die Wirtin selbst vom Rost'gen Drachen!
+
+Und so schreit er weiter in einem fort
+
+und wir versteh'n davon kein Wort
+
+Als es handgreiflich zu werden droht
+
+zieht Fox Ameikos Vater fort
+
+noch einmal mit dem Suppenlöffel auf die Wangen
+
+Dann macht der Streithahn sich von dannen.
+
+Worum ging es nun in diesem Streit?
+
+Ob der Vater ihre Abenteuer nicht verzeiht?
+
+Oder ist der Grund doch aktueller?
+
+Trotz Fragen werden wir nicht heller
+
+Kein Gast will mit uns drüber munkeln
+
+Und so tappen weiter wir im Dunkeln
+
+Und beschließen erstmal abzuwarten
+
+Mit Wildschweinbraten, Bier und Karten
+
+Dann wird die Tür schon wieder aufgestoßen
+
+Dieses Mal mit deutlich wen'ger Tosen
+
+Herein kommt eine Frau mit Kind
+
+Die angsterfüllt um Hilfe ringt
+
+Weil Monster wohl in ihrem Haus verweilen
+
+Woraufhin wir geschwind zur Hilfe eilen.
+
+Im Kinderzimmer soll das Monster sein
+
+Der Hund hat gebellt und der Vater ging hinein
+
+Und's hat wohl keinen guten Verlauf genommen
+
+Denn er ist nicht wieder rausgekommen.
+
+So stürmen wir heimlich die Treppe hoch
+
+Wer weiß, vielleicht lebt der Mann ja noch.
+
+Im Kinderzimmer lauert ein Goblin im Schrank
+
+Und war vor Hunger schon schier geisterkrank
+
+Trotz Trommeln und auch Sichellicht
+
+Trafen wir den Goblin nicht
+
+Doch als selbst Tobins mit der Schleuder traf
+
+erlegten wir das Viech im Schlaf
+
+Und auch wenn die Gruppe nicht verzagt
+
+War der Mann leider schon leicht angenagt
+
+Während so manch anderer sich ziert
+
+Ward die Witwe ausführlich informiert
+
+Und setzt's dafür auch eine Rüge
+
+ist diesem Barden Wahrheit mehr wert als die Lüge.
+
+Und mag die Wahrheit auch zuweil schwer zu ertragen sein,
+
+das Leben ist kein Ponyhof, fragt mal das jüngst erlegte Schwein.
+
+Nun denn, ein trauriges Ende war's für einen langen Tag
+
+Welche Abenteuer wohl der nächste bringen mag?
+
+Ein Wort zum Abschluss noch, wenn ihr gestattet
+
+So ihr denn zum Wahrheitsgehalt Fragen hattet,
+
+Wenn der Barde auch so manches leicht verkläre,
+
+ist's nicht schlimm, wenn's denn so wäre,
+
+denn über das was ein Barde dichtet,
+
+ist's das Publikum, nicht die Justiz, die richtet.
+
+#### Tag 4 - Morgen ####
+
+Der neue Tag beginnt mit Fastenbrechen
+
+Und nebenbei die Lage zu besprechen.
+
+Fox erinnert sich an ein Fenster voll Delikatessen
+
+Wie könnte man solch einen Anblick auch vergessen
+
+Und so beschließen Gina, Fox und Tobin
+
+"Zu diesem Laden geh'n wir hin"
+
+Doch auf dem Weg dahin erhör'n die Helden Klagen
+
+Doch weder Fox noch Gina wollen's wagen
+
+Der holden Maid zur Hilf zu eilen
+
+Und machen sich davon derweilen
+
+So blieb Tobin ganz allein zurück
+
+Und versuchte mit der Maid sein Glück
+
+Im Keller ihres Ladens gäb' es Ratten
+
+die sich verstecken in den Schatten
+
+Und weil die Maid gar sehr darauf bestand
+
+war's Tobin der sich schnell im Keller wiederfand
+
+Sein Ruf hat sich wohl herumgesprochen
+
+Denn die Ratten hatten sich verkrochen
+
+So groß ist nun mal der Monster Schrecken
+
+Dass sie sich vor Tobin nur verstecken
+
+Die Maid wollt' sich bei Tobin nun bedanken
+
+Doch wie, darum müssen sich Gerüchte ranken
+
+Denn der Holden Vater stand plötzlich in dem Raum
+
+Und glaubte Tobins Worten anfangs kaum
+
+Doch er musste sich der Logik beugen,
+
+ließ letztlich sich doch überzeugen.
+
+Und gab's für's Rattenjagen denn auch keinen Lohn,
+
+frag ich euch: welcher Held braucht den schon?
+
+Während Fox und Gina Delikatessen jagen
+
+Frühstückten Brocc, Fafnir und auch Hagen
+
+Und am Ende war's der Hafen
+
+Wo sich alle wieder trafen
+
+Ameikos Vaters Villa war das nächste Ziel
+
+Nur Wasser war auf dem direkten Weg zu viel
+
+Und so wurde lange über Boote diskutiert
+
+und zum Schluss zu Fuß um die Bucht herumspaziert.
+
+Die Villa war gar schwer bewacht
+
+Und alle Diskussion haben nichts gebracht
+
+Die Wache fragt ob sie aussieht wie ein Sekretär
+
+Was für uns besser gewesen wär
+
+Doch leider sah sie aus wie ein Soldat
+
+der genug von blöden Fragen hat.
+
+Auch bei der Handelsliga hatten wir kein Glück
+
+Und kehrten unverrichteter Dinge in die Stadt zurück
+
+Das Theater wurde unsere nächste Station
+
+Denn Tobin suchte dort die Konfrontation
+
+Mit Drokkus, der zwar Tobins Briefe ignoriert,
+
+Dafür jetzt die ganze Gruppe engagiert
+
+Den Kampf um Sandspitz nachzuspielen
+
+Auf des Theaters fulminanten Dielen.
+
+Kauft die Tickets jetzt, denn lasst euch sagen
+
+Die Premiere ist schon in fünf Tagen!
+
+Vom Theater ging's fast direkt weiter hin
+
+mit dem Vogt zum Rathaus und der Bürgermeisterin.
+
+Dort trafen wir die mächt'ge Schalelu
+
+Denn die Golbins schlugen in der Nähe zu.
+
+Höfe nah dem Mooswald wurden angezündet
+
+und die Goblinstämme haben sich verbündet
+
+Und ihr werdet es gewiss schon ahnen
+
+Mit Helden wie uns kann man planen
+
+Vor den Goblins, diesen Leidigen
+
+Werden wir Sandspitze gewissenhaft verteidigen
+
+Ein solcher Eid machte eine trock'ne Kehle
+
+Und wir hatten noch manche Frage auf der Seele.
+
+So trafen wir Schlalelu in der Zwei Ritter Brauerei
+
+Zur Vorbereitung der Goblinhauerei.
+
+Erst nach der Rückkehr in den Rost'gen Drachen
+
+Sollten wir die nächste Entdeckung machen
+
+Denn Ameiko, die Wirtin, war verschwunden
+
+Und stattdessen wurde nur ein Brief gefunden
+
+Von ihrem Bruder, lang geglaubt verloren
+
+Der zu einem geheimen Treffen sie hatte beschworen
+
+Eine Menge hat der letzte Tag gebracht
+
+Und nun steh'n wir hier in finst'rer Nacht.
+
+#### Tag 5 ####
+
+Zu Ende des Tages fanden wir einen Brief
+
+der Ameiko zu einem geheimen Treffen rief.
+
+Die Zeit drängte und ohne lange zu verweilen
+
+machten wir uns dran zur Hilfe ihr zu eilen.
+
+Die Glashütte, ihres Vaters wie wir lernen würden,
+
+stellte uns vor manche unerwartet' Hürden.
+
+Alle Fenster, alle Türen waren fest veriegelt
+
+was erst recht nicht uns're Neugier zügelt
+
+Wir scheiterten durch's Dachfenster hineinzulugen
+
+weil wir keine Leiter bei uns trugen
+
+Und es wollte uns auch nicht gelingen
+
+Die Wände kletternd zu bezwingen
+
+Fox stellte schließlich überraschend fest,
+
+dass sich der Nebeneingang öffnen lässt.
+
+In der Hütte müssen wir nicht lange suchen
+
+bis wir wieder über Goblins fluchen
+
+die den größten Raum bewachten
+
+während wir uns leise auf die Socken machten
+
+um den Rest des Hauses zu erkunden
+
+in langen und ergebnislosen Stunden.
+
+Und so gibt's nicht viel zu Berichten,
+
+außer dem Ergebnis, einem schlichten.
+
+Mit Goblins reden, das muss ich euch nicht sagen,
+
+bringt nichts, also muss man sie halt schlagen.
+
+---- Tag 6 ----
+
+Wir begannen sofort mitten im Gefecht,
+
+ist zur Abwechslung auch mal recht.
+
+Mako, schön geschmückt mit Ponyschopf,
+
+trennte Goblins reihenweis' von ihrem Kopf
+
+und so versank Fox schon zu Beginn in Goblinblut
+
+und zeigte leicht verstört gar übertrieb'nen Mut.
+
+Die Goblins fallen Stück für Stück
+
+und manche ziehen sich sogar zurück.
+
+Und als der Kampf schon fast gewonnen war
+
+dachte mancher wohl schon "Wunderbar!"
+
+Der letzte Goblin hat nur noch ein HP
+
+und darum tat's nochmal besonders weh
+
+als er Fox mit Scherben fast ums Leben bringt
+
+worauf mancher wohl mit seinen Entscheidungen ringt.
+
+Hätte etwa mancher länger nachgedacht,
+
+hätt' er vorher manch anderes gemacht
+
+und sich vielleicht doch nicht hingelegt
+
+sondern sich noch etwas fortbewegt.
+
+Letztlich wurde Fox' Leben doch noch gerettet
+
+Von eurem Barden selbst, wer hätte es gewettet.
+
+Doch kaum dass der erste Kampf vorüber war
+
+War'n auch schon die nächsten Goblins da
+
+Mit denen auch Ameikos Bruder Tsuto aus dem Keller kam
+
+und 's sah aus als passten wir ihm gar nicht in den
+[Kram.di](http://kram.di/)
+
+Doch auch diese Goblins wurden fix geschlachtet
+
+woraufhin nur Tsuto noch nach uns'rem Leben trachtet.
+
+Auch Fafnir hätt' es zwischendurch noch fast erwischt,
+
+Ist seine Untreffbarkeit wohl doch nur ein Gerücht?
+
+Doch natürlich kann auch Tsuto eure Helden nicht bezwingen
+
+Sonst könnte ich unsere Taten grad auch nicht besingen.
+
+Und während die Gruppe weiter in der Hütte weilt
+
+wurden Fafnir und Tsuto beide noch geheilt
+
+Tsuto wurde natürlich zuerst fest gebunden
+
+Und nun schauen wir gebannt auf die nächsten Stunden.
+
+Kampf:
+
+- Mako zerfetzt Goblin und Fox wird traumatisiert
+
+- Goblin fast tot, trifft Fox kritisch, blutet und stirbt fast
+
+- Tobin kann nicht rechtzeitig heilen, weil er sich hingelegt hat
+
+- Ameikos Bruder taucht auf und kämpf mit Goblins
+
+- Goblin trifft Brocc kritisch genau ins Auge
+
+- Tsuto ist besiegt, aber stabilisiert und gefesselt
+
+---- Tag7 ----
+
+Zuerst durchsuchten wir Tsutos Taschen
+
+um einen Einblick in seine Motive zu erhaschen.
+
+Und das gelang schon beim ersten Versuch,
+
+denn wir fanden unter anderem sein Tagebuch.
+
+Während außer Gina alle weiterziehen um den Keller zu erkunden
+
+schmökert Gina drin, gefühlt für ein paar Stunden,
+
+Vom Keller geht ein Gang nach draußen in den Wald,
+
+den zu erkunden verschoben wir jedoch erstmal auf "bald".
+
+Der Keller war ein Schmugglerversteck würd' ich wetten,
+
+doch das kann warten, denn erst mussten wir Ameiko retten.
+
+Fox und Hagen brachten sie zurück in die Taverne,
+
+während Gina vordringt zu des Pudel's Kerne
+
+und die Gruppe über Tsutos Taten informiert
+
+die sie aus dem Tagebuch hat extrahiert.
+
+Tsuto ist im Bunde mit seltsamen Dämonen
+
+und den Goblins, die in den nahen Wäldern wohnen.
+
+Er hat die Angriffe auf Sandspitze orchestriert
+
+und alles in seinem Tagebuch dokumentiert.
+
+Dieses neugewonn'ne Wissen will die Gruppe teilen,
+
+weshalb Hagen zum Priester und Tobin zur Bürgermeisterin eilen.
+
+Der Priester kommt zuerst und hält uns wohl für Schlächter,
+
+macht kehrt und holt erstmal die Wächter.
+
+Die Wächter sind zunächst rein gar nicht amüsiert
+
+bis die Bürgermeisterin erscheint und uns exkulpiert.
+
+Auf uns're Bitte wird noch Tsuto zum Verhör geweckt,
+
+doch der ist wohl nicht zum Sprechen aufgelegt.
+
+Und so bleibt der Gruppe nichts als es Ameiko gleichzutun,
+
+also zur Taverne zu gehen und sich auszuruh'n.
+
+Frisch erholt und voller Tatendrang
+
+erinner'n wir uns an den myst'riösen Gang
+
+in der Glashütte Keller Richtung Wald
+
+und beschließen jetzt ist's soweit, jetzt ist's "bald".
+
+- Gina liest Tsutos Tagebuch
+
+- Rest der Gruppe erforscht den Keller
+
+- Aufzeichnungen der Schmuggler gefunden
+
+- Ameiko gefunden und gerettet
+
+- Fox und Hagen bringen Ameiko zum Drachen
+
+- Gina informiert den Rest
+
+- Fox und Hagen kommen zurück
+
+- Hagen holt den Priester, Tobin die Bürgermeisterin
+
+- Priester holt die Stadtwache (alles ist voller Leichen)
+
+- Bürgermeisterin bestätigt dass Gruppe gut ist
+
+- Tsuto wird verhört und sagt nichts
+
+- Gruppe wird geheilt und geht schlafen
+
+- Gruppe geht Richtung Dungeon und macht bei Brodert Station
