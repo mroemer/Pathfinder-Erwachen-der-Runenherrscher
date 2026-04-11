@@ -1,3 +1,201 @@
+# Sitzung 8. April 2026: Neuer Lagerplatz vor der Ranickfeste
+
+Nach der überstürzten Flucht vor den Ogern bringt sich die Gruppe
+zunächst in Sicherheit und entscheidet, das alte Lager endgültig
+aufzugeben. Statt zurückzukehren, wird in der Dunkelheit an anderer
+Stelle ein neues, provisorisches Lager errichtet. Ausschlaggebend ist
+vor allem die Überlegung, dass die Oger den alten Lagerplatz nun kennen
+und eine Rückkehr dorthin in derselben Nacht unnötig riskant wäre.
+
+Mit einer Lagerfeuerperle wird rasch wieder ein Feuer entfacht, und
+zwischen Anspannung, Müdigkeit und Galgenhumor beginnt die Gruppe, die
+Lage neu zu ordnen. Bereits hier zeigt sich eine wichtige Unsicherheit:
+Niemand kann verlässlich sagen, wie schnell das präparierte Bier wirkt
+-- oder ob es bei Ogern überhaupt den erhofften Effekt auslöst.
+
+## Gespräch mit dem Flüchtling
+
+Am Feuer kommt es endlich zu einem ruhigen Gespräch mit dem Mann, der
+die Gruppe gewarnt hatte. Er stellt sich als **Ralven** vor, einen
+Händler, der gelegentlich die Waldläufer der Ranickfeste beliefert.
+
+Sein Bericht fügt sich schlüssig zusammen:
+
+- Er war auf dem Weg zur Festung, als ihn Oger überwältigten
+
+- Danach wurde er in die Ranickfeste verschleppt und eingesperrt
+
+- Er war dort seit einigen Tagen gefangen und offenbar der einzige
+    menschliche Gefangene
+
+- Seine Flucht gelang, als man ihn aus der Zelle holte und er einen
+    Moment des Chaos ausnutzen konnte
+
+- Über einen Abfluss bzw. Abwasserkanal entkam er aus der Festung
+
+Tobin prüft seine Geschichte aufmerksam und kommt zu dem Schluss, dass
+Ralven die Wahrheit sagt. Fafnir untersucht ihn, findet nur leichtere
+Verletzungen, bemerkt seine Erschöpfung und versorgt ihn mit Wasser.
+
+Viel taktisch Verwertbares kann Ralven allerdings nicht beitragen:
+
+- Er kennt weder Wachwechsel noch Schwächen der Oger
+
+- Er hat von der Festung kaum mehr gesehen als den Weg zur Zelle und den
+    Hof bei seiner Flucht
+
+- Im Hof sah er nachts dennoch etliche Oger -- grob vielleicht ein
+    Dutzend
+
+Klar wird nur, dass die Feste weiterhin fest in Ogerhand ist und dort
+auch nachts Aktivität herrscht. Ralven selbst würde am liebsten so
+schnell wie möglich sicher nach Hause gebracht werden, doch die Gruppe
+hält den Rückweg derzeit nicht für sicher genug.
+
+## Rückkehr zum alten Lager
+
+Um die Folgen der Flucht einzuschätzen, schleicht Fox zurück zum
+verlassenen Lagerplatz. Dort bestätigt sich das Schlimmste:
+
+- Die **vergifteten Bierfässer** sind verschwunden
+
+- Das **Maultier** wurde mitgenommen
+
+- Der **Wagen** ist zu Asche verbrannt
+
+Damit ist klar, dass die Oger die Fässer tatsächlich entdeckt und vom
+Lager fortgeschafft haben. Zurückgelassen haben sie nichts.
+
+## Spur zurück zur Festung
+
+Die Gruppe beschließt daraufhin, vom alten Lager aus die Spur der Oger
+aufzunehmen. Das erweist sich als einfach, denn mehrere der Kreaturen
+sind in wilder Hast durch den Wald gebrochen und haben eine deutliche
+Schneise hinterlassen.
+
+Unterwegs finden sich jedoch weder zurückgebliebene Oger noch Reste der
+Fässer. Alles deutet darauf hin, dass die Beute bereits bis zur
+Ranickfeste gebracht wurde. Die Hoffnung, vielleicht schon unterwegs auf
+vergiftete oder geschwächte Oger zu stoßen, zerschlägt sich damit
+zunächst.
+
+## Nächtliche Beobachtung der Ranickfeste
+
+Erneut nähert sich die Gruppe der Festung vorsichtig aus dem Schutz des
+Waldes. In der Dunkelheit ist deutlich weniger zu erkennen als am Tag,
+doch einige Dinge lassen sich feststellen:
+
+- Auf den Türmen und Zugängen stehen weiterhin Wachen
+
+- Die Zahl der sichtbaren Wachposten wirkt ungefähr so hoch wie zuvor
+
+- Aus dem Inneren der Festung dringen noch immer Geräusche von Ogern
+
+- Im Hof scheint jedoch weniger Betrieb zu herrschen als tagsüber
+
+Diese Beobachtungen reichen nicht aus, um sicher zu sagen, ob das Gift
+bereits Wirkung zeigt. Zwar erinnert sich Tobin an seine Recherche,
+wonach Oger oft schlechte Wächter seien und eher mit List als im offenen
+Kampf besiegt würden; zugleich passt das geordnete Verhalten der Wachen
+noch immer nicht ganz zu diesem Bild. Ein unmittelbarer Nachtangriff
+erscheint der Gruppe deshalb zu riskant.
+
+## Zähe Taktikdiskussion
+
+Zurück im zweiten Lager entspinnt sich eine lange, teils ernsthafte,
+teils herrlich absurde Diskussion über das weitere Vorgehen. Klar ist:
+Ein Frontalangriff auf eine Festung voller Oger wäre Wahnsinn. Ebenso
+klar ist aber auch, dass bloßes Abwarten das Problem nicht lösen wird.
+
+Die Gruppe wägt verschiedene Ansätze ab:
+
+- Ogertrupps durch Köder oder provozierte Sichtung herauslocken
+
+- mit Fallen, Engstellen oder glattem Boden arbeiten
+
+- Schockechsen aus den Höhlen in Richtung Festung treiben
+
+- einen Hinterhalt an einem der Wege vor der Festung vorbereiten
+
+- den Überraschungseffekt des möglicherweise bereits getrunkenen Gifts
+    ausnutzen
+
+Mehrere Ideen werden wieder verworfen, etwa ein direkter Nachtvorstoß
+oder der Einsatz von Zivilisten als Köder. Am Ende setzt sich erneut die
+Einsicht durch, dass die Oger am besten stückweise dezimiert werden
+sollen.
+
+## Nacht im zweiten Lager
+
+Nach kurzer Beratung fällt die Entscheidung gegen einen Vorstoß in der
+Nacht. Stattdessen will die Gruppe bis zum Morgen warten und dann
+versuchen, einzelne Oger oder kleinere Trupps aus der Festung zu locken,
+um sie in einem vorbereiteten Hinterhalt auszuschalten.
+
+Bevor die Nacht endet, werden noch Wachen eingeteilt. Trotz einiger
+Nervosität und einzelner eingebildeter Waldgeräusche bleibt es diesmal
+ruhig: Kein weiterer Ogertrupp stößt zum Lager vor. Die Gruppe bekommt
+zumindest etwas Schlaf, ehe am Morgen der erste echte Lockversuch
+vorbereitet wird.
+
+## Plan für den Morgen
+
+Für den nächsten Tag konkretisiert sich ein Plan:
+
+- **Kyras** soll den **Verkleidungshut** nutzen, um wie Ralven zu wirken
+
+- Der Rest der Gruppe bereitet abseits der Festung an einem günstigen,
+    leicht eingesenkten Wegstück einen Hinterhalt vor
+
+- Falls nur wenige Oger herauskommen, sollen sie dort überfallen werden
+
+- Falls zu viele Oger erscheinen, soll Kyras sie fortlocken und den
+    Rückzug ermöglichen
+
+Mit Hilfe des Hutes gelingt Kyras eine überzeugende Verwandlung in den
+Händler. Jakardros weist der Gruppe eine geeignete Stelle zu: weit genug
+von der Festung entfernt, um nicht gesehen oder gehört zu werden, aber
+nah genug, um Verfolger dort abzufangen.
+
+## Der erste Lockversuch
+
+Kyras nähert sich am Morgen vorsichtig dem Südtor, sichtbar genug, um
+aufzufallen, aber nicht so offen, als würde er einen Angriff
+herausfordern. Die Wachen auf dem Turm bleiben zunächst auf ihren
+Posten. Erst nach einiger Zeit bemerkt einer von ihnen die Bewegung und
+schlägt Alarm.
+
+Schließlich öffnet sich das Tor -- doch nicht die ganze Festung stürzt
+heraus. Stattdessen verlassen **zwei Oger** die Anlage und nehmen die
+Verfolgung auf, während die Wachposten auf den Türmen bleiben.
+
+Kyras rennt los, lockt die beiden Verfolger den vorbereiteten Weg entlang
+und führt sie direkt in Richtung des verborgenen Hinterhalts der Gruppe.
+Genau in diesem Moment endet die Sitzung, kurz bevor der vorbereitete
+Überfall auf die beiden Oger ausgespielt wird.
+
+## Aktueller Stand
+
+- Ralven ist als glaubwürdiger, aber nur begrenzt informativer Zeuge
+    gesichert
+
+- Das alte Lager ist verloren; Wagen und Maultier sind weg
+
+- Die vergifteten Fässer befinden sich sehr wahrscheinlich in der
+    Ranickfeste
+
+- Die Wirkung des Gifts bleibt unklar und kann noch nicht zuverlässig
+    eingeschätzt werden
+
+- Die Oger zeigen in der Nacht weiterhin Wachsamkeit, reagieren aber auf
+    sichtbare Beute nicht mit voller Streitmacht
+
+- Die Gruppe setzt nun auf **Hinterhalt statt Frontalangriff**
+
+- Der erste Lockversuch ist gelungen: **zwei Oger** sind aus der Feste
+    herausgelockt und werden direkt in einen vorbereiteten Hinterhalt
+    geführt
+
 # Sitzung 18. März 2026: Aufklärung vor der Ranickfeste
 
 Der neue Tag beginnt ruhig. Das versteckte Lager der Gruppe, etwa eine
