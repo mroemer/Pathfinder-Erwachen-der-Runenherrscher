@@ -5,81 +5,74 @@ Stunde von der Ranickfeste entfernt, bleibt unentdeckt. Die Nacht
 verläuft ohne Zwischenfälle -- auch wenn Tobin während seiner Wache kurz
 eingenickt ist, erwacht er rechtzeitig, sodass niemand etwas bemerkt.
 
-## **Aufbruch zur Aufklärung**
+## Aufbruch zur Aufklärung
 
 Die Gruppe teilt sich für die Erkundung:
 
--   **Im Lager bleiben:** Tobin und Fafnir (unterstützt von den
-    > Schwarzpfeilen)
+- **Im Lager bleiben:** Tobin und Fafnir (unterstützt von den Schwarzpfeilen)
 
--   **Voraus-Trupp:** Gina, Fox und Jakardros
+- **Voraus-Trupp:** Gina, Fox und Jakardros
 
--   **Absicherung im Hintergrund:** Brocc, Hagen und Mako
+- **Absicherung im Hintergrund:** Brocc, Hagen und Mako
 
 Ziel ist es, sich der Festung vorsichtig zu nähern, ohne entdeckt zu
 werden.
 
-## **Beobachtungen an der Ranickfeste**
+## Beobachtungen an der Ranickfeste
 
 Bereits aus der Entfernung wird deutlich, dass die Festung vollständig
 in Ogerhand ist:
 
--   Ein widerlicher Gestank aus Blut, Verwesung und Alkohol liegt in der
-    > Luft
+- Ein widerlicher Gestank aus Blut, Verwesung und Alkohol liegt in der Luft
 
--   Schädel, Leichen und grausame Trophäen hängen um die Anlage
+- Schädel, Leichen und grausame Trophäen hängen um die Anlage
 
--   Grobes Gelächter hallt von den Mauern
+- Grobes Gelächter hallt von den Mauern
 
-**Wichtige Erkenntnisse:**
+### Wichtige Erkenntnisse
 
--   **Wachen:
-    > **Jeweils **3 Oger pro Tor (Nord & Süd)** → insgesamt mindestens 6
-    > sichtbar
+- **Wachen: **Jeweils **3 Oger pro Tor (Nord & Süd)** → insgesamt mindestens 6 sichtbar
 
--   **Weitere Aktivität:**
+- **Weitere Aktivität:**
 
-    -   Eine Patrouille von **5 Ogern** verlässt die Festung Richtung
-        > Nordosten
+    - Eine Patrouille von **5 Ogern** verlässt die Festung Richtung Nordosten
 
-    -   Später eine kleinere Patrouille von 2 Ogern am Fluss
+    - Später eine kleinere Patrouille von 2 Ogern am Fluss
 
--   **Tagesablauf:**
+- **Tagesablauf:**
 
-    -   Erste Beobachtungen um Mittag
+    - Erste Beobachtungen um Mittag
 
-    -   **Schichtwechsel am Nachmittag**
+    - **Schichtwechsel am Nachmittag**
 
-    -   **Weiterer Wechsel bei Einbruch der Nacht**
+    - **Weiterer Wechsel bei Einbruch der Nacht**
 
--   **Gesamtzahl (geschätzt):
-    > **Deutlich mehr als ein Dutzend -- wahrscheinlich **30+ Oger** in
-    > der Festung
+- **Gesamtzahl (geschätzt): **Deutlich mehr als ein Dutzend -- wahrscheinlich **30+ Oger** in der Festung
 
-**Zugänge zur Festung (durch Jakardros bestätigt):**
+### Zugänge zur Festung (durch Jakardros bestätigt):
 
--   Höhleneingang hinter dem Wasserfall (B9) -- Schockechsen vermutet
+- Höhleneingang hinter dem Wasserfall (B9) -- Schockechsen vermutet
 
--   Abwasserkanal (B7) -- eng, aber passierbar
+- Abwasserkanal (B7) -- eng, aber passierbar
 
--   Haupttore -- stark bewacht
+- Haupttore -- stark bewacht
 
-## **Fox verfolgt die Patrouille**
+## Fox verfolgt die Patrouille
 
 Fox schleicht den fünf Ogern nach, um ihr Verhalten zu studieren:
 
--   Die Oger bewegen sich zunächst zielgerichtet
+- Die Oger bewegen sich zunächst zielgerichtet
 
--   Verlassen den Weg und gehen in den Wald → offenbar Jagdverhalten
+- Verlassen den Weg und gehen in den Wald → offenbar Jagdverhalten
 
 Ein Fehler:
 Fox tritt auf einen Zweig -- die Oger werden aufmerksam.
 
 **Reaktion:**
 
--   Fox reagiert schnell, lenkt sie mit einem geworfenen Stein ab
+- Fox reagiert schnell, lenkt sie mit einem geworfenen Stein ab
 
--   Entkommt unentdeckt
+- Entkommt unentdeckt
 
 Später kehren die Oger mit einem erlegten Hirsch zur Festung zurück.
 
@@ -87,7 +80,7 @@ Später kehren die Oger mit einem erlegten Hirsch zur Festung zurück.
 **Ogerpatrouillen sind nicht nur Wachen, sondern auch Jagdtrupps -- und
 bewegen sich unvorhersehbar durch den Wald.
 
-## **Zwischenszene im Lager**
+## Zwischenszene im Lager
 
 Währenddessen sorgt ein vermeintliches Geräusch für Aufregung:
 Tobin entdeckt ein „bedrohliches Rascheln" -- das sich als Kaninchen
@@ -95,52 +88,52 @@ herausstellt.
 
 Kurz darauf gibt es im Lager frisch zubereitetes Kaninchen.
 
-## **Weitere Beobachtungen & Einschätzung**
+## Weitere Beobachtungen & Einschätzung
 
 Die Gruppe verbringt mehrere Stunden mit Beobachtung:
 
--   Oger sind laut, streitlustig, aber erstaunlich organisiert
+- Oger sind laut, streitlustig, aber erstaunlich organisiert
 
--   Wachen bleiben lange auf Position
+- Wachen bleiben lange auf Position
 
--   Innerhalb der Festung herrscht ständiger Lärm und Bewegung
+- Innerhalb der Festung herrscht ständiger Lärm und Bewegung
 
 **Auffälligkeit:
 **Das Verhalten widerspricht Tobins Wissen über Oger (chaotisch,
 undiszipliniert).
 → **Hinweis auf eine starke Führung oder äußeren Einfluss**
 
-## **Rückkehr ins Lager & Taktikdiskussion**
+## Rückkehr ins Lager & Taktikdiskussion
 
 Am Abend kehrt die Gruppe ins Lager zurück und bespricht mögliche
 Strategien:
 
 **Diskutierte Ansätze:**
 
--   Jagdtrupp isolieren und ausschalten
+- Jagdtrupp isolieren und ausschalten
 
--   Oger mit vergiftetem Bier schwächen
+- Oger mit vergiftetem Bier schwächen
 
--   Ablenkungsmanöver an einem Tor
+- Ablenkungsmanöver an einem Tor
 
--   Einsatz der Schockechsen als Chaosfaktor
+- Einsatz der Schockechsen als Chaosfaktor
 
--   Infiltration über Tunnel oder Abwasserkanal
+- Infiltration über Tunnel oder Abwasserkanal
 
--   Unsichtbarkeit für Spähaktionen
+- Unsichtbarkeit für Spähaktionen
 
 Ein klarer Plan entsteht noch nicht, aber ein Ansatz kristallisiert sich
 heraus:
 → **Schwächung der Oger durch gezielte, kleine Angriffe statt
 Frontalangriff**
 
-## **Unerwartete Wendung -- Der Flüchtling**
+## Unerwartete Wendung -- Der Flüchtling
 
 Als die Nacht hereinbricht, wird die Ruhe jäh gestört:
 
--   Rascheln im Wald → diesmal eindeutig kein Tier
+- Rascheln im Wald → diesmal eindeutig kein Tier
 
--   Ein schwer verletzter Mensch bricht aus dem Unterholz hervor
+- Ein schwer verletzter Mensch bricht aus dem Unterholz hervor
 
 Fafnir heilt ihn notdürftig.
 
@@ -153,57 +146,54 @@ wird.
 
 Tobin bestätigt seine Aufrichtigkeit.
 
-## **Flucht aus dem Lager**
+## Flucht aus dem Lager
 
 Die Situation eskaliert sofort:
 
--   Die Gruppe entscheidet sich für einen **sofortigen Rückzug**
+- Die Gruppe entscheidet sich für einen **sofortigen Rückzug**
 
--   Zwei **vergiftete Bierfässer** werden bewusst zurückgelassen
+- Zwei **vergiftete Bierfässer** werden bewusst zurückgelassen
 
--   Lager wird aufgegeben, restliche Spuren nur begrenzt verwischt
+- Lager wird aufgegeben, restliche Spuren nur begrenzt verwischt
 
--   Bewegung **weg von der Achse Festung -- Flüchtling**, um Verfolger
-    > zu täuschen
+- Bewegung **weg von der Achse Festung -- Flüchtling**, um Verfolger zu täuschen
 
 **Aufklärung während der Flucht:**
 
--   Fox späht voraus
+- Fox späht voraus
 
--   Entdeckt einen sich nähernden Ogertrupp (**ca. 5--9 Oger**)
+- Entdeckt einen sich nähernden Ogertrupp (**ca. 5--9 Oger**)
 
 Die Gruppe entkommt knapp und bringt sich gemeinsam mit dem Flüchtling
 in Sicherheit.
 
-## **Aktueller Stand**
+## Aktueller Stand
 
--   Die Gruppe ist **außer Gefahr**, aber ihr Lager ist verloren
+- Die Gruppe ist **außer Gefahr**, aber ihr Lager ist verloren
 
--   Die Oger sind aktiv im Umland unterwegs
+- Die Oger sind aktiv im Umland unterwegs
 
--   Ein möglicher **Kontakt aus der Festung (Flüchtling)** ist gesichert
+- Ein möglicher **Kontakt aus der Festung (Flüchtling)** ist gesichert
 
--   Erste wertvolle Erkenntnisse über:
+- Erste wertvolle Erkenntnisse über:
 
-    -   Wachen
+    - Wachen
 
-    -   Patrouillen
+    - Patrouillen
 
-    -   Tagesabläufe
+    - Tagesabläufe
 
-    -   mögliche Schwachstellen
+    - mögliche Schwachstellen
 
-## **Offene Fragen**
+## Offene Fragen
 
--   Wer ist der Flüchtling genau -- und was weiß er über die Festung?
+- Wer ist der Flüchtling genau -- und was weiß er über die Festung?
 
--   Warum wirken die Oger so organisiert?
+- Warum wirken die Oger so organisiert?
 
--   Wie kann die Gruppe die Festung infiltrieren, ohne entdeckt zu
-    > werden?
+- Wie kann die Gruppe die Festung infiltrieren, ohne entdeckt zu werden?
 
--   Welche Rolle können Gift, Ablenkung und Umgebung (Schockechsen)
-    > spielen?
+- Welche Rolle können Gift, Ablenkung und Umgebung (Schockechsen) spielen?
 
 Die Lage bleibt angespannt -- doch erstmals hat die Gruppe ein klareres
 Bild des Feindes.
@@ -258,13 +248,13 @@ harmlose Versorgungsfahrt zur Ranickfeste.
 
 Zusätzlich besorgt die Gruppe:
 
--   mehrere **Fässer Bier**
+- mehrere **Fässer Bier**
 
--   **Proviant für mehrere Tage**
+- **Proviant für mehrere Tage**
 
--   zusätzliche **Munition**
+- zusätzliche **Munition**
 
--   einfache **Tarnstoffe**
+- einfache **Tarnstoffe**
 
 Ein teures **Fernglas** wird kurz erwogen, aber wegen seines enormen
 Preises verworfen.
@@ -288,13 +278,13 @@ Feind besser zu verstehen.
 Am Ende treffen sich alle wieder in der Taverne. Die Ergebnisse werden
 zusammengetragen:
 
--   Das **Nachtschatten-Sedativum** ist fertig.
+- Das **Nachtschatten-Sedativum** ist fertig.
 
--   Ein **Wagen mit Bierfässern** steht bereit.
+- Ein **Wagen mit Bierfässern** steht bereit.
 
--   **Vorräte und Ausrüstung** wurden besorgt.
+- **Vorräte und Ausrüstung** wurden besorgt.
 
--   Die **Schwarzpfeile** sind bereit, gemeinsam aufzubrechen.
+- Die **Schwarzpfeile** sind bereit, gemeinsam aufzubrechen.
 
 Nach einer kurzen Stärkung beschließt die Gruppe, noch am selben Tag
 aufzubrechen.
@@ -342,7 +332,7 @@ die Gruppe gemeinsam mit den drei befreiten Schwarzpfeilen --
 **Schildkrötenfähre** zurück. Die Nacht verlief ruhig, und erstmals seit
 Langem konnte man sich sammeln.
 
-## **Heilung und Gerüchte**
+## Heilung und Gerüchte
 
 Fafnir kümmerte sich um Gina und heilte ihre Krankheit, nicht ohne zuvor
 in gespielter Entrüstung zu betonen, ein ehrlicher Zwerg zu sein -- ein
@@ -363,7 +353,7 @@ Jemand drückte Tobin zudem ein Buch von **Dr. Dranzel** in die Hand:
 das Werk entgegen -- und begann unauffällig nach einem geeigneten
 Mülleimer Ausschau zu halten.
 
-## **Führung und Kummerkasten**
+## Führung und Kummerkasten
 
 Die Schwarzpfeile stießen zur Gruppe, als diese das Frühstück beendete.
 Ein kurzer Austausch führte zu einer halb ernsten, halb spöttischen
@@ -376,7 +366,7 @@ ausgesprochen, begann er demonstrativ eine Beschwerde zu verfassen,
 während Kyras trocken vorschlug, Hagen könne doch als „Mittelschicht"
 zwischen Führung und "Plebs" fungieren.
 
-## **Taktische Besprechung: Die Ranickfeste**
+## Taktische Besprechung: Die Ranickfeste
 
 Im Gemeinschaftsraum entfaltete sich die eigentliche Arbeit. Jakardros
 zeichnete den Grundriss der Feste Ranik auf, während die Gruppe sich
@@ -391,41 +381,27 @@ damals beinahe überrannt worden.
 
 **Mögliche Zugänge:**
 
-1.  **Der nördliche Felsvorsprung** unter einem Adlerhorst -- nur durch
-    > Flug erreichbar. Der frühere Zugang ist eingestürzt, vermutlich
-    > unbewacht.
+1.  **Der nördliche Felsvorsprung** unter einem Adlerhorst -- nur durch Flug erreichbar. Der frühere Zugang ist eingestürzt, vermutlich unbewacht.
 
-2.  **Geheime Tunnel**, seit Jahrzehnten ungenutzt, deren Eingang gut
-    > verborgen, aber bekannt ist. Dort leben **Schockechsen** --
-    > hundegroße, zweihörnige Echsen mit grün schimmernden Schuppen,
-    > über die Elektrizität tanzt. Nicht grundsätzlich aggressiv, doch
-    > sie verteidigen ihre Eier erbittert -- und in den engen, alten
-    > Gängen könne bereits ein falscher Schritt, ein loser Stein oder
-    > unbedachte Bewegung genügen, um sie aufzuschrecken.
+2.  **Geheime Tunnel**, seit Jahrzehnten ungenutzt, deren Eingang gut verborgen, aber bekannt ist. Dort leben **Schockechsen** -- hundegroße, zweihörnige Echsen mit grün schimmernden Schuppen, über die Elektrizität tanzt. Nicht grundsätzlich aggressiv, doch sie verteidigen ihre Eier erbittert -- und in den engen, alten Gängen könne bereits ein falscher Schritt, ein loser Stein oder unbedachte Bewegung genügen, um sie aufzuschrecken.
 
-3.  **Das Schleusentor an der Südwand**, durch das Abwasser in den Bach
-    > geleitet wird -- ein möglicher heimlicher Zugang.
+3.  **Das Schleusentor an der Südwand**, durch das Abwasser in den Bach geleitet wird -- ein möglicher heimlicher Zugang.
 
 Es folgte eine lebhafte, teils sehr kreative Diskussion:
 
--   Die Schockechsen auf die Oger hetzen -- etwa durch Ausräuchern der
-    > Tunnel.
+- Die Schockechsen auf die Oger hetzen -- etwa durch Ausräuchern der Tunnel.
 
--   Sich mithilfe des Verkleidungshutes als Oger -- oder gar als einer
-    > der Graul-Sippe -- auszugeben, um eingelassen zu werden, auch wenn
-    > Sprache und Statur dabei erhebliche Hürden darstellen.
+- Sich mithilfe des Verkleidungshutes als Oger -- oder gar als einer der Graul-Sippe -- auszugeben, um eingelassen zu werden, auch wenn Sprache und Statur dabei erhebliche Hürden darstellen.
 
--   Vergiftetes Bier einschmuggeln oder ein präpariertes Fass als
-    > trojanisches Geschenk anbieten, um die Zahl der Oger vor einem
-    > offenen Gefecht zu reduzieren.
+- Vergiftetes Bier einschmuggeln oder ein präpariertes Fass als trojanisches Geschenk anbieten, um die Zahl der Oger vor einem offenen Gefecht zu reduzieren.
 
--   Berücksichtigung der Tatsache, dass Oger im Dunkeln sehen können.
+- Berücksichtigung der Tatsache, dass Oger im Dunkeln sehen können.
 
 Jakardros schlug schließlich vor, zunächst nahe der Feste zu rasten und
 die Lage auszuspähen -- insbesondere Patrouillenbewegungen und
 Wachverhalten zu beobachten -- bevor man sich endgültig festlegt.
 
-## **Gespräch mit dem Bürgermeister**
+## Gespräch mit dem Bürgermeister
 
 Anschließend suchte die Gruppe den Bürgermeister auf. Hagen führte das
 Gespräch. Die Schwarzpfeile berichteten vom Fall der Feste -- Wochen war
@@ -441,7 +417,7 @@ zumindest Zutaten. Außerdem sei der fahrende Händler **Gellin
 Schwatzbart** in der Stadt -- derselbe, mit dem die Gruppe angereist
 war.
 
-## **Der Fallensteller und der siebenzackige Stern**
+## Der Fallensteller und der siebenzackige Stern
 
 Zurück in der Taverne hielt die Gruppe Ausschau nach einem
 Fallensteller. Tobin erkannte ihn an einem Fuchshut und begann ein
@@ -488,21 +464,17 @@ Tobin zog sich schließlich zurück -- mit neuen Fragen, einem bestätigten
 Zusammenhang zum Namen **Lucrezia** und dem beunruhigenden Zeichen des
 siebenzackigen Sterns.
 
-## **Aktueller Stand**
+## Aktueller Stand
 
--   Die Gruppe ist erholt und plant das weitere Vorgehen gegen die Oger
-    > in der Ranickfeste.
+- Die Gruppe ist erholt und plant das weitere Vorgehen gegen die Oger in der Ranickfeste.
 
--   Mehrere Infiltrationsmöglichkeiten stehen zur Debatte.
+- Mehrere Infiltrationsmöglichkeiten stehen zur Debatte.
 
--   Ein mögliches Sedativum gegen Oger ist identifiziert.
+- Ein mögliches Sedativum gegen Oger ist identifiziert.
 
--   In Schildkrötenfähre existiert offenbar ein geheimer Zusammenhang um
-    > ein untergegangenes Schiff namens **„Paradies"**, Glücksspiel und
-    > das Zeichen des **Siebensterns**.
+- In Schildkrötenfähre existiert offenbar ein geheimer Zusammenhang um ein untergegangenes Schiff namens **„Paradies"**, Glücksspiel und das Zeichen des **Siebensterns**.
 
--   Der Name **Lucrezia** ist gefallen -- und wirft einen langen
-    > Schatten.
+- Der Name **Lucrezia** ist gefallen -- und wirft einen langen Schatten.
 
 Die Ruhe in Schildkrötenfähre wirkt trügerisch -- sowohl die Bedrohung
 durch die Oger in den Höhen als auch die verborgenen Verbindungen rund
@@ -525,28 +497,26 @@ nun reglosen „Pflanze" und einer weiteren Tür fand sich nichts von Wert.
 Fox lauschte an der Tür -- nichts. Kein Atem, kein Kratzen. Obwohl sie
 klemmte, ließ sie sich schließlich öffnen.
 
-## **A15 -- Die Truhe im Nebenraum**
+## A15 -- Die Truhe im Nebenraum
 
 Der kleine Raum barg eine große Truhe. Unverschlossen. Fast einladend.
 
 Fox öffnete sie -- und ihr Instinkt zahlte sich aus. Im Inneren fanden
 sich:
 
--   Ein mit Achaten besetzter Goldring (50 GM) -- unauffällig in Fox'
-    > Besitz übergegangen.
+- Ein mit Achaten besetzter Goldring (50 GM) -- unauffällig in Fox' Besitz übergegangen.
 
--   Eine Smaragd-Silber-Halskette (350 GM)
+- Eine Smaragd-Silber-Halskette (350 GM)
 
--   Ein Paar mit Perlen besetzter Lederhandschuhe -- **Fanghandschuhe**
+- Ein Paar mit Perlen besetzter Lederhandschuhe -- **Fanghandschuhe**
 
--   Ein Sack mit 210 GM, 452 SM und 108 KM
+- Ein Sack mit 210 GM, 452 SM und 108 KM
 
--   Eine Umhangschnalle aus roter Drachenschuppe mit Rubinintarsien (600
-    > GM)
+- Eine Umhangschnalle aus roter Drachenschuppe mit Rubinintarsien (600 GM)
 
--   Vollständige Ausrüstung, darunter Stiefel
+- Vollständige Ausrüstung, darunter Stiefel
 
--   Ein **Langbogen des Schocks +1**
+- Ein **Langbogen des Schocks +1**
 
 Alles wurde eingepackt. Fafnir identifizierte die Handschuhe als
 magisch: Sie verschmelzen nahezu unsichtbar mit den Händen ihres
@@ -628,11 +598,11 @@ ihre Kleidung war zerrissen und von Blut und Dreck verkrustet.
 
 Ihre Namen:
 
--   **Jakardros Sovark**
+- **Jakardros Sovark**
 
--   **Thal Temros**
+- **Thal Temros**
 
--   **Kaven Windstreich**
+- **Kaven Windstreich**
 
 Schwarzpfeile. Waldläufer der Feste Ranik.
 
@@ -703,7 +673,7 @@ Taverne unter, wo sie erstmals wieder in Sicherheit rasten konnten.
 ![](media/image4.png){width="12.822916666666666in"
 height="6.177083333333333in"}
 
-## **Aktueller Stand der Quests**
+## Aktueller Stand der Quests
 
 **„Rettet Fort Ranik vor den Ogern"
 **Die Gerüchte haben sich bestätigt: Feste Ranik ist gefallen. Drei
@@ -732,7 +702,7 @@ ausgeprägte Vorsicht, die den Ausschlag gab -- sie wollte vermeiden, im
 Keller eingekesselt zu werden. So fiel die Wahl zunächst auf das
 Obergeschoss.
 
-## **Obergeschoss -- Schlafkammer und Werkstatt**
+## Obergeschoss -- Schlafkammer und Werkstatt
 
 Fox führte die Gruppe an und öffnete eine laut knarzende Tür zu einer
 großen Schlafkammer. Der Raum war erfüllt von morbidem Dekor: sieben
@@ -751,30 +721,28 @@ Münzsack gegen einen Schädel aus und entschärfte so den Mechanismus.
 
 **Inhalt der Truhe:**
 
--   23 GM, 110 SM, 121 KM (Gruppenkasse)
+- 23 GM, 110 SM, 121 KM (Gruppenkasse)
 
--   Mehrere abgetrennte, teils skelettierte Finger -- Trophäen eines
-    > Ogers namens *Handhacker* (liegengelassen)
+- Mehrere abgetrennte, teils skelettierte Finger -- Trophäen eines Ogers namens *Handhacker* (liegengelassen)
 
 Der angrenzende Raum (A10) entpuppte sich als **Werkstatt eines
 Fallenbauers**. Überall lagen Phiolen, Tierfallen, Metallteile, Knochen
 und Müll. Fox fand unter einem Tisch:
 
--   fünf Glaskolben mit Säure (an Gina)
+- fünf Glaskolben mit Säure (an Gina)
 
--   drei vollständige Sätze **Diebeswerkzeug (Meisterarbeit)** (an Fox,
-    > heimlich)
+- drei vollständige Sätze **Diebeswerkzeug (Meisterarbeit)** (an Fox, heimlich)
 
 Die Diebeswerkzeuge verschwanden diskret bei Fox. Die Säurekolben
 wanderten schließlich zu Gina, die sie als improvisierte Wurfwaffen
 nutzen wollte.
 
-## **Abstieg in den Keller**
+## Abstieg in den Keller
 
 Zurück im Erdgeschoss entschied man sich mithilfe von Tobins
 berüchtigter Münze für den **Keller**. Fox ging erneut voran.
 
-### **A11 -- Gerberraum**
+### A11 -- Gerberraum
 
 Ein widerwärtiger Raum voller blutverschmierter Häute, trockenen Blutes
 und eines schlaffen, schädel­losen Gesichts aus gegerbter Haut. Der
@@ -784,7 +752,7 @@ zuhielt, um keinen unnötigen Lärm zu verursachen. Schnell wurde klar:
 Hier wurden die Häute hergestellt, die im ganzen Haus Möbel und Wände
 bedeckten.
 
-### **A12 -- Der Fallenbauer**
+### A12 -- Der Fallenbauer
 
 Fox hörte hinter der nächsten Tür leise Schritte, öffnete sie vorsichtig
 einen Spalt -- und schlug sie ebenso schnell wieder zu, als sie die
@@ -792,41 +760,37 @@ Gefahr erkannte. Erst nachdem Fafnir und Kyras sich bereit gemacht
 hatten, wurde die Tür erneut geöffnet. Dahinter lauerte ein Oger mit
 zwei monströsen Eselsratten.
 
-##### **Kampf: Oger und Eselsratten**
+##### Kampf: Oger und Eselsratten
 
 Der enge Raum machte den Kampf chaotisch und gefährlich. Während Tobin
 im Hintergrund seinen Rhythmus aufnahm und die Gruppe mit
 Trommelschlägen antrieb, brach das Gefecht los:
 
--   Brocc eröffnete mit einem Feuerball und verbrannte Ratten und Oger
-    > gleichermaßen.
+- Brocc eröffnete mit einem Feuerball und verbrannte Ratten und Oger gleichermaßen.
 
--   Gina wurde mehrfach schwer getroffen, hielt aber stand.
+- Gina wurde mehrfach schwer getroffen, hielt aber stand.
 
--   Fox eliminierte eine der Ratten mit tödlicher Präzision.
+- Fox eliminierte eine der Ratten mit tödlicher Präzision.
 
--   Brocc landete einen verheerenden kritischen Treffer mit
-    > Elektrizität.
+- Brocc landete einen verheerenden kritischen Treffer mit Elektrizität.
 
--   Kyras beendete den Kampf schließlich mit einem brutalen kritischen
-    > Schlag gegen den Oger.
+- Kyras beendete den Kampf schließlich mit einem brutalen kritischen Schlag gegen den Oger.
 
--   Makos Biss setzte der letzten Ratte ein Ende.
+- Makos Biss setzte der letzten Ratte ein Ende.
 
 **Beute und Erkenntnisse:**
 
--   Trank *Mittelschwere Wunden heilen* (an Fox)
+- Trank *Mittelschwere Wunden heilen* (an Fox)
 
--   Amulett der natürlichen Rüstung +1 (an Fafnir)
+- Amulett der natürlichen Rüstung +1 (an Fafnir)
 
--   Fellrüstung +1 (an Kyras)
+- Fellrüstung +1 (an Kyras)
 
--   Ogerhaken +1 (in den Nimmervollen Beutel gepackt)
+- Ogerhaken +1 (in den Nimmervollen Beutel gepackt)
 
--   235 GM (Gruppenkasse)
+- 235 GM (Gruppenkasse)
 
--   Sammlung abgetrennter Nasen in einer versiegelten Dose
-    > (liegengelassen)
+- Sammlung abgetrennter Nasen in einer versiegelten Dose (liegengelassen)
 
 Der Raum war übersät mit unfertigen und vorbereiteten Fallen -- der Oger
 war das „Mastermind" hinter den Konstruktionen des Hauses: ein
@@ -835,12 +799,12 @@ Nacken wuchs. Seine Ratten hießen *Gluckser* und *Sabbel*.
 
 **Erfahrung:** 4.800 EP (Oger und Ratten)
 
-### **A13 -- Lagerraum**
+### A13 -- Lagerraum
 
 Ein kleiner, vollgestopfter Raum mit alten Kisten, landwirtschaftlichen
 Geräten und Möbeln -- größtenteils wertloser Schrott.
 
-## **Die Pflanze im Keller**
+## Die Pflanze im Keller
 
 Im letzten Kellerraum stieß die Gruppe auf eine riesige, ekelerregende
 Pflanze, die den Boden überwucherte. Als sie sich bewegte, eskalierte
@@ -867,38 +831,29 @@ eingesperrt und von seinen Brüdern verspottet, während er weiter
 
 **Erfahrung:** 2.400 EP
 
-## **Aktueller Stand**
+## Aktueller Stand
 
--   Das Graulsche Anwesen ist weitgehend durchsucht.
+- Das Graulsche Anwesen ist weitgehend durchsucht.
 
--   Der Keller wurde gesäubert, inklusive der letzten grotesken
-    > Hinterlassenschaft der Familie.
+- Der Keller wurde gesäubert, inklusive der letzten grotesken Hinterlassenschaft der Familie.
 
--   Keine Hinweise auf lebende Gefangene wurden gefunden.
+- Keine Hinweise auf lebende Gefangene wurden gefunden.
 
--   Die Gruppe ist körperlich angeschlagen, moralisch erschöpft -- und
-    > mehr als bereit, diesen Ort hinter sich zu lassen. Doch eine Tür
-    > im Keller blieb noch ungeöffnet -- ein letztes, stilles
-    > Versprechen, dass das Anwesen sein Innerstes noch nicht
-    > vollständig preisgegeben hatte.
+- Die Gruppe ist körperlich angeschlagen, moralisch erschöpft -- und mehr als bereit, diesen Ort hinter sich zu lassen. Doch eine Tür im Keller blieb noch ungeöffnet -- ein letztes, stilles Versprechen, dass das Anwesen sein Innerstes noch nicht vollständig preisgegeben hatte.
 
 # Sitzungen 14. und 28. Januar 2026 -- Das Haus von Mama Graul=======
 
-## **Erkundung des Anwesens**
+## Erkundung des Anwesens
 
 Nach der Ausschaltung der Oger vor dem Haus naeherte sich die Gruppe
 vorsichtig dem Anwesen. Bereits im Vorfeld zeigte sich, dass das
 Gebaeude reichlich mit Fallen gesichert war:
 
--   An der **Veranda (A1)** und im **Wohnzimmer (A2)** wurden mehrere
-    > Fallen entdeckt, teils entschärft, teils ausgelöst.
+- An der **Veranda (A1)** und im **Wohnzimmer (A2)** wurden mehrere Fallen entdeckt, teils entschärft, teils ausgelöst.
 
--   Das **Wohnzimmer** entpuppte sich als erster Vorgeschmack auf den
-    > Horror im Inneren: ein Sofa aus Menschenhaut, verziert mit
-    > Krallen.
+- Das **Wohnzimmer** entpuppte sich als erster Vorgeschmack auf den Horror im Inneren: ein Sofa aus Menschenhaut, verziert mit Krallen.
 
--   In mehreren Räumen lag ein dumpfes, unregelmäßiges **Klopfen** in
-    > der Luft, dessen Ursprung zunächst unklar blieb.
+- In mehreren Räumen lag ein dumpfes, unregelmäßiges **Klopfen** in der Luft, dessen Ursprung zunächst unklar blieb.
 
 Nachdem die Gruppe die Scheune und das Aussenareal gesichert hatte,
 drang sie weiter ins Haupthaus vor und stiess schliesslich auf die
@@ -912,126 +867,101 @@ Graul**, ein fliegendes, massiges Ogerweibchen, umgeben von mehreren
 **Ogerzombies**. Sie war durch den Lärm der Gruppe vorgewarnt und hatte
 bereits **Spiegelbilder** aktiv.
 
-## **Auftakt und Eskalation**
+## Auftakt und Eskalation
 
--   Brocc eröffnete mit einem **Feuerball** (SG 18), der Mama Graul und
-    > mehrere Zombies traf.
+- Brocc eröffnete mit einem **Feuerball** (SG 18), der Mama Graul und mehrere Zombies traf.
 
--   Mama Graul konterte mit **Blind- oder Taubheit verursachen**: Gina
-    > widerstand der Blindheit, wurde aber **taub**.
+- Mama Graul konterte mit **Blind- oder Taubheit verursachen**: Gina widerstand der Blindheit, wurde aber **taub**.
 
--   Kurz darauf folgte **Ansteckung**, die Gina mit **Schüttelkrampf**
-    > belegte (8 Geschicklichkeitsschaden).
+- Kurz darauf folgte **Ansteckung**, die Gina mit **Schüttelkrampf** belegte (8 Geschicklichkeitsschaden).
 
--   Die Zombies banden Kyras, Fox und Mako im Nahkampf, während Mako
-    > wiederholt Ogerzombies **ringend** festsetzte und zerfetzte.
+- Die Zombies banden Kyras, Fox und Mako im Nahkampf, während Mako wiederholt Ogerzombies **ringend** festsetzte und zerfetzte.
 
-## **Verstärkung: Glueckspilz und Klatschko**
+## Verstärkung: Glueckspilz und Klatschko
 
 Das mysteriöse Klopfen entpuppte sich schliesslich als Ankunft von Mama
 Grauls "Kindern":
 **Glueckspilz** und **Klatschko**, zwei lebende, ausgewachsene Oger.
 
--   Beim Eintritt provozierte einer der Oger **Gelegenheitsangriffe**:
-    > Tobin patzte kritisch, Gina landete einen kritischen Treffer mit
-    > **Benommenheit**.
+- Beim Eintritt provozierte einer der Oger **Gelegenheitsangriffe**: Tobin patzte kritisch, Gina landete einen kritischen Treffer mit **Benommenheit**.
 
--   Die Oger erwiesen sich als extrem gefährlich: Fox wurde von einem
-    > vollen Angriff bewusstlos geschlagen und nur durch den **Segen des
-    > Exorzisten** stabilisiert.
+- Die Oger erwiesen sich als extrem gefährlich: Fox wurde von einem vollen Angriff bewusstlos geschlagen und nur durch den **Segen des Exorzisten** stabilisiert.
 
--   Fafnir wurde ebenfalls schwer getroffen und zeitweise bewusstlos.
+- Fafnir wurde ebenfalls schwer getroffen und zeitweise bewusstlos.
 
-## **Wendepunkte**
+## Wendepunkte
 
--   Mehrere **Feuerbälle** von Brocc loeschen ganze Gruppen von
-    > Ogerzombies aus.
+- Mehrere **Feuerbälle** von Brocc loeschen ganze Gruppen von Ogerzombies aus.
 
--   Kyras zerlegte einen Zombie mit einem **kritischen Treffer fuer 50
-    > Schaden**.
+- Kyras zerlegte einen Zombie mit einem **kritischen Treffer fuer 50 Schaden**.
 
--   Gina schoss Mama Graul mehrfach mit **Beruehrungsangriffen**,
-    > durchbrach Spiegelbilder und traf schließlich direkt.
+- Gina schoss Mama Graul mehrfach mit **Beruehrungsangriffen**, durchbrach Spiegelbilder und traf schließlich direkt.
 
--   Tobin hielt mit Trommeln, Heilzaubern und Trankverabreichung die
-    > Gruppe kampffähig.
+- Tobin hielt mit Trommeln, Heilzaubern und Trankverabreichung die Gruppe kampffähig.
 
--   Fafnir stabilisierte die Front mehrfach mit **Energie fokussieren**.
+- Fafnir stabilisierte die Front mehrfach mit **Energie fokussieren**.
 
-## **Finale**
+## Finale
 
--   Klatschko fiel durch einen kritischen Hastangriff von Gina.
+- Klatschko fiel durch einen kritischen Hastangriff von Gina.
 
--   Glueckspilz wurde von Kyras im Kampfrausch mit einem **verheerenden
-    > vollen Angriff** getötet.
+- Glueckspilz wurde von Kyras im Kampfrausch mit einem **verheerenden vollen Angriff** getötet.
 
--   Fox brach Mama Grauls **Flugkonzentration** mit einem hinterhältigen
-    > Angriff; sie stürzte zu Boden.
+- Fox brach Mama Grauls **Flugkonzentration** mit einem hinterhältigen Angriff; sie stürzte zu Boden.
 
--   Nach weiterem Schlagabtausch, verfehlten Zaubern und einem
-    > zerstörten Rüstungsteil von Kyras, setzte Mako mit einem
-    > **kritischen Biss** den Schlusspunkt:
-    > **Mama Graul war tot.**
+- Nach weiterem Schlagabtausch, verfehlten Zaubern und einem zerstörten Rüstungsteil von Kyras, setzte Mako mit einem **kritischen Biss** den Schlusspunkt: **Mama Graul war tot.**
 
 **💀 Nachwirkungen und Beute**
 -----------------------------
 
-## **Erfahrung**
+## Erfahrung
 
--   Mama Graul: 5200 EP
+- Mama Graul: 5200 EP
 
--   Glueckspilz & Klatschko: je 3600 EP
+- Glueckspilz & Klatschko: je 3600 EP
 
--   5 Ogerzombies: je 600 EP
+- 5 Ogerzombies: je 600 EP
 
-## **Beute**
+## Beute
 
--   Stäbe:
+- Stäbe:
 
-    -   Magisches Geschoss (ZS 3, 44 Ladungen) -- Tobin
+    - Magisches Geschoss (ZS 3, 44 Ladungen) -- Tobin
 
-    -   Schwäche Strahl (28 Ladungen) -- Hagen
+    - Schwäche Strahl (28 Ladungen) -- Hagen
 
-    -   Vampirgriff (33 Ladungen) -- Brocc
+    - Vampirgriff (33 Ladungen) -- Brocc
 
--   Tränke:
+- Tränke:
 
-    -   1x Mittelschwere Wunden heilen (Tobin)
+    - 1x Mittelschwere Wunden heilen (Tobin)
 
-    -   2x Schwere Wunden heilen (Gina, Fox)
+    - 2x Schwere Wunden heilen (Gina, Fox)
 
--   Waffen & Ausrüstung:
+- Waffen & Ausrüstung:
 
-    -   2x Ogerhaken +1 (im Nimmervollen Beutel)
+    - 2x Ogerhaken +1 (im Nimmervollen Beutel)
 
-    -   Kampfstab (Meisterarbeit, liegen gelassen)
+    - Kampfstab (Meisterarbeit, liegen gelassen)
 
--   **Mama Grauls Zauberbuch** mit u.a.:
-    > Magisches Geschoss, Schwachestrahl, Tote beleben, Ansteckung,
-    > Dimensionstuer, Fluch, Entkräftender Strahl, Spiegelbilder,
-    > Vampirgriff, Verlangsamen, Blind- oder Taubheit verursachen,
-    > Falsches Leben, u.v.m.
+- **Mama Grauls Zauberbuch** mit u.a.: Magisches Geschoss, Schwachestrahl, Tote beleben, Ansteckung, Dimensionstuer, Fluch, Entkräftender Strahl, Spiegelbilder, Vampirgriff, Verlangsamen, Blind- oder Taubheit verursachen, Falsches Leben, u.v.m.
 
 **🏚️ Erkundung des Hauses**
 ---------------------------
 
 Nach dem Kampf wurde das gesamte Haus systematisch durchsucht:
 
--   **A3 Esszimmer**: Menschlicher Kopf als Hauptspeise; Fox löste eine
-    > Sense-Falle aus (32, 8 Schaden).
+- **A3 Esszimmer**: Menschlicher Kopf als Hauptspeise; Fox löste eine Sense-Falle aus (32, 8 Schaden).
 
--   **A4 Kueche**: Wochenaltes Fleisch, Fliegen, riesige Kakerlaken,
-    > abgetrennte Körperteile; 3 Fleischerbeile (Meisterarbeit).
+- **A4 Kueche**: Wochenaltes Fleisch, Fliegen, riesige Kakerlaken, abgetrennte Körperteile; 3 Fleischerbeile (Meisterarbeit).
 
--   **A5 Spielzimmer**: Kindliche, verdorbene Zeichnungen, Schaedel und
-    > Knochen -- der Aufenthaltsort von Glueckspilz und Klatschko.
+- **A5 Spielzimmer**: Kindliche, verdorbene Zeichnungen, Schaedel und Knochen -- der Aufenthaltsort von Glueckspilz und Klatschko.
 
--   **A6 Kammer**: Ein **Jadering**, aufgezogen auf einen Fingerknochen.
+- **A6 Kammer**: Ein **Jadering**, aufgezogen auf einen Fingerknochen.
 
--   **A7 Abstellkammer**: Winzige Knochen weiblicher Ogerkinder -- das
-    > verstörende Ende der Spur.
+- **A7 Abstellkammer**: Winzige Knochen weiblicher Ogerkinder -- das verstörende Ende der Spur.
 
--   **A8 Schlafzimmer**: Schauplatz des Kampfes.
+- **A8 Schlafzimmer**: Schauplatz des Kampfes.
 
 Das Haus selbst enthielt über das Grauen hinaus keine weiteren Hinweise
 oder Schätze.
@@ -1039,27 +969,24 @@ oder Schätze.
 **🧩 Kurzzusammenfassung**
 -------------------------
 
--   Infiltration eines stark gesicherten Ogeranwesens
+- Infiltration eines stark gesicherten Ogeranwesens
 
--   Konfrontation mit Mama Graul und mehreren Ogerzombies
+- Konfrontation mit Mama Graul und mehreren Ogerzombies
 
--   Verstärkung durch zwei lebende Ogersöhne: Glueckspilz und Klatschko
+- Verstärkung durch zwei lebende Ogersöhne: Glueckspilz und Klatschko
 
--   Extrem verlustreicher Kampf mit Bewusstlosigkeit, Krankheiten und
-    > mehreren kritischen Treffern
+- Extrem verlustreicher Kampf mit Bewusstlosigkeit, Krankheiten und mehreren kritischen Treffern
 
--   Tod von Mama Graul und ihren Söhnen
+- Tod von Mama Graul und ihren Söhnen
 
--   Umfassende Beute, inklusive mehrerer Stäbe und eines umfangreichen
-    > Zauberbuchs
+- Umfassende Beute, inklusive mehrerer Stäbe und eines umfangreichen Zauberbuchs
 
--   Vollständige Durchsuchung des Hauses offenbart massive Gräuel,
-    > insbesondere gegen weibliche Ogerkinder
+- Vollständige Durchsuchung des Hauses offenbart massive Gräuel, insbesondere gegen weibliche Ogerkinder
 
 **Zusammenfassung der Session vom 7. Januar 2026**
 --------------------------------------------------
 
-### **Der Grauf-Hof**
+### Der Grauf-Hof
 
 Die Gruppe befindet sich auf dem Grauf-Hof, einem abscheulichen,
 offensichtlich von Ogern misshandelten Bauernhof neben einem
@@ -1073,20 +1000,19 @@ Gruppe kommt es zu moralischen Spannungen: Brocc möchte ihn töten,
 Fafnir ist innerlich zerrissen aufgrund seines zwergischen Hasses auf
 Riesenartige, während Tobin pragmatisch bleibt.
 
-### **Beute und Untersuchungen**
+### Beute und Untersuchungen
 
 Tobin durchsucht die Oger und findet:
 
--   zwei Tränke "Schwere Wunden heilen" (je einer für Kyras und
-    > Tobin),
+- zwei Tränke "Schwere Wunden heilen" (je einer für Kyras und Tobin),
 
--   eine Lederrüstung,
+- eine Lederrüstung,
 
--   eine schmutzige Tunika,
+- eine schmutzige Tunika,
 
--   ein Amulett der natürlichen Rüstung +1 (vorübergehend an Hagen),
+- ein Amulett der natürlichen Rüstung +1 (vorübergehend an Hagen),
 
--   einen Schutzring +1 (vorübergehend an Kyras).
+- einen Schutzring +1 (vorübergehend an Kyras).
 
 Gina (Überlebenskunst 22) und Tobin (Wissen Natur 12) untersuchen die
 Pilze auf dem Hof, kommen aber zu dem Ergebnis, dass es sich lediglich
@@ -1095,7 +1021,7 @@ um eine zufällige, natürliche Mischung ohne besondere Bedeutung handelt.
 Versuche von Fox und Gina, Haus oder Stall unauffällig zu öffnen,
 scheitern. Der Hof bleibt unnatürlich still.
 
-### **Die Veranda des Bauernhauses**
+### Die Veranda des Bauernhauses
 
 Das Haupthaus wirkt besonders verstörend: wackelige Stufen führen zu
 einer Veranda, deren Dachtraufe aus dicken Kiefernstämmen besteht. Die
@@ -1109,18 +1035,15 @@ etwas im Inneren festhalten sollen.
 Fox betritt die Veranda (A1) und spürt sofort massives Unbehagen. Sie
 entdeckt mehrere mechanische Fallen:
 
--   Eine Bodenfalle entschärft sie erfolgreich (Mechanismus ausschalten
-    > 29 gegen SG 25).
+- Eine Bodenfalle entschärft sie erfolgreich (Mechanismus ausschalten 29 gegen SG 25).
 
--   Eine Türfalle löst sie unbeabsichtigt aus (14 gegen SG 25): vier
-    > geschärfte Knochensporne schnellen herab. Dank Broccs
-    > Magierrüstung wird Fox nur leicht getroffen (7 Schaden).
+- Eine Türfalle löst sie unbeabsichtigt aus (14 gegen SG 25): vier geschärfte Knochensporne schnellen herab. Dank Broccs Magierrüstung wird Fox nur leicht getroffen (7 Schaden).
 
 Beim Lauschen hören Fox (Wahrnehmung 19) und Tobin (Wahrnehmung 26)
 nichts außer Wind, Knarzen und ein dumpfes, nicht näher
 identifizierbares Klopfen.
 
-### **Sicherung des Geländes**
+### Sicherung des Geländes
 
 Kyras versteckt den gefesselten Oger am Waldrand. Gina und Tobin
 schaffen den toten Oger ins Maisfeld.
@@ -1131,16 +1054,15 @@ Kyras kommen mit dem Vorschlaghammer nicht weiter. Schließlich öffnet
 sich die Tür überraschend leicht durch sanften Druck - sie hatte
 lediglich geklemmt.
 
-### **Das Innere des Hauses**
+### Das Innere des Hauses
 
 Im Erdgeschoss (A2) bietet sich ein Bild blanken Grauens:
 
--   ein schäbiges Bärenfell, das immer noch wie knurrend wirkt,
+- ein schäbiges Bärenfell, das immer noch wie knurrend wirkt,
 
--   ein Sofa, bespannt mit Menschen- und Tierhäuten, dekoriert mit
-    > Krallen und menschlichen Händen,
+- ein Sofa, bespannt mit Menschen- und Tierhäuten, dekoriert mit Krallen und menschlichen Händen,
 
--   im Kamin verkohltes Holz und kleine Knochen.
+- im Kamin verkohltes Holz und kleine Knochen.
 
 Fox bemerkt eine weitere Falle am Sofa, ausgelöst durch ein verdächtig
 knarrendes Brett unter Fafnirs Fuß. Sie entschärft die Falle
@@ -1150,20 +1072,19 @@ ausschalten 30 gegen SG 12).
 Eine weitere Tür führt in einen kleinen Flur mit mehreren Türen und
 einer Treppe nach oben.
 
-### **Das Grauen im Nebenraum**
+### Das Grauen im Nebenraum
 
 Hinter einer Tür im linken Flur nimmt Brocc eine starke nekromantische
 Aura wahr (Zauberkunde 25). Fafnir öffnet die Tür - und die Gruppe
 blickt auf eine verstörende Szene:
 
--   Eine Staffelei, bespannt mit Haut.
+- Eine Staffelei, bespannt mit Haut.
 
--   Pinsel aus menschlichem Haar.
+- Pinsel aus menschlichem Haar.
 
--   Missgestaltete humanoide Kreaturen mit zugenähten Mündern.
+- Missgestaltete humanoide Kreaturen mit zugenähten Mündern.
 
--   Auf dem Bett: ein unfassbar fettes, monströses Wesen mit strähnigem
-    > Haar.
+- Auf dem Bett: ein unfassbar fettes, monströses Wesen mit strähnigem Haar.
 
 Die Kreatur wird von mehreren kleineren Dienern geschützt, die keine
 Oger (mehr) sind. Brocc erkennt sie als Quelle der nekromantischen Aura.
@@ -1173,36 +1094,31 @@ Beim Betreten des Raumes schreit das Monster:
 
 Die Kreatur, offenbar "Mama Graul", ist von Spiegelbildern umgeben.
 
-### **Kampf gegen Mama Graul**
+### Kampf gegen Mama Graul
 
 Der Kampf bricht sofort los:
 
--   Gina eröffnet und zerstört ein Spiegelbild.
+- Gina eröffnet und zerstört ein Spiegelbild.
 
--   Brocc wirkt einen Feuerball (13 Feuerschaden); ein Diener besteht
-    > den Rettungswurf, alle anderen sowie Mama Graul nicht.
+- Brocc wirkt einen Feuerball (13 Feuerschaden); ein Diener besteht den Rettungswurf, alle anderen sowie Mama Graul nicht.
 
--   Kyras greift einen Diener an und verursacht 12 Schaden.
+- Kyras greift einen Diener an und verursacht 12 Schaden.
 
--   Zwei Diener greifen an, verfehlen jedoch.
+- Zwei Diener greifen an, verfehlen jedoch.
 
--   Fox greift an, trifft aber nicht.
+- Fox greift an, trifft aber nicht.
 
--   Mako landet mehrere Treffer (15 Schaden) und verwickelt einen Diener
-    > erfolgreich in einen Ringkampf (KMV 27).
+- Mako landet mehrere Treffer (15 Schaden) und verwickelt einen Diener erfolgreich in einen Ringkampf (KMV 27).
 
--   Ein weiterer Diener trifft Mako für 11 Schaden.
+- Ein weiterer Diener trifft Mako für 11 Schaden.
 
--   Hagen erleidet einen kritischen Fehlschlag mit der Armbrust und
-    > trifft sich selbst für 3 Schaden.
+- Hagen erleidet einen kritischen Fehlschlag mit der Armbrust und trifft sich selbst für 3 Schaden.
 
--   Tobin beginnt mit seinem "Lied des Mutes" und stärkt die Gruppe.
+- Tobin beginnt mit seinem "Lied des Mutes" und stärkt die Gruppe.
 
--   Mama Graul belegt Kyras mit einem Fluch. Der Willenswurf misslingt
-    > trotz Saving Finale von Tobin.
+- Mama Graul belegt Kyras mit einem Fluch. Der Willenswurf misslingt trotz Saving Finale von Tobin.
 
--   Fafnir reagiert sofort und wirkt "Fluch brechen" (20 gegen SG 17),
-    > wodurch der Fluch aufgehoben wird.
+- Fafnir reagiert sofort und wirkt "Fluch brechen" (20 gegen SG 17), wodurch der Fluch aufgehoben wird.
 
 Die Session endet mitten im Kampf gegen Mama Graul und ihre Diener, mit
 der Gruppe bereits schwer in das Grauen des Grauf-Hofs verstrickt.
@@ -1210,7 +1126,7 @@ der Gruppe bereits schwer in das Grauen des Grauf-Hofs verstrickt.
 **Zusammenfassung der Session vom 17. Dezember 2025**
 -----------------------------------------------------
 
-### **Aufbruch aus Schildkrötenfähre**
+### Aufbruch aus Schildkrötenfähre
 
 Die Gruppe verlässt Schildkrötenfähre in Richtung Norden, um dem Auftrag
 nachzugehen und die Feste Ranik zu erreichen. Noch in Stadtnähe wird die
@@ -1226,7 +1142,7 @@ Der empfohlene Weg führt über eine alte Straße entlang des
 Schädelflusses, über eine Holzbrücke zum Westufer und weiter an einer
 tassilonischen Ruine vorbei.
 
-### **Diskussionen unterwegs**
+### Diskussionen unterwegs
 
 Während des Marsches kommt es zu Gesprächen über Prioritäten: Soll
 zuerst die Feste Ranik angesteuert werden oder lohnen Abstecher zu
@@ -1237,7 +1153,7 @@ Hauptauftrag zu folgen.
 Andere Reisende begegnen ihnen nicht - ein weiteres Zeichen dafür, wie
 sehr die Region gemieden wird.
 
-### **Begegnung an der Brücke - der gefangene Puma**
+### Begegnung an der Brücke - der gefangene Puma
 
 In der Nähe der Holzbrücke hört die Gruppe ein schmerzverzerrtes Fauchen
 aus dem Wald. Gina nähert sich vorsichtig und entdeckt einen pumaartigen
@@ -1256,14 +1172,14 @@ schwere Wunde des Tieres. Der Puma ist dankbar, aber kampfunwillig. Er
 erklärt, dass die Entführer sich etwa einen halben Tagesmarsch entfernt
 in einem Waldgebiet aufhalten.
 
-### **Entscheidung zur Hilfe**
+### Entscheidung zur Hilfe
 
 Nach kurzer Beratung beschließt die Gruppe, dem Puma zu folgen und
 zunächst den entführten Waldmenschen zu suchen, auch wenn dies einen
 Umweg zur Feste Ranik bedeutet. Der Puma führt sie westwärts zu einer
 verlassen wirkenden Hofstelle am Waldrand.
 
-### **Das Ogergehöft**
+### Das Ogergehöft
 
 Die Gruppe erreicht ein Gelände mit einem labyrinthartigen Maisfeld
 sowie zwei stark verfallenen Gebäuden - einer Scheune und einem
@@ -1276,35 +1192,33 @@ Fox und Gina schleichen voraus und entdecken zwei ogerartige Humanoide
 auf Patrouille. Die Situation eskaliert schnell, als die Oger die Gruppe
 bemerken und laut nach ihrer "Mama" schreien.
 
-### **Kampf gegen die Oger**
+### Kampf gegen die Oger
 
 Der Kampf beginnt chaotisch und eng:
 
--   Gina eröffnet mit ihrer Muskete und richtet schweren Schaden an.
+- Gina eröffnet mit ihrer Muskete und richtet schweren Schaden an.
 
--   Tobin unterstützt mit Trommeln und Bardengesang, trotz Dornen im
-    > Gebüsch.
+- Tobin unterstützt mit Trommeln und Bardengesang, trotz Dornen im Gebüsch.
 
--   Brocc setzt offensive Magie und später einen Lachzauber ein, der
-    > einen der Oger kampfunfähig macht.
+- Brocc setzt offensive Magie und später einen Lachzauber ein, der einen der Oger kampfunfähig macht.
 
--   Fafnir, Kyras und Marco gehen in den Nahkampf.
+- Fafnir, Kyras und Marco gehen in den Nahkampf.
 
--   Hagen unterstützt taktisch und sichert mögliche Zugänge.
+- Hagen unterstützt taktisch und sichert mögliche Zugänge.
 
 Ein Oger wird im Kampf getötet, der andere durch Fox bewusstlos
 geschlagen, nachdem sich innerhalb der Gruppe eine Diskussion
 entwickelt, ob man ihn töten oder als Geisel nutzen sollte.
 
-### **Moralische Diskussion und Nachspiel**
+### Moralische Diskussion und Nachspiel
 
 Nach dem Kampf entsteht eine längere Debatte:
 
--   Sind die Oger Täter oder Teil eines größeren Problems?
+- Sind die Oger Täter oder Teil eines größeren Problems?
 
--   Ist Folter oder Verhör gerechtfertigt?
+- Ist Folter oder Verhör gerechtfertigt?
 
--   Wie steht es um Fox' Entscheidung, den Oger nicht zu töten?
+- Wie steht es um Fox' Entscheidung, den Oger nicht zu töten?
 
 Fafnir reflektiert seine zwiespältige Haltung - als Zwerg hegt er tiefes
 Misstrauen gegen Riesen, erkennt aber Fox' Zurückhaltung als positive
@@ -1314,15 +1228,15 @@ Der Puma bleibt in der Nähe, deutlich traumatisiert, aber erleichtert.
 Niemand reagiert auf den Kampflärm aus den Gebäuden, obwohl sich
 offensichtlich weitere Oger vor Ort befinden.
 
-### **Offene Fragen und Cliffhanger**
+### Offene Fragen und Cliffhanger
 
--   Wo befindet sich der entführte Waldmensch genau?
+- Wo befindet sich der entführte Waldmensch genau?
 
--   Gehört das Gehöft zu einer größeren Ogerstruktur?
+- Gehört das Gehöft zu einer größeren Ogerstruktur?
 
--   Warum sind die Waldläufer aus der Region verschwunden?
+- Warum sind die Waldläufer aus der Region verschwunden?
 
--   Was hat die aktuelle Ogerplage ausgelöst?
+- Was hat die aktuelle Ogerplage ausgelöst?
 
 **🗓 Zusammenfassung -- Pathfinder-Session vom 10. Dezember 2025 (Reise nach Schildkrötenfähre & Ankunft)**
 ==========================================================================================================
@@ -1395,13 +1309,9 @@ sie, um auf dem Wagen zu arbeiten, Gellin und Tobin ausblenden musste.
 
 Unterwegs diskutierten Brocc und Fox über Motivation:
 
--   Warum ist Brocc eigentlich mitgekommen?
-    > Antwort: Eigentlich weiß er das selbst nicht so genau -- aber
-    > irgendjemand müsse ja die Welt retten.
+- Warum ist Brocc eigentlich mitgekommen? Antwort: Eigentlich weiß er das selbst nicht so genau -- aber irgendjemand müsse ja die Welt retten.
 
--   Warum ist Fox dabei?
-    > Antwort: Auch nicht klar. Wahrscheinlich hat sie sich irgendwie
-    > überreden lassen. Oder es gab Geld. Oder beides.
+- Warum ist Fox dabei? Antwort: Auch nicht klar. Wahrscheinlich hat sie sich irgendwie überreden lassen. Oder es gab Geld. Oder beides.
 
 **Ankunft in Schildkrötenfähre**
 --------------------------------
@@ -1416,7 +1326,7 @@ wortkarg und unfreundlich.
 Nur eine einzige erkennbare Einladung gab es: Das Wirtshausschild mit
 einer gemütlich blickenden Schildkröte darauf.
 
-### **Wirtshaus "Zur Schildkröte"**
+### Wirtshaus "Zur Schildkröte"
 
 Innen roch es nach Suppe, Kamin und feuchter Kleidung.
 Die Wirtin **Kess Tyloma** empfing uns mit nüchterner Gastfreundschaft:
@@ -1448,17 +1358,17 @@ hörte, dass *"die Hilfe"* eingetroffen sei.
 
 Er schilderte den Ernst der Lage:
 
--   Die Feste Ranik schweigt seit Wochen.
+- Die Feste Ranik schweigt seit Wochen.
 
--   Die Wälder sind unsicher, Kreaturen streifen umher.
+- Die Wälder sind unsicher, Kreaturen streifen umher.
 
--   Jäger sind verschwunden.
+- Jäger sind verschwunden.
 
--   Dorfbewohner gehen kaum noch vor die Tür.
+- Dorfbewohner gehen kaum noch vor die Tür.
 
--   Niemand hat die Kraft oder Ausbildung, selbst nachzusehen.
+- Niemand hat die Kraft oder Ausbildung, selbst nachzusehen.
 
--   Und ja: Es gibt Gerüchte über **Oger**.
+- Und ja: Es gibt Gerüchte über **Oger**.
 
 Wir beschlossen, **am nächsten Morgen** zur Feste Ranik aufzubrechen.
 
@@ -1474,8 +1384,7 @@ Hagen fand im Wirtshaus jedoch keinen Hinweis darauf.
 Tobin mischte sich anschließend unter die Einheimischen und hörte neue
 Schauergeschichten:
 
--   Die **Schwarze Maga** tauche manchmal durch unterirdische Tunnel im
-    > Schwarzgrundsee auf und ziehe Fischer in die Tiefe.
+- Die **Schwarze Maga** tauche manchmal durch unterirdische Tunnel im Schwarzgrundsee auf und ziehe Fischer in die Tiefe.
 
 Die anderen hatten weniger Erfolg -- außer Tobin zeigte niemand
 wirkliche Sozialkompetenz in diesem Dorf.
@@ -1498,23 +1407,23 @@ Hier endete die Session.
 **🧩 Kurzzusammenfassung**
 =========================
 
--   Diskussion über Auftrag und Verantwortung
+- Diskussion über Auftrag und Verantwortung
 
--   Übergabe von Silber an Anna und Tom
+- Übergabe von Silber an Anna und Tom
 
--   Fox trifft Raven; neue Infos über Stadtplage
+- Fox trifft Raven; neue Infos über Stadtplage
 
--   Wiedersehen mit Gellin Schwatzbart
+- Wiedersehen mit Gellin Schwatzbart
 
--   Eine Woche ruhiger Reise
+- Eine Woche ruhiger Reise
 
--   Ankunft in Schildkrötenfähre: misstrauisches Dorf, erste Gerüchte
+- Ankunft in Schildkrötenfähre: misstrauisches Dorf, erste Gerüchte
 
--   Bürgermeister Schried bittet dringend um Hilfe
+- Bürgermeister Schried bittet dringend um Hilfe
 
--   Hinweis auf Tätowierungen und Schwarze Maga
+- Hinweis auf Tätowierungen und Schwarze Maga
 
--   Aufbruch zur Feste Ranik über die Ruine Schädeldamm
+- Aufbruch zur Feste Ranik über die Ruine Schädeldamm
 
 **🗓 Zusammenfassung -- Pathfinder-Session vom 3. Dezember 2025**
 ================================================================
@@ -1531,7 +1440,7 @@ Weitere Fragen zu den seltsamen Ereignissen Magnimars verliefen im Sand.
 **Erkundung der Stadt**
 -----------------------
 
-### **Das Waisenhaus**
+### Das Waisenhaus
 
 Tobin folgte einem Hinweis in die ärmeren Stadtviertel und fand ein
 überraschend gepflegtes Waisenhaus vor.
@@ -1540,13 +1449,13 @@ Ein schüchternes Kind bestätigte, dass es ihm gut gehe und nahm eine
 Kupfermünze an. Der Eindruck entstand: Hier fließen offenbar großzügige
 Spenden.
 
-### **Am Hafen**
+### Am Hafen
 
 Auf dem Rückweg begegnete die Gruppe einem grummeligen Hafenmeister.
 Tobin half beim Tragen einer Kiste und erkundigte sich nach Arbeit. Der
 Hafenmeister hätte ehrliche Jobs für ehrliche Leute.
 
-### **Fox und die Straßenjugend**
+### Fox und die Straßenjugend
 
 Fox sprach intensiv mit zwei Jugendlichen, die keinerlei Familie mehr
 haben und früher Hunger und Ungewissheit gewohnt waren.
@@ -1559,15 +1468,15 @@ ideal - sehr zum Missfallen von Fox.
 
 Die Gruppe tauschte ihre Eindrücke aus:
 
--   Das nutzlose Gespräch beim Exorzisten
+- Das nutzlose Gespräch beim Exorzisten
 
--   Alternativen zu unserer bisherigen Unterkunft
+- Alternativen zu unserer bisherigen Unterkunft
 
--   Die Lage des Waisenhauses
+- Die Lage des Waisenhauses
 
--   Der potenzielle Arbeitgeber Hafenmeister
+- Der potenzielle Arbeitgeber Hafenmeister
 
--   Das Geld des Bürgermeisters, dessen Herkunft und Zweck
+- Das Geld des Bürgermeisters, dessen Herkunft und Zweck
 
 Anna und Tom, die zwei geretteten Kinder, wurden ausführlich über
 Optionen informiert und gebeten, in Ruhe darüber nachzudenken.
@@ -1575,40 +1484,38 @@ Optionen informiert und gebeten, in Ruhe darüber nachzudenken.
 **Verteilung der Beute**
 ------------------------
 
--   **Gina**: Schlangenhauttunika + Maske der Medusa
+- **Gina**: Schlangenhauttunika + Maske der Medusa
 
--   **Fox**: Ring der Sprungkraft
+- **Fox**: Ring der Sprungkraft
 
--   **Kyras**: Skarabäus des Golembanns (plus gratis Erklärung, was
-    > Golems sind)
+- **Kyras**: Skarabäus des Golembanns (plus gratis Erklärung, was Golems sind)
 
 **Vorbereitung auf das Festmahl beim Bürgermeister**
 ----------------------------------------------------
 
 Die Gruppe machte sich schick und kaufte noch Ausrüstung:
 
--   Hagen erhielt z.B. eine meisterhaft gefertigte Armbrust
+- Hagen erhielt z.B. eine meisterhaft gefertigte Armbrust
 
--   Fox verkleidete sich mithilfe ihres Hutes als Mädchen im gelben
-    > Sommerkleid
+- Fox verkleidete sich mithilfe ihres Hutes als Mädchen im gelben Sommerkleid
 
--   Gina trug ihr elegantes Seidenkleid, aber nicht das Sihedron-Amulett
+- Gina trug ihr elegantes Seidenkleid, aber nicht das Sihedron-Amulett
 
--   Fafnir polierte seine Rüstung
+- Fafnir polierte seine Rüstung
 
--   Tobin, Hagen und Kyras zogen feine Kleidung an
+- Tobin, Hagen und Kyras zogen feine Kleidung an
 
 Weitere Upgrades wurden ebenfalls erworben.
 
 **Das Festmahl bei Bürgermeister Haldmeer Grobaras**
 ----------------------------------------------------
 
-### **Ankunft**
+### Ankunft
 
 Das Anwesen war opulent -- Brunnen, gepflegte Gärten, erkennbar viel
 Geld im Spiel. Im Speisesaal warteten bereits adlige Gäste.
 
-### **Neue Bekanntschaft: Dr. Dranzel**
+### Neue Bekanntschaft: Dr. Dranzel
 
 Der Bürgermeister stellte seine Ehrengäste vor, darunter einen besonders
 prominenten:
@@ -1629,63 +1536,56 @@ hat, was er in seinen Büchern beschreibt, und konfrontierte daraufhin
 Dr. Dranzel -- im stark betrunkenen Zustand -- mit dem Verdacht, seine
 Bücher seien frei erfunden - die perfekte Ablenkung für Fox und Gina.
 
-### **Der Plan: Im Büro des Bürgermeisters schnüffeln**
+### Der Plan: Im Büro des Bürgermeisters schnüffeln
 
 Hagen schlug vor, dass Fox und Gina sich während der Ablenkung ins Büro
 schleichen. Gesagt, getan:
 
 Fox und Gina schlichen sich fort und fanden:
 
--   offene Briefe, u.a. von **Richter Eisendorn**: „Alles ruhig, keine
-    > besonderen Vorkommnisse".
+- offene Briefe, u.a. von **Richter Eisendorn**: „Alles ruhig, keine besonderen Vorkommnisse".
 
--   einen **verschlossenen, dringenden Brief der Stadtwache**, den der
-    > Bürgermeister ignoriert hatte.
+- einen **verschlossenen, dringenden Brief der Stadtwache**, den der Bürgermeister ignoriert hatte.
 
--   Gina öffnete ihn professionell (Fingerfertigkeit 28), las ihn und
-    > versiegelte ihn wieder (Fingerfertigkeit 20 gegen SG 20).
+- Gina öffnete ihn professionell (Fingerfertigkeit 28), las ihn und versiegelte ihn wieder (Fingerfertigkeit 20 gegen SG 20).
 
 **Inhalt des Briefes:**
 
--   Zunahme von Verbrechen
+- Zunahme von Verbrechen
 
--   Mehrere verschwundene Personen
+- Mehrere verschwundene Personen
 
--   Deutliche Warnung an die Stadtführung
+- Deutliche Warnung an die Stadtführung
 
 Die beiden durchsuchten das Büro weiter und versuchten, den wertvollsten
 Gegenstand zu identifizieren (Schätzen: Gina 10, Fox 20). Das
 wertvollste ist ein riesiges, nicht transportables Gemälde.
 
-### **Rede des Bürgermeisters**
+### Rede des Bürgermeisters
 
 Grobaras hielt eine Rede:
 
--   Er lobte die Gruppe für Mut und Leistungen
+- Er lobte die Gruppe für Mut und Leistungen
 
--   Er erwähnte zwei Probleme:
+- Er erwähnte zwei Probleme:
 
-    -   **Feste Ranik** -- von Waldläufern geführt, aber seit Wochen
-        > keine Meldungen
+    - **Feste Ranik** -- von Waldläufern geführt, aber seit Wochen keine Meldungen
 
-    -   **Gerüchte über Oger in Schildkrötenfähre
-        > **
+    - **Gerüchte über Oger in Schildkrötenfähre **
 
--   Seine „Bitte" (die wie ein Auftrag klang):
-    > → Die Gruppe soll nach **Schildkrötenfähre** reisen und
-    > Nachforschungen anstellen.
+- Seine „Bitte" (die wie ein Auftrag klang): → Die Gruppe soll nach **Schildkrötenfähre** reisen und Nachforschungen anstellen.
 
 Ein Assistent übergab Hagen eine Schatulle mit:
 
--   Siegel
+- Siegel
 
--   Reisepapieren
+- Reisepapieren
 
--   Brief an die Bürger von Schildkrötenfähre
+- Brief an die Bürger von Schildkrötenfähre
 
 **Belohnung:**
 
--   350 GM pro Person -- Hagen handelte auf **355 GM** hoch.
+- 350 GM pro Person -- Hagen handelte auf **355 GM** hoch.
 
 Der Bürgermeister erhob einen Toast auf die Heldengruppe.
 
@@ -1696,23 +1596,21 @@ Die Helden speisten, tranken und kehrten später in die Taverne zurück.
 **🧩 Kurzzusammenfassung**
 =========================
 
--   Gespräch mit dem Exorzisten ohne neue Erkenntnisse
+- Gespräch mit dem Exorzisten ohne neue Erkenntnisse
 
--   Ermittlungen in Armenvierteln, Waisenhaus und Hafen
+- Ermittlungen in Armenvierteln, Waisenhaus und Hafen
 
--   Wichtige Informationen über verschwundene Personen im verschlossenen
-    > Brief
+- Wichtige Informationen über verschwundene Personen im verschlossenen Brief
 
--   Kontakt mit Dr. Dranzel -- „Authentizität fraglich"
+- Kontakt mit Dr. Dranzel -- „Authentizität fraglich"
 
--   Große Einladung durch Bürgermeister Grobaras
+- Große Einladung durch Bürgermeister Grobaras
 
--   Neuer offizieller Auftrag: **Schildkrötenfähre** untersuchen
+- Neuer offizieller Auftrag: **Schildkrötenfähre** untersuchen
 
--   "Großzügige" Bezahlung vereinbart
+- "Großzügige" Bezahlung vereinbart
 
--   Beuteverteilung abgeschlossen - Einkäufe bitte offline erledigen
-    > (Budget 1885,1 GM pro Person)
+- Beuteverteilung abgeschlossen - Einkäufe bitte offline erledigen (Budget 1885,1 GM pro Person)
 
 Zusammenfassung -- Pathfinder-Session vom 19. November 2025
 
@@ -1720,7 +1618,7 @@ Nach dem Sieg über Xanesha stand die Gruppe auf der Kuppel der
 Schattenuhr, umgeben von den Resten des Kampfes und der Stille nach dem
 Sturm.
 
-### **🔮 Die Runenstele**
+### 🔮 Die Runenstele
 
 Gina entzifferte die altthassilonische Inschrift der gefundenen
 Steintafel:
@@ -1743,7 +1641,7 @@ niederfuhr. Damit erfüllte sich die Prophezeiung des Exorzisten:
 > „Wenn die Schleierkönigin fällt, wird ein Schatten aus Licht
 > geboren..."
 
-### **🏚 Rückkehr durch den Turm**
+### 🏚 Rückkehr durch den Turm
 
 Die Gruppe sammelte die Beute ein -- Fafnir erhielt die
 **Schlangenhauttunika** (+1 RK, +2 GE, +2 RW gegen Gift) -- und begann
@@ -1757,7 +1655,7 @@ und Akrobatik (Fox 25, Brocc 11) sicher nach unten.
 Draußen zeigte sich, dass die **Illusion, die den Turm verborgen hatte,
 erloschen war**.
 
-### **💤 Rast und die Stimme im Traum**
+### 💤 Rast und die Stimme im Traum
 
 Die Gruppe brachte die beiden Kinder in das Gasthaus in dem die Gruppe
 wohnt. Nach hitziger Diskussion, ob man sie bei der Stadtwache oder im
@@ -1773,7 +1671,7 @@ und hörten eine Stimme sagen:
 Kurz darauf erwachten alle wieder, hellwach, als wäre nichts geschehen.
 Hagen nutzte seine Wache, um die Schuhe der Gruppe zu polieren.
 
-### **🌅 Der nächste Morgen**
+### 🌅 Der nächste Morgen
 
 Am Morgen wachten die Kinder auf -- verängstigt, aber lebend. Sie
 stellten sich als **Anja** und **Tom** vor, Waisen, die von den
@@ -1783,12 +1681,11 @@ Wirt unterzubringen, scheiterte an dessen (des Wirts) Unfähigkeit.
 Die Gruppe teilte sich auf, um Nachforschungen über den „Schatten aus
 Licht" anzustellen:
 
--   **Fafnir, Gina und Hagen** suchten die Stadtverwaltung auf.
+- **Fafnir, Gina und Hagen** suchten die Stadtverwaltung auf.
 
--   **Kyras, Brocc und Tobin** wollten den Einsiedler befragen -- liefen
-    > jedoch denselben Weg.
+- **Kyras, Brocc und Tobin** wollten den Einsiedler befragen -- liefen jedoch denselben Weg.
 
-### **🏛 Begegnung mit Vogt Schierling und dem Oberbürgermeister**
+### 🏛 Begegnung mit Vogt Schierling und dem Oberbürgermeister
 
 In der Stadtverwaltung traf die Gruppe **Vogt Schierling** aus
 Sandspitze, der sich an sie erinnerte. Nachdem Fafnir ihre Geschichte
@@ -1807,24 +1704,24 @@ Nach kurzer Beratung setzte Vogt Schierling den Lohn für die Helden auf
 **Festmahl in der Trutzburg bei Sonnenuntergang** ein -- ausdrücklich
 „bewaffnet".
 
-### **🧩 Zusammenfassung in Kürze**
+### 🧩 Zusammenfassung in Kürze
 
--   Zerstörung der Runenstele → Schatten aus Licht entfesselt
+- Zerstörung der Runenstele → Schatten aus Licht entfesselt
 
--   Prophezeiung des Exorzisten erfüllt sich teilweise
+- Prophezeiung des Exorzisten erfüllt sich teilweise
 
--   Rettung der Opfer Anja und Tom
+- Rettung der Opfer Anja und Tom
 
--   Mysteriöse Vision im Schlaf
+- Mysteriöse Vision im Schlaf
 
--   Treffen mit Vogt Schierling und Oberbürgermeister Grobaras
+- Treffen mit Vogt Schierling und Oberbürgermeister Grobaras
 
--   Belohnung: 6.000 GM und Einladung zum Festmahl
+- Belohnung: 6.000 GM und Einladung zum Festmahl
 
 Ort: Magnimar, nach der Zerstörung der Schattenuhr
 Erfahrung: keine 🙁
 
-🗓 **Zusammenfassung -- Pathfinder-Session vom 29. Oktober 2025**
+# Zusammenfassung -- Pathfinder-Session vom 29. Oktober 2025
 
 Die Session begann mitten im Showdown gegen **Xanesha**. Der Kampf fand
 unter dem Einfluss des *geweihten Orts* und Tobins *Spuknebels* statt --
@@ -1832,87 +1729,67 @@ ein heiliger, aber unheimlicher Schauplatz, der alle Beteiligten mit
 Verzweiflung erfüllte (-2 auf alles).
 Xanesha selbst war bereits geschwächt: --4 GE, --1 KO.
 
-### **⚔️ Der Kampf gegen Xanesha**
+### ⚔️ Der Kampf gegen Xanesha
 
--   **Fafnir** griff mit seiner *Sichel aus kaltem Eisen* an, traf
-    > zunächst nicht und zog sich in defensive Haltung zurück.
+- **Fafnir** griff mit seiner *Sichel aus kaltem Eisen* an, traf zunächst nicht und zog sich in defensive Haltung zurück.
 
--   **Tobin** trommelte und erkannte durch sein Wissen über Religion
-    > (27), dass der *Engel über dem Raum* in Wahrheit die
-    > **Runenstele** sein könnte.
+- **Tobin** trommelte und erkannte durch sein Wissen über Religion (27), dass der *Engel über dem Raum* in Wahrheit die **Runenstele** sein könnte.
 
--   **Kyras**, schwer angeschlagen, trat vor, verfiel in Kampfrausch und
-    > traf Xanesha für 16 Schaden.
+- **Kyras**, schwer angeschlagen, trat vor, verfiel in Kampfrausch und traf Xanesha für 16 Schaden.
 
--   **Brocc** untersuchte die Engelsstatue -- sie stand 4,5 m über der
-    > Mitte, gestützt durch Balken. Er bot an, sich in einen Baum zu
-    > verwandeln, um den Aufstieg zu erleichtern.
+- **Brocc** untersuchte die Engelsstatue -- sie stand 4,5 m über der Mitte, gestützt durch Balken. Er bot an, sich in einen Baum zu verwandeln, um den Aufstieg zu erleichtern.
 
--   **Fox** landete mit Kurzschwert und Dolch einen erfolgreichen
-    > Angriff: 4 + 12 hinterhältiger Schaden, 3 Blutung und
-    > „*hampered*".
+- **Fox** landete mit Kurzschwert und Dolch einen erfolgreichen Angriff: 4 + 12 hinterhältiger Schaden, 3 Blutung und „*hampered*".
 
--   **Mako** verfehlte trotz mehrerer Angriffe.
+- **Mako** verfehlte trotz mehrerer Angriffe.
 
--   **Hagen** ließ Brocc in Baumform klettern, um eine beschriftete
-    > Tafel an der Statue zu erreichen. Er konnte sie nicht lesen und
-    > warf sie hinunter.
+- **Hagen** ließ Brocc in Baumform klettern, um eine beschriftete Tafel an der Statue zu erreichen. Er konnte sie nicht lesen und warf sie hinunter.
 
--   **Gina** goss Weihwasser über die Tafel (ohne Effekt) und
-    > entzifferte schließlich den Text -- ein uraltes Ritual.
+- **Gina** goss Weihwasser über die Tafel (ohne Effekt) und entzifferte schließlich den Text -- ein uraltes Ritual.
 
 Xanesha zeigte ihre typische Heimtücke: Sie wirbelte akrobatisch (30)
 durch die Reihen, rief **Spiegelbilder** herbei und provozierte
 vergebliche Gelegenheitsangriffe. Sie erschuf acht Spiegelbilder.
 
-### **🔮 Zäher Schlagabtausch**
+### 🔮 Zäher Schlagabtausch
 
--   Fafnir und Tobin zerstörten mehrere Spiegelbilder.
+- Fafnir und Tobin zerstörten mehrere Spiegelbilder.
 
--   Kyras stürmte vor (Gelegenheitsangriff 29 → 12 Schaden), erzielte
-    > dann einen **kritischen Treffer** -- leider nur auf ein Bild.
+- Kyras stürmte vor (Gelegenheitsangriff 29 → 12 Schaden), erzielte dann einen **kritischen Treffer** -- leider nur auf ein Bild.
 
--   Brocc traf mit Weihwasser, Hagen schoss daneben, Mako verfehlte, Fox
-    > beschädigte ihre Waffe (--3 TP).
+- Brocc traf mit Weihwasser, Hagen schoss daneben, Mako verfehlte, Fox beschädigte ihre Waffe (--3 TP).
 
--   Gina traf erneut ein Spiegelbild (noch 4).
+- Gina traf erneut ein Spiegelbild (noch 4).
 
--   Xanesha wirkte **Tiefschlaf** (SG 20): Brocc widerstand, Kyras fiel
-    > -- wurde aber durch Fafnir sofort wieder geweckt.
+- Xanesha wirkte **Tiefschlaf** (SG 20): Brocc widerstand, Kyras fiel -- wurde aber durch Fafnir sofort wieder geweckt.
 
--   Tobin zerstörte das letzte Spiegelbild.
+- Tobin zerstörte das letzte Spiegelbild.
 
--   Kyras stand auf, würfelte einen **kritischen Treffer ×3**,
-    > verursachte **49 Schaden** -- **Xanesha fiel**.
+- Kyras stand auf, würfelte einen **kritischen Treffer ×3**, verursachte **49 Schaden** -- **Xanesha fiel**.
 
-### **🩹 Nach dem Kampf**
+### 🩹 Nach dem Kampf
 
--   Hagen stürzte beim Abstieg von der Statue auf Xaneshas Leiche (4
-    > Fallschaden).
+- Hagen stürzte beim Abstieg von der Statue auf Xaneshas Leiche (4 Fallschaden).
 
--   Die Gruppe erhielt **6 800 XP**.
+- Die Gruppe erhielt **6800 XP**.
 
--   Fafnir heilte Fox und Kyras (je 10 HP) und nutzte *Energie
-    > fokussieren* (+11 HP für alle).
+- Fafnir heilte Fox und Kyras (je 10 HP) und nutzte *Energie fokussieren* (+11 HP für alle).
 
-### **💎 Xaneshas Schätze**
+### 💎 Xaneshas Schätze
 
 Die Lamia trug:
 
--   **Dornenpfahl** (ihre magische Waffe)
+- **Dornenpfahl** (ihre magische Waffe)
 
--   **Maske der Medusa** -- +4 auf Rettungswürfe gegen Blickangriffe /
-    > 1× täglich *Fleisch zu Stein* (SG 15)
+- **Maske der Medusa** -- +4 auf Rettungswürfe gegen Blickangriffe / 1× täglich *Fleisch zu Stein* (SG 15)
 
--   **Schlangenhauttunika** -- RK +1, GE +2, Resistenz +2 gegen Gift
+- **Schlangenhauttunika** -- RK +1, GE +2, Resistenz +2 gegen Gift
 
--   **Mehrere Schlüssel
-    > **
+- **Mehrere Schlüssel**
 
--   **Sihedron-Amulett
-    > **
+- **Sihedron-Amulett**
 
-### **🧰 Der Fund im Turm**
+### 🧰 Der Fund im Turm
 
 Brocc entdeckte an der Wand **sieben Truhen**.
 Fox prüfte sie (und fand keine Fallen). Tobin fand einen **Brief** --
@@ -1922,14 +1799,13 @@ Mordritualen und forderte Xanesha auf, den Oberbürgermeister von
 Magnimar zu opfern.
 
 Die Truhen enthielten:
-1-5: 33 000 KM, 8 100 SM, 900 GM, 100 PM
-6: Schmuck & Edelsteine (4 200 GM Wert)
-7: 4 Tränke (*Mittelschwere Wunden heilen*), Kukri +2 (klein), **Ring
-der Sprungkraft**, **Skarabäus des Golembanns**
+- 1-5: 33 000 KM, 8 100 SM, 900 GM, 100 PM
+- 6: Schmuck & Edelsteine (4 200 GM Wert)
+- 7: 4 Tränke (*Mittelschwere Wunden heilen*), Kukri +2 (klein), **Ring der Sprungkraft**, **Skarabäus des Golembanns**
 
 → Die Gruppe erhielt weitere **4 800 XP**.
 
-### **🏁 Ende der Session**
+### 🏁 Ende der Session
 
 Xanesha ist besiegt, ihre Pläne enttarnt.
 Die Runenstele -- möglicherweise getarnt als Engelsstatue -- steht noch
@@ -1937,16 +1813,16 @@ im Raum.
 Die Helden sammeln Beute und bereiten sich darauf vor, die Spitze des
 Turms -- die Kuppel -- zu untersuchen.
 
-**Erfahrung insgesamt:** 11 600 XP
-**Ort:** Kuppel des Schattenuhr-Turms, Magnimar.
+- **Erfahrung insgesamt:** 11 600 XP
+- **Ort:** Kuppel des Schattenuhr-Turms, Magnimar.
 
-🗓 **Zusammenfassung -- Pathfinder-Session vom 22. Oktober 2025
-** Die Gruppe setzte ihre Erkundung der Turmruinen fort. Nach dem Sieg
+# Zusammenfassung -- Pathfinder-Session vom 22. Oktober 2025
+Die Gruppe setzte ihre Erkundung der Turmruinen fort. Nach dem Sieg
 über die gesichtslosen Attentäter durchsuchten sie den unheimlichen
 Ritualraum weiter --- und entdeckten dabei ein neues, noch
 gefährlicheres Geheimnis.
 
-### **🧩 Die Runen der Gier**
+### 🧩 Die Runen der Gier
 
 Zwischen Blutbecken, Käfig und Runenplatte fanden die Helden eine
 Inschrift, die immer wieder dasselbe Wort zeigte: **„Gier"**.
@@ -1956,7 +1832,7 @@ blutgetränkten Käfigrituale als seelische Vorbereitung der Opfer. Fox
 entdeckte währenddessen am Altar einen **unnatürlichen Schatten**, der
 sich anders bewegte als Lichtquellen es erklären konnten.
 
-### **🌑 Der Spiegel der Versuchung**
+### 🌑 Der Spiegel der Versuchung
 
 Brocc entdeckte in dem Schatten eine **Aura von Illusionsmagie**.
 Als Fox mit einem Kriegsmesser den Schatten berührte, verwandelte sich
@@ -1965,23 +1841,23 @@ Spiegel**.
 Wer hineinsah, erblickte sein Spiegelbild, wie es den größten Wunsch
 auslebte:
 
--   Fox sah sich selbst, wie sie Goldmünzen in die Luft warf,
+- Fox sah sich selbst, wie sie Goldmünzen in die Luft warf,
 
--   Brocc sah sich triumphierend mit einem Stab,
+- Brocc sah sich triumphierend mit einem Stab,
 
--   Hagen inmitten von Schuhen,
+- Hagen inmitten von Schuhen,
 
--   Gina mit einer vergoldeten Muskete,
+- Gina mit einer vergoldeten Muskete,
 
--   Tobin vor einem Publikum,
+- Tobin vor einem Publikum,
 
--   Kyras als zornigen, stolzen Halbelf.
+- Kyras als zornigen, stolzen Halbelf.
 
 Der Spiegel reagierte auf Bewegungen, nicht aber auf Worte. Es war kein
 Portal -- bis Hagen ihn berührte:
 Die Fläche gab nach, und er **verschwand hindurch**.
 
-### **⚙️ Durch das Tor der Gier**
+### ⚙️ Durch das Tor der Gier
 
 Hagen tauchte in einem dunklen Gang wieder auf, der nach oben führte.
 Kurz darauf folgten Fox, Gina, Brocc, Tobin und schließlich Kyras (nach
@@ -1990,7 +1866,7 @@ hindurchtreten. Fafnir schloss als Letzter auf.
 Hinter ihnen schloss sich die spiegelnde Fläche wieder, nun ein
 undurchdringliches Schwarz.
 
-### **🪞 Aufstieg in den Turm**
+### 🪞 Aufstieg in den Turm
 
 Der Gang führte zu einer schmalen Treppe, die in einen neuen Raum
 mündete:
@@ -2003,7 +1879,7 @@ daraus erhob sich ein **fliegender Dämon**.
 Die Gruppe machte sich kampfbereit -- doch plötzlich spürten einige von
 ihnen eine **zweite, unsichtbare Präsenz** im Raum.
 
-### **⚔️ Der Kampf gegen Xanesha**
+### ⚔️ Der Kampf gegen Xanesha
 
 Noch ehe sie reagieren konnten, wurde **Gina aus dem Hinterhalt
 angegriffen** -- die unsichtbare Angreiferin offenbarte sich als
@@ -2011,26 +1887,19 @@ angegriffen** -- die unsichtbare Angreiferin offenbarte sich als
 Eisendorn.
 Ein chaotischer Kampf begann:
 
--   **Fafnir** wirkte *Ort weihen* und schuf einen geweihten Bereich,
-    > der Xaneshas dunkle Magie schwächte und eine Illusion eines Dämons
-    > bannte.
+- **Fafnir** wirkte *Ort weihen* und schuf einen geweihten Bereich, der Xaneshas dunkle Magie schwächte und eine Illusion eines Dämons bannte.
 
--   **Tobin** unterstützte mit Trommeln, *Spuknebel* und scharfem Humor.
+- **Tobin** unterstützte mit Trommeln, *Spuknebel* und scharfem Humor.
 
--   **Kyras** tunkte sein Schwert in Weihwasser und führte den
-    > Sturmangriff, traf Xanesha mit kaltem Eisen.
+- **Kyras** tunkte sein Schwert in Weihwasser und führte den Sturmangriff, traf Xanesha mit kaltem Eisen.
 
--   **Brocc** schleuderte Säurestrahlen und wirkte Schutzzauber auf
-    > Kyras.
+- **Brocc** schleuderte Säurestrahlen und wirkte Schutzzauber auf Kyras.
 
--   **Fox** warf Weihwasser, flankierte mit Kyras und fügte Xanesha
-    > blutende Wunden zu.
+- **Fox** warf Weihwasser, flankierte mit Kyras und fügte Xanesha blutende Wunden zu.
 
--   **Gina** schoss mit tödlicher Präzision -- ihre Kugeln aus kaltem
-    > Eisen durchdrangen selbst Xaneshas magische Haut.
+- **Gina** schoss mit tödlicher Präzision -- ihre Kugeln aus kaltem Eisen durchdrangen selbst Xaneshas magische Haut.
 
--   **Hagen** verstärkte Mako mit *Magierschild*; der Bär riss Xanesha
-    > nieder und verursachte Konstitutionsblutung.
+- **Hagen** verstärkte Mako mit *Magierschild*; der Bär riss Xanesha nieder und verursachte Konstitutionsblutung.
 
 Xanesha konterte mit einem *Dornenpfahl*-Zauber: eine **Welle aus
 Verzweiflung**, die alle außer Tobin (der in sichererer Entfernung
@@ -2040,7 +1909,7 @@ von Brocc) widerstanden der magischen Depression.
 Fafnir heilte in letzter Sekunde die Schwerverwundeten, während Tobin
 erneut den schützenden Nebel beschwor.
 
-### **🩸 Letzte Szenen und Cliffhanger**
+### 🩸 Letzte Szenen und Cliffhanger
 
 Xanesha, schwer verwundet und blutend, zog sich in eine Ecke des Raumes
 zurück und heilte sich, doch die Gruppe hatte sie festgesetzt.
@@ -2049,26 +1918,25 @@ heilige Energie.
 Der Kampf tobte weiter, als die Session endete.
 Xanesha blutet, die Gruppe steht, erschöpft, aber vereint.
 
-### **🧩 Zusammenfassung in Kürze**
+### 🧩 Zusammenfassung in Kürze
 
--   Untersuchung der **Runen der Gier** im Ritualraum
+- Untersuchung der **Runen der Gier** im Ritualraum
 
--   Entdeckung des **Spiegels der Versuchung
-    > **
+- Entdeckung des **Spiegels der Versuchung **
 
--   Durchgang durch das **Tor der Gier** in einen oberen Turmraum
+- Durchgang durch das **Tor der Gier** in einen oberen Turmraum
 
--   Konfrontation mit **Xanesha**, der Schlangenfrau
+- Konfrontation mit **Xanesha**, der Schlangenfrau
 
--   Weihwasser, kaltes Eisen und Trommeln gegen Magie der Verzweiflung
+- Weihwasser, kaltes Eisen und Trommeln gegen Magie der Verzweiflung
 
--   **Fafnirs geweihter Bereich** schwächt die Gegnerin
+- **Fafnirs geweihter Bereich** schwächt die Gegnerin
 
--   **Fox' und Ginas Angriffe** verursachen schwere Blutung
+- **Fox' und Ginas Angriffe** verursachen schwere Blutung
 
--   **Makos Kritischer Treffer** führt zu Konstitutionsverlust
+- **Makos Kritischer Treffer** führt zu Konstitutionsverlust
 
--   Kampf endet offen -- **Xanesha angeschlagen**, Gruppe erschöpft
+- Kampf endet offen -- **Xanesha angeschlagen**, Gruppe erschöpft
 
 **🗓 Zusammenfassung -- Pathfinder-Session vom 15. Oktober 2025**
 ----------------------------------------------------------------
@@ -2077,7 +1945,7 @@ Der Kampf gegen die gesichtslosen Attentäter im Schattenraum der
 Turmruinen ging weiter. Nebel, Blut und Schatten dominierten das Chaos
 -- doch die Gruppe kämpfte sich mit Disziplin und schwarzem Humor durch.
 
-### **⚔️ Kampf im Spuknebel**
+### ⚔️ Kampf im Spuknebel
 
 Zu Beginn herrschte Verwirrung: Im dichten Spuknebel von Tobin sah
 niemand weiter als 1,50 Meter. Gegner und Gefährten bewegten sich
@@ -2094,7 +1962,7 @@ Fox nutzte einen Heiltrank, um sich nach mehreren Verwundungen zu
 stabilisieren, und versteckte sich vorsichtig hinter Fafnir -- eine
 kluge Entscheidung, wie sich bald zeigen sollte.
 
-### **🌫 Orientierung im Dunkeln**
+### 🌫 Orientierung im Dunkeln
 
 Während die Gegner sich durch **Schattengang** zwischen dunklen
 Bereichen teleportierten, versuchte die Gruppe, die Übersicht zu
@@ -2104,7 +1972,7 @@ hielten.
 Kyras erkannte ihre Bewegung und forderte Licht im nördlichen Teil des
 Raumes, während Hagen und Tobin eine neue Formation planten.
 
-### **🧠 Taktische Neuordnung**
+### 🧠 Taktische Neuordnung
 
 Tobin schlug eine **Phalanx-Formation in V-Form** vor -- „mit dem Zwerg
 an der Spitze". Die Gruppe sammelte sich, Gina und Fafnir hielten die
@@ -2116,7 +1984,7 @@ untersuchte eine Leiche und stellte fest, dass diese Gesichtslosen sich
 von jenen früheren Exemplaren unterschieden -- humanoider, aber mit
 Runenmale auf der Haut.
 
-### **💥 Der zweite Angriff**
+### 💥 Der zweite Angriff
 
 Ein dumpfer Schlag ertönte -- eine Steintür fiel und versperrte den
 Rückweg. Die Attentäter hatten sich neu gruppiert. Kyras sah sie im
@@ -2133,7 +2001,7 @@ Schließlich fielen einer nach dem anderen. Der letzte Gegner wurde von
 Gina mit einem gezielten Schuss getroffen -- 19 Schaden, Gritpunkt
 zurück, Treffer. **Der Kampf war vorbei.**
 
-### **⚖️ Nach dem Sieg**
+### ⚖️ Nach dem Sieg
 
 Die Gruppe atmete schwer auf. Alle sieben Attentäter lagen tot am
 Boden.
@@ -2147,41 +2015,36 @@ Diskussionen folgten: Rasten? Rückzug? Tür aufsprengen? Am Ende
 beschloss man, für den Moment im Raum zu bleiben, sich zu heilen -- und
 am nächsten Tag weiterzusehen.
 
-### **🧩 Zusammenfassung in Kürze**
+### 🧩 Zusammenfassung in Kürze
 
--   Fortsetzung des Kampfes gegen die gesichtslosen Attentäter
+- Fortsetzung des Kampfes gegen die gesichtslosen Attentäter
 
--   Orientierung im Nebel durch **Dancing Lights
-    > **
+- Orientierung im Nebel durch **Dancing Lights **
 
--   Gegner nutzen **Schattengang**, um zu fliehen und erneut anzugreifen
+- Gegner nutzen **Schattengang**, um zu fliehen und erneut anzugreifen
 
--   **Phalanx-Formation** mit Tobins taktischer Leitung
+- **Phalanx-Formation** mit Tobins taktischer Leitung
 
--   **Fox** stabilisiert sich, **Gina** schießt präzise, **Kyras**
-    > stürmt vor
+- **Fox** stabilisiert sich, **Gina** schießt präzise, **Kyras** stürmt vor
 
--   **Broccs Magic Missiles** und **Makos Angriff** beenden den Kampf
+- **Broccs Magic Missiles** und **Makos Angriff** beenden den Kampf
 
--   **Fafnir** heilt die Gruppe
+- **Fafnir** heilt die Gruppe
 
--   Steintür fällt -- Rückweg blockiert
+- Steintür fällt -- Rückweg blockiert
 
--   Sieg über alle sieben Attentäter, Gruppe sammelt **1400 EP pro
-    > Person
-    > **
+- Sieg über alle sieben Attentäter, Gruppe sammelt **1400 EP pro Person **
 
--   Ende der Session mit kurzer Heilphase und Diskussion über den
-    > nächsten Schritt
+- Ende der Session mit kurzer Heilphase und Diskussion über den nächsten Schritt
 
-### **🗓 Zusammenfassung -- Pathfinder-Session vom 1. Oktober 2025**
+### 🗓 Zusammenfassung -- Pathfinder-Session vom 1. Oktober 2025
 
 Die Session begann mit einem kurzen Recap der letzten Ereignisse: Der
 Kampf gegen die Kultisten im Ritualraum war überstanden, zwei Gefangene
 waren gerettet worden, und die Gruppe stand nun vor einer weiteren Tür
 im Turm der Schattenuhr.
 
-#### **🗝 Erkundung des nächsten Raums**
+#### 🗝 Erkundung des nächsten Raums
 
 **Fox** und **Brocc** beschlossen, den nächsten Raum vorsichtig zu
 erkunden. Beide versuchten, sich schleichend hineinzubewegen --
@@ -2190,64 +2053,52 @@ die Gruppe wurde prompt überrascht.
 
 Der neue Raum war düster und unheimlich:
 
--   Der Boden bestand aus hellem, von feinen Adern durchzogenen Marmor.
+- Der Boden bestand aus hellem, von feinen Adern durchzogenen Marmor.
 
--   In den Ecken herrschte völlige Dunkelheit, als wären dort
-    > Schattenmagie oder Illusionen am Werk.
+- In den Ecken herrschte völlige Dunkelheit, als wären dort Schattenmagie oder Illusionen am Werk.
 
--   In der Mitte stand ein **massiver dunkelroter Käfig** mit einer
-    > **goldenen Runenplatte** an seiner Basis.
+- In der Mitte stand ein **massiver dunkelroter Käfig** mit einer **goldenen Runenplatte** an seiner Basis.
 
--   An der Rückwand befand sich ein **violett schimmernder Altar**, und
-    > im Süden ein **Becken voller dunkler Flüssigkeit**, vermutlich
-    > Blut.
+- An der Rückwand befand sich ein **violett schimmernder Altar**, und im Süden ein **Becken voller dunkler Flüssigkeit**, vermutlich Blut.
 
--   Alte **Puppenständer und Ritualfiguren** säumten die Wände.
+- Alte **Puppenständer und Ritualfiguren** säumten die Wände.
 
 Brocc entdeckte durch *Magie entdecken*, dass der gesamte Raum von
 **Illusionsmagie** erfüllt war -- überall, ohne klar erkennbare Quelle.
 Bevor sie weitere Nachforschungen anstellen konnten, griffen plötzlich
 **gesichtslose Attentäter** aus den Schatten an.
 
-#### **⚔️ Überfall der Gesichtslosen**
+#### ⚔️ Überfall der Gesichtslosen
 
 Die Überraschungsrunde traf die Gruppe hart:
 
--   **Brocc** wurde von einem Hinterhalt schwer verwundet und fiel
-    > beinahe bewusstlos zu Boden.
+- **Brocc** wurde von einem Hinterhalt schwer verwundet und fiel beinahe bewusstlos zu Boden.
 
--   **Fox** geriet in einen Ringkampf und musste sich mühsam befreien.
+- **Fox** geriet in einen Ringkampf und musste sich mühsam befreien.
 
--   Die restliche Gruppe -- **Kyras**, **Hagen**, **Fafnir**, **Gina**
-    > und **Tobin** -- stürmte auf die Hilferufe hin in den Raum, um die
-    > beiden zu unterstützen.
+- Die restliche Gruppe -- **Kyras**, **Hagen**, **Fafnir**, **Gina** und **Tobin** -- stürmte auf die Hilferufe hin in den Raum, um die beiden zu unterstützen.
 
 Die **Gesichtslosen** kämpften mit übermenschlicher Präzision und
 nutzten **Hinterhältige Angriffe**, **Klauen** und **Schwertgriffe**, um
 ihre Gegner zu flankieren. Besonders Fox und Brocc gerieten mehrfach in
 Lebensgefahr.
 
--   **Gina** schoss mit ihrer Muskete, doch eine Fehlzündung beschädigte
-    > ihre Waffe.
+- **Gina** schoss mit ihrer Muskete, doch eine Fehlzündung beschädigte ihre Waffe.
 
--   **Fafnir** heilte Brocc mit „*Schwere Wunden heilen*", wodurch der
-    > Gnom knapp dem Tod entkam.
+- **Fafnir** heilte Brocc mit „*Schwere Wunden heilen*", wodurch der Gnom knapp dem Tod entkam.
 
--   **Mako** stürzte sich in den Nahkampf und versuchte, einen der
-    > Angreifer zu packen.
+- **Mako** stürzte sich in den Nahkampf und versuchte, einen der Angreifer zu packen.
 
--   **Kyras** kämpfte im Kampfrausch und fügte einem Gegner mit kaltem
-    > Eisen massiven Schaden zu.
+- **Kyras** kämpfte im Kampfrausch und fügte einem Gegner mit kaltem Eisen massiven Schaden zu.
 
--   **Hagen** aktivierte schließlich den Zauber **Haste**, um die Gruppe
-    > zu beschleunigen.
+- **Hagen** aktivierte schließlich den Zauber **Haste**, um die Gruppe zu beschleunigen.
 
 Trotz der Unterstützung geriet **Fox** erneut unter Beschuss: Ein
 kritischer Treffer spaltete beinahe ihre Kehle, sie brach zusammen und
 blutete stark, konnte jedoch dank **Broccs Heilzauberstab** stabilisiert
 werden.
 
-#### **🌫 Tobins Spuknebel**
+#### 🌫 Tobins Spuknebel
 
 Um die Übermacht zu brechen, setzte **Tobin** schließlich seinen
 Illusionszauber **Spuknebel** ein. Ein dichter Nebel breitete sich über
@@ -2256,159 +2107,113 @@ Gruppe dringend benötigte Deckung.
 Einige Gegner verloren durch den Nebel ihre Orientierung, während Tobin
 die Gefährten über *Message* warnte, dass die Illusion harmlos sei.
 
-#### **💥 Kampfverlauf und Wendepunkte**
+#### 💥 Kampfverlauf und Wendepunkte
 
--   **Hagen** und **Kyras** hielten die Linie, während **Fafnir** durch
-    > *Energie fokussieren* alle Verwundeten um 16 Trefferpunkte heilte.
+- **Hagen** und **Kyras** hielten die Linie, während **Fafnir** durch *Energie fokussieren* alle Verwundeten um 16 Trefferpunkte heilte.
 
--   **Gina** schlug mit dem Kolben ihrer defekten Muskete zu und schlug
-    > einem Gegner symbolisch „den Zahn aus dem Gesicht".
+- **Gina** schlug mit dem Kolben ihrer defekten Muskete zu und schlug einem Gegner symbolisch „den Zahn aus dem Gesicht".
 
--   Die Gegner zeigten erste Schwächen -- einige taumelten, einer fiel.
+- Die Gegner zeigten erste Schwächen -- einige taumelten, einer fiel.
 
--   Dennoch standen mehrere Gesichtlose noch, und **Marco** (Makos
-    > tierischer Begleiter) war schwer angeschlagen.
+- Dennoch standen mehrere Gesichtlose noch, und **Marco** (Makos tierischer Begleiter) war schwer angeschlagen.
 
 Ein vollständiger Rückzug wurde diskutiert, doch die Gruppe entschied
 geschlossen:
 
 > „Wenn wir sterben, dann alle zusammen."
 
-#### **⚖️ Ende der Session**
+#### ⚖️ Ende der Session
 
 Die Session endete mitten im laufenden Gefecht:
 
--   **Fox** stand wieder, aber schwer gezeichnet.
+- **Fox** stand wieder, aber schwer gezeichnet.
 
--   **Gina**, **Fafnir** und **Brocc** hielten mühsam die Stellung.
+- **Gina**, **Fafnir** und **Brocc** hielten mühsam die Stellung.
 
--   **Tobins Spuknebel** verschaffte vorübergehend Deckung.
+- **Tobins Spuknebel** verschaffte vorübergehend Deckung.
 
--   **Kyras** wütete weiter im Nahkampf.
+- **Kyras** wütete weiter im Nahkampf.
 
--   **Mehrere Gesichtlose** waren besiegt oder verletzt, doch der Kampf
-    > war längst nicht entschieden.
+- **Mehrere Gesichtlose** waren besiegt oder verletzt, doch der Kampf war längst nicht entschieden.
 
 Roman beendete die Runde mit den Worten:
 
 > „Dann machen wir hier Schluss. Einen haben wir down -- wir führen."
 
-### **🧩 Zusammenfassung in Kürze**
+### 🧩 Zusammenfassung in Kürze
 
--   Erkundung des neuen Ritualraums unterhalb der Schattenuhr
+- Erkundung des neuen Ritualraums unterhalb der Schattenuhr
 
--   Überraschungsangriff durch **gesichtslose Attentäter
-    > **
+- Überraschungsangriff durch **gesichtslose Attentäter **
 
--   **Brocc** schwer verwundet, **Fox** zweimal niedergeschlagen
+- **Brocc** schwer verwundet, **Fox** zweimal niedergeschlagen
 
--   **Fafnir** rettet durch Heilzauber, **Hagen** aktiviert *Haste
-    > *
+- **Fafnir** rettet durch Heilzauber, **Hagen** aktiviert *Haste *
 
--   **Tobin** erschafft Illusionsnebel zur Deckung
+- **Tobin** erschafft Illusionsnebel zur Deckung
 
--   **Kyras** und **Mako** halten den Nahkampf
+- **Kyras** und **Mako** halten den Nahkampf
 
--   **Gina** beschädigt Waffe, kämpft mit Kolben weiter
+- **Gina** beschädigt Waffe, kämpft mit Kolben weiter
 
--   Kampf endet mit Vorteil, aber hoher Erschöpfung der Gruppe
+- Kampf endet mit Vorteil, aber hoher Erschöpfung der Gruppe
 
-### **Zusammenfassung der Pathfinder-Session vom 24. September 2025**
+### Zusammenfassung der Pathfinder-Session vom 24. September 2025
 
 Die Session setzte direkt im Kampf gegen die neun Kultisten im
 Ritualraum des Schattenuhr-Turms an.
 
-#### **Der Kampf gegen die Kultisten**
+#### Der Kampf gegen die Kultisten
 
--   **Einstieg:** Die Gruppe befand sich bereits im Nahkampf. Tobins
-    > Trommeln wirkten als Buff (+2 Angriff und Schaden), dazu lagen
-    > weitere Effekte wie Resistenz und Magierrüstung auf der Gruppe.
-    > Einige Kultisten waren durch Ginas Blendmunition noch leicht
-    > beeinträchtigt.
+- **Einstieg:** Die Gruppe befand sich bereits im Nahkampf. Tobins Trommeln wirkten als Buff (+2 Angriff und Schaden), dazu lagen weitere Effekte wie Resistenz und Magierrüstung auf der Gruppe. Einige Kultisten waren durch Ginas Blendmunition noch leicht beeinträchtigt.
 
--   **Kyras** wurde von mehreren Gegnern bedrängt und in einen Ringkampf
-    > verwickelt. Er steckte dadurch den Großteil des Schadens ein und
-    > war zeitweise stark angeschlagen.
+- **Kyras** wurde von mehreren Gegnern bedrängt und in einen Ringkampf verwickelt. Er steckte dadurch den Großteil des Schadens ein und war zeitweise stark angeschlagen.
 
--   **Fox** griff mit Kurzschwert und Dolch flankierend an, nutzte
-    > Two-Weapon-Fighting und landete mehrere präzise Treffer. Sie
-    > verursachte Blutungsschaden und schwächte Gegner mit „debilitating
-    > injury".
+- **Fox** griff mit Kurzschwert und Dolch flankierend an, nutzte Two-Weapon-Fighting und landete mehrere präzise Treffer. Sie verursachte Blutungsschaden und schwächte Gegner mit „debilitating injury".
 
--   **Gina** setzte ihre Muskete effektiv ein und erzielte u. a. einen
-    > kritischen Treffer, der einen Kultisten sofort ausschaltete.
+- **Gina** setzte ihre Muskete effektiv ein und erzielte u. a. einen kritischen Treffer, der einen Kultisten sofort ausschaltete.
 
--   **Brocc** wirkte mehrfach offensive Zauber (Ätzender Strahl,
-    > Brennende Hände). Mit einem verstärkten Brennende Hände fügte er
-    > drei Gegnern die Kyras umzingelt hatten schweren Schaden zu und
-    > löste damit auch den Ringkampf um Kyras auf.
+- **Brocc** wirkte mehrfach offensive Zauber (Ätzender Strahl, Brennende Hände). Mit einem verstärkten Brennende Hände fügte er drei Gegnern die Kyras umzingelt hatten schweren Schaden zu und löste damit auch den Ringkampf um Kyras auf.
 
--   **Hagen** unterstützte taktisch mit Armbrustschüssen und steuerte
-    > seinen Vertrauten.
+- **Hagen** unterstützte taktisch mit Armbrustschüssen und steuerte seinen Vertrauten.
 
--   **Mako** war eine Schlüsselfigur: Er packte den „Anführer"-Kultisten
-    > (der sich durch Runenzauber hervortat), schleppte ihn zum Rand der
-    > magischen Grube, die Hagen zuvor gezaubert hatte, und stieß ihn
-    > hinunter. Dabei fiel er selbst mit hinein und zerschmetterte den
-    > Gegner endgültig beim Aufprall.
+- **Mako** war eine Schlüsselfigur: Er packte den „Anführer"-Kultisten (der sich durch Runenzauber hervortat), schleppte ihn zum Rand der magischen Grube, die Hagen zuvor gezaubert hatte, und stieß ihn hinunter. Dabei fiel er selbst mit hinein und zerschmetterte den Gegner endgültig beim Aufprall.
 
--   **Fafnir** hielt die Front im Nahkampf stabil. Nach einigen
-    > Fehlschlägen gelang es ihm schließlich, mit seinem Morgenstern
-    > einen Kultisten niederzustrecken.
+- **Fafnir** hielt die Front im Nahkampf stabil. Nach einigen Fehlschlägen gelang es ihm schließlich, mit seinem Morgenstern einen Kultisten niederzustrecken.
 
--   **Tobin** unterstützte mit seiner Bardenmusik, schoss zwischendurch
-    > mit der Armbrust und setzte „Saving Finale" ein, um Fox oder Mako
-    > eine zweite Chance bei einem Rettungswurf zu geben.
+- **Tobin** unterstützte mit seiner Bardenmusik, schoss zwischendurch mit der Armbrust und setzte „Saving Finale" ein, um Fox oder Mako eine zweite Chance bei einem Rettungswurf zu geben.
 
 Schließlich endete der Kampf mit einem spektakulären Schlag: **Kyras**
 durchtrennte mit einem kritischen Treffer das Rückgrat eines der letzten
 Gegner und beendete so das Gefecht.
 
-#### **Befreiung der Geiseln**
+#### Befreiung der Geiseln
 
--   Am hinteren Ende des Raums fanden die Helden zwei etwa 15-jährige
-    > Gefangene, einen Jungen und ein Mädchen. Sie waren an Säulen
-    > gefesselt und durch den betäubenden Rauch von Räuchergefäßen
-    > bewusstlos.
+- Am hinteren Ende des Raums fanden die Helden zwei etwa 15-jährige Gefangene, einen Jungen und ein Mädchen. Sie waren an Säulen gefesselt und durch den betäubenden Rauch von Räuchergefäßen bewusstlos.
 
--   Die Gefangenen wiesen oberflächliche Schnittwunden mit eingeritzten
-    > Runen auf, aber keine lebensbedrohlichen Verletzungen. Puls und
-    > Atmung waren schwach und unregelmäßig.
+- Die Gefangenen wiesen oberflächliche Schnittwunden mit eingeritzten Runen auf, aber keine lebensbedrohlichen Verletzungen. Puls und Atmung waren schwach und unregelmäßig.
 
--   Fafnir und Brocc stabilisierten sie mit Heilkunde und Verbänden.
+- Fafnir und Brocc stabilisierten sie mit Heilkunde und Verbänden.
 
--   Der Rauch hatte sich über längere Zeit aufgebaut, sodass es laut
-    > Roman noch etwa zwei Stunden dauern würde, bis die beiden wieder
-    > zu Bewusstsein kommen.
+- Der Rauch hatte sich über längere Zeit aufgebaut, sodass es laut Roman noch etwa zwei Stunden dauern würde, bis die beiden wieder zu Bewusstsein kommen.
 
-#### **Vorsichtsmaßnahmen**
+#### Vorsichtsmaßnahmen
 
--   Die Helden löschten die Räuchergefäße, um weitere Schäden zu
-    > verhindern.
+- Die Helden löschten die Räuchergefäße, um weitere Schäden zu verhindern.
 
--   Da der Rückweg nur über das gefährliche Spiegelkabinett führte,
-    > entschied die Gruppe, die Kinder nicht sofort mitzunehmen.
-    > Stattdessen machten sie es ihnen bequem und hinterließen
-    > Warnungen: eine Notiz sowie einen Totenkopf als Symbol, damit sie
-    > beim Aufwachen nicht versehentlich ins Spiegelkabinett laufen.
+- Da der Rückweg nur über das gefährliche Spiegelkabinett führte, entschied die Gruppe, die Kinder nicht sofort mitzunehmen. Stattdessen machten sie es ihnen bequem und hinterließen Warnungen: eine Notiz sowie einen Totenkopf als Symbol, damit sie beim Aufwachen nicht versehentlich ins Spiegelkabinett laufen.
 
--   Diskussionen ergaben, dass die beiden als geschwächte Jugendliche
-    > ohnehin nicht kampffähig wären.
+- Diskussionen ergaben, dass die beiden als geschwächte Jugendliche ohnehin nicht kampffähig wären.
 
-#### **Nachbereitung**
+#### Nachbereitung
 
--   Fafnir und Brocc setzten Heilung ein -- sowohl mit Zaubern als auch
-    > mit dem Heilstab --, um die Gruppe wieder kampffähig zu machen.
-    > Besonders Kyras und Mako wurden behandelt.
+- Fafnir und Brocc setzten Heilung ein -- sowohl mit Zaubern als auch mit dem Heilstab --, um die Gruppe wieder kampffähig zu machen. Besonders Kyras und Mako wurden behandelt.
 
--   Die Gruppe plünderte die Kultisten: Kriegsmesser, Roben und
-    > Ausrüstung. Mehrere Helden tauschten ihre Roben gegen die der
-    > Gegner, um im Turm unerkannt weiter vordringen zu können.
+- Die Gruppe plünderte die Kultisten: Kriegsmesser, Roben und Ausrüstung. Mehrere Helden tauschten ihre Roben gegen die der Gegner, um im Turm unerkannt weiter vordringen zu können.
 
--   Erfahrungspunkte wurden verteilt: 600 XP pro Kultist, unabhängig vom
-    > „Anführer".
+- Erfahrungspunkte wurden verteilt: 600 XP pro Kultist, unabhängig vom „Anführer".
 
-#### **Cliffhanger**
+#### Cliffhanger
 
 Am Ende öffnete Fox vorsichtig die nächste Tür. Was dahinter lag, blieb
 unklar -- die Session endete mit einem Cliffhanger und der Aussicht auf
@@ -2417,7 +2222,7 @@ den weiteren Aufstieg im Turm, wo Xanesha selbst noch wartet
 **Zusammenfassung -- Pathfinder-Session vom 17. September 2025**
 ----------------------------------------------------------------
 
-### **Rückblick auf Vorbereitung & Exorzist**
+### Rückblick auf Vorbereitung & Exorzist
 
 Die Gruppe hatte nach den Geschehnissen auf dem Schwarzmarkt (Fox'
 missglückter Taschendiebstahl, Strafe 50 Gold) und Hagens Begegnung mit
@@ -2428,7 +2233,7 @@ Xanesha. Außerdem gestand Fox vor ihm ihre Schuld, eine Stadtwache
 getötet zu haben -- was zu moralischen Diskussionen in der Gruppe
 führte.
 
-### **Der Weg zum zahnlosen Raben**
+### Der Weg zum zahnlosen Raben
 
 Tobin führte die Gruppe sicher zu der Statue des „zahnlosen Raben" in
 Unter-Magnimar (zahnlos, weil er keinen (mehr) Schnabel hat). Dort
@@ -2438,38 +2243,28 @@ Runensymbol. Als Fox es berührte und die geheimen Worte sprach,
 verzerrte sich die Mauer wie Wasser -- und der **Turm der Schattenuhr
 erhob sich aus der Illusion**.
 
-### **Einstieg in den Turm**
+### Einstieg in den Turm
 
 Im Inneren fanden sie eine morsche Wendeltreppe, die sich am Rand des
 gewaltigen Raumes nach oben wandte. Viele Stufen waren gebrochen,
 Geländer fehlten, alles wirkte lebensgefährlich.
 
--   Fox und Brocc kletterten als Erste hinauf, sprangen über die Lücke
-    > in der Treppe, sicherten mit Seilen und warfen sie den anderen
-    > hinunter.
+- Fox und Brocc kletterten als Erste hinauf, sprangen über die Lücke in der Treppe, sicherten mit Seilen und warfen sie den anderen hinunter.
 
--   Brocc vergrößerte Fox magisch, sodass sie die Kameraden mit bloßer
-    > Kraft hochziehen konnte.
+- Brocc vergrößerte Fox magisch, sodass sie die Kameraden mit bloßer Kraft hochziehen konnte.
 
--   Nach und nach kamen alle oben an, die meisten über die Treppe,
-    > Fafnir und Tobin per Seilzug, wenn auch mit vereinzelten
-    > kritischen Momenten (als Tobin am im Seil hing, lief Fox'
-    > Vergrößerung fast genau im falschen Moment aus).
+- Nach und nach kamen alle oben an, die meisten über die Treppe, Fafnir und Tobin per Seilzug, wenn auch mit vereinzelten kritischen Momenten (als Tobin am im Seil hing, lief Fox' Vergrößerung fast genau im falschen Moment aus).
 
-### **Das Spiegelkabinett**
+### Das Spiegelkabinett
 
 Oben stießen sie auf einen Raum voller Spiegel -- das bereits
 angekündigte Schutzlabyrinth vor Xaneshas Gemach.
 
--   Fafnir wagte den Test: Beim Zerschlagen eines Spiegels nahm er
-    > **Charismaschaden** und bestätigte, dass jeder Spiegel eine Gefahr
-    > barg.
+- Fafnir wagte den Test: Beim Zerschlagen eines Spiegels nahm er **Charismaschaden** und bestätigte, dass jeder Spiegel eine Gefahr barg.
 
--   Schließlich entschied die Gruppe, blind und mit Körperkontakt durchs
-    > Labyrinth zu schleichen. So erreichten sie nach 10 Minuten tastend
-    > das Ende des Raumes -- ohne weitere Verluste.
+- Schließlich entschied die Gruppe, blind und mit Körperkontakt durchs Labyrinth zu schleichen. So erreichten sie nach 10 Minuten tastend das Ende des Raumes -- ohne weitere Verluste.
 
-### **Der Ritualraum**
+### Der Ritualraum
 
 Hinter der nächsten Tür hörten sie Stimmen. Die Helden wussten: Im Turm
 warten **Kultisten, Vogelscheuchen und Gesichtlose** -- und irgendwann
@@ -2481,31 +2276,23 @@ neun Kultisten, die gerade ein Ritual mit zwei gefesselten Opfern
 vollzogen. Der Anführer wies sie schroff ab, doch Fox schrie „Feuer!" --
 das Signal.
 
-### **Kampf gegen die Kultisten**
+### Kampf gegen die Kultisten
 
--   **Fox** eröffnete die Überraschungsrunde mit Dolch und Kurzschwert:
-    > ein Kultist blutete stark, erhielt Malus auf Angriffe.
+- **Fox** eröffnete die Überraschungsrunde mit Dolch und Kurzschwert: ein Kultist blutete stark, erhielt Malus auf Angriffe.
 
--   **Mako** stürmte hinein und zerlegte einen Kultisten fast im
-    > Alleingang -- die Maske fiel, das Opfer brüllte: „Nicht schon
-    > wieder dieser Bär!"
+- **Mako** stürmte hinein und zerlegte einen Kultisten fast im Alleingang -- die Maske fiel, das Opfer brüllte: „Nicht schon wieder dieser Bär!"
 
--   **Gina** feuerte eine Blendkartusche, die mehrere Kultisten
-    > kurzzeitig blendete.
+- **Gina** feuerte eine Blendkartusche, die mehrere Kultisten kurzzeitig blendete.
 
--   **Hagen** öffnete mit *Create Pit* ein sechs Meter tiefes Loch, in
-    > das mehrere Kultisten fast gestürzt wären.
+- **Hagen** öffnete mit *Create Pit* ein sechs Meter tiefes Loch, in das mehrere Kultisten fast gestürzt wären.
 
--   **Kyras** wurde im Nahkampf gepackt und in den Schwitzkasten
-    > genommen.
+- **Kyras** wurde im Nahkampf gepackt und in den Schwitzkasten genommen.
 
--   **Tobin** unterstützte mit Trommeln (+2/+2 Buff) und Zaubern wie
-    > Resistenz.
+- **Tobin** unterstützte mit Trommeln (+2/+2 Buff) und Zaubern wie Resistenz.
 
--   **Fafnir** hielt defensiv die Linie.
+- **Fafnir** hielt defensiv die Linie.
 
--   **Brocc** verteilte Magierüstung und Vergrößerungen, um die Front zu
-    > stärken.
+- **Brocc** verteilte Magierüstung und Vergrößerungen, um die Front zu stärken.
 
 Am Ende der ersten Kampfrunde stand die Gruppe mitten im Ritualraum,
 umgeben von Kultisten -- einige bereits leicht angeschlagen. Die
