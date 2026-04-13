@@ -281,7 +281,7 @@ bewegen sich unvorhersehbar durch den Wald.
 ## Zwischenszene im Lager
 
 Währenddessen sorgt ein vermeintliches Geräusch für Aufregung:
-Tobin entdeckt ein „bedrohliches Rascheln" -- das sich als Kaninchen
+Tobin entdeckt ein "bedrohliches Rascheln" -- das sich als Kaninchen
 herausstellt.
 
 Kurz darauf gibt es im Lager frisch zubereitetes Kaninchen.
@@ -337,7 +337,7 @@ Fafnir heilt ihn notdürftig.
 
 **Seine Worte:**
 
-> „Die Oger kommen... wir müssen weg!"
+> "Die Oger kommen... wir müssen weg!"
 
 Er berichtet, dass er den Ogern entkommen ist -- und vermutlich verfolgt
 wird.
@@ -465,7 +465,7 @@ Informationen über Oger zu suchen. Dort entdeckt er ein Buch über die
 **Oger der nördlichen Berge** sowie ein **Bestiarium**.
 
 Er leiht beide Bücher aus -- nicht ohne sich im Ausleihformular unter
-dem Künstlernamen **„Der große Tobineo"** einzutragen.
+dem Künstlernamen **"Der große Tobineo"** einzutragen.
 
 Die Erkenntnisse aus diesen Büchern sollen der Gruppe helfen, ihren
 Feind besser zu verstehen.
@@ -547,7 +547,7 @@ die die Dorfbewohner in Frösche habe verwandeln wollen. Ob Aberglaube
 oder verschüttete Wahrheit -- die Geschichte blieb im Raum stehen.
 
 Jemand drückte Tobin zudem ein Buch von **Dr. Dranzel** in die Hand:
-*„In der Ruhe liegt die Kraft"*. Mit diplomatischer Höflichkeit nahm er
+*"In der Ruhe liegt die Kraft"*. Mit diplomatischer Höflichkeit nahm er
 das Werk entgegen -- und begann unauffällig nach einem geeigneten
 Mülleimer Ausschau zu halten.
 
@@ -557,11 +557,11 @@ Die Schwarzpfeile stießen zur Gruppe, als diese das Frühstück beendete.
 Ein kurzer Austausch führte zu einer halb ernsten, halb spöttischen
 Diskussion über die Führungsstruktur, bei der Tobins Rolle als
 selbsternannter Anführer hinterfragt wurde. Hagen schlug trocken vor,
-einen „Kummerkasten" einzurichten, über den man anonym Nachrichten an
+einen "Kummerkasten" einzurichten, über den man anonym Nachrichten an
 die Gruppenführung -- namentlich Tobin -- richten könne.
 Tobin selbst war der Erste, der davon Gebrauch machte -- kaum
 ausgesprochen, begann er demonstrativ eine Beschwerde zu verfassen,
-während Kyras trocken vorschlug, Hagen könne doch als „Mittelschicht"
+während Kyras trocken vorschlug, Hagen könne doch als "Mittelschicht"
 zwischen Führung und "Plebs" fungieren.
 
 ## Taktische Besprechung: Die Ranickfeste
@@ -604,7 +604,7 @@ Wachverhalten zu beobachten -- bevor man sich endgültig festlegt.
 Anschließend suchte die Gruppe den Bürgermeister auf. Hagen führte das
 Gespräch. Die Schwarzpfeile berichteten vom Fall der Feste -- Wochen war
 es nun her. Der Bürgermeister zeigte sich sichtlich betroffen; die Worte
-„Die Ranickfeste ist gefallen" hingen schwer im Raum. Eindringlich bat
+"Die Ranickfeste ist gefallen" hingen schwer im Raum. Eindringlich bat
 er darum, diese Information nicht öffentlich zu machen, um keine Panik
 in Schildkrötenfähre auszulösen.
 
@@ -642,14 +642,14 @@ würde. Er sprach den Fallensteller erneut an, gab sich als Neuankömmling
 aus Magnimar aus und suchte Anschluss.
 
 Der Mann reagierte sichtlich überrascht. In Magnimar habe es ebenfalls
-eine „Gruppe" gegeben -- und auch dort sei das „Paradies" untergegangen?
-Tobin bejahte, auch dort sei das „Paradies" untergegangen, weshalb er
+eine "Gruppe" gegeben -- und auch dort sei das "Paradies" untergegangen?
+Tobin bejahte, auch dort sei das "Paradies" untergegangen, weshalb er
 nun hier sei.
 
 Der Fallensteller wurde misstrauisch: Zwei untergegangene Schiffe? In
 Magnimar hätte es ein Spielkasino auf einem Schiff gebraucht. Auf
-weitere Nachfrage erklärte er, **Lucrezia** habe das „Paradies" eröffnet
--- vermutlich sei sie mit ihm untergegangen. Ohne das „Paradies" -- das
+weitere Nachfrage erklärte er, **Lucrezia** habe das "Paradies" eröffnet
+-- vermutlich sei sie mit ihm untergegangen. Ohne das "Paradies" -- das
 Schiff auf dem das Glücksspiel betrieben wurde -- würde in
 Schildkrötenfähre ohnehin nicht mehr gespielt; seit dessen Untergang sei
 die Angelegenheit faktisch beendet.
@@ -670,13 +670,13 @@ siebenzackigen Sterns.
 
 - Ein mögliches Sedativum gegen Oger ist identifiziert.
 
-- In Schildkrötenfähre existiert offenbar ein geheimer Zusammenhang um ein untergegangenes Schiff namens **„Paradies"**, Glücksspiel und das Zeichen des **Siebensterns**.
+- In Schildkrötenfähre existiert offenbar ein geheimer Zusammenhang um ein untergegangenes Schiff namens **"Paradies"**, Glücksspiel und das Zeichen des **Siebensterns**.
 
 - Der Name **Lucrezia** ist gefallen -- und wirft einen langen Schatten.
 
 Die Ruhe in Schildkrötenfähre wirkt trügerisch -- sowohl die Bedrohung
 durch die Oger in den Höhen als auch die verborgenen Verbindungen rund
-um den Siebenstern und das untergegangene „Paradies" lassen erahnen,
+um den Siebenstern und das untergegangene "Paradies" lassen erahnen,
 dass sich unter der Oberfläche mehr zusammenbraut, als es den Anschein
 hat. Hinter Tavernenlachen und Morgensonne ziehen sich Fäden, die tiefer
 reichen als bloße Ogergerüchte.
@@ -688,7 +688,7 @@ Monstrum ein ebenso trauriges wie grausames Ende fand, kehrte für einen
 Moment Stille im Keller des Graul-Hofs ein. Fafnir ließ göttliche Kraft
 durch seine Hände fließen und heilte Fox um 12 Lebenspunkte, während die
 Gruppe den Raum A14 sorgfältig untersuchte. Doch außer der verdorrten,
-nun reglosen „Pflanze" und einer weiteren Tür fand sich nichts von Wert.
+nun reglosen "Pflanze" und einer weiteren Tür fand sich nichts von Wert.
 
 ![](media/image1.png){width="7.666666666666667in" height="5.90625in"}
 
@@ -729,7 +729,7 @@ Mit der Beute gesichert, wollte die Gruppe den Hof verlassen, doch das
 Schicksal des gefesselten Ogers wurde noch einmal diskutiert -- zwischen
 nüchterner Notwendigkeit, kalter Wut und dem Wunsch, ihn vielleicht als
 Werkzeug gegen seinesgleichen zu nutzen. Schließlich übernahm Brocc die
-Tat; auf Ginas Drängen hin sollte es „kurz und schmerzlos" geschehen.
+Tat; auf Ginas Drängen hin sollte es "kurz und schmerzlos" geschehen.
 Mit einem gezielten Todesstoß beendete er das Leben des wehrlosen Ogers
 endgültig.
 
@@ -804,7 +804,7 @@ Ihre Namen:
 
 Schwarzpfeile. Waldläufer der Feste Ranik.
 
-„Ihr habt uns gerade noch rechtzeitig gefunden", brachte einer von ihnen
+"Ihr habt uns gerade noch rechtzeitig gefunden", brachte einer von ihnen
 mit brüchiger Stimme hervor, kaum mehr als ein Flüstern.
 
 Sie berichteten: Einst waren sie zwölf. Während sie auf der Jagd gewesen
@@ -816,7 +816,7 @@ Hände von Mama Grauls Sippe fielen. Die Grauls hielten sie am Leben --
 nicht aus Gnade, sondern um ihnen Stück für Stück die Namen der
 Gefallenen zu nennen.
 
-„Der Orden ist gefallen", sagte ein anderer sachlich, ohne Pathos -- als
+"Der Orden ist gefallen", sagte ein anderer sachlich, ohne Pathos -- als
 hätte er die Worte schon zu oft gedacht.
 
 Die Feste war von mehreren Dutzend Waldläufern verteidigt worden. Die
@@ -828,7 +828,7 @@ Pläne verfolgten, konnten sie nicht sagen.
 Als Tobin erklärte, man wolle Feste Ranik zurückerobern, legte Jakardros
 einen Eid ab:
 
-**„Solange wir atmen, kämpfen wir an eurer Seite."**
+**"Solange wir atmen, kämpfen wir an eurer Seite."**
 
 Die Worte hingen schwer in der Luft -- nicht als leeres Versprechen,
 sondern als Eid aus Pflichtgefühl und Trotz. Ein neuer Bund war
@@ -873,14 +873,14 @@ height="6.177083333333333in"}
 
 ## Aktueller Stand der Quests
 
-**„Rettet Fort Ranik vor den Ogern"
+**"Rettet Fort Ranik vor den Ogern"
 **Die Gerüchte haben sich bestätigt: Feste Ranik ist gefallen. Drei
 überlebende Schwarzpfeile -- Jakardros, Thal und Kaven -- sind nun
 Verbündete der Gruppe. Ein unvorbereiteter Frontalangriff wäre
 Selbstmord; die Waldläufer drängen auf Rast, Ausrüstung und einen
 durchdachten Plan, bevor man die Feste zurückerobert.
 
-**„Findet Xaneshas Schwester"
+**"Findet Xaneshas Schwester"
 **Der Bezug zur Region Schildkrötenfähre bleibt bestehen. Noch keine
 neuen Erkenntnisse, doch die Entwicklungen rund um Ranik könnten
 Zusammenhänge offenbaren.
@@ -909,7 +909,7 @@ Geweihen befestigt waren. Oger waren keine anwesend. An der Westwand
 stand eine massive Truhe aus Zedernholz.
 
 Die Truhe erwies sich als unerwartet widerspenstig. Weder Fox noch Brocc
-konnten sie öffnen, und Brocc erklärte sie kurzerhand für „magisch" --
+konnten sie öffnen, und Brocc erklärte sie kurzerhand für "magisch" --
 offenbar eher aus Frust als aus Erkenntnis. Mehrere Versuche scheiterten
 zunächst, bis schließlich Kyras -- unterstützt von Tobin, Fafnir, Brocc
 und sogar Mako -- nach dem Ölen der Scharniere mit vereinter Kraft den
@@ -991,7 +991,7 @@ Trommelschlägen antrieb, brach das Gefecht los:
 - Sammlung abgetrennter Nasen in einer versiegelten Dose (liegengelassen)
 
 Der Raum war übersät mit unfertigen und vorbereiteten Fallen -- der Oger
-war das „Mastermind" hinter den Konstruktionen des Hauses: ein
+war das "Mastermind" hinter den Konstruktionen des Hauses: ein
 humpelnder Bastler mit einem verkümmerten Zwilling, der aus seinem
 Nacken wuchs. Seine Ratten hießen *Gluckser* und *Sabbel*.
 
@@ -1021,11 +1021,11 @@ offenbarte:
 
 Die Pflanze war einst **Sif Graul**, der älteste Sohn Mama Grauls --
 einst ein talentierter Fallenbauer und Möbelschreiner, sogar der
-„hübscheste" der Brüder. Nachdem er eine Nymphenprinzessin gefangen und
+"hübscheste" der Brüder. Nachdem er eine Nymphenprinzessin gefangen und
 gefoltert hatte, belegte sie ihn mit einem tödlichen Fluch. Sif
 verwandelte sich langsam in eine Pflanze, wurde von Mama Graul im Keller
 eingesperrt und von seinen Brüdern verspottet, während er weiter
-„gefüttert" wurde.
+"gefüttert" wurde.
 
 **Erfahrung:** 2.400 EP
 
@@ -1658,7 +1658,7 @@ Hafenmeister hätte ehrliche Jobs für ehrliche Leute.
 Fox sprach intensiv mit zwei Jugendlichen, die keinerlei Familie mehr
 haben und früher Hunger und Ungewissheit gewohnt waren.
 
-Das Versprechen eines „sicheren und langweiligen" Lebens schien für sie
+Das Versprechen eines "sicheren und langweiligen" Lebens schien für sie
 ideal - sehr zum Missfallen von Fox.
 
 **Rückkehr in die Taverne -- Austausch der Erkenntnisse**
@@ -1717,10 +1717,10 @@ Geld im Spiel. Im Speisesaal warteten bereits adlige Gäste.
 
 Der Bürgermeister stellte seine Ehrengäste vor, darunter einen besonders
 prominenten:
-**Herr Prof. Dr. Dramarukesthoran Nimroth Zelvester III „Dr. Dranzel"**,
+**Herr Prof. Dr. Dramarukesthoran Nimroth Zelvester III "Dr. Dranzel"**,
 berühmter Verleger und Abenteurer (angeblich). Mit Spitzbart, Monokel
 und feinem Zwirn erklärte er, in Magnimar zu sein, um sein neues Buch
-**„Mut zur Lücke"** vorzustellen.
+**"Mut zur Lücke"** vorzustellen.
 
 Tobin (Motiv erkennen 31) kam zu der Einsicht: Dr. Dranzel glaubt
 selbst, es sei alles gut recherchiert, was er schreibt. Hagen (Motiv
@@ -1741,7 +1741,7 @@ schleichen. Gesagt, getan:
 
 Fox und Gina schlichen sich fort und fanden:
 
-- offene Briefe, u.a. von **Richter Eisendorn**: „Alles ruhig, keine besonderen Vorkommnisse".
+- offene Briefe, u.a. von **Richter Eisendorn**: "Alles ruhig, keine besonderen Vorkommnisse".
 
 - einen **verschlossenen, dringenden Brief der Stadtwache**, den der Bürgermeister ignoriert hatte.
 
@@ -1771,7 +1771,7 @@ Grobaras hielt eine Rede:
 
     - **Gerüchte über Oger in Schildkrötenfähre **
 
-- Seine „Bitte" (die wie ein Auftrag klang): → Die Gruppe soll nach **Schildkrötenfähre** reisen und Nachforschungen anstellen.
+- Seine "Bitte" (die wie ein Auftrag klang): → Die Gruppe soll nach **Schildkrötenfähre** reisen und Nachforschungen anstellen.
 
 Ein Assistent übergab Hagen eine Schatulle mit:
 
@@ -1800,7 +1800,7 @@ Die Helden speisten, tranken und kehrten später in die Taverne zurück.
 
 - Wichtige Informationen über verschwundene Personen im verschlossenen Brief
 
-- Kontakt mit Dr. Dranzel -- „Authentizität fraglich"
+- Kontakt mit Dr. Dranzel -- "Authentizität fraglich"
 
 - Große Einladung durch Bürgermeister Grobaras
 
@@ -1821,13 +1821,13 @@ Sturm.
 Gina entzifferte die altthassilonische Inschrift der gefundenen
 Steintafel:
 
-> „Ein Atem, ein Name, ein letzter Funke.
+> "Ein Atem, ein Name, ein letzter Funke.
 > Nehmt ihr Runen, was ihr fordert.
 > Schließt den Kreis.
 > Speist den Stein."
 
 Doch das Artefakt war nicht tot -- es flüsterte. Erst in Ginas, dann in
-Hagens Gedanken hörten sie Stimmen: „Nimm es! Töte sie! Sie wollen nur
+Hagens Gedanken hörten sie Stimmen: "Nimm es! Töte sie! Sie wollen nur
 dein Gold!" Beide widerstanden der Versuchung (Willenswürfe bestanden).
 
 Kyras übergab Fafnir den Vorschlaghammer, um das Relikt zu zerstören.
@@ -1836,7 +1836,7 @@ markerschütterndes Kreischen von unzähligen Seelen erfüllte den Raum,
 während ein **Schatten aus Licht** aufstieg und über Magnimar
 niederfuhr. Damit erfüllte sich die Prophezeiung des Exorzisten:
 
-> „Wenn die Schleierkönigin fällt, wird ein Schatten aus Licht
+> "Wenn die Schleierkönigin fällt, wird ein Schatten aus Licht
 > geboren..."
 
 ### 🏚 Rückkehr durch den Turm
@@ -1864,7 +1864,7 @@ In der Nacht, während der Wachwechsel, fiel die gesamte Gruppe für einen
 kurzen Moment in einen mystischen Schlaf -- alle sahen **einen Nebel**
 und hörten eine Stimme sagen:
 
-> „Eines meiner Augen ist gebrochen, doch meine Sicht bleibt ungeteilt."
+> "Eines meiner Augen ist gebrochen, doch meine Sicht bleibt ungeteilt."
 
 Kurz darauf erwachten alle wieder, hellwach, als wäre nichts geschehen.
 Hagen nutzte seine Wache, um die Schuhe der Gruppe zu polieren.
@@ -1873,10 +1873,10 @@ Hagen nutzte seine Wache, um die Schuhe der Gruppe zu polieren.
 
 Am Morgen wachten die Kinder auf -- verängstigt, aber lebend. Sie
 stellten sich als **Anja** und **Tom** vor, Waisen, die von den
-Kultisten als „würdig" bezeichnet worden waren. Tobins Versuch, sie beim
+Kultisten als "würdig" bezeichnet worden waren. Tobins Versuch, sie beim
 Wirt unterzubringen, scheiterte an dessen (des Wirts) Unfähigkeit.
 
-Die Gruppe teilte sich auf, um Nachforschungen über den „Schatten aus
+Die Gruppe teilte sich auf, um Nachforschungen über den "Schatten aus
 Licht" anzustellen:
 
 - **Fafnir, Gina und Hagen** suchten die Stadtverwaltung auf.
@@ -1887,7 +1887,7 @@ Licht" anzustellen:
 
 In der Stadtverwaltung traf die Gruppe **Vogt Schierling** aus
 Sandspitze, der sich an sie erinnerte. Nachdem Fafnir ihre Geschichte
-erzählt hatte (auf erstaunlich „tobineske" Art), empfahl er, den
+erzählt hatte (auf erstaunlich "tobineske" Art), empfahl er, den
 erbeuteten Brief Xaneshas dem **Oberbürgermeister Haldmeer Grobaras**
 vorzulegen.
 
@@ -1900,7 +1900,7 @@ seltener Weine.
 Nach kurzer Beratung setzte Vogt Schierling den Lohn für die Helden auf
 **6.000 Goldmünzen** fest. Grobaras dankte ihnen und lud sie zu einem
 **Festmahl in der Trutzburg bei Sonnenuntergang** ein -- ausdrücklich
-„bewaffnet".
+"bewaffnet".
 
 ### 🧩 Zusammenfassung in Kürze
 
@@ -1937,7 +1937,7 @@ Xanesha selbst war bereits geschwächt: --4 GE, --1 KO.
 
 - **Brocc** untersuchte die Engelsstatue -- sie stand 4,5 m über der Mitte, gestützt durch Balken. Er bot an, sich in einen Baum zu verwandeln, um den Aufstieg zu erleichtern.
 
-- **Fox** landete mit Kurzschwert und Dolch einen erfolgreichen Angriff: 4 + 12 hinterhältiger Schaden, 3 Blutung und „*hampered*".
+- **Fox** landete mit Kurzschwert und Dolch einen erfolgreichen Angriff: 4 + 12 hinterhältiger Schaden, 3 Blutung und "*hampered*".
 
 - **Mako** verfehlte trotz mehrerer Angriffe.
 
@@ -1991,7 +1991,7 @@ Die Lamia trug:
 
 Brocc entdeckte an der Wand **sieben Truhen**.
 Fox prüfte sie (und fand keine Fallen). Tobin fand einen **Brief** --
-von Xaneshas „Schwester" (laut Interpretation von Tobin), die in
+von Xaneshas "Schwester" (laut Interpretation von Tobin), die in
 **Schildkrötenfahre** wirke. Darin prahlte sie mit ihren eigenen
 Mordritualen und forderte Xanesha auf, den Oberbürgermeister von
 Magnimar zu opfern.
@@ -2023,7 +2023,7 @@ gefährlicheres Geheimnis.
 ### 🧩 Die Runen der Gier
 
 Zwischen Blutbecken, Käfig und Runenplatte fanden die Helden eine
-Inschrift, die immer wieder dasselbe Wort zeigte: **„Gier"**.
+Inschrift, die immer wieder dasselbe Wort zeigte: **"Gier"**.
 Brocc und Gina analysierten die Runen -- sie erinnerten an alte Zeichen
 aus Karzoug-Zeiten, dem Runenherrscher der Gier. Fafnir deutete die
 blutgetränkten Käfigrituale als seelische Vorbereitung der Opfer. Fox
@@ -2172,7 +2172,7 @@ Raumes, während Hagen und Tobin eine neue Formation planten.
 
 ### 🧠 Taktische Neuordnung
 
-Tobin schlug eine **Phalanx-Formation in V-Form** vor -- „mit dem Zwerg
+Tobin schlug eine **Phalanx-Formation in V-Form** vor -- "mit dem Zwerg
 an der Spitze". Die Gruppe sammelte sich, Gina und Fafnir hielten die
 Front, Brocc und Fox unterstützten aus der zweiten Reihe.
 
@@ -2186,7 +2186,7 @@ Runenmale auf der Haut.
 
 Ein dumpfer Schlag ertönte -- eine Steintür fiel und versperrte den
 Rückweg. Die Attentäter hatten sich neu gruppiert. Kyras sah sie im
-Licht wieder auftauchen und brüllte: „Da sind sie!"
+Licht wieder auftauchen und brüllte: "Da sind sie!"
 
 Mako stürmte erneut vor, Gina feuerte mit tödlicher Präzision, Broccs
 **Magic Missiles** flogen, und Fafnir hielt eine heilende Aura
@@ -2283,7 +2283,7 @@ Lebensgefahr.
 
 - **Gina** schoss mit ihrer Muskete, doch eine Fehlzündung beschädigte ihre Waffe.
 
-- **Fafnir** heilte Brocc mit „*Schwere Wunden heilen*", wodurch der Gnom knapp dem Tod entkam.
+- **Fafnir** heilte Brocc mit "*Schwere Wunden heilen*", wodurch der Gnom knapp dem Tod entkam.
 
 - **Mako** stürzte sich in den Nahkampf und versuchte, einen der Angreifer zu packen.
 
@@ -2309,7 +2309,7 @@ die Gefährten über *Message* warnte, dass die Illusion harmlos sei.
 
 - **Hagen** und **Kyras** hielten die Linie, während **Fafnir** durch *Energie fokussieren* alle Verwundeten um 16 Trefferpunkte heilte.
 
-- **Gina** schlug mit dem Kolben ihrer defekten Muskete zu und schlug einem Gegner symbolisch „den Zahn aus dem Gesicht".
+- **Gina** schlug mit dem Kolben ihrer defekten Muskete zu und schlug einem Gegner symbolisch "den Zahn aus dem Gesicht".
 
 - Die Gegner zeigten erste Schwächen -- einige taumelten, einer fiel.
 
@@ -2318,7 +2318,7 @@ die Gefährten über *Message* warnte, dass die Illusion harmlos sei.
 Ein vollständiger Rückzug wurde diskutiert, doch die Gruppe entschied
 geschlossen:
 
-> „Wenn wir sterben, dann alle zusammen."
+> "Wenn wir sterben, dann alle zusammen."
 
 #### ⚖️ Ende der Session
 
@@ -2336,7 +2336,7 @@ Die Session endete mitten im laufenden Gefecht:
 
 Roman beendete die Runde mit den Worten:
 
-> „Dann machen wir hier Schluss. Einen haben wir down -- wir führen."
+> "Dann machen wir hier Schluss. Einen haben wir down -- wir führen."
 
 ### 🧩 Zusammenfassung in Kürze
 
@@ -2367,7 +2367,7 @@ Ritualraum des Schattenuhr-Turms an.
 
 - **Kyras** wurde von mehreren Gegnern bedrängt und in einen Ringkampf verwickelt. Er steckte dadurch den Großteil des Schadens ein und war zeitweise stark angeschlagen.
 
-- **Fox** griff mit Kurzschwert und Dolch flankierend an, nutzte Two-Weapon-Fighting und landete mehrere präzise Treffer. Sie verursachte Blutungsschaden und schwächte Gegner mit „debilitating injury".
+- **Fox** griff mit Kurzschwert und Dolch flankierend an, nutzte Two-Weapon-Fighting und landete mehrere präzise Treffer. Sie verursachte Blutungsschaden und schwächte Gegner mit "debilitating injury".
 
 - **Gina** setzte ihre Muskete effektiv ein und erzielte u. a. einen kritischen Treffer, der einen Kultisten sofort ausschaltete.
 
@@ -2375,11 +2375,11 @@ Ritualraum des Schattenuhr-Turms an.
 
 - **Hagen** unterstützte taktisch mit Armbrustschüssen und steuerte seinen Vertrauten.
 
-- **Mako** war eine Schlüsselfigur: Er packte den „Anführer"-Kultisten (der sich durch Runenzauber hervortat), schleppte ihn zum Rand der magischen Grube, die Hagen zuvor gezaubert hatte, und stieß ihn hinunter. Dabei fiel er selbst mit hinein und zerschmetterte den Gegner endgültig beim Aufprall.
+- **Mako** war eine Schlüsselfigur: Er packte den "Anführer"-Kultisten (der sich durch Runenzauber hervortat), schleppte ihn zum Rand der magischen Grube, die Hagen zuvor gezaubert hatte, und stieß ihn hinunter. Dabei fiel er selbst mit hinein und zerschmetterte den Gegner endgültig beim Aufprall.
 
 - **Fafnir** hielt die Front im Nahkampf stabil. Nach einigen Fehlschlägen gelang es ihm schließlich, mit seinem Morgenstern einen Kultisten niederzustrecken.
 
-- **Tobin** unterstützte mit seiner Bardenmusik, schoss zwischendurch mit der Armbrust und setzte „Saving Finale" ein, um Fox oder Mako eine zweite Chance bei einem Rettungswurf zu geben.
+- **Tobin** unterstützte mit seiner Bardenmusik, schoss zwischendurch mit der Armbrust und setzte "Saving Finale" ein, um Fox oder Mako eine zweite Chance bei einem Rettungswurf zu geben.
 
 Schließlich endete der Kampf mit einem spektakulären Schlag: **Kyras**
 durchtrennte mit einem kritischen Treffer das Rückgrat eines der letzten
@@ -2409,7 +2409,7 @@ Gegner und beendete so das Gefecht.
 
 - Die Gruppe plünderte die Kultisten: Kriegsmesser, Roben und Ausrüstung. Mehrere Helden tauschten ihre Roben gegen die der Gegner, um im Turm unerkannt weiter vordringen zu können.
 
-- Erfahrungspunkte wurden verteilt: 600 XP pro Kultist, unabhängig vom „Anführer".
+- Erfahrungspunkte wurden verteilt: 600 XP pro Kultist, unabhängig vom "Anführer".
 
 #### Cliffhanger
 
@@ -2426,14 +2426,14 @@ Die Gruppe hatte nach den Geschehnissen auf dem Schwarzmarkt (Fox'
 missglückter Taschendiebstahl, Strafe 50 Gold) und Hagens Begegnung mit
 seinem alten Freund Melchor bereits beim letzten Mal den blinden
 Exorzisten aufgesucht. Von ihm erhielten sie Weihwasser, Schriftrollen,
-einen Segen und eine rätselhafte Prophezeiung über die „Schleierkönigin"
+einen Segen und eine rätselhafte Prophezeiung über die "Schleierkönigin"
 Xanesha. Außerdem gestand Fox vor ihm ihre Schuld, eine Stadtwache
 getötet zu haben -- was zu moralischen Diskussionen in der Gruppe
 führte.
 
 ### Der Weg zum zahnlosen Raben
 
-Tobin führte die Gruppe sicher zu der Statue des „zahnlosen Raben" in
+Tobin führte die Gruppe sicher zu der Statue des "zahnlosen Raben" in
 Unter-Magnimar (zahnlos, weil er keinen (mehr) Schnabel hat). Dort
 entdeckten die Helden einen versteckten Pfad nach Osten. Hinter einer
 von Moos überwucherten Wand fanden sie ein schwarzes Tor mit
@@ -2471,14 +2471,14 @@ diese verkleidet zu infiltrieren und aus dem Hinterhalt anzugreifen.
 
 Fox wagte die Täuschung: verkleidet als Kultistin trat sie ein. Im Raum:
 neun Kultisten, die gerade ein Ritual mit zwei gefesselten Opfern
-vollzogen. Der Anführer wies sie schroff ab, doch Fox schrie „Feuer!" --
+vollzogen. Der Anführer wies sie schroff ab, doch Fox schrie "Feuer!" --
 das Signal.
 
 ### Kampf gegen die Kultisten
 
 - **Fox** eröffnete die Überraschungsrunde mit Dolch und Kurzschwert: ein Kultist blutete stark, erhielt Malus auf Angriffe.
 
-- **Mako** stürmte hinein und zerlegte einen Kultisten fast im Alleingang -- die Maske fiel, das Opfer brüllte: „Nicht schon wieder dieser Bär!"
+- **Mako** stürmte hinein und zerlegte einen Kultisten fast im Alleingang -- die Maske fiel, das Opfer brüllte: "Nicht schon wieder dieser Bär!"
 
 - **Gina** feuerte eine Blendkartusche, die mehrere Kultisten kurzzeitig blendete.
 
@@ -2636,10 +2636,10 @@ Lisa E (Fox): Die Kutten sahen ein bisschen anders aus als die Kultisten
 von der Siebenmühle.
 
 Lisa E (Fox): Fox' Geschichte über Eisendorn und Feuer wurde nicht
-geglaubt. Trotzdem haben sie sich auch nicht wirklich daran gestört. „Du
+geglaubt. Trotzdem haben sie sich auch nicht wirklich daran gestört. "Du
 kannst hierbleiben oder gehen, stört uns nicht."
 Lisa E (Fox): Also habe ich mich neben einen Kultisten gestellt und
-„Feuer!" gerufen -- das Signal.
+"Feuer!" gerufen -- das Signal.
 Lisa E (Fox): Alle sind reingestürmt, wir hatten eine
 Überraschungsrunde.
 
@@ -2651,7 +2651,7 @@ Lisa E (Fox): Brocc hat Kyras vergrößert.
 Lisa E (Fox): Fafnir hat mit Fox flankiert, Fox hatte dadurch auch einen
 Crit.
 Lisa E (Fox): Mako hat mit Sturmangriff angegriffen, ebenfalls Crit. Da
-kam der Spruch: „Nicht schon wieder dieser Bär!"
+kam der Spruch: "Nicht schon wieder dieser Bär!"
 Lisa E (Fox): Gina hat Blendmunition eingesetzt -- hat Kultisten und
 teilweise auch uns erwischt.
 Lisa E (Fox): Hagen hat eine Grube gezaubert, aber es ist noch niemand
@@ -2673,12 +2673,12 @@ macht oder so?
 
 Zusammenfassung -- Pathfinder-Session vom 3. September 2025
 
-Schwarzmarkt -- Fox' missglückter „Trick"
+Schwarzmarkt -- Fox' missglückter "Trick"
 
 Die Session setzte beim Cliffhanger ein: Fox' Versuch, auf dem
 Schwarzmarkt ihre Fingerfertigkeit zu beweisen, scheiterte. Ein Schläger
 packte ihre Hand, der Händler forderte wie üblich Strafe --
-Handabhacken. Nur durch Broccs Diplomatie („zwei Finger sind auch nur 40
+Handabhacken. Nur durch Broccs Diplomatie ("zwei Finger sind auch nur 40
 % einer Hand") konnte die Strafe auf 50 Gold reduziert werden. Brocc
 zahlte und Fox kam mit heiler Hand davon -- wenn auch gedemütigt und
 verärgert.
@@ -2689,11 +2689,11 @@ Hagen besuchte einen Buchladen, verkleidete sich und traf unerwartet
 seinen alten Bekannten Melkor. Dieser überreichte ihm einen Brief von
 Hagens Tochter, den Hagen später in Ruhe las. Außerdem ersetzte er
 unauffällig das Buch von Dr. Dranzel in Tobins Besitz durch ein anderes
-Werk („Führung für Anfänger"), um Tobin etwas beizubringen.
+Werk ("Führung für Anfänger"), um Tobin etwas beizubringen.
 
 Tobin trat in einer Taverne auf, verdiente mit Geschichten und
 Auftritten 3 Gold (hauptsächlich in Kupfer) und etablierte seinen
-Künstlernamen „Tobin".
+Künstlernamen "Tobin".
 
 Fafnir kaufte Weihwasser für die Gruppe -- insgesamt 14 Fläschchen,
 verteilt auf alle.
@@ -2717,7 +2717,7 @@ Schutzritualen, ehe Xaneshas Kult ihn ausschaltete.
 Er segnete die Gruppe im Namen Sarenraes, gab ihnen vier Schriftrollen
 und sprach eine Prophezeiung:
 
-„Wenn die Schleierkönigin fällt,
+"Wenn die Schleierkönigin fällt,
 
 wird ein Schatten aus Licht geboren.
 
@@ -2853,7 +2853,7 @@ Gesichtslose: Meister der Tarnung und Überraschung, resistent gegen
 Bezauberung, greifen isolierte Gegner an.
 
 Kultisten: Teilweise unter direktem Einfluss Xaneshas, manche mit dem
-„Mal" gezeichnet, andere neu initiiert. Einige könnten mit Einschüchtern
+"Mal" gezeichnet, andere neu initiiert. Einige könnten mit Einschüchtern
 gebrochen werden.
 
 Vogelscheuchen: Schmerzlos und unbeeindruckbar, eventuell schon bekannt
@@ -2919,7 +2919,7 @@ Wichtig: Nicht anschauen, nicht zuhören, nicht berühren -- Xaneshas
 Magie basiert auf Blicken und Worten.
 
 Notiz: Xanesha ist an einen Plan gebunden -- sie selbst ist Teil eines
-Rituals, keine „normale" Kreatur.
+Rituals, keine "normale" Kreatur.
 
 🧮 Gold & Budgetplanung
 

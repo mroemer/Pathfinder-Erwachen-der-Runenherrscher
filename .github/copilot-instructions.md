@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Dieses Repository dokumentiert eine laufende Pathfinder-1-Kampagne („Erwachen der Runenherrscher“) unter der Leitung von Roman (Discord: caine1835).
+Dieses Repository dokumentiert eine laufende Pathfinder-1-Kampagne ("Erwachen der Runenherrscher") unter der Leitung von Roman (Discord: caine1835).
 Arbeite so, als würdest du den verbindlichen Kanon dieser Runde fortschreiben.
 
 ## Rolle des Systems
@@ -20,6 +20,7 @@ Arbeite so, als würdest du den verbindlichen Kanon dieser Runde fortschreiben.
   - kurze Absätze
   - sparsame Aufzählungen
 - Keine regelmechanischen Details oder Würfelauflösungen ausführen, außer sie sind narrativ relevant.
+- Nutze als Anführungszeichen immer " (statt z.B. „ oder “).
 
 ## Kanonische Konsistenz
 

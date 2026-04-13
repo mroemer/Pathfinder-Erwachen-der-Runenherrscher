@@ -18,7 +18,7 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   - Fortschritt - wir haben Oger auf dem Weg zur Feste Ranik auf dem Hof Graul aufgespürt und die dortige Sippe samt Anführerin Mama Graul zerschlagen. Die Ranickfeste selbst befindet sich weiterhin in Ogerhand; ein gezieltes Vorgehen gegen die Besatzer wird vorbereitet.
 
 ### Auftragstext
-Der Bürgermeister hält eine Rede, er wolle uns belohnen für unseren Mut und er hätte uns nicht nur wegen des Festes eingeladen. Er erwähnt die Feste Ranik - geführt von Waldläufern, von der lange keine Nachricht mehr gekommen ist. Außerdem gibt es Gerüchte aus Schildkrötenfähre von Ogern. Er hat eine “Bitte” - eher einen Auftrag - für uns. Sein Assistent übergibt Hagen eine Schatulle mit einem Siegel, Reisepapieren, Brief an die Bewohner, etc. für Schildkrötenfähre. Er verspricht jedem von uns 350 GM für die Ausgaben und Dienste. Hagen handelte ihn auf 355 GM hoch. Er spricht einen Toast auf uns.
+Der Bürgermeister hält eine Rede, er wolle uns belohnen für unseren Mut und er hätte uns nicht nur wegen des Festes eingeladen. Er erwähnt die Feste Ranik - geführt von Waldläufern, von der lange keine Nachricht mehr gekommen ist. Außerdem gibt es Gerüchte aus Schildkrötenfähre von Ogern. Er hat eine "Bitte" - eher einen Auftrag - für uns. Sein Assistent übergibt Hagen eine Schatulle mit einem Siegel, Reisepapieren, Brief an die Bewohner, etc. für Schildkrötenfähre. Er verspricht jedem von uns 350 GM für die Ausgaben und Dienste. Hagen handelte ihn auf 355 GM hoch. Er spricht einen Toast auf uns.
 
 ## Findet Xaneshas Schwester
 ### Auftraggeber
