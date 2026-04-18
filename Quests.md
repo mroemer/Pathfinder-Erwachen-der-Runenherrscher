@@ -14,6 +14,7 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
 - [ ] Geht zur Feste Ranik und nehmt Kontakt mit den Waldläufern auf.
   - Die Gerüchte haben sich bestätigt: Feste Ranik ist seit Wochen in Ogerhand. Drei überlebende Schwarzpfeile – Jakardros Sovark, Thal Temros und Kaven Windstreich – sind nun Verbündete der Gruppe in Schildkrötenfähre. Mehrere Infiltrationsmöglichkeiten wurden identifiziert; vor einem Angriff ist Ausspähung und weitere Planung vorgesehen.
   - Die Gruppe hat ein verborgenes Vorlager im Wald nahe der Ranickfeste errichtet und mit der Aufklärung begonnen. Mehrere Infiltrationsmöglichkeiten wurden identifiziert; erste Aufklärung der Festung, ihrer Wachen und Patrouillen wurde durchgeführt. Ein Frontalangriff gilt weiterhin als zu gefährlich, weitere Planung ist erforderlich.
+  - Ein erster Hinterhalt außerhalb der Festung war erfolgreich: Zwei Oger konnten aus der Ranickfeste gelockt und ausgeschaltet werden. Anschließend gelang der Gruppe erstmals der Zugang über die Höhlen hinter dem Wasserfall; dort wurden ein altes Waffenlager der Schwarzpfeile, mehrere Tunnelverbindungen und neue Gefahren im Inneren entdeckt.
 - [ ] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
   - Fortschritt - wir haben Oger auf dem Weg zur Feste Ranik auf dem Hof Graul aufgespürt und die dortige Sippe samt Anführerin Mama Graul zerschlagen. Die Ranickfeste selbst befindet sich weiterhin in Ogerhand; ein gezieltes Vorgehen gegen die Besatzer wird vorbereitet.
 

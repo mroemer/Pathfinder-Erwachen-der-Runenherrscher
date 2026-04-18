@@ -1,3 +1,166 @@
+# Sitzung 15. April 2026: Hinterhalt, Höhleneingang und die Gruft
+
+Der vorbereitete Hinterhalt an der Straße vor der **Ranickfeste** geht
+zunächst genau so auf, wie die Gruppe es gehofft hatte. **Kyras**, noch
+immer mit Hilfe des Verkleidungshutes als **Ralven** getarnt, lockt zwei
+Oger aus der Festung heraus. Die Verfolger stürzen der vermeintlichen
+Beute hinterher -- direkt in die wartende Gruppe.
+
+## Der Hinterhalt schnappt zu
+
+Der Kampf ist kurz, aber heftig. Noch bevor die Oger richtig begreifen,
+was geschieht, bricht die Gruppe aus dem Versteck hervor:
+
+- **Fafnir** springt als Erster aus dem Hinterhalt in den Nahkampf
+
+- **Brocc** trifft beide Oger mit einem gut platzierten **Feuerball**
+
+- **Gina**, **Fox**, **Hagen**, **Kyras** und die Waldläufer setzen sofort
+    nach
+
+Der Überfall gelingt nahezu ideal. Trotz eines wuchtigen Gegenschlags
+gegen Fafnir werden beide Oger rasch niedergestreckt, bevor sie Hilfe
+holen oder geordnet reagieren können. Der erste praktische Test des
+Plans bestätigt damit, dass kleinere Gruppen außerhalb der Festung
+beherrschbar sind.
+
+## Warten auf weitere Verfolger
+
+Nach dem Sieg überlegt die Gruppe, ob noch mehr Oger nach ihren beiden
+Kameraden suchen werden. Die Leichen werden sichtbar platziert, und aus
+der Idee eines zweiten Hinterhalts entsteht ein provisorischer neuer
+Plan: Ein Baum soll so präpariert werden, dass man ihn im richtigen
+Moment auf weitere Verfolger stürzen lassen kann.
+
+Der Plan bleibt allerdings improvisiert.
+
+- Ein erster präparierter Baum kippt bereits um, als sich ein Vogel
+    daraufsetzt
+
+- Ein zweiter Versuch gelingt stabiler
+
+- **Fox** beobachtet die Festung längere Zeit aus sicherer Entfernung
+
+Doch trotz des Wartens rückt niemand nach. Weder die gefallenen Oger
+noch der umgestürzte Baum lösen die erhoffte Reaktion aus.
+
+## Der zweite Lockversuch scheitert
+
+Schließlich versucht **Kyras** ein zweites Mal, sichtbar vor der Festung
+aufzutauchen. Diesmal reagieren die Oger anders:
+
+- Auf den Türmen entsteht rasch Alarm
+
+- Zusätzliche Oger beziehen Stellung
+
+- Statt einer Verfolgung fliegen **Steine** von den Mauern
+
+Kyras zieht sich rechtzeitig zurück, wird aber nicht verfolgt. Damit
+steht fest, dass die Oger aus dem ersten Fehlschlag zumindest gelernt
+haben oder inzwischen deutlich vorsichtiger agieren. Die Gruppe verwirft
+den Versuch, sie auf dieselbe Weise noch einmal herauszulocken.
+
+## Entscheidung für den Höhleneingang
+
+Nach weiterer Diskussion fällt die Gruppe eine neue Entscheidung:
+Statt weiter vor den Mauern zu experimentieren, soll nun endlich der
+bekannte Zugang **hinter dem Wasserfall** genutzt und ausgekundschaftet
+werden.
+
+Mit magischer Unterstützung gelingt das Manöver:
+
+- **Tobin** sorgt mit einem **unheimlichen Nebel** für Verwirrung bei den
+    Wachen auf den Türmen
+
+- Im Schutz dieser Ablenkung gelangt die gesamte Gruppe ungesehen zum
+    Höhleneingang
+
+Damit betritt die Gruppe erstmals einen der verborgenen Zugänge zur
+Ranickfeste.
+
+## Erste Erkundung der Höhlen
+
+Hinter dem Wasserfall zeigt sich ein feuchtes, enges Höhlensystem.
+Bereits früh stoßen die Abenteurer auf wichtige Erkenntnisse:
+
+- Ein verborgenes **Waffenlager der Schwarzpfeile** ist noch vorhanden
+
+- **Zwei Schockechsen** entdecken die Gruppe, ziehen sich aber zunächst
+    nur zurück
+
+- Die Tunnel verzweigen sich in Richtungen, die zur **alten Kaserne**,
+    zum **Adlerhorst** und tiefer in Richtung der Festung führen
+
+Damit bestätigt sich, dass die Höhlen tatsächlich ein ernstzunehmender
+Infiltrationsweg sind -- zugleich aber auch ein eigenes, kaum bekanntes
+Gefahrengebiet.
+
+## Kluft und Fund eines alten Toten
+
+Die Gruppe folgt zunächst dem nördlichen Gang und stößt auf eine tiefe
+Kluft, die von einer maroden Holzbrücke überspannt wird. **Hagen**
+erkennt rechtzeitig die Schwachstelle und verhindert damit, dass die
+Brücke unter zu großer Belastung nachgibt.
+
+Beim Blick in die Tiefe entdeckt die Gruppe das Skelett eines toten
+Halblings. **Fox** lässt sich hinab und birgt:
+
+- ein **Mithral-Kurzschwert**
+
+- zwei **Granate**, jeweils im Wert von 100 Goldmünzen
+
+- einige unbedeutendere Überreste eines gescheiterten Vorstoßes
+
+Der Fund macht deutlich, dass diese Tunnel nicht nur alt, sondern schon
+anderen zum Verhängnis geworden sind.
+
+## Die Gruft im Höhlensystem
+
+An einer weiteren Abzweigung entdeckt die Gruppe eine alte **Gruft** der
+Schwarzpfeile. Die meisten Skelette ruhen ordentlich in ihren Nischen --
+doch eines wurde herausgerissen und liegt als Knochhaufen am Boden.
+
+Mehrere Dinge machen die Gruppe sofort misstrauisch:
+
+- **Fafnir** spürt dort eine **böse Aura**
+
+- Weder Weihwasser noch das Entfernen von Schwert und Rüstung lösen das
+    Problem
+
+- Alles deutet darauf hin, dass nicht die Grabbeigaben, sondern die
+    Knochen selbst oder etwas in ihrer unmittelbaren Nähe die Ursache
+    sind
+
+Als die Gruppe sich schließlich näher an die Gruft heranwagt, erhebt
+sich aus dem gestörten Grab ein **Schreckgespenst**.
+
+Genau in diesem Moment endet die Sitzung.
+
+## Aktueller Stand
+
+- Der erste vorbereitete Hinterhalt war erfolgreich: **zwei Oger** wurden
+    außerhalb der Festung getötet
+
+- Weitere Oger ließen sich danach nicht mehr auf dieselbe Weise
+    herauslocken
+
+- Die Gruppe hat den **Höhleneingang hinter dem Wasserfall** erreicht und
+    erstmals betreten
+
+- Ein verborgenes Waffenlager der Schwarzpfeile ist bestätigt
+
+- Das Höhlensystem bietet Zugänge zur **alten Kaserne**, in Richtung
+    **Adlerhorst** und weiter in die **Festung**
+
+- Schockechsen halten sich in den Tunneln auf, reagierten bisher aber
+    eher ausweichend als sofort aggressiv
+
+- In einer Gruft innerhalb des Höhlensystems wurde eine **böse Präsenz**
+    entdeckt
+
+- Die Sitzung endet unmittelbar vor dem Kampf gegen ein
+    **Schreckgespenst**
+
 # Sitzung 8. April 2026: Neuer Lagerplatz vor der Ranickfeste
 
 Nach der überstürzten Flucht vor den Ogern bringt sich die Gruppe
