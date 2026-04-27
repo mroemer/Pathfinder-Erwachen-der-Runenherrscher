@@ -1,3 +1,102 @@
+# Sitzung 22. April 2026: Das Schreckgespenst in der Gruft
+
+Unmittelbar nach dem Erwachen des Schreckgespensts in der Gruft der
+Schwarzpfeile gerät die Gruppe in einen zähen, gefährlichen Kampf. Sehr
+schnell zeigt sich, dass gewöhnliche Waffen gegen den Gegner praktisch
+nutzlos sind: Ginas Schuss geht wirkungslos durch den Geist, Broccs
+erster Strahl verfehlt, Hagens Versuch mit dem Zauberstab bringt nichts,
+und auch Makos erste Attacken sowie die Schüsse der Waldläufer richten
+zunächst keinen erkennbaren Schaden an.
+
+## Erstes Begreifen der Gefahr
+
+Während die Gruppe noch versucht zu verstehen, womit sie es genau zu tun
+hat, schlägt das Schreckgespenst bereits zurück. Es fährt Mako mit einer
+körperlosen Berührung an und entzieht ihm Lebenskraft. Später trifft es
+auch Fafnir und Gina, die beide unter den Folgen negativer Stufen leiden.
+Damit wird rasch klar, dass der Gegner nicht nur schwer zu verletzen,
+sondern selbst auf kurzer Distanz äußerst gefährlich ist.
+
+Trotzdem sammelt die Gruppe in den ersten Kampfrunden die nötigen
+Erkenntnisse:
+
+- Fafnir erinnert sich an sein Wissen über körperlose Untote und ruft der
+    Gruppe zu, dass normale Waffen nichts taugen und Magie gebraucht wird
+
+- Es bestätigt sich, dass magische Waffen zwar wirken, aber nur
+    eingeschränkt
+
+- Weihwasser und reine magische Energie erweisen sich als verlässlichere
+    Mittel
+
+## Improvisation unter Druck
+
+Sobald dieses Wissen zusammenkommt, ändert sich der Kampf deutlich.
+
+- Fox stürzt sich mit ihren magischen Waffen in den Nahkampf und ist die
+    Erste, die dem Geist spürbar zusetzt
+
+- Gina gießt dem Schreckgespenst Weihwasser direkt über, was sichtbaren
+    Effekt hat
+
+- Brocc trifft es anschließend mit einem magischen Geschoss
+
+- Hagen verstärkt Mako mit magischen Fängen, damit dessen Angriffe
+    überhaupt Wirkung entfalten können
+
+Daneben bleibt Zeit für den eigentümlichen Humor der Gruppe selbst in der
+Gefahr: Tobin versucht sich nacheinander mit geschnippten Kreuz-Spielkarten
+an der Untotenabwehr, während Kyras schließlich aus Holz ein provisorisches
+Kreuz formt und es dem Geist entgegenhält. Beides ist mehr Ausdruck von
+Trotz als eine entscheidende Wende, bleibt aber als bezeichnender Moment
+des Kampfes hängen.
+
+## Fafnirs Zauber und der Wendepunkt
+
+Fafnir greift gleich mehrfach ordnend in den Kampf ein. Zunächst weiht er
+den Bereich, was das Schreckgespenst schwächt. Später wirkt er "Vor
+Untoten verstecken" auf einen Großteil der Nahkämpfer um sich herum. Der
+Geist verliert dadurch mehrere Ziele aus seiner Wahrnehmung und richtet
+seine Aufmerksamkeit stattdessen auf die weiterhin sichtbare Gina.
+
+Diese kurze Neuordnung verschafft der Gruppe genau den Spielraum, den sie
+braucht, um den Kampf kontrollierter zu Ende zu bringen.
+
+## Der Geist wird niedergerungen
+
+Nachdem die Schwächen des Gegners verstanden sind, konzentriert die Gruppe
+ihre wirksamen Mittel:
+
+- Fox setzt dem Schreckgespenst weiter mit ihren magischen Klingen zu
+
+- Gina und Kyras bringen Weihwasser ins Spiel
+
+- Brocc steuert verlässliche Magie bei
+
+- Jakardros erinnert sich an seinen Blitzbogen und kann so ebenfalls
+    Schaden verursachen
+
+- Mako, nun magisch verstärkt, geht schließlich mit einem ganzen Hagel aus
+    Bissen und Klauen auf den Geist los
+
+Gerade Makos letzte Angriffswelle gibt den Ausschlag: Mit jedem Treffer
+löst sich mehr von der Erscheinung, bis das Schreckgespenst sich
+endgültig auflöst.
+
+## Aktueller Stand
+
+- Das Schreckgespenst in der Gruft der Schwarzpfeile wurde vernichtet
+
+- Die Gruppe hat bestätigt, dass körperlose Untote in den Höhlen eine
+    ernsthafte Gefahr darstellen und nur mit Magie, Weihwasser oder
+    magischen Waffen zuverlässig bekämpft werden können
+
+- Mako, Fafnir und Gina wurden im Kampf von Lebensentzug und negativen
+    Stufen getroffen
+
+- Die Gruppe hält sich weiterhin im Höhlensystem der Ranickfeste auf und
+    hat die unmittelbare Gefahr in der Gruft zunächst gebannt
+
 # Sitzung 15. April 2026: Hinterhalt, Höhleneingang und die Gruft
 
 Der vorbereitete Hinterhalt an der Straße vor der **Ranickfeste** geht
