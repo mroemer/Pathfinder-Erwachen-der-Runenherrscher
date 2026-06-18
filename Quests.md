@@ -22,6 +22,16 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
 ### Auftragstext
 Der Bürgermeister hält eine Rede, er wolle uns belohnen für unseren Mut und er hätte uns nicht nur wegen des Festes eingeladen. Er erwähnt die Feste Ranik - geführt von Waldläufern, von der lange keine Nachricht mehr gekommen ist. Außerdem gibt es Gerüchte aus Schildkrötenfähre von Ogern. Er hat eine "Bitte" - eher einen Auftrag - für uns. Sein Assistent übergibt Hagen eine Schatulle mit einem Siegel, Reisepapieren, Brief an die Bewohner, etc. für Schildkrötenfähre. Er verspricht jedem von uns 350 GM für die Ausgaben und Dienste. Hagen handelte ihn auf 355 GM hoch. Er spricht einen Toast auf uns.
 
+## Rettet Hagen und Mako
+### Auftraggeber
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+- [ ] Hagen und sein Vertrauter Mako wurden während einer Erkundung in den Höhlen bei der Ranickfeste von einer riesigen Kreatur in ein Portal gezogen. Brocc identifizierte das Residuum an der Höhlendecke als Hinweis auf ein planetarisches Tor; anhand einer Beschreibung erkennt er, dass die Ebene das Nirvana ist. Hagen und Mako gelten damit als vermisst. Eine Rettung wird als prioritär angesehen, ist bislang aber nicht durchgeführt.
+
+### Auftragstext
+Hagen und Mako wurden durch ein Portal offenbar in das Nirvana entrissen. Die Gruppe versucht Informationen zu sammeln und mögliche Wege zur Rettung zu finden.
+
 ## Findet Xaneshas Schwester
 ### Auftraggeber
 Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (siehe Notizen 29. Oktober 2025).

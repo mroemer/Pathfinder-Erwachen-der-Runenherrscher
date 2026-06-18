@@ -1,3 +1,52 @@
+# Sitzung 17. Juni 2026: Hagens Verschwinden und Kundschaft in der Ranickfeste
+
+Die Gruppe erwacht in der Höhle bei der **Ranickfeste** aus einem Traumnebel
+und muss feststellen, dass **Hagen** und sein Vertrauter **Mako** verschwunden
+sind: Zwei riesige, portalartige Hände griffen die beiden und zogen sie in
+ein Portal. Gina gelang es, Mako noch kurz zu fassen, wurde dann aber zurück
+in die Höhle geworfen.
+
+Brocc untersucht die Narben an der Höhlendecke und nimmt ein bläuliches, mit
+Erkenntnismagie verbundenes Residuum wahr. Anhand der Beschreibung erkennt er
+die Ebene als das Nirvana – Hagen und Mako wurden offenbar in das Nirvana
+gezogen. Die Gruppe diskutiert eine mögliche Rettung, kann aber keine
+unmittelbare Spurfolge feststellen.
+
+## Vorgehen und Aufklärung vor Ort
+
+- **Jakardros** und **Thal** stoßen zur Gruppe und warnen vor den Schockechsen
+    in den Tunneln. Sie nennen drei Geheimgänge zur Festung.
+- **Fox** wird von Brocc fliegend und von Tobin unsichtbar gemacht und späht
+    den Hof der Ranickfeste aus. Sie beschreibt einen stinkenden Innenhof mit
+    Kadavern, behelfsmäßig reparierten Toren, mehreren Hütten, einer Kaserne
+    und Ogerwachen an den Toren (B2 und B8). Aus einem Haus (B6) dringt Rauch
+    und der Geruch von gebratenem Fleisch; Wölfe bellen.
+- Fox findet den engen Geheimgang wieder und schleicht zur Gruppe zurück. Die
+    Gruppe bewegt sich am Wall entlang und versteckt sich in Stall B3.
+- Ein Oger entdeckt eine Fährte: ein Wolf mit Brandnarben folgt einer Spur und
+    findet ein Stoffstück; die Fährte endet an einem ekelhaft stinkenden Pool.
+    Jakardros erkennt den Hund als den des Waldläufers Bitter.
+- **Cal** schleicht sich getrennt aus dem Geheimgang zur Kaserne (B8), tarnt
+    seinen Geruch im stinkenden Pool und versteckt sich schließlich hinter der
+    Kaserne, als seine Unsichtbarkeit nachlässt.
+
+## Entscheidungen und aktueller Endzustand
+
+- Hagen und Mako sind verschwunden und wurden ins Nirvana gezogen (Broccs
+    Identifikation). Eine sofortige Rettung ist noch nicht möglich, bleibt aber
+    ein vorrangiges Ziel.
+- Die Gruppe hat wichtige Aufklärung über den Hof der Ranickfeste gesammelt:
+    Ogerwachen, Kaserne, Rauch aus B6, Wölfe und eine Spur, die an einem
+    stinkenden Pool endet.
+- **Cal** befindet sich versteckt außerhalb des Burgfrieds; die übrige Gruppe
+    ist vorerst außerhalb der Festung und berät das weitere Vorgehen.
+
+## Kurzfassung der kanonischen Folgeänderungen
+
+- Hagen und Mako gelten als vermisst; Brocc identifizierte die Ebene als
+    Nirvana. Dies wurde kanonisch bestätigt und im Spielverlauf als neuer
+    Handlungsfaden vermerkt.
+
 # Sitzung 22. April 2026: Das Schreckgespenst in der Gruft
 
 Unmittelbar nach dem Erwachen des Schreckgespensts in der Gruft der
