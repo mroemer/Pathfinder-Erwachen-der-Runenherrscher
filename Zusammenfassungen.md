@@ -20,52 +20,31 @@ Kurz darauf erscheint ein **Sumpfmaul**. Es verschlingt Brocc, der sich im Inner
 
 # Sitzung 17. Juni 2026: Hagens Verschwinden und Kundschaft in der Ranickfeste
 
-Die Gruppe erwacht in der Höhle bei der **Ranickfeste** aus einem Traumnebel
-und muss feststellen, dass **Hagen** und sein Vertrauter **Mako** verschwunden
-sind: Zwei riesige, portalartige Hände griffen die beiden und zogen sie in
-ein Portal. Gina gelang es, Mako noch kurz zu fassen, wurde dann aber zurück
-in die Höhle geworfen.
+## Hagens Verschwinden
 
-Brocc untersucht die Narben an der Höhlendecke und nimmt ein bläuliches, mit
-Erkenntnismagie verbundenes Residuum wahr. Anhand der Beschreibung erkennt er
-die Ebene als das Nirvana – Hagen und Mako wurden offenbar in das Nirvana
-gezogen. Die Gruppe diskutiert eine mögliche Rettung, kann aber keine
-unmittelbare Spurfolge feststellen.
+In den Höhlen unter der **Ranickfeste** erwacht die Gruppe aus einem traumartigen Nebel, der den meisten noch einmal die vergangenen Wochen vor Augen geführt hat: Sandspitze, Distelkrone, Nualia, Magnimar, Xanesha, Schildkrötenfähre und den Weg bis zur Feste.
 
-## Vorgehen und Aufklärung vor Ort
+Nur **Gina** hat gesehen, was wirklich geschah: Zwei riesige schwarze Hände griffen aus Portalen hervor, packten **Hagen** und seinen Vertrauten **Mako** und zogen sie fort. Gina klammerte sich an Mako und wurde mitgerissen, erblickte auf der anderen Seite jedoch nur gleißendes Licht und die Silhouette einer gewaltigen Kreatur. Diese trennte sie mühelos von Mako und schleuderte sie zurück in die Höhle.
 
-- **Jakardros** und **Thal** stoßen zur Gruppe und warnen vor den Schockechsen
-    in den Tunneln. Sie nennen drei Geheimgänge zur Festung.
-- **Fox** wird von Brocc fliegend und von Tobin unsichtbar gemacht und späht
-    den Hof der Ranickfeste aus. Sie beschreibt einen stinkenden Innenhof mit
-    Kadavern, behelfsmäßig reparierten Toren, mehreren Hütten, einer Kaserne
-    und Ogerwachen an den Toren (B2 und B8). Aus einem Haus (B6) dringt Rauch
-    und der Geruch von gebratenem Fleisch; Wölfe bellen.
-- Fox findet den engen Geheimgang wieder und schleicht zur Gruppe zurück. Die
-    Gruppe bewegt sich am Wall entlang und versteckt sich in Stall B3.
-- Ein Oger entdeckt eine Fährte: ein Wolf mit Brandnarben folgt einer Spur und
-    findet ein Stoffstück; die Fährte endet an einem ekelhaft stinkenden Pool.
-    Jakardros erkennt den Hund als den des Waldläufers Bitter.
-- **Cal** schleicht sich getrennt aus dem Geheimgang zur Kaserne (B8), tarnt
-    seinen Geruch im stinkenden Pool und versteckt sich schließlich hinter der
-    Kaserne, als seine Unsichtbarkeit nachlässt.
+**Brocc** untersucht die magischen Rückstände an den Portalnarben und erkennt mächtige Transportmagie. Aus den Spuren und Ginas Beschreibung schließt er, dass Hagen und Mako offenbar ins **Nirvana** gezogen wurden. Eine unmittelbare Möglichkeit, ihnen zu folgen, findet die Gruppe nicht.
 
-## Entscheidungen und aktueller Endzustand
+## Kundschaft in der Feste
 
-- Hagen und Mako sind verschwunden und wurden ins Nirvana gezogen (Broccs
-    Identifikation). Eine sofortige Rettung ist noch nicht möglich, bleibt aber
-    ein vorrangiges Ziel.
-- Die Gruppe hat wichtige Aufklärung über den Hof der Ranickfeste gesammelt:
-    Ogerwachen, Kaserne, Rauch aus B6, Wölfe und eine Spur, die an einem
-    stinkenden Pool endet.
-- **Cal** befindet sich versteckt außerhalb des Burgfrieds; die übrige Gruppe
-    ist vorerst außerhalb der Festung und berät das weitere Vorgehen.
+Kurz darauf stoßen **Jakardros** und **Thal** wieder zur Gruppe und warnen vor den Schockechsen in den Tunneln. Sie erklären mehrere Geheimgänge in die Festung. Da ein Frontalangriff weiterhin aussichtslos bleibt, wird **Fox** von Brocc zum Fliegen befähigt und von Tobin unsichtbar gemacht, um den Hof auszukundschaften.
 
-## Kurzfassung der kanonischen Folgeänderungen
+Fox entdeckt einen verwüsteten, stinkenden Innenhof voller Kadaver, Knochen und Unrat. Die Tore sind beschädigt, aber bewacht. In der Kaserne sitzen mehrere Oger, viele davon betrunken, schlafend oder raufend — offenbar hat das präparierte Bier Wirkung gezeigt. Aus einem Gebäude mit mehreren Kaminen steigt Rauch auf; es riecht nach gebratenem Fleisch. Außerdem hört Fox Wolfsgebell und bemerkt Hinweise auf weitere Oger in den Hütten.
 
-- Hagen und Mako gelten als vermisst; Brocc identifizierte die Ebene als
-    Nirvana. Dies wurde kanonisch bestätigt und im Spielverlauf als neuer
-    Handlungsfaden vermerkt.
+## Lärm, Echsen und Eindringen
+
+Nach ihrer Rückkehr erschreckt Fox **Kyras**, der heftig reagiert. Der Lärm lockt die Schockechsen an. **Tobin** verschleiert die Gruppe mit Spuknebel, während Brocc mit den Echsen spricht. Die Tiere lassen die Gruppe passieren, drängen sie aber, ihr Gebiet sofort zu verlassen.
+
+Die Gruppe schleicht durch den Geheimgang in die Feste und versteckt sich im Stall **B3**. Dabei wird ein Oger aufmerksam und holt einen misshandelten Wolf mit Brandnarben. **Jakardros** erkennt ihn als **Schlinge**, den Wolf des Waldläufers Bitter. Schlinge nimmt eine Spur auf, die zu einem stinkenden Pool führt, wird danach aber vom Oger geschlagen.
+
+## Aktueller Stand
+
+Im Versteck berät die Gruppe, ob ein gezielter Schlag gegen die Führung der Oger möglich wäre. Die Schwarzpfeile vermuten, dass die besonders großen Oger zu den **Kräggs** gehören und der eigentliche Patriarch vermutlich im wichtigsten Gebäude der Feste sitzt.
+
+Am Ende der Sitzung ist die Hauptgruppe im Stall **B3** verborgen. **Cal** ist getrennt von ihnen bei beziehungsweise unter der Kaserne **B8** versteckt. Hagen und Mako bleiben verschwunden.
 
 # Sitzung 22. April 2026: Das Schreckgespenst in der Gruft
 
