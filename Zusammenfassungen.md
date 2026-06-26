@@ -1,22 +1,22 @@
 ## Sitzung 24. Juni 2026 - Feuer in der Ranickfeste und der Weg durch die Echsenhöhle
 
-Die Gruppe befindet sich weiterhin innerhalb der **Ranickfeste**. Der Hauptteil der Gruppe hält sich versteckt hinter dem Stall **B3**, während **Cal**, bislang noch nicht mit der Gruppe zusammengeführt, verborgen hinter der Kaserne bleibt. Die Lage ist angespannt: Oger bewachen die Tore, in der Festung befinden sich weitere Besatzer, und der mutmaßliche Anführer wird im Bergfried vermutet.
+Die Gruppe befindet sich weiterhin innerhalb der **Ranickfeste**. Der Hauptteil hält sich versteckt hinter dem Stall **B3**, während **Cal** zunächst unter der Kaserne **B8** verborgen bleibt. Die Lage ist angespannt: Oger bewachen die Tore, weitere Besatzer halten sich in den Gebäuden auf, und der mutmaßliche Anführer wird im Bergfried vermutet.
 
-Zunächst rückt jedoch **Schlinge**, der schwer verletzte Schreckenswolf des Waldläufers Bitter, in den Fokus. Er liegt nahe des stinkenden Pools bei **B7**, nachdem er von einem Oger misshandelt und zurückgelassen wurde. **Jakardros** will ihn sofort retten, wird aber von Gina und Kyras zurückgehalten, um keinen Alarm auszulösen. Währenddessen beobachtet **Cal** die Szene aus seinem Versteck und stabilisiert Schlinge heimlich.
+Zunächst rückt **Schlinge**, der schwer verletzte Schreckenswolf des Waldläufers Bitter, in den Fokus. Er liegt nahe des stinkenden Pools bei **B7**, nachdem er von einem Oger misshandelt und zurückgelassen wurde. **Jakardros** will ihn sofort retten, wird aber von Gina und Kyras zurückgehalten, um keinen Alarm auszulösen. Währenddessen beobachtet **Cal** die Szene aus seinem Versteck und stabilisiert Schlinge heimlich.
 
 Anschließend schleichen **Fox** und **Jakardros** zu Schlinge. Trotz eines beinahe entdeckenden Ogers gelingt es ihnen, den Wolf mit einem Heiltrank zu versorgen und zu beruhigen. Schlinge wird hinter die Kaserne gebracht und später in den engen Geheimgang gezwängt. Damit ist Bitters Gefährte gerettet.
 
-Cal nimmt Kontakt mit Jakardros auf und erklärt, dass er die Ziele der Gruppe teilt. Später trifft auch Fox auf ihn und erfährt, dass er aus **Schildkrötenfähre** kommt. Cal ist damit als neuer Kontakt etabliert, aber noch nicht vollständig in die Gruppe eingeordnet.
+Cal nimmt Kontakt mit Jakardros auf und erklärt, dass er die Ziele der Gruppe teilt. Später trifft auch Fox auf ihn. Sie sieht einen sehr kleinen, jungen menschlichen Mann mit Kappe, schlichter Kleidung und Mithralkettenhemd. Cal gibt an, aus **Schildkrötenfähre** zu kommen. Er ist damit als neuer Kontakt etabliert, aber noch nicht vollständig eingeordnet.
 
-Der nächste Plan lautet, die **Kaserne B8** mit Alchemistenfeuer in Brand zu setzen, um die Oger abzulenken. Gleichzeitig sollen möglichst viele Türen blockiert werden. Fox verkeilt die Küchentür und entzündet das Feuer. Die Ablenkung gelingt, doch beim Rückzug wird die Gruppe bemerkt. Ein Oger bricht aus der Küche, ruft **„Angreifer!“** und löst damit Alarm aus. Er tritt zwar in eine von Thal vorbereitete Falle, doch die Heimlichkeit ist verloren.
+Der Plan lautet nun, die **Kaserne B8** mit Alchemistenfeuer in Brand zu setzen, um die Oger abzulenken. Gleichzeitig sollen Türen und Ausgänge, wo möglich, behindert werden. Fox verkeilt die Tür der Küche **B6** mit einer Planke und entzündet anschließend das Feuer bei der Kaserne. Die Ablenkung gelingt, doch beim Rückzug wird die Gruppe entdeckt: Ein Oger aus **B4** bemerkt Tobin und Fafnir, bricht die Tür auf und schlägt Alarm. Er tritt zwar in eine von Thal vorbereitete Falle, doch die Heimlichkeit ist verloren.
 
-Die Gruppe flieht durch den Geheimgang in Richtung Echsenhöhle. Unterwegs werden Schockechsen kurzzeitig durch Tobins Faszination und später durch Ginas Fleischgabe abgelenkt. Gina erlebt dabei eine sehr reale Erinnerung an **Tom**, einen früheren Begleiter, der bei einer Expedition verschüttet wurde. Mit Hilfe der Gruppe kann sie den Verlust zunächst überwinden.
+Die Gruppe flieht durch den Geheimgang in Richtung Echsenhöhle. Zwei Schockechsen werden zunächst durch Tobins Faszination und später durch Ginas Fleischgabe abgelenkt. Unterwegs erlebt Gina eine sehr reale Erinnerung an **Tom**, einen früheren Begleiter, der bei einer Expedition verschüttet wurde. Mit Hilfe der Gruppe kann sie sich wieder fangen.
 
 In der Echsenhöhle scheitert Jakardros’ Versuch, mit den Tieren zu verhandeln. Es kommt zum Kampf gegen zahlreiche **Schockechsen**. Brocc vernichtet viele von ihnen mit Säuremagie; die übrigen werden von Cal, Kyras, Gina, Jakardros und Fox ausgeschaltet.
 
-Kurz darauf erscheint ein **Sumpfmaul**. Es verschlingt Brocc, der sich im Inneren mit seinem Stab in einen großen Pilz verwandelt und überlebt. Gemeinsam töten Cal, Thal, Jakardros, Kip, Schlinge und die übrigen Gefährten das Sumpfmaul, als es zu fliehen versucht.
+Kurz darauf erscheint ein **Sumpfmaul**. Es verschlingt Brocc, der sich im Inneren mit seinem Stab in einen großen Pilz verwandelt. Cal schneidet eine Öffnung in die Kreatur, doch Brocc bleibt zunächst im Inneren. Erst als das Sumpfmaul fliehen will, gibt es den Brocc-Pilz frei. Beim Rückzug wird es von **Thal, Jakardros, Kip, Schlinge und Cal** niedergehauen.
 
-**Aktueller Stand:** Schlinge lebt, Cal ist als neuer Verbündeter möglich, die Oger der Ranickfeste sind alarmiert, und die Gruppe befindet sich nach dem Kampf in den Höhlen auf dem Weg zum Bergfried.
+**Aktueller Stand:** Schlinge lebt, Cal ist als möglicher neuer Verbündeter aufgetaucht, die Oger der Ranickfeste sind alarmiert, und die Gruppe befindet sich nach dem Kampf in den Höhlen auf dem Weg zum Bergfried.
 
 # Sitzung 17. Juni 2026: Hagens Verschwinden und Kundschaft in der Ranickfeste
 
