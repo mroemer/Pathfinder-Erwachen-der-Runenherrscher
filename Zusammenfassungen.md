@@ -1,6 +1,4 @@
-## Kampagnenlogbuch – Sitzung 8. Juli 2026
-
-### Der Tod der rothaarigen Lamiamatriarchin
+## Sitzung 8. Juli 2026: Der Tod der rothaarigen Lamiamatriarchin
 
 Nach dem Kampf gegen die Schockechsen und das Sumpfmaul sammelt sich die Gruppe in den Höhlen unter der **Ranickfeste**. Fafnir heilt die Verwundeten, während Tobin die Umgebung durchsucht. Dabei werden mehrere alte Fundstücke entdeckt: eine meisterhafte Kriegsaxt mit korvosanischen Abbildungen, ein meisterhafter Kriegshammer, eine meisterhafte Peitsche, Edelsteine im Wert von 160 GM, ein unbekannter Zauberstab mit der Aufschrift „Eigentum der Magiergilde Magnimar“, ein Öl der Austilgens und eine Schriftrolle der Bullenstärke.
 
