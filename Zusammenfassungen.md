@@ -1,3 +1,25 @@
+## Kampagnenlogbuch – Sitzung 8. Juli 2026
+
+### Der Tod der rothaarigen Lamiamatriarchin
+
+Nach dem Kampf gegen die Schockechsen und das Sumpfmaul sammelt sich die Gruppe in den Höhlen unter der **Ranickfeste**. Fafnir heilt die Verwundeten, während Tobin die Umgebung durchsucht. Dabei werden mehrere alte Fundstücke entdeckt: eine meisterhafte Kriegsaxt mit korvosanischen Abbildungen, ein meisterhafter Kriegshammer, eine meisterhafte Peitsche, Edelsteine im Wert von 160 GM, ein unbekannter Zauberstab mit der Aufschrift „Eigentum der Magiergilde Magnimar“, ein Öl der Austilgens und eine Schriftrolle der Bullenstärke.
+
+Anschließend führt **Kip**, Jakardros’ Feuerfellpuma, die Gruppe durch die Echsenhöhlen. Die brütenden Schockechsen in der hohen, von einem Fluss durchzogenen Halle werden gemieden, und die Gruppe bewegt sich vorsichtig an ihnen vorbei. In einer Sackgasse entdeckt **Cal**, der Wolfsgeräusche hinter einer Wand hört, schließlich den verborgenen Durchgang in einen Kellerraum. Kyras schlägt mit seinem Kriegshammer ein Loch durch die zugenagelten Bretter.
+
+Dahinter findet die Gruppe keinen gewöhnlichen Lagerraum, sondern ein eingerichtetes Lesezimmer: Weihrauch, Bücherregale, ein Lesesessel, ein Tisch mit zwei aufgeschlagenen Büchern. Eines zeigt den Stammbaum der **Lysanders**, mit dem Symbol eines goldenen Salamanders auf grünem Grund. Der Name **Suna Lysander** ist eingekreist und mit einem Fragezeichen versehen. Fox erkennt das Symbol wieder: Es entspricht einem Amulett, das sie einst besaß, und das Bild erinnert sie an ihre Mutter.
+
+Bevor die Gruppe weiter untersuchen kann, nähern sich Stimmen. Aus dem Gespräch gehen beunruhigende Hinweise hervor: Zwei Wachen seien genug, der Damm solle bald brechen, **Malugus** sei auf Widerstand getroffen, und es würden mehr Waffen benötigt. Fox und Tobin sichern die aufgeschlagenen Bücher, während sich andere verstecken oder in die angrenzende Wolfszucht ausweichen. Dort finden sie mehrere Zellen und zwei schwer verletzte Wölfe, die von Schwinge freudig erkannt werden.
+
+Kurz darauf betritt eine rothaarige Frau mit grünen Augen und aristokratischer Haltung den Raum, begleitet von **Schatten**, einem riesigen Wolf. Sie erkennt, dass jemand hier gewesen ist, und schickt Schatten auf die Suche. Im folgenden Kampf offenbart sie ihre wahre Gestalt: eine **Lamiamatriarchin**.
+
+Die Matriarchin bezaubert Gina, die sich gegen die Gruppe wendet und Kyras sowie Fafnir angreift. Tobin versucht sie zunächst vergeblich, dann erfolgreich mit seinem Bannlied zu befreien. Währenddessen kämpft Cal gegen Schatten, der ihn bis in Richtung Schockechsenhöhle verfolgt. Fafnir bannt einen Teil der Schutzmagie der Matriarchin, Fox verletzt sie schwer, und die Waldläufer, Kip und Schwinge setzen nach.
+
+Als die Matriarchin verwundet flieht und „Alarm!“ ruft, verfolgen Kyras, Fox, Brocc, Gina, Fafnir und die Waldläufer sie in den Gang. Brocc behindert ihren Rückzug mit einem Spinnennetz aus Dreck, Tobin legt Stille über den Bereich, und weitere Treffer setzen ihr zu. Schließlich holt **Kyras** sie ein und erschlägt sie mit einem Hieb aus kaltem Eisen, der sie entzweischneidet.
+
+Doch der Sieg bleibt ohne Ruhe: Während Kyras sich umblickt, sieht er bereits riesige Oger auf die Gruppe zukommen.
+
+**Aktueller Stand:** Die Lamiamatriarchin ist tot. Die Oger der Ranickfeste sind alarmiert und rücken an. Cal befindet sich noch bei den Schockechsen im Kampf gegen Schatten. In der Wolfszucht sind zwei verletzte Wölfe zurückgeblieben. Das zweite aufgeschlagene Buch und mögliche weitere Hinweise im Lesezimmer sind noch ungeklärt.
+
 ## Sitzung 24. Juni 2026 - Feuer in der Ranickfeste und der Weg durch die Echsenhöhle
 
 Die Gruppe befindet sich weiterhin innerhalb der **Ranickfeste**. Der Hauptteil hält sich versteckt hinter dem Stall **B3**, während **Cal** zunächst unter der Kaserne **B8** verborgen bleibt. Die Lage ist angespannt: Oger bewachen die Tore, weitere Besatzer halten sich in den Gebäuden auf, und der mutmaßliche Anführer wird im Bergfried vermutet.
