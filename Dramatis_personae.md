@@ -13,13 +13,14 @@
 * **Nualia Tobyn**:  Halbelfische Priesterin, Tochter des verstorbenen Pfarrers von Sandspitze. Vom Zorn der Runenherrscher verführt, wurde sie zur Feindin der Stadt und der Gruppe.
 * **Vogt Schierling**:  Vogt von Sandspitze. Er unterstützte uns dabei, Haldmeer Grobaras über den Häuterkult zu informieren.
 * **Shalelu Andosana**:  Waldläuferin, Kundschafterin und informelle Verbündete der Gruppe. Kennerin der Wildnis und verlässliche Informationsquelle. Wurde von Jakardros Sovark einst nach einem Goblinüberfall gefunden und bei den Schwarzpfeilen großgezogen; zwischen beiden besteht eine enge, beinahe väterliche Bindung.
+* **Suna Lysander**: Frau, deren Porträt Fox in einem Stammbaum der Familie Lysander als das ihrer Mutter wiedererkannte. Ihr Eintrag bildet das letzte bekannte Glied des Stammbaums und ist durch eine nachträglich eingezeichnete Linie mit einem Fragezeichen verbunden. Das Wappen der Lysanders zeigt einen goldenen Salamander auf grünem Grund und erinnert Fox an ein Amulett aus ihrer Vergangenheit.
 * **Tsuto Kaijitsu**:  Halbbruder von Ameiko, Verräter und Kultist. Spielte eine zentrale Rolle in den frühen Ereignissen um Sandspitze.
 * **Xanesha (besiegt)**: Schlangenartige Anführerin eines Sihedron-Kults, deren Illusionsmagie und Waffe Dornenpfahl ganze Gruppen in Verzweiflung stürzen können. Beherrscht Magie und Täuschung gleichermaßen und steht in Verbindung zu den Runen der Gier. Wurde erstmals in einem Brief des Richters Eisendorn erwähnt.
 * **Priester Xantus**:  Geistlicher von Desna in Sandspitze. Freundlich, aber planlos; wird regelmäßig um Rat gefragt und weiß "mal wieder von nix".
 
 ## Die Schwarzpfeile von Fort Ranik (Überlebende)
 
-* **Jakardros Sovark**: Erfahrener Waldläufer der Schwarzpfeile und Ziehvater von Shalelu Andosana. Überlebte den Fall der Feste Ranik und schwor, gemeinsam mit der Gruppe gegen die Oger vorzugehen. Wurde auf dem Graul-Hof befreit und mit seinem Panther Kip wiedervereint.
+* **Jakardros Sovark**: Erfahrener Waldläufer der Schwarzpfeile und Ziehvater von Shalelu Andosana. Überlebte den Fall der Feste Ranik und schwor, gemeinsam mit der Gruppe gegen die Oger vorzugehen. Wurde auf dem Graul-Hof befreit und mit seinem Feuerfellpuma Kip wiedervereint. Wurde beim Kampf gegen eine Lamiamatriarchin in der Ranickfeste schwer verwundet, aber von Fafnir rechtzeitig geheilt.
 * **Thal Temros**: Schwarzpfeil-Waldläufer, schwer gezeichnet von den Ereignissen um Ranik. Einer der wenigen Überlebenden des Ogerangriffs. Ruhig, wachsam und vom Verlust seiner Kameraden geprägt.
 * **Kaven Windstreich**: Junger Schwarzpfeil. Wurde gemeinsam mit Jakardros und Thal auf dem Graul-Hof gefangen gehalten und befreit. Sein Verhalten wirkt nicht immer so standhaft wie das seiner Gefährten.
 
@@ -39,3 +40,11 @@
 * **Ralven**: Händler aus Schildkrötenfähre, der gelegentlich die Waldläufer der Ranickfeste beliefert. Wurde von Ogern überwältigt, in die Festung verschleppt und dort eingesperrt. Entkam schließlich über den Abfluss bzw. Abwasserkanal.
 * **Unbenannter Fallensteller**: Ortsansässiger Jäger und Kenner von Fallen und Kräutern. Trägt ein Tätowierungssymbol eines siebenzackigen Sterns auf dem Unterarm. Stand offenbar in Verbindung mit einem untergegangenen Glücksspielschiff namens "Paradies" und empfahl einen Nachtschattensud als mögliche Waffe gegen die Oger.
 * **Tom**: Einheimischer Landwirt und neuer Bekannter von Tobin. Berichtete von einer vierzig Jahre zurückliegenden Überschwemmung, die angeblich von einer Hexe ausgelöst wurde, die Dorfbewohner in Frösche verwandeln wollte. Ob Aberglaube oder verschüttete Wahrheit, blieb unklar.
+
+## Ranickfeste
+
+* **Kip**: Feuerfellpuma und tierischer Gefährte von Jakardros Sovark. Führte die Gruppe durch die Schockechsenhöhlen und unterstützte sie im Kampf gegen die Lamiamatriarchin.
+* **Schwinge**: Schwer gezeichneter Schreckenswolf des vermutlich verstorbenen Schwarzpfeils Bitter. Wurde von der Gruppe aus der Ranickfeste gerettet und begleitet sie seitdem. Erkannte in der Wolfszucht der Festung zwei schwer verletzte Wölfe wieder.
+* **Schatten**: Gewaltiger schwarzer Wolf mit rot leuchtenden Augen und Gefährte einer rothaarigen Lamiamatriarchin. Verfolgte Cal durch die Höhlen bis zu den brütenden Schockechsen. Schatten lebt noch und ist weiterhin von Cal und der Hauptgruppe getrennt.
+* **Unbekannte rothaarige Lamiamatriarchin (verstorben)**: Rothaarige, grünäugige Frau mit aristokratischem Auftreten, die in einem verborgenen Lesezimmer der Ranickfeste angetroffen wurde. Offenbarte im Kampf ihre wahre Gestalt als Lamiamatriarchin, bezauberte Gina und kämpfte mit zwei ungewöhnlichen Dolchen. Einer ihrer Dolche glühte wie Magma, während der andere Lebenskraft entzog. Wurde nach einem gescheiterten Fluchtversuch von Kyras erschlagen. Ihre genaue Identität und eine mögliche Verbindung zu Xanesha oder Lucrezia sind nicht bestätigt.
+* **Malogus**: Nur aus einem belauschten Gespräch bekannter Mann. Soll auf unerwarteten Widerstand gestoßen sein. Seine Identität, sein Aufenthaltsort und seine Rolle sind bislang ungeklärt.
