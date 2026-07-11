@@ -4,4 +4,4 @@ description: "Use when cleaning a campaign transcript, marking remaining uncerta
 argument-hint: "Pfad oder Kontext zum Transkript"
 agent: "Transkript-Lektorat"
 ---
-Redigiere das Transkript. Ändere nicht, was gesagt wurde (außer Transkriptionsartefakte und Namen, etc., die falsch transkribiert wurden). Füge die einzelnen Zeilen einzelner Sätze zusammen. Bleibe so nah wie möglich am Transkript, behalte die Struktur bei, aber mach das Transkript besser lesbar.
+Redigiere das Transkript. Ändere nicht, was gesagt wurde (außer Transkriptionsartefakte und Namen, etc., die falsch transkribiert wurden). Füge die einzelnen Zeilen einzelner Sätze zusammen. Bleibe so nah wie möglich am Transkript, behalte die Struktur bei, aber mach das Transkript besser lesbar. Redigiere das Transkript stückweise. Pro Antwort ein sinnvoller Abschnitt, danach warte auf mein "Okay".
