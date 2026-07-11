@@ -1,42 +1,112 @@
-## Sitzung 8. Juli 2026: Der Tod der rothaarigen Lamiamatriarchin
+# Sitzung 8. Juli 2026: Der Tod der rothaarigen Lamiamatriarchin
 
-Nach dem Kampf gegen die Schockechsen und das Sumpfmaul sammelt sich die Gruppe in den Höhlen unter der **Ranickfeste**. Fafnir heilt die Verwundeten, während Tobin die Umgebung durchsucht. Dabei werden mehrere alte Fundstücke entdeckt: eine meisterhafte Kriegsaxt mit korvosanischen Abbildungen, ein meisterhafter Kriegshammer, eine meisterhafte Peitsche, Edelsteine im Wert von 160 GM, ein unbekannter Zauberstab mit der Aufschrift „Eigentum der Magiergilde Magnimar“, ein Öl der Austilgens und eine Schriftrolle der Bullenstärke.
+Nach dem Kampf gegen die Schockechsen und das Sumpfmaul sammelt sich die Gruppe in den Höhlen unter der **Ranickfeste**. Fafnir versorgt die Verwundeten mit heilender Energie, während Tobin die Umgebung gründlich durchsucht.
 
-Anschließend führt **Kip**, Jakardros’ Feuerfellpuma, die Gruppe durch die Echsenhöhlen. Die brütenden Schockechsen in der hohen, von einem Fluss durchzogenen Halle werden gemieden, und die Gruppe bewegt sich vorsichtig an ihnen vorbei. In einer Sackgasse entdeckt **Cal**, der Wolfsgeräusche hinter einer Wand hört, schließlich den verborgenen Durchgang in einen Kellerraum. Kyras schlägt mit seinem Kriegshammer ein Loch durch die zugenagelten Bretter.
+Zwischen den Überresten früherer Opfer entdeckt die Gruppe mehrere wertvolle Fundstücke:
 
-Dahinter findet die Gruppe keinen gewöhnlichen Lagerraum, sondern ein eingerichtetes Lesezimmer: Weihrauch, Bücherregale, ein Lesesessel, ein Tisch mit zwei aufgeschlagenen Büchern. Eines zeigt den Stammbaum der **Lysanders**, mit dem Symbol eines goldenen Salamanders auf grünem Grund. Der Name **Suna Lysander** ist eingekreist und mit einem Fragezeichen versehen. Fox erkennt das Symbol wieder: Es entspricht einem Amulett, das sie einst besaß, und das Bild erinnert sie an ihre Mutter.
+* eine meisterhafte Kriegsaxt mit Abbildungen im korvosanischen Stil
+* einen meisterhaften Kriegshammer
+* eine meisterhafte Peitsche
+* Rubine und Saphire im Gesamtwert von 160 GM
+* einen noch nicht identifizierten Zauberstab mit der Aufschrift „Eigentum der Magiergilde Magnimar“
+* ein Öl des Austilgens
+* eine Schriftrolle der Bullenstärke
 
-Bevor die Gruppe weiter untersuchen kann, nähern sich Stimmen. Aus dem Gespräch gehen beunruhigende Hinweise hervor: Zwei Wachen seien genug, der Damm solle bald brechen, **Malugus** sei auf Widerstand getroffen, und es würden mehr Waffen benötigt. Fox und Tobin sichern die aufgeschlagenen Bücher, während sich andere verstecken oder in die angrenzende Wolfszucht ausweichen. Dort finden sie mehrere Zellen und zwei schwer verletzte Wölfe, die von Schwinge freudig erkannt werden.
+Kyras nimmt den Kriegshammer an sich, während Brocc sich des Zauberstabs annimmt.
 
-Kurz darauf betritt eine rothaarige Frau mit grünen Augen und aristokratischer Haltung den Raum, begleitet von **Schatten**, einem riesigen Wolf. Sie erkennt, dass jemand hier gewesen ist, und schickt Schatten auf die Suche. Im folgenden Kampf offenbart sie ihre wahre Gestalt: eine **Lamiamatriarchin**.
+## Durch die Echsenhöhlen
 
-Die Matriarchin bezaubert Gina, die sich gegen die Gruppe wendet und Kyras sowie Fafnir angreift. Tobin versucht sie zunächst vergeblich, dann erfolgreich mit seinem Bannlied zu befreien. Währenddessen kämpft Cal gegen Schatten, der ihn bis in Richtung Schockechsenhöhle verfolgt. Fafnir bannt einen Teil der Schutzmagie der Matriarchin, Fox verletzt sie schwer, und die Waldläufer, Kip und Schwinge setzen nach.
+Jakardros schickt seinen Feuerfellpuma **Kip** voraus, um einen Weg durch das unbekannte Höhlensystem zu finden. Die Gruppe folgt ihm durch eine hohe, von einem unterirdischen Fluss durchzogene Halle. In zahlreichen Nischen brüten weitere Schockechsen. Solange die Abenteurer Abstand halten und sich ruhig verhalten, lassen die Tiere sie jedoch passieren.
 
-Als die Matriarchin verwundet flieht und „Alarm!“ ruft, verfolgen Kyras, Fox, Brocc, Gina, Fafnir und die Waldläufer sie in den Gang. Brocc behindert ihren Rückzug mit einem Spinnennetz aus Dreck, Tobin legt Stille über den Bereich, und weitere Treffer setzen ihr zu. Schließlich holt **Kyras** sie ein und erschlägt sie mit einem Hieb aus kaltem Eisen, der sie entzweischneidet.
+An einer Verzweigung wählt Kip den mittleren Gang. Die Gruppe folgt ihm durch immer engere und feuchtere Tunnel, bis sie schließlich vor einer scheinbaren Sackgasse steht.
 
-Doch der Sieg bleibt ohne Ruhe: Während Kyras sich umblickt, sieht er bereits riesige Oger auf die Gruppe zukommen.
+Zunächst bleibt die Suche nach dem alten Geheimgang erfolglos. Erst **Cal** bemerkt durch einen Spalt in der Wand gedämpfte Wolfsgeräusche. Beim Freilegen der Stelle stößt die Gruppe auf eine massive hölzerne Kellerwand. Brocc versucht, das Holz mit Säure zu schwächen, doch erst Kyras schlägt mit dem neu gefundenen Kriegshammer eine ausreichend große Öffnung hinein.
 
-**Aktueller Stand:** Die Lamiamatriarchin ist tot. Die Oger der Ranickfeste sind alarmiert und rücken an. Cal befindet sich noch bei den Schockechsen im Kampf gegen Schatten. In der Wolfszucht sind zwei verletzte Wölfe zurückgeblieben. Das zweite aufgeschlagene Buch und mögliche weitere Hinweise im Lesezimmer sind noch ungeklärt.
+## Das verborgene Lesezimmer
 
-## Sitzung 24. Juni 2026 - Feuer in der Ranickfeste und der Weg durch die Echsenhöhle
+Hinter der Wand liegt kein gewöhnlicher Lagerraum. Die Gruppe betritt ein behaglich eingerichtetes Lesezimmer mit roten Teppichen, großen Kissen, farbigen Vorhängen, Weihrauch und vollen Bücherregalen. Auf einem Schreibtisch liegen zwei aufgeschlagene Bücher.
 
-Die Gruppe befindet sich weiterhin innerhalb der **Ranickfeste**. Der Hauptteil hält sich versteckt hinter dem Stall **B3**, während **Cal** zunächst unter der Kaserne **B8** verborgen bleibt. Die Lage ist angespannt: Oger bewachen die Tore, weitere Besatzer halten sich in den Gebäuden auf, und der mutmaßliche Anführer wird im Bergfried vermutet.
+Eines davon enthält den Stammbaum der Familie **Lysander**. Auf dem Einband befindet sich ein goldener Salamander auf grünem Grund. Fox erkennt das Zeichen wieder: Es erinnert sie stark an ein Amulett, das sie früher besaß.
 
-Zunächst rückt **Schlinge**, der schwer verletzte Schreckenswolf des Waldläufers Bitter, in den Fokus. Er liegt nahe des stinkenden Pools bei **B7**, nachdem er von einem Oger misshandelt und zurückgelassen wurde. **Jakardros** will ihn sofort retten, wird aber von Gina und Kyras zurückgehalten, um keinen Alarm auszulösen. Währenddessen beobachtet **Cal** die Szene aus seinem Versteck und stabilisiert Schlinge heimlich.
+Auf der letzten Seite des Stammbaums befindet sich das Porträt einer Frau, die Fox als ihre Mutter wiedererkennt. Ihr Name lautet **Suna Lysander**. Von ihrem Eintrag führt eine nachträglich eingezeichnete Linie zu einem Fragezeichen. Suna scheint damit das bislang letzte bekannte Glied der aufgezeichneten Familienlinie zu sein.
 
-Anschließend schleichen **Fox** und **Jakardros** zu Schlinge. Trotz eines beinahe entdeckenden Ogers gelingt es ihnen, den Wolf mit einem Heiltrank zu versorgen und zu beruhigen. Schlinge wird hinter die Kaserne gebracht und später in den engen Geheimgang gezwängt. Damit ist Bitters Gefährte gerettet.
+Bevor die Gruppe die Bücher näher untersuchen kann, hört sie Stimmen aus dem oberen Bereich der Festung. Aus dem Gespräch gehen mehrere beunruhigende Hinweise hervor:
 
-Cal nimmt Kontakt mit Jakardros auf und erklärt, dass er die Ziele der Gruppe teilt. Später trifft auch Fox auf ihn. Sie sieht einen sehr kleinen, jungen menschlichen Mann mit Kappe, schlichter Kleidung und Mithralkettenhemd. Cal gibt an, aus **Schildkrötenfähre** zu kommen. Er ist damit als neuer Kontakt etabliert, aber noch nicht vollständig eingeordnet.
+* Zwei Wachen sollen für eine nicht näher bezeichnete Aufgabe ausreichen.
+* Ein Damm soll nach den letzten Nachrichten jeden Augenblick brechen.
+* Ein Mann namens **Malogus** ist offenbar auf unerwarteten Widerstand gestoßen.
+* Eine unbekannte Verbündete wird als „Freundin vom großen Haken“ bezeichnet.
+* Die Schmieden der Oger arbeiten ununterbrochen und „machen die Nacht zum Tage“.
 
-Der Plan lautet nun, die **Kaserne B8** mit Alchemistenfeuer in Brand zu setzen, um die Oger abzulenken. Gleichzeitig sollen Türen und Ausgänge, wo möglich, behindert werden. Fox verkeilt die Tür der Küche **B6** mit einer Planke und entzündet anschließend das Feuer bei der Kaserne. Die Ablenkung gelingt, doch beim Rückzug wird die Gruppe entdeckt: Ein Oger aus **B4** bemerkt Tobin und Fafnir, bricht die Tür auf und schlägt Alarm. Er tritt zwar in eine von Thal vorbereitete Falle, doch die Heimlichkeit ist verloren.
+Fox nimmt den Stammbaum an sich. Tobin sichert das zweite Buch und markiert dabei die zuvor aufgeschlagene Seite.
 
-Die Gruppe flieht durch den Geheimgang in Richtung Echsenhöhle. Zwei Schockechsen werden zunächst durch Tobins Faszination und später durch Ginas Fleischgabe abgelenkt. Unterwegs erlebt Gina eine sehr reale Erinnerung an **Tom**, einen früheren Begleiter, der bei einer Expedition verschüttet wurde. Mit Hilfe der Gruppe kann sie sich wieder fangen.
+## Die Wolfszucht
 
-In der Echsenhöhle scheitert Jakardros’ Versuch, mit den Tieren zu verhandeln. Es kommt zum Kampf gegen zahlreiche **Schockechsen**. Brocc vernichtet viele von ihnen mit Säuremagie; die übrigen werden von Cal, Kyras, Gina, Jakardros und Fox ausgeschaltet.
+Während Cal und Brocc sich unter einem Bett verstecken und Fafnir hinter der Tür zum Flur Stellung bezieht, öffnen Fox und Tobin die Tür, hinter der das Jaulen zu hören war. Jakardros, Thal und Schwinge folgen ihnen.
 
-Kurz darauf erscheint ein **Sumpfmaul**. Es verschlingt Brocc, der sich im Inneren mit seinem Stab in einen großen Pilz verwandelt. Cal schneidet eine Öffnung in die Kreatur, doch Brocc bleibt zunächst im Inneren. Erst als das Sumpfmaul fliehen will, gibt es den Brocc-Pilz frei. Beim Rückzug wird es von **Thal, Jakardros, Kip, Schlinge und Cal** niedergehauen.
+Dahinter liegt die Wolfszucht der Ranickfeste: ein langer Raum mit je vier vergitterten Zellen auf beiden Seiten. Es riecht nach Blut, Unrat und nassem Fell. In zwei der hinteren Zellen findet Schwinge zwei schwer verletzte Wölfe und begrüßt sie aufgeregt. Die Tiere bleiben zunächst eingeschlossen und unversorgt zurück, da sich bereits jemand nähert.
 
-**Aktueller Stand:** Schlinge lebt, Cal ist als möglicher neuer Verbündeter aufgetaucht, die Oger der Ranickfeste sind alarmiert, und die Gruppe befindet sich nach dem Kampf in den Höhlen auf dem Weg zum Bergfried.
+## Die rothaarige Fremde
+
+Kurz darauf betritt eine rothaarige, grünäugige Frau mit auffallend nobler Kleidung und aristokratischer Haltung das Lesezimmer. Ihr gepflegtes Äußeres und ihre hochhackigen Schuhe wirken in der verdreckten Festung vollkommen fehl am Platz.
+
+Begleitet wird sie von **Schatten**, einem gewaltigen schwarzen Wolf mit rot leuchtenden Augen. Das Tier ist größer und kräftiger als jeder Wolf, den die Gruppe bisher gesehen hat.
+
+Die Frau erkennt sofort, dass jemand in das Zimmer eingedrungen ist. Sie bemerkt das Loch in der Wand und die verschwundenen Bücher und befiehlt Schatten, nach den Eindringlingen zu suchen.
+
+Cal verlässt daraufhin sein Versteck und rennt als Ablenkung durch den aufgebrochenen Geheimgang zurück in die Höhlen. Schatten nimmt sofort die Verfolgung auf. Weil der Wolf zunächst in der engen Öffnung stecken bleibt, gewinnt Cal einen kleinen Vorsprung.
+
+## Kampf gegen die Lamiamatriarchin
+
+Fafnir versucht, die Frau aus seinem Versteck heraus zu überraschen, verfehlt sie jedoch. Gina eröffnet daraufhin mit ihrer Muskete das Feuer und trifft sie zweimal schwer.
+
+Die Fremde legt ihre menschliche Erscheinung ab und offenbart ihre wahre Gestalt: Sie ist eine **Lamiamatriarchin** mit menschlichem Oberkörper und langem Schlangenleib.
+
+Mit ihrer Magie bezaubert sie Gina und befiehlt ihr, ihre Freunde anzugreifen. Gina schlägt Kyras mit ihrem Kolben zu Boden und wendet sich anschließend gegen die übrige Gruppe. Kyras gelingt es später, ihr die Muskete aus der Hand zu schlagen.
+
+Währenddessen setzt die Matriarchin Fafnir und Jakardros mit zwei ungewöhnlichen Dolchen schwer zu. Einer der Dolche glüht wie Magma und hinterlässt brennende Wunden. Der andere entzieht Lebenskraft und überträgt sie offenbar auf die Matriarchin.
+
+Brocc greift aus seinem Versteck mit einem ohrenbetäubenden Schrei an und erhebt sich später mithilfe seiner Magie unter die Decke. Fox versucht, die Matriarchin im Nahkampf zu verwunden, prallt zunächst jedoch an ihren magischen Schutzzaubern ab.
+
+Fafnir erkennt mehrere aktive Zauber auf der Gegnerin und bannt einen davon. Dadurch verliert die Matriarchin ihre übernatürliche Beschleunigung und hört auf zu flimmern.
+
+Tobin versucht unterdessen, Gina mit seinem Bannlied aus der Bezauberung zu lösen. Der erste Versuch bleibt erfolglos. Beim zweiten gelingt es ihm schließlich, ihren Widerstand zu stärken. Gina kommt wieder zu sich, nimmt ihre Muskete auf und eröffnet erneut das Feuer auf die Matriarchin.
+
+Fox trifft die Gegnerin anschließend schwer, reißt eine ihrer Wunden erneut auf und schwächt ihre Verteidigung. Jakardros setzt nach, wird jedoch selbst beinahe von den Dolchen der Matriarchin niedergestreckt. Fafnir heilt ihn rechtzeitig und bewahrt ihn damit vermutlich vor dem Tod.
+
+## Cal und Schatten
+
+In den Höhlen versucht Cal zunächst, Schatten abzuschütteln und sich anschließend hinter ihm zurück in die Festung zu schleichen. Der Wolf durchschaut jedoch die Täuschung, überrascht Cal und reißt ihn schwer verletzt zu Boden.
+
+Cal entzündet daraufhin sein Schwert und hält Schatten zeitweise mit den Flammen auf Abstand. Als der Wolf erneut angreift, zieht Cal sich schließlich bis zur Halle der brütenden Schockechsen zurück.
+
+Sein Versuch, Schatten zwischen die Echsen zu locken, gelingt nur teilweise. Die Schockechsen betrachten auch Cal als Bedrohung. Cal gewinnt jedoch Abstand, aktiviert heilende Magie und beschwört eine leuchtende Waffe, die Schatten erstmals verletzt.
+
+Am Ende der Sitzung lebt Schatten noch und hält sich weiterhin im Bereich der Schockechsenhöhle auf. Cal befindet sich dort von der Hauptgruppe getrennt.
+
+## Die Flucht der Matriarchin
+
+Als die Matriarchin schwer verwundet ist, versucht sie mit einer Dimensionstür zu entkommen. Die Gruppe erkennt den Zauber rechtzeitig und trifft sie während des Wirkens mehrfach. Ihre Konzentration bricht zusammen und der Fluchtzauber scheitert.
+
+Daraufhin schlängelt sie sich die Treppe hinauf und ruft laut „Alarm!“.
+
+Kyras, Fox, Brocc, Gina, Jakardros, Kip und Schwinge nehmen die Verfolgung auf. Brocc erschafft vor ihr ein dichtes Netz aus verdichteter Erde und Schmutz. Die Matriarchin kann sich zwar daraus lösen, wird aber stark verlangsamt.
+
+Tobin belegt eine Schleuderkugel mit einem Stillezauber und wirft sie in ihren Fluchtweg. Damit kann die Matriarchin weder weiter um Hilfe rufen noch erneut ihre Dimensionstür wirken.
+
+Trotz weiterer Dolchangriffe wird sie von Gina, Fox, Jakardros, Kip und Schwinge immer weiter geschwächt. Schließlich holt Kyras sie im Netz ein. Mit seinem Falchion aus kaltem Eisen schlägt er ihr seitlich durch Hals und Oberkörper und trennt ihren menschlichen Oberkörper diagonal vom Schlangenleib.
+
+Die Lamiamatriarchin bricht tot zusammen.
+
+## Aktueller Stand
+
+Die rothaarige Lamiamatriarchin ist tot. Ihre genaue Identität und ihre mögliche Verbindung zu Xanesha oder Lucrezia sind noch nicht bestätigt.
+
+Der Sieg hat jedoch unmittelbar neue Gefahr heraufbeschworen: In der Halle vor Kyras liegen Knochen und verwesende Überreste, und aus mehreren Richtungen nähern sich bereits schwere Schritte. Riesige Oger stürmen auf die Verfolger zu.
+
+Cal ist weiterhin von der Gruppe getrennt und befindet sich bei den Schockechsen. Schatten lebt noch und beobachtet beziehungsweise verfolgt ihn.
+
+In der Wolfszucht befinden sich weiterhin zwei schwer verletzte Wölfe. Das zweite entwendete Buch, die Bedeutung von Sunas Stammbaum, der bevorstehende Bruch des Damms, Malogus und die „Freundin vom großen Haken“ müssen noch untersucht werden.
 
 # Sitzung 17. Juni 2026: Hagens Verschwinden und Kundschaft in der Ranickfeste
 
