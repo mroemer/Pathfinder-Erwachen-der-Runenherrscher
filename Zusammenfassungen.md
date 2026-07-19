@@ -1,3 +1,227 @@
+# Sitzung vom 15. Juli 2026
+
+## Die Befreiung der Ranickfeste
+
+Noch stand der Tod der Lamiamatriarchin frisch im Raum, als sich bereits die
+nächste Gefahr näherte. Kyras befand sich allein am oberen Ende der Treppe,
+während die übrige Gruppe noch im verborgenen Lesesaal Stellung bezog. Aus dem
+Gang vor ihm stürmte ein gewaltiger Oger heran, dessen Unterkiefer durch eine
+eiserne Bärenfalle ersetzt worden war.
+
+Kyras wich sofort zurück und rief den anderen zu, sich hinter der Tür zu
+sammeln. Im Lesesaal bereitete sich die Gruppe auf den bevorstehenden Ansturm
+vor. Fox verschwand hinter dem Schreibtisch, Tobin stimmte sein Lied des Mutes
+an, Gina legte ihre Muskete an und Brocc schwebte mit einem Säurezauber in
+Bereitschaft über dem Geschehen.
+
+Zur selben Zeit endete Cals Flucht durch die Schockechsenhöhle auf unerwartete
+Weise. Schatten, der riesige schwarze Wolf der Lamiamatriarchin, brach die
+Verfolgung plötzlich ab und kehrte zur Feste zurück. Cal spürte in dem Tier
+keine böse Gesinnung und folgte ihm vorsichtig. Als beide den Lesesaal
+erreichten, blieb Schatten angesichts der vielen Unbekannten zunächst unsicher
+stehen. Cal näherte sich ihm langsam und ohne Drohgebärde.
+
+Dann brachen die Oger durch die Tür.
+
+## Der Ansturm
+
+Der erste Angreifer geriet unmittelbar in das vorbereitete Kreuzfeuer. Ginas
+Kugel, Broccs Säurestrahl und Tobins Schleudergeschoss trafen ihn, bevor Kyras
+und Fafnir ihn im Nahkampf niederstreckten.
+
+Mitten im Getümmel erkannte Schatten Jakardros und Thal. Statt sie anzugreifen,
+stürmte er freudig auf die beiden zu und begrüßte sie überschwänglich. Damit war
+endgültig klar, dass der Wolf nicht freiwillig aufseiten der Lamiamatriarchin
+gestanden hatte.
+
+Ein weiterer Oger drängte durch die Tür. Metall war in seine Schädelplatte
+eingearbeitet, und grobe Schutzrunen bedeckten seine Haut. Er schlug Kyras und
+Fafnir schwer, doch Fox glitt an ihm vorbei, brachte sich in eine günstige
+Position und setzte ihm mit ihren Dolchen zu.
+
+Fafnir rief heilende Energie herbei, die Freund und Feind gleichermaßen
+erfasste. Noch bevor sich die Gruppe neu ordnen konnte, drängte bereits der
+nächste Oger in den engen Raum. Der erste Angreifer schleuderte Fafnir beiseite,
+doch Thal und Fox nutzten jede Lücke in der Verteidigung.
+
+Dann donnerte Ginas Muskete.
+
+Ihr Schuss traf den neu eingedrungenen Oger mit solcher Gewalt, dass er förmlich
+zerrissen wurde. Ein zweiter Schuss traf den verbliebenen Gegner. Cal erreichte
+nun ebenfalls den Raum und rief ein Rapier aus Licht herbei, während Jakardros
+blitzende Pfeile durch die Reihen der Kämpfenden schickte.
+
+Brocc erkannte unterdessen, dass die Runen auf der Haut des Ogers keine Zeichen
+der Lamia waren. Es handelte sich um Ogermagie. Irgendjemand anderes musste die
+Besatzer der Feste mit Schutzzaubern versehen haben.
+
+Aus den Gängen waren die Stimmen zahlreicher weiterer Oger zu hören. Brocc
+drängte zum Rückzug in die Höhlen. Tobin widersprach. Die bisher gefallenen Oger
+seien nur die kleineren Söhne der Kräggs gewesen.
+
+Der wahre Herr der Feste lebte noch.
+
+## Jakrat
+
+Nur Augenblicke später wurde der tote Oger im Eingang mühelos zur Seite
+geschoben.
+
+Auf allen Vieren kroch der größte Oger in den Raum, den die Gruppe bislang
+gesehen hatte. In seinen Händen hielt er einen gewaltigen Ogerhaken. Ohne zu
+zögern schlug er Thal beinahe zu Boden und riss anschließend Fox eine schwere
+Wunde.
+
+Schatten winselte beim Anblick des Ungetüms und floh zurück in Richtung der
+Echsenhöhle. Auch Thal musste sich schwer verletzt zurückziehen.
+
+Jakardros erkannte den Oger.
+
+„Das ist Jakrat!“
+
+Doch selbst dem erfahrenen Waldläufer zitterten die Hände vor Furcht.
+
+Tobin hatte Recht behalten. Während der Ogerboss in den Raum drängte,
+beschleunigte der junge Barde seine Gefährten mit Magie und rief ihnen zu, ihn
+schnell zu töten.
+
+Die Gruppe warf alles gegen Jakrat.
+
+Fox versuchte ihn aus dem Gleichgewicht zu bringen. Fafnir stellte sich ihm
+entgegen und heilte seine Gefährten. Gina feuerte Kugel um Kugel in den massigen
+Körper. Kyras schlug mit seinem Falchion zu, Cal sandte seine leuchtende Waffe
+gegen ihn und Brocc verbrannte sein Fleisch mit ätzender Magie.
+
+Doch Jakrat wich nicht.
+
+Er schlug Fafnir und Fox mit dem Ogerhaken, drängte sich durch die Reihen und
+wandte sich schließlich Kyras zu. Seine Hiebe beschädigten sogar die Rüstung des
+Halbelfen. Als ein kleinerer Oger mit Schrumpfköpfen am Gürtel erschien und
+Jakrat mit Magie heilte, kehrte ein schwaches Lächeln auf das Gesicht des
+Ogerbosses zurück.
+
+Fox versuchte erneut, ihn zu flankieren.
+
+Jakrat fing sie mit einem vernichtenden Schlag ab.
+
+Fox brach bewusstlos zusammen.
+
+Kurz darauf trafen seine Haken auch Kyras mit voller Wucht und rissen ihn zu
+Boden. Für einen Moment schien Jakrat trotz all seiner Wunden noch immer nicht
+aufzuhalten zu sein.
+
+Dann hob Gina erneut ihre Muskete.
+
+Ihre Kugel traf den Ogerboss in den Kopf. Jakrat sackte leblos zusammen.
+
+Noch im selben Atemzug schoss Gina dem entsetzten Ogermagier in die Schulter.
+Cal nutzte den Augenblick, trat an dessen Seite und durchbohrte ihn mit zwei
+schnellen Stößen seines Rapiers. Brocc heilte Kyras, der daraufhin wieder zu
+Bewusstsein kam.
+
+Mit dem Tod Jakrats brach der Widerstand zusammen. Die übrigen Oger zogen sich
+aus dem Bergfried zurück.
+
+Die Ranickfeste war befreit.
+
+## Fox
+
+Der Sieg brachte keine Erleichterung.
+
+Gina kniete neben Fox und versuchte, ihr einen Heiltrank einzuflößen. Doch die
+junge Schurkin reagierte nicht.
+
+Fafnir untersuchte sie.
+
+Fox war tot.
+
+Er wirkte Sanfte Ruhe auf ihren Körper, damit die Zeit ihn nicht weiter zeichnen
+konnte. Anschließend heilte er ein letztes Mal die Verwundeten, bevor er
+erschöpft zusammenbrach.
+
+Fox' Augen blieben leer.
+
+Die Gruppe sammelte ihre Waffen und ihren Rucksack ein. Dann legten sie ihren
+Körper behutsam über Kip, Jakardros' Feuerfellpuma.
+
+Die Befreiung der Feste hatte einen furchtbaren Preis gefordert.
+
+## Funde und Rückzug
+
+Während aus den Tiefen der Feste bereits neue Kampfgeräusche erklangen,
+durchsuchte Gina den Leichnam der Lamiamatriarchin. Offenbar begannen die
+verbliebenen Oger schon damit, Jakrats Nachfolge untereinander auszukämpfen.
+
+Bei der Lamia fand Gina die beiden ungewöhnlichen Dolche, eine Schriftrolle mit
+mehreren Namen, goldene Ringe und einen Ring mit dem Zeichen eines roten
+Salamanders.
+
+Tobin und Schatten suchten unterdessen die verletzten Wölfe in der Zucht auf.
+Tobin heilte beide Tiere und öffnete ihre Käfige. Bevor er den Raum verließ,
+entdeckte er außerdem einen magischen Gürtel, der die Kraft seines Trägers
+steigerte. Er legte ihn an und nahm auch Jakrats gewaltigen Ogerhaken an sich.
+
+Die Gruppe verließ die Feste durch die Echsenhöhle und den Wasserfall. Obwohl
+die Ranickfeste nicht länger in der Hand der Oger war, zog niemand triumphierend
+davon.
+
+Fox' Körper ruhte auf Kips Rücken.
+
+Fafnir war erschöpft.
+
+Kyras und die anderen trugen die Spuren des Kampfes.
+
+Schweigend und wachsam kehrten sie in Richtung ihres verborgenen Lagers im Wald
+zurück.
+
+## Ein unerwarteter Empfang
+
+Als zwischen den Bäumen die Zelte sichtbar wurden, fiel der Gruppe sofort etwas
+auf.
+
+Das Lagerfeuer brannte.
+
+Sie hatten es vor ihrem Aufbruch gelöscht.
+
+Cal schlich voraus und entdeckte am Feuer eine ihm unbekannte Elfin. In ihrer
+Nähe lag ein Mann mit durchgeschnittener Kehle. Kaven Windstreich war an einen
+Baum gekettet.
+
+Tobin machte sich unsichtbar und folgte ihm.
+
+Er erkannte die Elfin als Shalelu Andosana.
+
+Der Tote war Ralven.
+
+Kaven, der dritte überlebende Schwarzpfeil, saß gefesselt am Baum.
+
+Mit Fox' Leichnam und den Wunden der gerade errungenen Schlacht betrat die
+Gruppe ihr Lager.
+
+Dort wartete bereits die nächste Enthüllung.
+
+## Aktueller Stand
+
+Die Ranickfeste ist nicht länger unter der Kontrolle Jakrats und seiner Oger.
+Die verbliebenen Besatzer haben sich zurückgezogen oder kämpfen offenbar um die
+Nachfolge ihres gefallenen Anführers.
+
+Fox wurde im Kampf von Jakrat getötet. Fafnir hat ihren Körper mit Sanfter Ruhe
+bewahrt. Ob eine Wiederbelebung möglich ist, bleibt offen.
+
+Schatten hat sich als ehemaliger Gefährte der Schwarzpfeile erwiesen und steht
+nicht aufseiten der Lamia.
+
+Bei der gefallenen Lamiamatriarchin wurden zwei ungewöhnliche Dolche, mehrere
+Ringe, eine Schriftrolle mit Namen und ein Ring mit einem roten Salamander
+gefunden. Ihre genaue Bedeutung ist noch ungeklärt.
+
+Jakrats Ogerhaken und die Runen der Oger deuten weiterhin auf eine unbekannte
+magische Unterstützung hin.
+
+Im Waldlager sitzt Shalelu Andosana am Feuer. Ralven wurde mit
+durchgeschnittener Kehle aufgefunden, während Kaven Windstreich an einen Baum
+gekettet ist.
+
 # Sitzung 8. Juli 2026: Der Tod der rothaarigen Lamiamatriarchin
 
 Nach dem Kampf gegen die Schockechsen und das Sumpfmaul sammelt sich die Gruppe in den Höhlen unter der **Ranickfeste**. Fafnir versorgt die Verwundeten mit heilender Energie, während Tobin die Umgebung gründlich durchsucht.
