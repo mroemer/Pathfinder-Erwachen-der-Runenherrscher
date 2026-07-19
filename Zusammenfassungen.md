@@ -1,224 +1,376 @@
-# Sitzung vom 15. Juli 2026
+# Sitzung vom 15. Juli 2026: Ein teuer erkämpfter Sieg
 
-## Die Befreiung der Ranickfeste
+## Der Fall Jakrats
 
 Noch stand der Tod der Lamiamatriarchin frisch im Raum, als sich bereits die
-nächste Gefahr näherte. Kyras befand sich allein am oberen Ende der Treppe,
-während die übrige Gruppe noch im verborgenen Lesesaal Stellung bezog. Aus dem
-Gang vor ihm stürmte ein gewaltiger Oger heran, dessen Unterkiefer durch eine
-eiserne Bärenfalle ersetzt worden war.
+nächste Gefahr näherte. Kyras befand sich am oberen Ende der Treppe, während die
+übrige Gruppe in den verborgenen Lesesaal zurückwich. Vor ihm lag ein langer,
+von Verwesung und Unrat erfüllter Gang. Aus diesem stürmte ein gewaltiger Oger
+heran, dessen fehlender Unterkiefer durch eine eiserne Bärenfalle ersetzt worden
+war.
 
-Kyras wich sofort zurück und rief den anderen zu, sich hinter der Tür zu
-sammeln. Im Lesesaal bereitete sich die Gruppe auf den bevorstehenden Ansturm
-vor. Fox verschwand hinter dem Schreibtisch, Tobin stimmte sein Lied des Mutes
-an, Gina legte ihre Muskete an und Brocc schwebte mit einem Säurezauber in
-Bereitschaft über dem Geschehen.
+Kyras rief den anderen zu, sich hinter die Tür zurückzuziehen. Der enge Zugang
+sollte die Oger zwingen, einzeln in den Raum zu kommen. Fox verschwand hinter
+dem Schreibtisch, Tobin stimmte sein Lied des Mutes an, Gina legte ihre Muskete
+auf die Tür an und Brocc schwebte mit vorbereiteter Säuremagie über dem
+Geschehen.
 
-Zur selben Zeit endete Cals Flucht durch die Schockechsenhöhle auf unerwartete
-Weise. Schatten, der riesige schwarze Wolf der Lamiamatriarchin, brach die
-Verfolgung plötzlich ab und kehrte zur Feste zurück. Cal spürte in dem Tier
-keine böse Gesinnung und folgte ihm vorsichtig. Als beide den Lesesaal
-erreichten, blieb Schatten angesichts der vielen Unbekannten zunächst unsicher
-stehen. Cal näherte sich ihm langsam und ohne Drohgebärde.
+Zur selben Zeit veränderte sich Schatten.
+
+Der riesige schwarze Wolf, der Cal bis in die Schockechsenhöhle verfolgt hatte,
+schüttelte sich plötzlich und wirkte orientierungslos. Die Feindseligkeit war
+aus seinem Verhalten verschwunden. Cal suchte mit göttlicher Kraft nach einer
+bösen Gesinnung, fand an dem Tier jedoch nichts Böses mehr.
+
+Schatten kehrte vorsichtig zum Lesesaal zurück. Als er Stimmen und Licht
+bemerkte, zögerte er zunächst. Cal folgte ihm mit Abstand und näherte sich
+langsam, ohne ihn zu bedrohen. Mit etwas Futter und ruhigem Verhalten gelang es
+ihm, den Wolf nicht erneut zu reizen.
 
 Dann brachen die Oger durch die Tür.
 
-## Der Ansturm
+## Der erste Ansturm
 
-Der erste Angreifer geriet unmittelbar in das vorbereitete Kreuzfeuer. Ginas
-Kugel, Broccs Säurestrahl und Tobins Schleudergeschoss trafen ihn, bevor Kyras
-und Fafnir ihn im Nahkampf niederstreckten.
+Der Oger mit der Bärenfalle geriet unmittelbar in das vorbereitete Kreuzfeuer.
+Gina nahm ihm mit einem gezielten Schuss die Möglichkeit, sich wirksam zu
+verteidigen, während Brocc zwei grüne Säurestrahlen auf ihn schleuderte und
+Tobins Schleuderkugel gegen seinen Schädel prallte.
 
-Mitten im Getümmel erkannte Schatten Jakardros und Thal. Statt sie anzugreifen,
-stürmte er freudig auf die beiden zu und begrüßte sie überschwänglich. Damit war
-endgültig klar, dass der Wolf nicht freiwillig aufseiten der Lamiamatriarchin
-gestanden hatte.
+Der Oger versuchte, sich an Kyras und Fafnir vorbeizudrängen, doch Kyras hielt
+ihn im engen Eingang fest. Beide schlugen zu. Schließlich traf Fafnirs
+Morgenstern den gebeugten Schädel des Angreifers und brachte ihn zu Fall.
 
-Ein weiterer Oger drängte durch die Tür. Metall war in seine Schädelplatte
-eingearbeitet, und grobe Schutzrunen bedeckten seine Haut. Er schlug Kyras und
-Fafnir schwer, doch Fox glitt an ihm vorbei, brachte sich in eine günstige
-Position und setzte ihm mit ihren Dolchen zu.
+In diesem Augenblick entdeckte Schatten Jakardros und Thal.
 
-Fafnir rief heilende Energie herbei, die Freund und Feind gleichermaßen
-erfasste. Noch bevor sich die Gruppe neu ordnen konnte, drängte bereits der
-nächste Oger in den engen Raum. Der erste Angreifer schleuderte Fafnir beiseite,
-doch Thal und Fox nutzten jede Lücke in der Verteidigung.
+Der riesige Wolf stürmte auf sie zu. Für einen Moment drohte neue Gefahr – dann
+begann er, Jakardros freudig abzuschlecken. Der Waldläufer erkannte erleichtert,
+dass Schatten wieder bei Sinnen war.
+
+Der nächste Oger war größer, schneller und besser gerüstet. Metallplatten waren
+in seine Schädeldecke eingelassen, und Runen zeichneten sich auf seiner Haut ab.
+Mit einer gewaltigen Axt traf er Kyras und Fafnir in einem einzigen Schwung.
+
+Fox schlüpfte zwischen ihren Gefährten hindurch, wich der Axt mit einer
+akrobatischen Bewegung aus und rammte dem Oger ihre Klingen zwischen die
+Rüstungsplatten. Die Runen in der Nähe der Wunde leuchteten schwach auf.
+
+Fafnir rief heilende Energie herbei. Das goldene Licht stärkte seine Gefährten –
+heilte jedoch auch den Oger.
+
+Noch ein Angreifer drängte durch den Eingang. Um Platz zu schaffen, packte der
+runengeschützte Oger Fafnir am Kopf und schleuderte den Zwerg quer durch den
+Raum. Fox nutzte den Augenblick und riss die gerade verheilte Wunde des Ogers
+erneut auf. Fafnir fing sich während des Fluges ab und landete, ohne zu Boden zu
+gehen.
+
+Der neu eingedrungene Oger hob eine schwere Keule gegen Kyras.
 
 Dann donnerte Ginas Muskete.
 
-Ihr Schuss traf den neu eingedrungenen Oger mit solcher Gewalt, dass er förmlich
-zerrissen wurde. Ein zweiter Schuss traf den verbliebenen Gegner. Cal erreichte
-nun ebenfalls den Raum und rief ein Rapier aus Licht herbei, während Jakardros
-blitzende Pfeile durch die Reihen der Kämpfenden schickte.
+Der Schuss riss dem Oger den Kopf fort und überschüttete Kyras mit Blut. Noch
+bevor sich der runengeschützte Oger neu ausrichten konnte, traf Gina auch ihn.
 
-Brocc erkannte unterdessen, dass die Runen auf der Haut des Ogers keine Zeichen
-der Lamia waren. Es handelte sich um Ogermagie. Irgendjemand anderes musste die
-Besatzer der Feste mit Schutzzaubern versehen haben.
+Cal erreichte nun ebenfalls den Raum und rief ein Rapier aus Licht herbei. Die
+göttliche Waffe prallte zunächst an der zähen Haut und den Schutzrunen des Ogers
+ab. Kyras schlug derweil eine der Metallplatten aus dessen Körper.
 
-Aus den Gängen waren die Stimmen zahlreicher weiterer Oger zu hören. Brocc
-drängte zum Rückzug in die Höhlen. Tobin widersprach. Die bisher gefallenen Oger
-seien nur die kleineren Söhne der Kräggs gewesen.
+Jakardros trat in eine freie Schusslinie, spannte seinen Blitzbogen und ließ
+zwei Pfeile fliegen. Beide trafen den Oger in die Augenhöhlen. Elektrische
+Energie zuckte über seinen Körper, bevor er zusammenbrach.
+
+Brocc untersuchte die Runen aus der Entfernung. Er erkannte sie als eine
+fremdartige ogereigene Form von Schutzmagie. Damit war klar, dass sich unter den
+Besatzern noch mindestens ein Zauberkundiger befand.
+
+Aus den Gängen drangen die Schritte und Rufe zahlreicher weiterer Oger.
+
+Brocc schlug vor, sich in die Höhlen zurückzuziehen. Tobin widersprach. Die
+bisher gefallenen Gegner waren zwar gefährlich gewesen, doch sie entsprachen
+noch immer nicht dem gewaltigen Anführer, den die Gruppe unter den Krägg-Ogern
+vermutete.
 
 Der wahre Herr der Feste lebte noch.
 
 ## Jakrat
 
-Nur Augenblicke später wurde der tote Oger im Eingang mühelos zur Seite
-geschoben.
+Die Leiche des runengeschützten Ogers wurde plötzlich zur Seite geschleudert.
 
 Auf allen Vieren kroch der größte Oger in den Raum, den die Gruppe bislang
-gesehen hatte. In seinen Händen hielt er einen gewaltigen Ogerhaken. Ohne zu
-zögern schlug er Thal beinahe zu Boden und riss anschließend Fox eine schwere
-Wunde.
+gesehen hatte. Er bewegte sich raubtierhaft und hatte trotz seiner gewaltigen
+Größe keine Schwierigkeiten mit der niedrigen Decke. Narben überzogen seinen
+muskulösen Körper. In seinen Händen hielt er einen riesigen Ogerhaken.
 
-Schatten winselte beim Anblick des Ungetüms und floh zurück in Richtung der
-Echsenhöhle. Auch Thal musste sich schwer verletzt zurückziehen.
+Ohne zu zögern traf er Thal mit voller Wucht und riss anschließend Fox eine
+schwere Wunde.
 
-Jakardros erkannte den Oger.
+Hinter ihm riefen andere Oger, er solle Platz machen. Jakrat ignorierte sie.
+
+Schatten begann beim Anblick des Ungetüms zu winseln und floh in Richtung des
+Höhlengangs. Auch Thal, der kaum noch auftreten konnte, musste sich schwer
+verletzt zurückziehen.
+
+Jakardros erkannte den Angreifer.
 
 „Das ist Jakrat!“
 
-Doch selbst dem erfahrenen Waldläufer zitterten die Hände vor Furcht.
+Doch seine Hände zitterten so stark, dass er nur einen seiner Pfeile ins Ziel
+brachte.
 
-Tobin hatte Recht behalten. Während der Ogerboss in den Raum drängte,
-beschleunigte der junge Barde seine Gefährten mit Magie und rief ihnen zu, ihn
-schnell zu töten.
+Tobin hatte Recht behalten. Der Ogerboss war noch am Leben.
 
-Die Gruppe warf alles gegen Jakrat.
+Der junge Barde beschleunigte Kyras, Fox, Cal, Fafnir, Gina, Jakardros und sich
+selbst mit Magie. Während seine Worte immer schneller wurden, rief er:
 
-Fox versuchte ihn aus dem Gleichgewicht zu bringen. Fafnir stellte sich ihm
-entgegen und heilte seine Gefährten. Gina feuerte Kugel um Kugel in den massigen
-Körper. Kyras schlug mit seinem Falchion zu, Cal sandte seine leuchtende Waffe
-gegen ihn und Brocc verbrannte sein Fleisch mit ätzender Magie.
+„Schnell, bringt ihn um!“
 
-Doch Jakrat wich nicht.
+Die Gruppe stellte sich Jakrat entgegen.
 
-Er schlug Fafnir und Fox mit dem Ogerhaken, drängte sich durch die Reihen und
-wandte sich schließlich Kyras zu. Seine Hiebe beschädigten sogar die Rüstung des
-Halbelfen. Als ein kleinerer Oger mit Schrumpfköpfen am Gürtel erschien und
-Jakrat mit Magie heilte, kehrte ein schwaches Lächeln auf das Gesicht des
-Ogerbosses zurück.
+Fox versuchte, ihn mit Finten aus dem Gleichgewicht zu bringen, doch Jakrat ließ
+sich nicht täuschen. Trotzdem war er zu schwerfällig, um ihre kurzen Stiche
+vollständig abzuwehren.
 
-Fox versuchte erneut, ihn zu flankieren.
+Fafnir heilte erneut alle Kämpfenden in seiner Nähe und stellte sich mit
+erhobenem Schild an die Front. Jakrat versuchte, sich durch die Linie zu
+drängen, wurde jedoch von Kyras, Fox und Fafnir aufgehalten.
 
-Jakrat fing sie mit einem vernichtenden Schlag ab.
+Gina feuerte in rasender Geschwindigkeit. Eine Kugel traf Jakrat am Knie und
+zwang ihn kurz nach unten, weitere Schüsse durchbohrten Schulter und Körper.
 
-Fox brach bewusstlos zusammen.
+Jakrat schlug zurück.
 
-Kurz darauf trafen seine Haken auch Kyras mit voller Wucht und rissen ihn zu
-Boden. Für einen Moment schien Jakrat trotz all seiner Wunden noch immer nicht
-aufzuhalten zu sein.
+Sein Ogerhaken traf Fafnir und Fox in einer weiten Bewegung. Anschließend
+drängte er sich tiefer in den Raum. Cal lenkte seine leuchtende Waffe auf ihn
+und rief dem Oger entgegen, wie er es wagen könne, seine neu gewonnenen
+Kameraden anzugreifen. Jakrat widerstand der vollen göttlichen Zurechtweisung,
+verlor jedoch einen Teil seiner Sicherheit.
 
-Dann hob Gina erneut ihre Muskete.
+Kyras nutzte Tobins Beschleunigung und traf Jakrat dreimal in schneller Folge.
+Brocc kehrte von seinem begonnenen Rückzug zurück und schleuderte erneut Säure
+auf den Ogerboss.
 
-Ihre Kugel traf den Ogerboss in den Kopf. Jakrat sackte leblos zusammen.
+Jakrat war schwer verwundet. Dennoch blickte er zur Tür und nickte.
 
-Noch im selben Atemzug schoss Gina dem entsetzten Ogermagier in die Schulter.
-Cal nutzte den Augenblick, trat an dessen Seite und durchbohrte ihn mit zwei
-schnellen Stößen seines Rapiers. Brocc heilte Kyras, der daraufhin wieder zu
-Bewusstsein kam.
+Ein kleinerer Oger mit Schrumpfköpfen am Gürtel trat in den Raum. Er legte
+Jakrat eine Hand auf und schloss mit Magie einen Teil seiner Wunden.
 
-Mit dem Tod Jakrats brach der Widerstand zusammen. Die übrigen Oger zogen sich
-aus dem Bergfried zurück.
+Das Lächeln des Ogerbosses kehrte zurück.
 
-Die Ranickfeste war befreit.
+Jakrat wandte sich Kyras zu und schlug zweimal zu. Der Ogerhaken riss nicht nur
+tiefe Wunden, sondern beschädigte auch Kyras’ Rüstung dauerhaft.
+
+Jakardros und Thal hielten aus der Entfernung dagegen. Tobin begann erneut zu
+trommeln und versuchte, Jakrats Ogerhaken mit Magie aus dessen Griff gleiten zu
+lassen. Doch Jakrat hielt die Waffe fest.
+
+Fox nahm Anlauf, um den Ogerboss zu umgehen und ihn gemeinsam mit ihren
+Gefährten in die Zange zu nehmen.
+
+Dem kleineren Oger wich sie noch elegant aus.
+
+Jakrat jedoch reagierte schneller, als es seine Masse erwarten ließ.
+
+Der Ogerhaken traf Fox mit vernichtender Gewalt und stieß sie in den Bauch. Sie
+brach blutend zusammen.
+
+Tobin rief Fafnir zu, den Kampf zu beenden.
+
+Fafnir erhob sich und heilte zunächst Kyras. Doch Jakrat griff erneut an. Zwei
+weitere Hiebe trafen den Halbelfen und rissen auch ihn zu Boden.
+
+Gina sah, wie erst Fox und dann Kyras fielen.
+
+Sie hob ihre Muskete und feuerte.
+
+Da Jakrat noch immer auf allen Vieren stand, lag sein Kopf tief genug für einen
+sauberen Schuss. Die Kugel schlug in seinen Schädel ein. Mit weit aufgerissenen
+Augen sackte der gewaltige Oger tot zusammen.
+
+Der zauberkundige Oger hinter ihm erstarrte vor Schock.
+
+Gina fand zwischen den Körpern eine freie Schusslinie und traf ihn in die
+Schulter. Cal trat vor, nutzte die Verwirrung des Gegners und griff ihn mit
+seinem Rapier in rascher Folge an. Noch bevor der Oger begriff, was geschah,
+fiel auch er.
+
+Brocc eilte zu Kyras und heilte ihn. Der Halbelf öffnete wieder die Augen.
+
+Mit dem Tod Jakrats brach der unmittelbare Widerstand zusammen. Die übrigen Oger
+flohen aus dem Bergfried. Einige warfen noch einen Blick in den Raum, doch
+keiner wagte es, den Kampf fortzusetzen.
+
+Tobin rief einem besonders dümmlich aussehenden Oger mit einer behaarten Beule
+auf dem Kopf hinterher, er sehe wie ein hervorragender neuer Anführer aus und
+solle sich beweisen. Ob der Oger den Rat ernst nahm, blieb unklar.
+
+Aus der Ferne waren bald Kampfgeräusche zu hören.
+
+Jakrats Nachfolge wurde offenbar bereits ausgefochten.
 
 ## Fox
 
-Der Sieg brachte keine Erleichterung.
+Gina kniete neben Fox und flößte ihr einen Heiltrank ein.
 
-Gina kniete neben Fox und versuchte, ihr einen Heiltrank einzuflößen. Doch die
-junge Schurkin reagierte nicht.
+Die Flüssigkeit lief über ihre Lippen.
 
-Fafnir untersuchte sie.
+Nichts geschah.
 
-Fox war tot.
+Gina rüttelte an ihr und rief nach Fafnir. Als Fox’ Rucksack dabei aufsprang,
+wurden die beiden Stammbücher sichtbar, die sie im Lesezimmer an sich genommen
+hatte.
 
-Er wirkte Sanfte Ruhe auf ihren Körper, damit die Zeit ihn nicht weiter zeichnen
-konnte. Anschließend heilte er ein letztes Mal die Verwundeten, bevor er
-erschöpft zusammenbrach.
+Fafnir untersuchte die junge Schurkin.
 
-Fox' Augen blieben leer.
+Ihre Augen starrten leblos ins Leere.
 
-Die Gruppe sammelte ihre Waffen und ihren Rucksack ein. Dann legten sie ihren
-Körper behutsam über Kip, Jakardros' Feuerfellpuma.
+Der Zwerg erklärte Gina, dass nichts mehr für sie getan werden könne. Fox war
+tot.
 
-Die Befreiung der Feste hatte einen furchtbaren Preis gefordert.
+Dreck und Blut bedeckten Fafnirs Gesicht. Tränen liefen durch den Schmutz,
+während er überlegte, welche Möglichkeit ihm noch blieb. Schließlich nahm er
+sein heiliges Symbol in die Hand und begann ein stilles Ritual.
 
-## Funde und Rückzug
+Er wirkte Sanfte Ruhe auf Fox.
 
-Während aus den Tiefen der Feste bereits neue Kampfgeräusche erklangen,
-durchsuchte Gina den Leichnam der Lamiamatriarchin. Offenbar begannen die
-verbliebenen Oger schon damit, Jakrats Nachfolge untereinander auszukämpfen.
+Der Zauber konnte sie nicht ins Leben zurückholen. Doch er bewahrte ihren Körper
+und damit die Hoffnung, ihre Seele später durch mächtigere Magie zurückrufen zu
+können.
 
-Bei der Lamia fand Gina die beiden ungewöhnlichen Dolche, eine Schriftrolle mit
-mehreren Namen, goldene Ringe und einen Ring mit dem Zeichen eines roten
-Salamanders.
+Anschließend rief Fafnir ein letztes Mal heilende Energie herbei. Das Licht
+strömte durch den Raum und schloss die Wunden der Lebenden.
 
-Tobin und Schatten suchten unterdessen die verletzten Wölfe in der Zucht auf.
-Tobin heilte beide Tiere und öffnete ihre Käfige. Bevor er den Raum verließ,
-entdeckte er außerdem einen magischen Gürtel, der die Kraft seines Trägers
-steigerte. Er legte ihn an und nahm auch Jakrats gewaltigen Ogerhaken an sich.
+Fox regte sich nicht.
 
-Die Gruppe verließ die Feste durch die Echsenhöhle und den Wasserfall. Obwohl
-die Ranickfeste nicht länger in der Hand der Oger war, zog niemand triumphierend
-davon.
+Erschöpft brach Fafnir neben ihr zusammen.
 
-Fox' Körper ruhte auf Kips Rücken.
+Kyras übernahm die Führung und drängte zum sofortigen Rückzug. Jakardros stimmte
+ihm zu. Thal half Fafnir auf die Beine, während die anderen Fox’ Rucksack, ihre
+Waffen und die beiden Bücher sicherten.
 
-Fafnir war erschöpft.
+Kip, Jakardros’ Feuerfellpuma, kam heran und winselte bei Fox’ Körper. Die
+Gruppe legte sie vorsichtig über seinen Rücken.
 
-Kyras und die anderen trugen die Spuren des Kampfes.
+## Die Zeichen der Lamia und Jakrats
 
-Schweigend und wachsam kehrten sie in Richtung ihres verborgenen Lagers im Wald
-zurück.
+Gina stieg noch einmal die Treppe hinauf und durchsuchte den Leichnam der
+Lamiamatriarchin.
 
-## Ein unerwarteter Empfang
+Sie nahm die beiden ungewöhnlichen Dolche an sich. Auf beiden befand sich
+dasselbe Symbol: ein Dreieck, das in seiner Mitte zerbrochen zu sein schien.
 
-Als zwischen den Bäumen die Zelte sichtbar wurden, fiel der Gruppe sofort etwas
-auf.
+Am Hals der Lamia hing eine kleine Kapsel mit einem zusammengerollten Papier.
+Cal sah sich die vermeintliche Schriftrolle an und stellte fest, dass sie keine
+unmittelbar nutzbare Zauberschrift enthielt. Auf ihr standen lediglich mehrere
+Namen.
+
+Außerdem fand Gina Schmuck und Ringe aus Goldperlen im Gesamtwert von 300
+Goldmünzen. Unter ihnen befand sich ein besonderer grüner Ring mit einem
+goldenen Salamander.
+
+Ein Zauberbuch, einen Heiltrank oder ein anderes Mittel, das Fox hätte helfen
+können, fand sie nicht.
+
+Währenddessen lauschte Cal aufmerksam auf mögliche Verfolger. Aus dem
+Wolfszwinger drang Jaulen.
+
+Tobin ging zu den beiden schwer verletzten Wölfen. Schatten war bereits zu ihnen
+zurückgekehrt und begrüßte sie durch das Gitter. Sein Verhalten schien ihnen zu
+vermitteln, dass die unmittelbare Gefahr vorüber war.
+
+Tobin heilte beide Tiere und öffnete ihre Zelle. Die Wölfe waren noch
+geschwächt, konnten der Gruppe nun aber folgen.
+
+Bevor er den Raum als Letzter verließ, durchsuchte Tobin Jakrat. Die Fellrüstung
+des Ogerbosses war kaum noch zu gebrauchen, doch sein Gürtel war unbeschädigt.
+Es handelte sich um einen Gürtel der Riesenstärke, den Tobin sofort anlegte.
+
+Auch Jakrats gewaltigen Ogerhaken nahm er mit.
+
+Am Griff entdeckte er dasselbe Zeichen wie auf den Dolchen der Lamia: ein in der
+Mitte zerbrochenes Dreieck.
+
+Die Waffe wurde als Haken des Verderbens gesichert.
+
+## Rückzug durch die Nacht
+
+Die Gruppe zog sich durch die Echsenhöhlen zurück und verließ die Ranickfeste
+durch den Wasserfall.
+
+Es war beinahe Mitternacht.
+
+Draußen regnete es in Strömen. Blitze erhellten die Lichtung und die Mauern der
+Feste. Der Gestank von Verwesung und Unrat hing den Gefährten noch immer in der
+Nase.
+
+Obwohl Jakrat gefallen und der Bergfried nicht länger unter seiner Kontrolle
+war, kam keine Siegesstimmung auf. Zu viele Oger befanden sich noch in der
+Anlage, und aus ihrem Inneren drangen weiterhin Kampfgeräusche.
+
+Vor allem aber lag Fox reglos auf Kips Rücken.
+
+Die Gruppe bewegte sich schnell, aber wachsam durch den Wald. Cal hielt sich als
+neues Mitglied zunächst zurück und beobachtete aufmerksam die Umgebung.
+
+Als die Zelte ihres verborgenen Lagers zwischen den Bäumen sichtbar wurden,
+bemerkte Kyras ein Licht.
 
 Das Lagerfeuer brannte.
 
 Sie hatten es vor ihrem Aufbruch gelöscht.
 
-Cal schlich voraus und entdeckte am Feuer eine ihm unbekannte Elfin. In ihrer
-Nähe lag ein Mann mit durchgeschnittener Kehle. Kaven Windstreich war an einen
-Baum gekettet.
+Cal verschwand lautlos zwischen den Bäumen und schlich voraus. Im Lager sah er
+eine Elfin am Feuer sitzen. Ein Mann lag mit durchgeschnittener Kehle am Boden.
+Ein anderer war an einen Baum gekettet.
 
-Tobin machte sich unsichtbar und folgte ihm.
+Cal erkannte Kaven als den Gefangenen. Die Elfin und der Tote waren ihm
+unbekannt.
 
-Er erkannte die Elfin als Shalelu Andosana.
+Als Tobin bemerkte, dass Cal verschwunden war, machte er sich unsichtbar und
+folgte ihm.
 
-Der Tote war Ralven.
+Er erkannte die Elfin als Shalelu Andosana. Sie saß auffallend ruhig am Feuer
+und blätterte in einem Buch.
 
-Kaven, der dritte überlebende Schwarzpfeil, saß gefesselt am Baum.
+Der Tote war Ralven, der Händler, der im Lager zurückgeblieben war.
 
-Mit Fox' Leichnam und den Wunden der gerade errungenen Schlacht betrat die
-Gruppe ihr Lager.
+Kaven Windstreich hing angekettet am Baum und wirkte alles andere als zufrieden
+mit seiner Lage.
+
+Cal kehrte zur Gruppe zurück und berichtete, was er gesehen hatte. Kurz darauf
+erschien auch Tobin wieder und bestätigte seine Beobachtungen sowie die
+Identität der Beteiligten.
+
+Die Gruppe vertraute Shalelu genug, um nicht sofort anzugreifen.
+
+Mit Fox’ Leichnam auf Kips Rücken, erschöpft und von der Schlacht gezeichnet,
+näherte sie sich dem Feuer.
 
 Dort wartete bereits die nächste Enthüllung.
 
 ## Aktueller Stand
 
-Die Ranickfeste ist nicht länger unter der Kontrolle Jakrats und seiner Oger.
-Die verbliebenen Besatzer haben sich zurückgezogen oder kämpfen offenbar um die
-Nachfolge ihres gefallenen Anführers.
+Jakrat, der Anführer der Oger in der Ranickfeste, wurde getötet. Die übrigen
+Oger haben sich aus dem Bergfried zurückgezogen und kämpfen offenbar um seine
+Nachfolge. Ob die gesamte Feste damit tatsächlich befreit ist, muss noch geklärt
+werden.
 
-Fox wurde im Kampf von Jakrat getötet. Fafnir hat ihren Körper mit Sanfter Ruhe
-bewahrt. Ob eine Wiederbelebung möglich ist, bleibt offen.
+Fox wurde durch Jakrats Ogerhaken getötet. Fafnir hat ihren Körper mit Sanfter
+Ruhe bewahrt, sodass eine spätere Wiederbelebung möglicherweise noch möglich
+ist.
 
-Schatten hat sich als ehemaliger Gefährte der Schwarzpfeile erwiesen und steht
-nicht aufseiten der Lamia.
+Schatten scheint nach dem Tod der Lamiamatriarchin von einem fremden Einfluss
+befreit worden zu sein. Er hat sich Jakardros und den anderen Wölfen wieder
+angeschlossen.
 
-Bei der gefallenen Lamiamatriarchin wurden zwei ungewöhnliche Dolche, mehrere
-Ringe, eine Schriftrolle mit Namen und ein Ring mit einem roten Salamander
-gefunden. Ihre genaue Bedeutung ist noch ungeklärt.
+Auf den Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet
+sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
 
-Jakrats Ogerhaken und die Runen der Oger deuten weiterhin auf eine unbekannte
-magische Unterstützung hin.
+Bei der Lamia wurden eine Liste mit Namen, Schmuck aus Goldperlen im Wert von
+300 Goldmünzen und ein grüner Ring mit goldenem Salamander gefunden.
 
-Im Waldlager sitzt Shalelu Andosana am Feuer. Ralven wurde mit
+Die Schutzrunen der Oger deuten auf mindestens einen weiteren Zauberkundigen
+unter den Besatzern hin.
+
+Im Waldlager sitzt Shalelu Andosana am Feuer. Der Händler Ralven wurde mit
 durchgeschnittener Kehle aufgefunden, während Kaven Windstreich an einen Baum
 gekettet ist.
 
