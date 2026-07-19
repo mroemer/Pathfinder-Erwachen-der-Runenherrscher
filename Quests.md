@@ -26,9 +26,12 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Die Gruppe drang anschließend direkt in die Festung ein und setzte die Kaserne in Brand, um die Oger abzulenken. Beim Rückzug wurde sie entdeckt, wodurch die Besatzer in Alarmbereitschaft versetzt wurden.
   * Schwinge, der schwer verletzte Schreckenswolf des vermutlich verstorbenen Schwarzpfeils Bitter, wurde aus der Festung gerettet.
   * In einem verborgenen Lesezimmer unter der Festung wurde eine unbekannte rothaarige Lamiamatriarchin angetroffen und nach einem schweren Kampf getötet.
-  * Die Lamiamatriarchin versuchte vor ihrem Tod Alarm auszulösen. Inzwischen nähern sich mehrere Oger aus verschiedenen Richtungen. Die Festung ist weiterhin nicht zurückerobert.
-  * Cal befindet sich getrennt von der Hauptgruppe im Bereich der Schockechsenhöhle. Dort wird er weiterhin von dem gewaltigen Wolf Schatten bedroht.
-  * In der Wolfszucht der Festung wurden zwei schwer verletzte Wölfe entdeckt, die bislang nicht befreit oder versorgt werden konnten.
+  * Nach dem Tod der Lamiamatriarchin verteidigte die Gruppe den Lesesaal gegen mehrere Oger und tötete schließlich Jakrat, den Anführer der Besatzer. Gina erschoss ihn mit einem Kopfschuss; ein kleinerer zauberkundiger Oger, der ihn geheilt hatte, wurde anschließend von Gina und Cal getötet.
+  * Fox wurde im Kampf von Jakrats Ogerhaken getötet. Fafnir bewahrte ihren Körper mit Sanfter Ruhe, sodass eine spätere Wiederbelebung möglicherweise noch möglich ist.
+  * Die übrigen Oger flohen aus dem Bergfried und kämpfen offenbar um Jakrats Nachfolge. Die Festung ist weiterhin nicht vollständig zurückerobert oder gesichert.
+  * Cal ist wieder bei der Hauptgruppe. Schatten scheint nach dem Tod der Lamiamatriarchin von einem fremden Einfluss befreit worden zu sein und hat sich Jakardros und den anderen Wölfen wieder angeschlossen.
+  * Tobin heilte die beiden schwer verletzten Wölfe in der Wolfszucht und befreite sie.
+  * Die Gruppe zog sich durch die Höhlen und den Wasserfall in das verborgene Waldlager zurück. Dort sitzt Shalelu Andosana am Feuer; Ralven wurde mit durchgeschnittener Kehle aufgefunden und Kaven Windstreich ist an einen Baum gekettet. Die Gründe dafür sind noch unbekannt.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -69,7 +72,9 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
 
   * Xaneshas Schwester sammelt vermutlich Seelen im Gebiet um Schildkrötenfähre und stand laut ihrem Brief mit dem Fall der Ranickfeste in Verbindung.
   * In der Ranickfeste wurde eine rothaarige Lamiamatriarchin getötet. Ihre genaue Identität wurde jedoch nicht bestätigt. Es ist daher weiterhin offen, ob sie Xaneshas Schwester, Lucrezia oder eine andere Verbündete der Oger war.
-  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox’ Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht.
+  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox’ Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox’ Tod wurden beide Bücher von der Gruppe gesichert.
+  * Bei der Lamiamatriarchin wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
+  * Auf den beiden Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
   * Aus einem belauschten Gespräch ging hervor, dass ein Damm bald brechen soll.
   * Ein Mann namens Malogus soll auf unerwarteten Widerstand gestoßen sein.
   * Außerdem wurde eine nicht näher identifizierte "Freundin vom großen Haken" erwähnt, deren Waffen offenbar von den Ogern genutzt werden.
