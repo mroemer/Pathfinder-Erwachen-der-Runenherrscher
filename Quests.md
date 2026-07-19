@@ -72,7 +72,7 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
 
   * Xaneshas Schwester sammelt vermutlich Seelen im Gebiet um Schildkrötenfähre und stand laut ihrem Brief mit dem Fall der Ranickfeste in Verbindung.
   * In der Ranickfeste wurde eine rothaarige Lamiamatriarchin getötet. Ihre genaue Identität wurde jedoch nicht bestätigt. Es ist daher weiterhin offen, ob sie Xaneshas Schwester, Lucrezia oder eine andere Verbündete der Oger war.
-  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox’ Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox’ Tod wurden beide Bücher von der Gruppe gesichert.
+  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert.
   * Bei der Lamiamatriarchin wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
   * Auf den beiden Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
   * Aus einem belauschten Gespräch ging hervor, dass ein Damm bald brechen soll.
@@ -90,6 +90,34 @@ Der Text des Briefes:
 > Sind die Bewohner von Magnimar Sünder, ganz wie Du sie dir erhofft hast? Vielleicht interessiert es Dich, dass mein Plan, die Gier in diesem rückständigen Nest zu nähren, aufgegangen ist. Die Qualität der Gier in einer Seele ist um so vieles edler, wenn man ihr die nötige Pflege angedeihen lässt. Richtest Du ihnen immer noch die Sihedronrunen ein, während sie ihr Leben aushauchen? Wie unedel! Meine Art der Kennzeichnung ist soviel eleganter. Wie dem auch sei, ich bin sicher, dass Deine Pläne zum Einsammeln gieriger Seelen, wo und wann Du sie in der Wildnis einfängst, ebenso gut voranschreiten. Ich hoffe nur, dass sich deine rohen, ungepflegten und vermutlich minderwertigen Opfer nicht negativ auswirken, wenn sie sich mit der Reinheit meiner eigenen Subjekte vermischen. Falls Dich Dein kleines Projekt in Magnimar langweilt, Schwesterchen, bist Du jederzeit eingeladen, nach Schildkrötenfahre zu kommen und als meine Assistentin zu arbeiten! In jedem Falle sollte uns die Ranickfeste bereits in die Hände gefallen sein, wenn Dich dieser Brief erreicht. Es wird also reichlich Platz für Dich geben, solltest Du mein großzügiges Angebot annehmen wollen.
 > Ach! Bevor ich es vergesse! Hast Du inzwischen die Seele des Oberbürgermeisters geerntet? Nach dem, was man so hört, ist er das Beste vom Besten in Magnimar – seine Seele könnte sich sogar mit einigen meiner handgezogenen Früchte messen!
 
+## Erweckt Fox wieder zum Leben
+
+### Auftraggeber
+
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+
+* [ ] Findet einen Weg, Fox wiederzubeleben.
+
+  * Fox wurde im Kampf gegen Jakrat in der Ranickfeste von dessen Ogerhaken tödlich getroffen.
+  * Ein Heiltrank und Fafnirs anschließende Heilung konnten sie nicht mehr zurückholen.
+  * Fafnir wirkte Sanfte Ruhe auf ihren Körper, um ihn zu bewahren und die Möglichkeit einer späteren Wiederbelebung offenzuhalten.
+  * Fafnir selbst ist derzeit noch nicht mächtig genug, um Tote zu erwecken.
+  * Als mögliche Lösung wurde eine Schriftrolle des Zaubers Tote erwecken genannt. Eine solche Schriftrolle wäre sehr teuer und müsste vermutlich in einer größeren Stadt beschafft werden.
+  * Schildkrötenfähre ist möglicherweise zu klein, um dort die benötigte Magie zu finden.
+  * Die Gruppe muss Fox' Körper bis dahin schützen und dafür sorgen, dass die Wirkung von Sanfte Ruhe rechtzeitig erneuert oder anderweitig aufrechterhalten wird.
+  * Fox' Ausrüstung und die beiden Bücher aus dem verborgenen Lesezimmer befinden sich bei der Gruppe.
+  * Offen ist, wohin die Gruppe reisen muss, wer eine Wiederbelebung durchführen kann und wie die benötigten Kosten aufgebracht werden sollen.
+
+### Auftragstext
+
+Fox fiel im Kampf gegen Jakrat, nachdem dessen Ogerhaken sie schwer im Bauch getroffen hatte. Trotz eines Heiltranks und Fafnirs göttlicher Heilung kehrte kein Leben in ihren Körper zurück.
+
+Fafnir bewahrte ihren Leib mit Sanfter Ruhe und verschaffte der Gruppe damit Zeit. Noch besteht die Möglichkeit, Fox zurückzuholen – doch dafür werden mächtige göttliche Magie, eine geeignete Person und eine große Menge Gold benötigt.
+
+Die Gruppe muss nun einen Weg finden, Fox wiederzubeleben, bevor ihre Seele endgültig unerreichbar wird.
+
 ## Findet einen Platz für Anna und Tom
 
 ### Auftraggeber
@@ -104,7 +132,7 @@ Wir haben folgende Optionen vorgeschlagen
 
 * Waisenhaus - sieht gut aus und wird von Anja, einer Bekannten von Hagen geleitet
 * Hafenmeister - Arbeit gegen Kost und Logi
-* Stadtplage - Fox’ alte Truppe
+* Stadtplage - Fox' alte Truppe
 
 ### Details
 
