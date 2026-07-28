@@ -31,7 +31,9 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Die übrigen Oger flohen aus dem Bergfried und kämpfen offenbar um Jakrats Nachfolge. Die Festung ist weiterhin nicht vollständig zurückerobert oder gesichert.
   * Cal ist wieder bei der Hauptgruppe. Schatten scheint nach dem Tod der Lamiamatriarchin von einem fremden Einfluss befreit worden zu sein und hat sich Jakardros und den anderen Wölfen wieder angeschlossen.
   * Tobin heilte die beiden schwer verletzten Wölfe in der Wolfszucht und befreite sie.
-  * Die Gruppe zog sich durch die Höhlen und den Wasserfall in das verborgene Waldlager zurück. Dort sitzt Shalelu Andosana am Feuer; Ralven wurde mit durchgeschnittener Kehle aufgefunden und Kaven Windstreich ist an einen Baum gekettet. Die Gründe dafür sind noch unbekannt.
+  * Im Waldlager entlarvte die Gruppe Kaven Windstreich als Verräter der Schwarzpfeile. Er gestand, Lucrezia Informationen über die Ranickfeste und ihre Geheimgänge verraten zu haben.
+  * Jakardros und Thal brachen mit Kaven, Kip und Schatten nach Schildkrötenfähre auf, um Kaven den Behörden zu übergeben und neue Vorräte sowie Unterstützung für die Schwarzpfeile zu organisieren.
+  * Die Gruppe zog mit Shalelu sowie den Wölfen Schwinge, Feder und Rute weiter zum Splitterbaumtal, um anschließend den Schädeldamm zu erreichen.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -72,6 +74,7 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
 
   * Xaneshas Schwester sammelt vermutlich Seelen im Gebiet um Schildkrötenfähre und stand laut ihrem Brief mit dem Fall der Ranickfeste in Verbindung.
   * In der Ranickfeste wurde eine rothaarige Lamiamatriarchin getötet. Ihre genaue Identität wurde jedoch nicht bestätigt. Es ist daher weiterhin offen, ob sie Xaneshas Schwester, Lucrezia oder eine andere Verbündete der Oger war.
+  * Kaven Windstreich gestand, Lucrezia Informationen über die Ranickfeste und ihre Geheimgänge verraten zu haben. Sie interessierte sich insbesondere für die Festung und deren Verteidigung.
   * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert.
   * Bei der Lamiamatriarchin wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
   * Auf den beiden Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
@@ -104,11 +107,10 @@ Die Gruppe / Eigenes Ziel
   * Ein Heiltrank und Fafnirs anschließende Heilung konnten sie nicht mehr zurückholen.
   * Fafnir wirkte Sanfte Ruhe auf ihren Körper, um ihn zu bewahren und die Möglichkeit einer späteren Wiederbelebung offenzuhalten.
   * Fafnir selbst ist derzeit noch nicht mächtig genug, um Tote zu erwecken.
-  * Als mögliche Lösung wurde eine Schriftrolle des Zaubers Tote erwecken genannt. Eine solche Schriftrolle wäre sehr teuer und müsste vermutlich in einer größeren Stadt beschafft werden.
-  * Schildkrötenfähre ist möglicherweise zu klein, um dort die benötigte Magie zu finden.
-  * Die Gruppe muss Fox' Körper bis dahin schützen und dafür sorgen, dass die Wirkung von Sanfte Ruhe rechtzeitig erneuert oder anderweitig aufrechterhalten wird.
-  * Fox' Ausrüstung und die beiden Bücher aus dem verborgenen Lesezimmer befinden sich bei der Gruppe.
-  * Offen ist, wohin die Gruppe reisen muss, wer eine Wiederbelebung durchführen kann und wie die benötigten Kosten aufgebracht werden sollen.
+  * Im Splitterbaumtal traf die Gruppe die Hexe Mutter Weide. Sie erklärte sich bereit, Fox am folgenden Tag mit **Tote erwecken** zurückzuholen, sofern Materialien im Wert von 5.000 GM bereitgestellt werden.
+  * Fox' Körper wurde bis dahin in Mutter Weides Obhut gelassen und zusätzlich in einem gekühlten Raum aufgebahrt.
+  * Die Gruppe übergab Mutter Weide bereits mehrere wertvolle Gegenstände als Teil der benötigten Bezahlung.
+  * Die Gruppe muss zunächst den Schädeldamm sichern und anschließend zu Mutter Weide zurückkehren.
 
 ### Auftragstext
 
