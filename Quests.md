@@ -34,6 +34,8 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Im Waldlager entlarvte die Gruppe Kaven Windstreich als Verräter der Schwarzpfeile. Er gestand, Lucrezia Informationen über die Ranickfeste und ihre Geheimgänge verraten zu haben.
   * Jakardros und Thal brachen mit Kaven, Kip und Schatten nach Schildkrötenfähre auf, um Kaven den Behörden zu übergeben und neue Vorräte sowie Unterstützung für die Schwarzpfeile zu organisieren.
   * Die Gruppe zog mit Shalelu sowie den Wölfen Schwinge, Feder und Rute weiter zum Splitterbaumtal, um anschließend den Schädeldamm zu erreichen.
+  * Am Schädeldamm besiegte die Gruppe die dortigen Oger und Malogus, der sie mit Magie unterstützte. Mindestens ein Oger konnte fliehen.
+  * Der Schädeldamm ist zum Bersten gefüllt und kurz vor dem Überlaufen; die Schleusen sind geschlossen. Aus dem Wasser geht zudem eine schwache böse Präsenz aus, deren Stimme fast die gesamte Gruppe bezauberte.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -78,8 +80,8 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
   * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert.
   * Bei der Lamiamatriarchin wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
   * Auf den beiden Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
-  * Aus einem belauschten Gespräch ging hervor, dass ein Damm bald brechen soll.
-  * Ein Mann namens Malogus soll auf unerwarteten Widerstand gestoßen sein.
+  * Der Schädeldamm wurde erreicht. Er ist zum Bersten gefüllt und kurz vor dem Überlaufen; die Schleusen sind geschlossen.
+  * Malogus wurde bei den Ogern am Schädeldamm angetroffen und von Shalelu getötet. Bei ihm wurde ein Ring mit einem großen blutroten Stein gefunden, dessen Magie der Magie auf Lucrezias Ring ähnelt.
   * Außerdem wurde eine nicht näher identifizierte "Freundin vom großen Haken" erwähnt, deren Waffen offenbar von den Ogern genutzt werden.
   * Die Schmieden der Ranickfeste arbeiten nach Aussage der Belauschten ununterbrochen.
   * Der Zusammenhang zwischen diesen Hinweisen, der Seelensammlung und Xaneshas Schwester ist noch ungeklärt.
@@ -116,7 +118,7 @@ Die Gruppe / Eigenes Ziel
 
 Fox fiel im Kampf gegen Jakrat, nachdem dessen Ogerhaken sie schwer im Bauch getroffen hatte. Trotz eines Heiltranks und Fafnirs göttlicher Heilung kehrte kein Leben in ihren Körper zurück.
 
-Fafnir bewahrte ihren Leib mit Sanfter Ruhe und verschaffte der Gruppe damit Zeit. Noch besteht die Möglichkeit, Fox zurückzuholen – doch dafür werden mächtige göttliche Magie, eine geeignete Person und eine große Menge Gold benötigt.
+Fafnir bewahrte ihren Leib mit Sanfte Ruhe und verschaffte der Gruppe damit Zeit. Noch besteht die Möglichkeit, Fox zurückzuholen – doch dafür werden mächtige göttliche Magie, eine geeignete Person und eine große Menge Gold benötigt.
 
 Die Gruppe muss nun einen Weg finden, Fox wiederzubeleben, bevor ihre Seele endgültig unerreichbar wird.
 
