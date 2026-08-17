@@ -1,3 +1,134 @@
+# Sitzung vom 12. August 2026: Die Stimme im Schädeldamm
+
+Am späten Nachmittag erreichte die Gruppe den **Schädeldamm**, einen gewaltigen alten Steinwall, dessen Oberfläche mit zahllosen Schädeln geschmückt war. Die Schleusen des Damms waren geschlossen, während sich dahinter immer mehr Wasser staute. Schon aus der Entfernung war deutlich geworden, dass die Anlage unter Druck stand.
+
+Im Wald vor dem Damm hatten sich mehrere Oger verschanzt. Auf einer mit Abfällen und Unrat übersäten Lichtung stand ein grob zusammengezimmertes Katapult, mit dem sie immer wieder schwere Geschosse gegen das Bauwerk schleuderten. Leichter Regen fiel über das Gelände. Ein ausgetrocknetes Flussbett zog sich durch die Lichtung, überspannt von einem umgestürzten Baum.
+
+Zwischen den Ogern saß außerdem ein einzelner Humanoider in einer Robe und las in einem Buch. Aufgrund der Hinweise aus der Ranickfeste vermutete die Gruppe sofort, dass es sich um **Malogus** handeln könnte.
+
+Tobin und Cal bemerkten noch etwas anderes: Die Oger beobachteten einander auffallend misstrauisch. Nach Jakrats Tod schien der Zusammenhalt unter ihnen weiter zu zerbrechen.
+
+## Der Kampf an den Katapulten
+
+Die Gefährten versuchten, die Stellung von mehreren Seiten zu umgehen. Während Cal sich abseits der Lichtung verborgen hielt und ein weiterer Zugang von Osten beobachtet wurde, näherte sich der Großteil der Gruppe von Westen.
+
+Der Versuch, die Oger unbemerkt zu erreichen, hielt jedoch nicht lange. Fafnirs schwere Rüstung verriet die Gruppe, und aus dem geplanten Hinterhalt wurde ein offener Kampf.
+
+Brocc eröffnete mit ätzender Magie und überzog mehrere Oger mit Säure. Shalelu ließ ihre Pfeile folgen, während Gina ihre Muskete auf die Angreifer richtete. Kyras suchte zunächst Deckung hinter einem Felsen, wurde dort aber von einem Oger gestellt. Der Halbelf verfiel in Kampfeswut und erschlug seinen Gegner mit einem einzigen gewaltigen Hieb.
+
+Tobin begann zu trommeln und legte den vertrauten Spuknebel über einen Teil des Schlachtfeldes. Die Gefährten wussten um die Illusion und konnten sich darin orientieren, während die Feinde ihre Ziele nur schwer ausmachen konnten.
+
+Malogus blieb derweil nicht am Boden.
+
+Der Robenträger wirkte Magie auf sich und erhob sich über die Lichtung. Aus sicherer Höhe schleuderte er einen Feuerball in die Gruppe. Die Explosion traf Gina, Tobin und Brocc sowie mehrere der Wölfe. **Feder** wurde dabei schwer verwundet.
+
+Trotzdem hielt Tobin seinen Nebel aufrecht, während Brocc weiter Säure auf die Oger regnen ließ. Shalelu konzentrierte ihr Feuer auf einen der größten Angreifer, und Fafnir rückte in Richtung der Front vor.
+
+Schwinge reagierte auf Tobins Befehl, einen Oger anzugreifen, noch zögerlich. Der Wolf lief zwar auf den Feind zu und bellte ihn an, stürzte sich aber nicht sofort in den Kampf. Die übrigen Wölfe blieben zunächst im Schutz des Gebüschs.
+
+Malogus setzte die Gruppe weiter unter Druck. Er bewegte sich über den Nebel hinweg und griff erneut mit Feuer an. Fafnir erkannte, dass dessen Flug durch einen Zauber ermöglicht wurde, konnte die Magie jedoch nicht bannen.
+
+Dann traf Gina.
+
+Eine Kugel aus ihrer Muskete erwischte Malogus während des Fluges. Der Treffer brach seine Konzentration, und der Magier stürzte aus der Höhe zu Boden.
+
+Noch immer kampffähig, schleuderte er einen weiteren Feuerball mitten in Tobins Nebel. Die Explosion traf einen großen Teil der Gruppe und tötete zugleich einen der verbliebenen Oger. Brocc brach unter den Verletzungen zusammen.
+
+Tobin eilte zu ihm und brachte ihn mit Heilmagie wieder zu Bewusstsein.
+
+Malogus kam nicht mehr dazu, einen weiteren Zauber zu wirken. Shalelu legte an und traf ihn mit einem Pfeil tödlich.
+
+Damit verlor die Ogergruppe ihre gefährlichste magische Unterstützung.
+
+Die verbliebenen Gegner versuchten sich zurückzuziehen. Ihr Anführer wandte sich zur Flucht, doch Kyras ließ ihn nicht entkommen. Brocc hatte den Halbelfen inzwischen mit Flugmagie versehen, und Kyras jagte dem fliehenden Oger durch die Luft nach. Nach einem ersten misslungenen Angriff holte er erneut aus und erschlug den Anführer im Flug.
+
+Ein weiterer Oger entkam in die entgegengesetzte Richtung.
+
+Damit endete der Kampf um die Katapultstellung.
+
+## Spuren eines zweiten Feindes
+
+Nach dem Gefecht berichtete Cal von einem Weg, den er während der Annäherung erkundet hatte. Durch die schmale **Schädelflussklamm** führte eine lange, enge Treppe hinauf zum Damm. Dort hatten die Oger offenbar Schutt und Geröll abgeladen.
+
+Bei der Untersuchung der Lichtung fand die Gruppe außerdem ein zweites Katapult.
+
+Dieses war jedoch nicht einfach beschädigt worden.
+
+Gewaltige Bissspuren zeichneten sich im Holz ab.
+
+Tobin schätzte, dass sie von einer Kreatur aus dem Wald stammen könnten, möglicherweise von einem Troll oder einem ähnlich großen Wesen. Shalelu bestätigte, dass in der Gegend bereits früher Trolle gesehen worden waren.
+
+Auch der Boden rund um die Stellung erzählte von Kämpfen, die nicht von der Gruppe geführt worden waren. Zwischen den Spuren fanden sich Hinweise darauf, dass Oger von anderen großen Wesen angegriffen und getötet worden waren. Ob dafür tatsächlich Trolle oder rivalisierende Oger verantwortlich waren, ließ sich nicht sicher feststellen.
+
+Damit zeichnete sich ab, dass die Angreifer am Schädeldamm keineswegs ungestört operierten.
+
+## Malogus und seine Hinterlassenschaften
+
+Die Gruppe durchsuchte anschließend die Gefallenen und insbesondere Malogus.
+
+Bei ihm fanden sich mehrere magische Hilfsmittel und Zauberutensilien, darunter ein **magisches Fernrohr**, eine Schriftrolle, die das Atmen unter Wasser ermöglichte, verschiedene Tränke und Schriftrollen sowie mehrere Zauberstäbe. Auch eine kleine silberne unheilige Symbolfigur und ein meisterhafter Silberdolch gehörten zu seiner Ausrüstung.
+
+Unter seinen Büchern befand sich zudem die **Kleine Ogerfibel**, die der Gruppe bereits bekannt war.
+
+Bedeutender als die übrigen Funde war jedoch ein Ring.
+
+Er trug einen großen blutroten Stein, auf dem eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie lag. Die arkane Signatur erinnerte auffallend an die Magie auf einem Ring Lucrezias.
+
+Damit ergab sich erstmals eine direkte Verbindung zwischen Malogus und jener magischen Spur, die bereits in den Ereignissen um Lucrezia eine Rolle gespielt hatte. Welche Funktion der Ring tatsächlich erfüllte, blieb jedoch ungeklärt.
+
+Unter Malogus' weiteren magischen Gegenständen befand sich außerdem eine mächtige **Halskette der Feuerbälle** sowie mehrere Mittel zum Schutz, zur Beweglichkeit, zum Fliegen und für offensive Magie.
+
+## Der volle Damm
+
+Mit dem Ende des Kampfes konnte die Gruppe den Schädeldamm genauer betrachten.
+
+Der Zustand des Bauwerks war besorgniserregend.
+
+Das Wasser stand hoch hinter der Mauer, und der Damm wirkte bis zum Bersten gefüllt. Die Schleusen waren weiterhin geschlossen. Angesichts der bereits in der Ranickfeste gehörten Warnung vor einem bevorstehenden Dammbruch war offensichtlich, dass die Situation dringend untersucht werden musste.
+
+Auf der Krone des Damms stand ein einzelnes Haus.
+
+Die Gefährten näherten sich dem Bauwerk, während das Rauschen der Wassermassen lauter wurde. Wind strich über die Steinflächen, und Cal spürte aus Richtung des Wassers eine schwache böse Präsenz.
+
+Dann hörten die anderen eine Stimme.
+
+Nur ein einziges Wort.
+
+**„Komm.“**
+
+Fast augenblicklich wandten sich die Gefährten dem Wasser zu.
+
+Cal blieb als Einziger unbeeinflusst und erkannte, dass mit seinen Kameraden etwas nicht stimmte. Die Stimme zog sie zum Rand, als müssten sie ihrem Ruf folgen.
+
+Er reagierte ohne Zögern und schlug Fafnir, um ihn aus dem Bann zu reißen.
+
+Fafnir kam zu sich und erkannte die Gefahr. Um Tobin ebenfalls aus der Bezauberung zu lösen, schlug nun seinerseits der Zwerg den jungen Barden.
+
+Tobin fing sich und tat das, was er am besten konnte: Er setzte Musik gegen Magie.
+
+Mit seinem Lied stärkte er den Willen der übrigen Gefährten und half ihnen, sich aus dem Einfluss der Stimme zu lösen.
+
+Erst danach konnten sie wieder frei über ihre eigenen Schritte bestimmen.
+
+Damit war endgültig klar, dass die größte Gefahr am Schädeldamm nicht allein von Ogern oder einem überfüllten Wasserreservoir ausging.
+
+Etwas im oder am Wasser rief nach ihnen.
+
+Was immer dort lauerte, verfügte über genug Macht, beinahe die gesamte Gruppe gleichzeitig zu beeinflussen.
+
+Nach ihrer Befreiung vom Bann begann die Gruppe vorsichtig zu prüfen, ob sie nun gegen einen erneuten Einfluss der Stimme geschützt war. Eine endgültige Antwort darauf gab es noch nicht.
+
+## Aktueller Stand
+
+* **Malogus ist tot.** Bei ihm wurde ein Ring mit ungewöhnlicher Erkenntnis- und Verzauberungsmagie gefunden, deren Signatur an Lucrezias Ring erinnert.
+* Die Ogerstellung am Schädeldamm wurde weitgehend ausgeschaltet. Mindestens ein Oger entkam.
+* Auf der Lichtung wurden Spuren früherer Kämpfe sowie ein zweites Katapult mit gewaltigen Bissspuren gefunden. Trolle kommen als mögliche Ursache infrage, sind aber nicht bestätigt.
+* Der Schädeldamm ist stark gefüllt, die Schleusen sind geschlossen und der Wasserdruck wirkt gefährlich hoch.
+* Auf dem Damm befindet sich ein Haus, das noch nicht untersucht wurde.
+* Aus Richtung des Wassers geht eine schwache böse Präsenz aus.
+* Eine unbekannte Stimme konnte nahezu die gesamte Gruppe mit dem Ruf „Komm“ bezaubern und zum Wasser locken. Cal blieb unbeeinflusst und half gemeinsam mit Fafnir und Tobin, die anderen aus dem Einfluss zu lösen.
+* Die Ursache der Stimme, der Zustand der Schleusen und die unmittelbare Gefahr eines Dammbruchs sind noch ungeklärt.
+
 # Sitzung vom 22. Juli 2026: Hoffnung im Splitterbaumtal
 
 Nach dem blutigen Kampf in der Ranickfeste kehrte die Gruppe erst nach Mitternacht in das verborgene Waldlager zurück. Jakrat und die rothaarige Lamiamatriarchin waren gefallen, während die verbliebenen Oger in der Feste bereits untereinander um die Nachfolge ihres getöteten Anführers stritten. Für einen wirklichen Triumph fehlte den Gefährten jedoch jede Kraft, denn Fox war im Kampf tödlich verwundet worden und lag nun, durch Fafnirs Zauber *Sanfte Ruhe* vor dem Verfall bewahrt, leblos bei ihnen. Neben der Gruppe hatten auch Feder und Rute, die beiden aus der Wolfszucht geretteten Wölfe, das Lager erreicht.
