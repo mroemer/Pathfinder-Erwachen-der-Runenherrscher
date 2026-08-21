@@ -34,8 +34,8 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Im Waldlager entlarvte die Gruppe Kaven Windstreich als Verräter der Schwarzpfeile. Er gestand, Lucrezia Informationen über die Ranickfeste und ihre Geheimgänge verraten zu haben.
   * Jakardros und Thal brachen mit Kaven, Kip und Schatten nach Schildkrötenfähre auf, um Kaven den Behörden zu übergeben und neue Vorräte sowie Unterstützung für die Schwarzpfeile zu organisieren.
   * Die Gruppe zog mit Shalelu sowie den Wölfen Schwinge, Feder und Rute weiter zum Splitterbaumtal, um anschließend den Schädeldamm zu erreichen.
-  * Am Schädeldamm besiegte die Gruppe die dortigen Oger, Malogus und einen menschlichen Magier. Mindestens ein Oger konnte fliehen.
-  * Der Schädeldamm ist zum Bersten gefüllt und kurz vor dem Überlaufen; die Schleusen sind geschlossen. Aus dem Wasser geht zudem eine schwache böse Präsenz aus, deren Stimme fast die gesamte Gruppe bezauberte.
+  * Am Schädeldamm besiegte die Gruppe die dortigen Oger, darunter ihren Anführer Malogus, sowie einen menschlichen Magier. Mindestens ein Oger konnte fliehen.
+  * Der Schädeldamm ist zum Bersten gefüllt und kurz vor dem Überlaufen; die Schleusen sind geschlossen. Der Damm weist bereits Risse auf, aus denen Wasser austritt. Aus dem Wasser geht zudem eine schwache böse Präsenz aus, deren Stimme fast die gesamte Gruppe bezauberte.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -81,7 +81,7 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
   * Bei der Lamiamatriarchin wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
   * Auf den beiden Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
   * Der Schädeldamm wurde erreicht. Er ist zum Bersten gefüllt und kurz vor dem Überlaufen; die Schleusen sind geschlossen.
-  * Malogus wurde bei den Ogern am Schädeldamm angetroffen und von der Gruppe getötet. Bei einem Magier, der seine Oger unterstützte, wurde ein Ring mit einem großen blutroten Stein gefunden, dessen Magie der Magie auf Lucrezias Ring ähnelt.
+  * Malogus, der Anführer der Oger am Schädeldamm, wurde dort angetroffen und von der Gruppe getötet. Bei einem menschlichen Magier, der die Oger unterstützte, wurde ein Ring mit einem großen blutroten Stein gefunden, dessen Magie der Magie auf dem bei der Lamiamatriarchin gefundenen Ring ähnelt.
   * Außerdem wurde eine nicht näher identifizierte "Freundin vom großen Haken" erwähnt, deren Waffen offenbar von den Ogern genutzt werden.
   * Die Schmieden der Ranickfeste arbeiten nach Aussage der Belauschten ununterbrochen.
   * Der Zusammenhang zwischen diesen Hinweisen, der Seelensammlung und Xaneshas Schwester ist noch ungeklärt.
