@@ -4,7 +4,7 @@ Am späten Nachmittag erreichte die Gruppe den **Schädeldamm**, einen gewaltige
 
 Im Wald vor dem Damm hatten sich mehrere Oger verschanzt. Auf einer mit Abfällen und Unrat übersäten Lichtung stand ein grob zusammengezimmertes Katapult, mit dem sie immer wieder schwere Geschosse gegen das Bauwerk schleuderten. Leichter Regen fiel über das Gelände. Ein ausgetrocknetes Flussbett zog sich durch die Lichtung, überspannt von einem umgestürzten Baum.
 
-Aufgrund der Hinweise aus der Ranickfeste vermutete die Gruppe sofort, dass es sich beim größten der Oger um den Anführer **Malogus** handeln könnte. Zwischen den Ogern saß außerdem ein einzelner Humanoider in einer Robe und las in einem Buch.
+Zwischen den Ogern saß außerdem ein einzelner Humanoider in einer Robe und las in einem Buch. Welche Rolle er spielte, war zunächst unklar.
 
 Tobin und Cal bemerkten noch etwas anderes: Die Oger beobachteten einander auffallend misstrauisch. Nach Jakrats Tod schien der Zusammenhalt unter ihnen weiter zu zerbrechen.
 
@@ -18,29 +18,29 @@ Brocc eröffnete mit ätzender Magie und überzog mehrere Oger mit Säure. Shale
 
 Tobin begann zu trommeln und legte den vertrauten Spuknebel über einen Teil des Schlachtfeldes. Die Gefährten wussten um die Illusion und konnten sich darin orientieren, während die Feinde ihre Ziele nur schwer ausmachen konnten.
 
-Der Magier blieb derweil nicht am Boden.
+Der Robenträger blieb derweil nicht am Boden.
 
-Der Robenträger wirkte Magie auf sich und erhob sich über die Lichtung. Aus sicherer Höhe schleuderte er einen Feuerball in die Gruppe. Die Explosion traf Gina, Tobin und Brocc sowie mehrere der Wölfe. **Feder** wurde dabei schwer verwundet.
+Er wirkte Magie auf sich und erhob sich über die Lichtung. Aus sicherer Höhe schleuderte er einen Feuerball in die Gruppe. Die Explosion traf Gina, Tobin und Brocc sowie mehrere der Wölfe. **Feder** wurde dabei schwer verwundet.
 
-Trotzdem hielt Tobin seinen Nebel aufrecht, während Brocc weiter Säure auf die Oger regnen ließ. Shalelu konzentrierte ihr Feuer auf einen der größten Angreifer, und Fafnir rückte in Richtung der Front vor.
+Trotzdem hielt Tobin seinen Nebel aufrecht, während Brocc weiter Säure auf die Oger regnen ließ. Shalelu konzentrierte ihr Feuer auf einen der gefährlichsten Gegner, und Fafnir rückte in Richtung der Front vor.
 
 Schwinge reagierte auf Tobins Befehl, einen Oger anzugreifen, noch zögerlich. Der Wolf lief zwar auf den Feind zu und bellte ihn an, stürzte sich aber nicht sofort in den Kampf. Die übrigen Wölfe blieben zunächst im Schutz des Gebüschs.
 
 Der Magier setzte die Gruppe weiter unter Druck. Er bewegte sich über den Nebel hinweg und griff erneut mit Feuer an. Fafnir erkannte, dass dessen Flug durch einen Zauber ermöglicht wurde, konnte die Magie jedoch nicht bannen.
 
-Dann traf Gina den Magier.
+Dann traf Gina.
 
-Eine Kugel aus ihrer Muskete erwischte den Magier während des Fluges. Der Treffer brach seine Konzentration, und der Magier stürzte aus der Höhe zu Boden.
+Eine Kugel aus ihrer Muskete erwischte den Magier während des Fluges. Der Treffer brach seine Konzentration, und er stürzte aus der Höhe zu Boden.
 
-Noch immer kampffähig, schleuderte der Magier einen weiteren Feuerball mitten in Tobins Nebel. Die Explosion traf einen großen Teil der Gruppe und tötete zugleich einen der verbliebenen Oger. Brocc brach unter den Verletzungen zusammen.
+Noch immer kampffähig, schleuderte er einen weiteren Feuerball mitten in Tobins Nebel. Die Explosion traf einen großen Teil der Gruppe und tötete zugleich einen der verbliebenen Oger. Brocc brach unter den Verletzungen zusammen.
 
 Tobin eilte zu ihm und brachte ihn mit Heilmagie wieder zu Bewusstsein.
 
 Der Magier kam nicht mehr dazu, einen weiteren Zauber zu wirken. Shalelu legte an und traf ihn mit einem Pfeil tödlich.
 
-Damit verlor die Ogergruppe ihre gefährlichste magische Unterstützung – den Magier.
+Damit verloren die Oger ihre gefährlichste magische Unterstützung.
 
-Die verbliebenen Gegner versuchten sich zurückzuziehen. Ihr Anführer wandte sich zur Flucht, doch Kyras ließ ihn nicht entkommen. Brocc hatte den Halbelfen inzwischen mit Flugmagie versehen, und Kyras jagte dem fliehenden Oger durch die Luft nach. Nach einem ersten misslungenen Angriff holte er erneut aus und erschlug den Anführer im Flug.
+Die verbliebenen Gegner versuchten sich zurückzuziehen. Ihr Anführer, **Malogus**, wandte sich zur Flucht, doch Kyras ließ ihn nicht entkommen. Brocc hatte den Halbelfen inzwischen mit Flugmagie versehen, und Kyras jagte dem fliehenden Oger durch die Luft nach. Nach einem ersten misslungenen Angriff holte er erneut aus und erschlug Malogus im Flug.
 
 Ein weiterer Oger entkam in die entgegengesetzte Richtung.
 
@@ -62,9 +62,9 @@ Auch der Boden rund um die Stellung erzählte von Kämpfen, die nicht von der Gr
 
 Damit zeichnete sich ab, dass die Angreifer am Schädeldamm keineswegs ungestört operierten.
 
-## Der Magier und seine Hinterlassenschaften
+## Die Hinterlassenschaften des Magiers
 
-Die Gruppe durchsuchte anschließend die Gefallenen und insbesondere den Magier.
+Die Gruppe durchsuchte anschließend die Gefallenen und insbesondere den unbekannten Magier.
 
 Bei ihm fanden sich mehrere magische Hilfsmittel und Zauberutensilien, darunter ein **magisches Fernrohr**, eine Schriftrolle, die das Atmen unter Wasser ermöglichte, verschiedene Tränke und Schriftrollen sowie mehrere Zauberstäbe. Auch eine kleine silberne unheilige Symbolfigur und ein meisterhafter Silberdolch gehörten zu seiner Ausrüstung.
 
@@ -72,9 +72,9 @@ Unter seinen Büchern befand sich zudem die **Kleine Ogerfibel**, die der Gruppe
 
 Bedeutender als die übrigen Funde war jedoch ein Ring.
 
-Der Ring trug einen großen blutroten Stein, auf dem eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie lag. Die arkane Signatur erinnerte auffallend an die Magie auf einem Ring Lucrezias.
+Er trug einen großen blutroten Stein, auf dem eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie lag. Die arkane Signatur erinnerte auffallend an die Magie auf einem Ring Lucrezias.
 
-Damit ergab sich erstmals eine direkte Verbindung zwischen dem Magier und jener magischen Spur, die bereits in den Ereignissen um Lucrezia eine Rolle gespielt hatte. Welche Funktion der Ring tatsächlich erfüllte, blieb jedoch ungeklärt.
+Damit ergab sich eine weitere Verbindung zu jener magischen Spur, die bereits in den Ereignissen um Lucrezia eine Rolle gespielt hatte. Welche Funktion der Ring tatsächlich erfüllte und in welchem Verhältnis sein Träger zu Lucrezia gestanden hatte, blieb jedoch ungeklärt.
 
 Unter den weiteren magischen Gegenständen des Magiers befand sich außerdem eine mächtige **Halskette der Feuerbälle** sowie mehrere Mittel zum Schutz, zur Beweglichkeit, zum Fliegen und für offensive Magie.
 
@@ -104,7 +104,7 @@ Er reagierte ohne Zögern und schlug Fafnir, um ihn aus dem Bann zu reißen.
 
 Fafnir kam zu sich und erkannte die Gefahr. Um Tobin ebenfalls aus der Bezauberung zu lösen, schlug nun seinerseits der Zwerg den jungen Barden.
 
-Tobin fing sich und tat das, was er am besten konnte: Er setzte Musik gegen Magie.
+Tobin fing sich und setzte Musik gegen die Magie ein.
 
 Mit seinem Lied stärkte er den Willen der übrigen Gefährten und half ihnen, sich aus dem Einfluss der Stimme zu lösen.
 
@@ -120,7 +120,8 @@ Nach ihrer Befreiung vom Bann begann die Gruppe vorsichtig zu prüfen, ob sie nu
 
 ## Aktueller Stand
 
-* **Malogus ist tot.** Bei ihm wurde ein Ring mit ungewöhnlicher Erkenntnis- und Verzauberungsmagie gefunden, deren Signatur an Lucrezias Ring erinnert.
+* **Malogus, der Anführer der Oger am Schädeldamm, ist tot.** Kyras erschlug ihn bei seinem Fluchtversuch.
+* Der unbekannte Magier, der die Oger mit Flug- und Feuermagie unterstützte, wurde von Shalelu getötet. Bei ihm wurde ein Ring mit ungewöhnlicher Erkenntnis- und Verzauberungsmagie gefunden, deren Signatur an Lucrezias Ring erinnert.
 * Die Ogerstellung am Schädeldamm wurde weitgehend ausgeschaltet. Mindestens ein Oger entkam.
 * Auf der Lichtung wurden Spuren früherer Kämpfe sowie ein zweites Katapult mit gewaltigen Bissspuren gefunden. Trolle kommen als mögliche Ursache infrage, sind aber nicht bestätigt.
 * Der Schädeldamm ist stark gefüllt, die Schleusen sind geschlossen und der Wasserdruck wirkt gefährlich hoch.
