@@ -4,7 +4,7 @@ Am späten Nachmittag erreichte die Gruppe den **Schädeldamm**, einen gewaltige
 
 Im Wald vor dem Damm hatten sich mehrere Oger verschanzt. Auf einer mit Abfällen und Unrat übersäten Lichtung stand ein grob zusammengezimmertes Katapult, mit dem sie immer wieder schwere Geschosse gegen das Bauwerk schleuderten. Leichter Regen fiel über das Gelände. Ein ausgetrocknetes Flussbett zog sich durch die Lichtung, überspannt von einem umgestürzten Baum.
 
-Zwischen den Ogern saß außerdem ein einzelner Humanoider in einer Robe und las in einem Buch. Aufgrund der Hinweise aus der Ranickfeste vermutete die Gruppe sofort, dass es sich um **Malogus** handeln könnte.
+Aufgrund der Hinweise aus der Ranickfeste vermutete die Gruppe sofort, dass es sich beim größten der Oger um den Anführer **Malogus** handeln könnte. Zwischen den Ogern saß außerdem ein einzelner Humanoider in einer Robe und las in einem Buch.
 
 Tobin und Cal bemerkten noch etwas anderes: Die Oger beobachteten einander auffallend misstrauisch. Nach Jakrats Tod schien der Zusammenhalt unter ihnen weiter zu zerbrechen.
 
@@ -18,7 +18,7 @@ Brocc eröffnete mit ätzender Magie und überzog mehrere Oger mit Säure. Shale
 
 Tobin begann zu trommeln und legte den vertrauten Spuknebel über einen Teil des Schlachtfeldes. Die Gefährten wussten um die Illusion und konnten sich darin orientieren, während die Feinde ihre Ziele nur schwer ausmachen konnten.
 
-Malogus blieb derweil nicht am Boden.
+Der Magier blieb derweil nicht am Boden.
 
 Der Robenträger wirkte Magie auf sich und erhob sich über die Lichtung. Aus sicherer Höhe schleuderte er einen Feuerball in die Gruppe. Die Explosion traf Gina, Tobin und Brocc sowie mehrere der Wölfe. **Feder** wurde dabei schwer verwundet.
 
@@ -26,19 +26,19 @@ Trotzdem hielt Tobin seinen Nebel aufrecht, während Brocc weiter Säure auf die
 
 Schwinge reagierte auf Tobins Befehl, einen Oger anzugreifen, noch zögerlich. Der Wolf lief zwar auf den Feind zu und bellte ihn an, stürzte sich aber nicht sofort in den Kampf. Die übrigen Wölfe blieben zunächst im Schutz des Gebüschs.
 
-Malogus setzte die Gruppe weiter unter Druck. Er bewegte sich über den Nebel hinweg und griff erneut mit Feuer an. Fafnir erkannte, dass dessen Flug durch einen Zauber ermöglicht wurde, konnte die Magie jedoch nicht bannen.
+Der Magier setzte die Gruppe weiter unter Druck. Er bewegte sich über den Nebel hinweg und griff erneut mit Feuer an. Fafnir erkannte, dass dessen Flug durch einen Zauber ermöglicht wurde, konnte die Magie jedoch nicht bannen.
 
-Dann traf Gina.
+Dann traf Gina den Magier.
 
-Eine Kugel aus ihrer Muskete erwischte Malogus während des Fluges. Der Treffer brach seine Konzentration, und der Magier stürzte aus der Höhe zu Boden.
+Eine Kugel aus ihrer Muskete erwischte den Magier während des Fluges. Der Treffer brach seine Konzentration, und der Magier stürzte aus der Höhe zu Boden.
 
-Noch immer kampffähig, schleuderte er einen weiteren Feuerball mitten in Tobins Nebel. Die Explosion traf einen großen Teil der Gruppe und tötete zugleich einen der verbliebenen Oger. Brocc brach unter den Verletzungen zusammen.
+Noch immer kampffähig, schleuderte der Magier einen weiteren Feuerball mitten in Tobins Nebel. Die Explosion traf einen großen Teil der Gruppe und tötete zugleich einen der verbliebenen Oger. Brocc brach unter den Verletzungen zusammen.
 
 Tobin eilte zu ihm und brachte ihn mit Heilmagie wieder zu Bewusstsein.
 
-Malogus kam nicht mehr dazu, einen weiteren Zauber zu wirken. Shalelu legte an und traf ihn mit einem Pfeil tödlich.
+Der Magier kam nicht mehr dazu, einen weiteren Zauber zu wirken. Shalelu legte an und traf ihn mit einem Pfeil tödlich.
 
-Damit verlor die Ogergruppe ihre gefährlichste magische Unterstützung.
+Damit verlor die Ogergruppe ihre gefährlichste magische Unterstützung – den Magier.
 
 Die verbliebenen Gegner versuchten sich zurückzuziehen. Ihr Anführer wandte sich zur Flucht, doch Kyras ließ ihn nicht entkommen. Brocc hatte den Halbelfen inzwischen mit Flugmagie versehen, und Kyras jagte dem fliehenden Oger durch die Luft nach. Nach einem ersten misslungenen Angriff holte er erneut aus und erschlug den Anführer im Flug.
 
@@ -62,9 +62,9 @@ Auch der Boden rund um die Stellung erzählte von Kämpfen, die nicht von der Gr
 
 Damit zeichnete sich ab, dass die Angreifer am Schädeldamm keineswegs ungestört operierten.
 
-## Malogus und seine Hinterlassenschaften
+## Der Magier und seine Hinterlassenschaften
 
-Die Gruppe durchsuchte anschließend die Gefallenen und insbesondere Malogus.
+Die Gruppe durchsuchte anschließend die Gefallenen und insbesondere den Magier.
 
 Bei ihm fanden sich mehrere magische Hilfsmittel und Zauberutensilien, darunter ein **magisches Fernrohr**, eine Schriftrolle, die das Atmen unter Wasser ermöglichte, verschiedene Tränke und Schriftrollen sowie mehrere Zauberstäbe. Auch eine kleine silberne unheilige Symbolfigur und ein meisterhafter Silberdolch gehörten zu seiner Ausrüstung.
 
@@ -72,11 +72,11 @@ Unter seinen Büchern befand sich zudem die **Kleine Ogerfibel**, die der Gruppe
 
 Bedeutender als die übrigen Funde war jedoch ein Ring.
 
-Er trug einen großen blutroten Stein, auf dem eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie lag. Die arkane Signatur erinnerte auffallend an die Magie auf einem Ring Lucrezias.
+Der Ring trug einen großen blutroten Stein, auf dem eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie lag. Die arkane Signatur erinnerte auffallend an die Magie auf einem Ring Lucrezias.
 
-Damit ergab sich erstmals eine direkte Verbindung zwischen Malogus und jener magischen Spur, die bereits in den Ereignissen um Lucrezia eine Rolle gespielt hatte. Welche Funktion der Ring tatsächlich erfüllte, blieb jedoch ungeklärt.
+Damit ergab sich erstmals eine direkte Verbindung zwischen dem Magier und jener magischen Spur, die bereits in den Ereignissen um Lucrezia eine Rolle gespielt hatte. Welche Funktion der Ring tatsächlich erfüllte, blieb jedoch ungeklärt.
 
-Unter Malogus' weiteren magischen Gegenständen befand sich außerdem eine mächtige **Halskette der Feuerbälle** sowie mehrere Mittel zum Schutz, zur Beweglichkeit, zum Fliegen und für offensive Magie.
+Unter den weiteren magischen Gegenständen des Magiers befand sich außerdem eine mächtige **Halskette der Feuerbälle** sowie mehrere Mittel zum Schutz, zur Beweglichkeit, zum Fliegen und für offensive Magie.
 
 ## Der volle Damm
 
@@ -581,7 +581,7 @@ Bevor die Gruppe die Bücher näher untersuchen kann, hört sie Stimmen aus dem 
 
 * Zwei Wachen sollen für eine nicht näher bezeichnete Aufgabe ausreichen.
 * Ein Damm soll nach den letzten Nachrichten jeden Augenblick brechen.
-* Ein Mann namens **Malogus** ist offenbar auf unerwarteten Widerstand gestoßen.
+* Ein Handlanger namens **Malogus** ist offenbar auf unerwarteten Widerstand gestoßen.
 * Eine unbekannte Verbündete wird als „Freundin vom großen Haken“ bezeichnet.
 * Die Schmieden der Oger arbeiten ununterbrochen und „machen die Nacht zum Tage“.
 
