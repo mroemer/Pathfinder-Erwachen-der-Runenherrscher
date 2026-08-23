@@ -36,6 +36,11 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Die Gruppe zog mit Shalelu sowie den Wölfen Schwinge, Feder und Rute weiter zum Splitterbaumtal, um anschließend den Schädeldamm zu erreichen.
   * Am Schädeldamm besiegte die Gruppe die dortigen Oger, darunter ihren Anführer Malogus, sowie einen menschlichen Magier. Mindestens ein Oger konnte fliehen.
   * Der Schädeldamm ist zum Bersten gefüllt und kurz vor dem Überlaufen; die Schleusen sind geschlossen. Der Damm weist bereits Risse auf, aus denen Wasser austritt. Aus dem Wasser geht zudem eine schwache böse Präsenz aus, deren Stimme fast die gesamte Gruppe bezauberte.
+  * Shalelu brach mit Schwinge, Feder und Rute nach Schildkrötenfähre auf, um die Bewohner vor einem möglichen Dammbruch zu warnen.
+  * Im Kontrollhaus des Schädeldamms traf die Gruppe auf mehrere Trolle und tötete sie. Wandmalereien deuten darauf hin, dass die Trolle ein gewaltiges einäugiges Wesen aus dem Wasser verehren.
+  * Auf der oberen Ebene des Kontrollhauses wurde kein offensichtlicher Mechanismus zum Öffnen der Schleusen gefunden. Die Gruppe drang deshalb mit Wasseratmung tiefer in den überfluteten Damm vor.
+  * Im Inneren des Damms wurde die Gruppe von augenbesetzten Tentakeln angegriffen. Später stieß ein riesiges schwarzes, schuppiges Wesen mit zahlreichen roten Augen und einem gewaltigen Maul durch eine Öffnung im Damm und verletzte Fafnir schwer.
+  * Die Gruppe befindet sich inzwischen tief im Inneren des Schädeldamms in einem bislang unerforschten Raum. Die Schleusen sind weiterhin geschlossen und der Damm wurde durch weitere Einstürze und Erschütterungen zusätzlich belastet.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 

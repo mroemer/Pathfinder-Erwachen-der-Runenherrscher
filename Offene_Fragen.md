@@ -1,9 +1,8 @@
 # Offene Fragen
 
-* Wer oder was hat das zweite Katapult zerbissen und die Oger angegriffen? Die Spuren deuten auf eine große, primitive, ogerähnliche Kreatur; Trolle sind naheliegend. Shalelu berichtete zudem, dass der Damm laut Aussagen aus dem Dorf offenbar von einem Trollstamm besetzt wurde. An älteren Ogerleichen fanden sich teils ähnliche Biss- und Kratzspuren, teils aber auch Verletzungen durch Ogerhaken und Knüppel. Welche Rolle die Trolle und die Kämpfe unter den Ogern dabei genau spielten, bleibt ungeklärt. - 260812
-* Wie lassen sich die Schleusen öffnen, und was geschieht dann? Dass sie geöffnet werden sollten, liegt angesichts des Wasserstands nahe. Noch ist aber nicht geklärt, wie die Mechanik funktioniert, ob sie manipuliert wurde oder ob das Öffnen selbst eine Gefahr birgt. - 260812
-* Was befindet sich in dem Haus auf dem Schädeldamm? Das Gebäude wurde erreicht, aber noch nicht untersucht. Gerade wegen der Stimme und der bösen Präsenz könnte es für die Kontrolle des Damms wichtig sein. - 260812
-* Was befindet sich im oder unter dem Wasser des Schädeldamms? Cal spürte dort eine schwache böse Präsenz. Fast alle anderen hörten eine Stimme, die sie mit dem Wort „Komm“ zum Wasser lockte. Wer oder was diese Stimme verursachte, ist völlig offen. - 260812
+* Wer oder was hat das zweite Katapult zerbissen und die Oger angegriffen? Die Spuren deuten auf eine große, primitive, ogerähnliche Kreatur; Trolle sind naheliegend. Shalelu berichtete zudem, dass der Damm laut Aussagen aus dem Dorf offenbar von einem Trollstamm besetzt wurde. An älteren Ogerleichen fanden sich teils ähnliche Biss- und Kratzspuren, teils aber auch Verletzungen durch Ogerhaken und Knüppel. Am 19.08. wurden tatsächlich mehrere Trolle im Kontrollhaus des Schädeldamms angetroffen. Ob sie auch für die Bissspuren am Katapult verantwortlich waren, bleibt ungeklärt. - 260812
+* Wie lassen sich die Schleusen öffnen, und was geschieht dann? Dass sie geöffnet werden sollten, liegt angesichts des Wasserstands nahe. Auf der oberen Ebene des Kontrollhauses wurde kein offensichtlicher Mechanismus gefunden. Die Gruppe ist inzwischen tiefer in den überfluteten Damm vorgedrungen. Noch ist aber nicht geklärt, wie die Mechanik funktioniert, ob sie manipuliert wurde oder ob das Öffnen selbst eine Gefahr birgt. - 260812
+* Was befindet sich im oder unter dem Wasser des Schädeldamms? Cal spürte dort eine schwache böse Präsenz. Fast alle anderen hörten eine Stimme, die sie mit dem Wort „Komm“ zum Wasser lockte. Inzwischen wurden im Inneren des Damms augenbesetzte Tentakel entdeckt. Außerdem griff ein riesiges schwarzes, schuppiges Wesen mit zahlreichen roten Augen und einem gewaltigen Maul durch eine Öffnung im Damm an. Ob eines dieser Wesen die Stimme verursacht und was genau dort im Wasser lebt, bleibt offen. - 260812
 * Was bewirkt der Ring des Magiers vom Schädeldamm genau? Der Ring trägt einen großen blutroten Stein und weist eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie auf. Besonders auffällig ist, dass seine Magie derjenigen auf dem bei der Lamiamatriarchin gefundenen Ring ähnelt. Welche Funktion diese Ringe haben und wie der Magier mit der Lamiamatriarchin beziehungsweise Lucrezia verbunden war, ist ungeklärt. - 260812
 * Wird Fox am nächsten Tag tatsächlich von Mutter Weide wiederbelebt, und reichen die zugesagten Reagenzien sowie Spenden dafür aus? - 260722
 * Erreichen Jakardros und Thal Schildkrötenfähre mit Kaven lebend, oder setzen sie Tobins unausgesprochene Billigung einer Hinrichtung um? - 260722
@@ -20,6 +19,10 @@
 * Was wird aus den Ogern in der Ranickfeste? Gewinnt der kleine Oger mit den drei Haaren auf der Beule, den Tobin zum Anführer der Oger ernannt hat, den Kampf um die Nachfolge von Jakrat? - 260715
 
 # Beantwortet
+
+* Was befindet sich in dem Haus auf dem Schädeldamm? Das Gebäude wurde erreicht, aber noch nicht untersucht. Gerade wegen der Stimme und der bösen Präsenz könnte es für die Kontrolle des Damms wichtig sein. - 260812
+
+  260819: Im Kontrollhaus befanden sich mehrere Trolle, die von der Gruppe getötet wurden. Wandmalereien zeigen Trolle, die offenbar ein riesiges einäugiges Wesen aus dem Wasser verehren. Auf der oberen Ebene wurde kein offensichtlicher Mechanismus zum Öffnen der Schleusen gefunden. Eine teilweise eingestürzte Treppe führt tiefer in den überfluteten Damm.
 
 * Wer ist der Mann in der Kutte bei den Ogern am Schädeldamm, und welche Rolle spielt er beim Angriff? - 260722
 
