@@ -1,3 +1,201 @@
+# Sitzung vom 19. August 2026: Unter dem Schädeldamm
+
+Regen und Donner lagen über dem Schädeldamm, als die Gruppe ihren Weg fortsetzte. Hinter ihnen waren die Ogerstellung und ihre Katapulte weitgehend ausgeschaltet, doch die eigentliche Gefahr bestand weiterhin. Der Stausee stand beinahe bis zur Dammkrone, die Schleusen waren geschlossen und immer wieder brachen unter dem gewaltigen Wasserdruck kleinere Stücke aus dem alten Bauwerk.
+
+Vor ihnen erhob sich das mit riesigen Schädeln geschmückte Kontrollhaus. Gina hatte dort bereits eine Kreatur in einer der Augenhöhlen gesehen, die sich sofort wieder verborgen hatte. Zugleich wussten die Gefährten, dass im Wasser etwas lauerte. Erst kurz zuvor hatte eine fremde Stimme beinahe die gesamte Gruppe in den See gelockt.
+
+Die Zeit drängte.
+
+## Eine Warnung für Schildkrötenfähre
+
+Die Gruppe beriet nur kurz, ob sie das Kontrollhaus untersuchen oder sofort versuchen sollte, Schildkrötenfähre zu warnen. Der Damm war sichtbar beschädigt, doch möglicherweise befand sich im Inneren ein Mechanismus, mit dem sich die Schleusen öffnen und der Wasserdruck verringern ließ.
+
+Shalelu bestätigte die schlimmste Befürchtung: Sollte der Schädeldamm brechen, würde die gewaltige Wassermasse Schildkrötenfähre erreichen und die Ortschaft vermutlich fortreißen.
+
+Daraufhin fiel die Entscheidung, Shalelu vorauszuschicken. Sie sollte die Bewohner warnen und ihnen zumindest ermöglichen, sich auf eine Evakuierung vorzubereiten. Feder, Rute und schließlich auch Schwinge folgten ihr. Damit blieb die Gruppe am Damm erstmals ohne die Waldläuferin und die drei Wölfe zurück.
+
+Die Gefährten selbst wollten keine weitere Zeit verlieren. Sie machten sich über die breite Dammkrone auf den Weg zum Kontrollhaus.
+
+## Etwas folgte ihnen durch das Wasser
+
+Kaum hatten sie ungefähr die Hälfte des Weges zurückgelegt, erschienen erneut die bereits bekannten V-förmigen Wellen auf dem Stausee.
+
+Diesmal hörte niemand die lockende Stimme.
+
+Doch etwas unter der Wasseroberfläche bewegte sich direkt auf die Gruppe zu.
+
+Die Gefährten beschleunigten ihren Schritt und hielten sich zusammen, damit die Langsameren nicht zurückblieben. Als sie schneller wurden, änderten auch die Wellen ihre Richtung und Geschwindigkeit. Was immer dort schwamm, verfolgte sie.
+
+Das Kontrollhaus besaß mehrere Zugänge, doch die nächstgelegene Tür war schwer beschädigt. Blutspuren und Verformungen zeigten, dass hier bereits von beiden Seiten mit großer Gewalt gekämpft worden war. Cal versuchte ohne Zögern, die Tür aufzustoßen, prallte jedoch an ihr ab.
+
+Die Verfolger im Wasser waren inzwischen nur noch wenige Meter entfernt.
+
+Damit blieb nur der Weg durch eine der großen Schädelöffnungen mehrere Meter über dem Boden.
+
+Tobin versuchte, den anderen beim Hinaufklettern zu helfen. Kyras zog sich als Erster weit genug hoch, um einen Blick in das Gebäude zu werfen.
+
+Dort warteten bereits mehrere große, stark behaarte Kreaturen mit kräftigen Körpern, langen Zähnen und dunklen Augen.
+
+Trolle.
+
+Sie hatten mit dem Eintreffen der Gruppe gerechnet.
+
+Kyras wurde sofort mit einem Ogerhaken und einem geworfenen Stein empfangen und zog sich wieder zurück. Cal kletterte stattdessen in die Öffnung, während die übrigen Gefährten draußen nach einem Weg ins Innere suchten.
+
+Dann erreichten die Wesen aus dem See den Damm.
+
+Aus dem Wasser schnellten missgestaltete Kreaturen mit Tentakeln hervor. Teile ihrer Körper wirkten nekrotisch, und aus manchen Wunden oder verfault wirkenden Stellen stieg schwarzer Dunst auf. Eine davon griff nach Kyras, konnte ihn jedoch nicht fassen.
+
+Nun kämpfte die Gruppe an zwei Fronten: Trolle erwarteten sie im Kontrollhaus, während unbekannte Wesen aus dem Stausee nach ihnen griffen.
+
+## Kampf im Kontrollhaus
+
+Gina und Cal gelangten schließlich ins Innere und wurden dort sofort von den Trollen angegriffen. Gina wurde von einer Klaue getroffen, hielt jedoch stand und bemerkte bald eine noch größere Gefahr: Die Wunden der Kreaturen begannen sich beinahe augenblicklich wieder zu schließen.
+
+Selbst schwere Verletzungen waren nur vorübergehend.
+
+Während Tobin draußen mit seinen Trommeln Mut machte und das Gelände zusätzlich mit Spuknebel verhüllte, versuchten Fafnir und die anderen verzweifelt, ebenfalls durch die Schädelöffnung zu gelangen. Der nasse Stein machte das Klettern schwierig.
+
+Gina löste schließlich ihr Seil und warf es über die Mauer. Mit Tobins Hilfe konnte Fafnir daran hinaufsteigen und zu ihr ins Gebäude gelangen. Brocc verschaffte sich mit Magie einen leichteren Zugang und hielt sich fliegend nahe einer der Öffnungen.
+
+Im Inneren wurde der Kampf zunehmend chaotisch. Die Trolle griffen mit Klauen und Zähnen an, heilten gleichzeitig ihre eigenen Wunden und ließen sich selbst dann nicht zuverlässig ausschalten, wenn sie bereits zu Boden gegangen waren.
+
+Fafnir erinnerte sich schließlich an das Entscheidende: Trolle regenerierten außergewöhnlich schnell, doch Feuer und Säure konnten diese Fähigkeit überwinden.
+
+Damit änderte sich die Lage.
+
+Einer der Trolle wurde in Brand gesetzt. Als ein weiterer regungslos am Boden lag, brachte Kyras ihn mit einem kräftigen Schlag auf den brennenden Körper seines Artgenossen. Das Feuer griff über.
+
+Damit endete der Kampf.
+
+Die Gruppe hatte das Kontrollhaus erreicht und die Trolle darin ausgeschaltet, während sich die Kreaturen aus dem Wasser wieder zurückgezogen hatten.
+
+## Die Wandbilder der Trolle
+
+Das Innere des Hauses war feucht, modrig und vom Alter gezeichnet. Wind und Regen drangen durch offene Schädelhöhlen und beschädigte Mauern. Von der einstigen Einrichtung waren nur noch verrottete Überreste, leere Rahmen und zerfallenes Holz geblieben.
+
+Bei einer Treppe entdeckten Cal und Brocc einfache Wandzeichnungen.
+
+Sie zeigten immer wieder dasselbe gewaltige Wesen.
+
+Auf einem Bild erhob sich ein riesiger trollartiger Körper aus Wellen. Statt eines normalen Gesichts besaß er ein einzelnes gewaltiges, mit Blut rot gefärbtes Auge. Kleinere Trolle verneigten sich vor ihm und legten offenbar Nahrung wie Fisch und Brot als Opfergaben nieder.
+
+Ein weiteres Bild zeigte Trolle, die von kleineren humanoiden Wesen verfolgt wurden. Über ihren Verfolgern breitete das einäugige Wesen schützend seine Gliedmaßen aus.
+
+Auf einer dritten Darstellung lag es unter den Wellen, während über dem Wasser eine Sonne stand.
+
+Daneben fanden sich blutige Trollhandabdrücke und erneut das einzelne rote Auge.
+
+Magie lag nicht auf den Zeichnungen. Sie wirkten vielmehr wie einfache Darstellungen eines Kultes oder einer Verehrung. Fafnir wusste zudem, dass Trolle normalerweise eher einzelgängerisch lebten. Wenn sie sich in Gruppen sammelten, gab es dafür gewöhnlich einen gemeinsamen Anführer, Feind oder Zweck.
+
+Die Bilder ließen zumindest vermuten, dass die Trolle an diesem Ort etwas im Wasser verehrten.
+
+Was genau, blieb unklar.
+
+## Der Weg unter den Wasserspiegel
+
+Auf der oberen Ebene fanden die Gefährten keinen offensichtlichen Mechanismus zum Öffnen der Schleusen. Stattdessen führte eine teilweise eingebrochene Treppe tiefer in das Innere des Damms.
+
+Die Gruppe entschied sich, keine Zeit mit einer gründlichen Durchsuchung der oberen Räume zu verlieren. Aus Brettern und Trümmern errichtete sie einen provisorischen Abstieg und gelangte mehrere Meter tiefer.
+
+Dort stand das Treppenhaus bereits unter Wasser.
+
+Durch Schäden in der dem Stausee zugewandten Mauer drang Wasser in den Damm. Eine Reparatur vor Ort erschien praktisch unmöglich. Selbst wenn genügend Steine vorhanden gewesen wären, hätte zunächst das Wasser entfernt werden müssen. Der sinnvollste Weg blieb daher, die Schleusen zu finden und den Druck auf das Bauwerk zu senken.
+
+Die Gruppe besaß eine Schriftrolle, mit der alle Gefährten für begrenzte Zeit unter Wasser atmen konnten. Brocc wirkte ihre Magie, während sich alle berührten.
+
+Gina ließ ihre Muskete zurück beziehungsweise sicher verstauen, da sie unter Wasser nutzlos gewesen wäre. Tobin versah ein Armband mit Licht, damit sie unabhängig von Broccs Magie sehen konnte.
+
+Dann stiegen die Gefährten hinab.
+
+## Augen an den Tentakeln
+
+Stockwerk um Stockwerk führte die Treppe tiefer in das Innere des Schädeldamms.
+
+Menschliche Schädel und größere Totenkopfsymbole schmückten weiterhin die alte Architektur. Immer wieder klafften Löcher in der Außenwand, durch die das Wasser des Stausees eindrang.
+
+Nach mehreren Ebenen bemerkte Cal auf dem Boden etwas, das zunächst wie dicke Wurzeln aussah.
+
+Bei genauerer Betrachtung erkannte er Saugnäpfe an ihrer Unterseite.
+
+Und geschlossene Augenlider entlang der vermeintlichen Wurzeln.
+
+Es waren Tentakel.
+
+Die Gruppe versuchte, sich vorsichtig und mit möglichst großem Abstand vorbeizubewegen. Zunächst blieben die Gliedmaßen reglos.
+
+Dann öffneten sich die Augen.
+
+Die Tentakel schnellten durch das Wasser und schlugen gleichzeitig nach mehreren Gefährten. Einige wurden gepackt und schmerzhaft zusammengedrückt. Besonders Kyras geriet in Gefahr: Mehrere Tentakel wickelten sich um ihn und begannen, ihn in Richtung eines Loches in der Außenwand zu ziehen.
+
+Fafnir schlug mit seiner Waffe auf die Gliedmaßen ein. Dabei trat aus einer kleinen Verletzung schwarze Flüssigkeit aus.
+
+Kyras selbst stemmte sich mit aller Kraft gegen den Griff und konnte sich schließlich losreißen. Brocc setzte dem Tentakel anschließend mit Magie zu, bis er sich zurückzog.
+
+Die Gruppe floh tiefer in den Damm.
+
+Hinter ihr brachen durch den Kampf Teile der bereits beschädigten Mauer heraus. Das alte Bauwerk bebte.
+
+## Der Weg nach draußen
+
+Wenig später endete die Treppe abrupt.
+
+Ein weiterer Einsturz hatte den Abstieg blockiert. Vor der Gruppe lag nur noch ein Loch in der Außenmauer, das direkt in den dunklen Stausee führte.
+
+Cal band sich an ein Seil und erklärte sich bereit, vorauszuschwimmen. Noch bevor er den Damm verließ, bemerkte er draußen immer wieder schnelle Bewegungen. Im trüben Wasser schien etwas vorbeizuschießen, und gelegentlich blitzte für einen Augenblick etwas Rotes auf.
+
+Er machte sich unsichtbar und schwamm dennoch hinaus.
+
+Das Seil reichte nicht bis zu einem weiteren Zugang. Cal setzte seinen Abstieg deshalb allein fort und fand schließlich ungefähr dreißig Meter tiefer eine neue Öffnung im Damm. Dort wartete er auf seine Gefährten.
+
+Sein göttliches Gespür bestätigte jedoch, dass etwas mit diesem Wasser nicht stimmte. Die Umgebung war von einem schwachen, aber allgegenwärtigen bösen Grundton erfüllt.
+
+Die anderen folgten.
+
+Als Gina am Seil hinabstieg, entdeckte sie, dass es einige Meter tiefer durchgebissen worden war.
+
+Etwas Großes bewegte sich also weiterhin unmittelbar außerhalb des Damms.
+
+Trotzdem entschied sich die Gruppe gegen den Rückzug. Die Zeit der Wasseratmung lief bereits, und der Weg zu den Schleusen musste irgendwo weiter unten liegen.
+
+Mit Seilen gesichert und gegenseitiger Unterstützung gelangten schließlich alle zu Cal. Fafnir verlor dabei unter Wasser beinahe die Kontrolle über seinen schweren gerüsteten Körper und sank schneller als beabsichtigt. Gina reagierte instinktiv und fing ihn ab, bevor die anderen gemeinsam halfen, ihn in die Öffnung zu ziehen.
+
+Kaum war die Gruppe vollständig im Inneren, erschien das Wesen, das Cal zuvor nur als Schatten wahrgenommen hatte.
+
+## Das Maul im Stausee
+
+Ein riesiger schwarzer, schuppiger Kopf stieß durch die Öffnung.
+
+Über ihn verteilt leuchteten rote Augen. Sein Maul war groß genug, einen Zwerg mit einem einzigen Biss zu verschlingen, und war mit langen, dünnen, nadelartigen Zähnen gefüllt.
+
+Cal konnte die Gefährten noch warnen.
+
+Das Wesen schnappte nach ihnen und erwischte Fafnir schwer. Mit dem Biss drang etwas Fremdartiges in den Zwerg ein und störte für einen Moment seine Kontrolle über den eigenen Körper.
+
+Gina hielt ihn fest und versuchte, ihn vom Eingang wegzuziehen. Die anderen halfen, und gemeinsam gelang es ihnen, tiefer in den Gang zu entkommen.
+
+Der gewaltige Kopf stieß erneut durch die Öffnung.
+
+Diesmal biss er ins Leere.
+
+Hinter der Gruppe brach ein weiterer Teil der Mauer zusammen. Der Schädeldamm erzitterte erneut.
+
+Die Gefährten flohen tiefer in das Bauwerk. Stufe um Stufe hasteten sie durch das überflutete Treppenhaus, bis sich der Abstieg schließlich in einen unbekannten Raum öffnete.
+
+Dort hielten sie erstmals wieder an.
+
+## Aktueller Stand
+
+* Die Gruppe befindet sich tief im Inneren des Schädeldamms in einem bislang unerforschten Raum unterhalb des Wasserspiegels.
+* Shalelu ist mit Schwinge, Feder und Rute auf dem Weg nach Schildkrötenfähre, um vor einem möglichen Dammbruch zu warnen.
+* Die Schleusen sind weiterhin geschlossen; ein Mechanismus zu ihrer Bedienung wurde noch nicht gefunden.
+* Das Innere des Damms ist stark beschädigt und teilweise eingestürzt. Mehrere Erschütterungen haben seinen Zustand weiter verschlechtert.
+* Im Damm lebten mehrere Trolle, die offenbar ein gewaltiges einäugiges Wesen aus dem Wasser verehrten.
+* Im Stausee befinden sich mindestens zwei Arten unbekannter gefährlicher Kreaturen: augenbesetzte Tentakel und ein riesiges schwarzes Wesen mit zahlreichen roten Augen und einem gewaltigen Maul.
+* Das Wasser im Bereich des Damms trägt für Cal einen allgegenwärtigen schwachen bösen Grundton.
+* Die Wirkung der Wasseratmung hält nur noch begrenzte Zeit an.
+* Fox wartet weiterhin bei Mutter Weide auf ihre Wiederbelebung.
+
 # Sitzung vom 12. August 2026: Die Stimme im Schädeldamm
 
 Am späten Nachmittag erreichte die Gruppe den **Schädeldamm**, einen gewaltigen alten Steinwall, dessen Oberfläche mit zahllosen Schädeln geschmückt war. Die Schleusen des Damms waren geschlossen, während sich dahinter immer mehr Wasser staute. Schon aus der Entfernung war deutlich geworden, dass die Anlage unter Druck stand.
