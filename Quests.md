@@ -40,7 +40,11 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Im Kontrollhaus des Schädeldamms traf die Gruppe auf mehrere Trolle und tötete sie. Wandmalereien deuten darauf hin, dass die Trolle ein gewaltiges einäugiges Wesen aus dem Wasser verehren.
   * Auf der oberen Ebene des Kontrollhauses wurde kein offensichtlicher Mechanismus zum Öffnen der Schleusen gefunden. Die Gruppe drang deshalb mit Wasseratmung tiefer in den überfluteten Damm vor.
   * Im Inneren des Damms wurde die Gruppe von augenbesetzten Tentakeln angegriffen. Später stieß ein riesiges schwarzes, schuppiges Wesen mit zahlreichen roten Augen und einem gewaltigen Maul durch eine Öffnung im Damm und verletzte Fafnir schwer.
-  * Die Gruppe befindet sich inzwischen tief im Inneren des Schädeldamms in einem bislang unerforschten Raum. Die Schleusen sind weiterhin geschlossen und der Damm wurde durch weitere Einstürze und Erschütterungen zusätzlich belastet.
+  * Tief im Inneren des Damms fand die Gruppe schließlich den Mechanismus zur Steuerung der Schleusen. Dort traf sie auf den gefangenen Teufel Avaxial, der die Kreatur im Wasser als „Schwarze Maga“ bezeichnete. Nach einem mit Blut besiegelten Vertrag erklärte er der Gruppe die Bedienung des Mechanismus und wurde anschließend befreit.
+  * Kyras und Fafnir aktivierten die beiden magischen Kreise des Mechanismus. Die Schleusen öffneten sich und der Wasserdruck auf den Damm begann zu sinken. Die Schwarze Maga wurde vom entstehenden Sog zurück in den Stausee gerissen.
+  * Ein magisches Modell des Schädeldamms trägt die thassilonische Widmung „Zu Ehren Karzoug“.
+  * Die Gruppe verließ den Schädeldamm über einen Notausgang. Kyras brachte die Gefährten mit Broccs Flugmagie zurück auf die Dammkrone. Beim Verlassen galt der Damm als stabilisiert.
+  * Anschließend kehrte die Gruppe zu Mutter Weide ins Splitterbaumtal zurück.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -85,7 +89,7 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
   * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert.
   * Bei der Lamiamatriarchin wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
   * Auf den beiden Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
-  * Der Schädeldamm wurde erreicht. Er ist zum Bersten gefüllt und kurz vor dem Überlaufen; die Schleusen sind geschlossen.
+  * Der Schädeldamm wurde erreicht. Die Gruppe konnte die Schleusen öffnen und den gefährlich hohen Wasserdruck auf den Damm senken. Ein magisches Modell im Inneren des Damms trägt die thassilonische Widmung „Zu Ehren Karzoug“.
   * Malogus, der Anführer der Oger am Schädeldamm, wurde dort angetroffen und von der Gruppe getötet. Bei einem menschlichen Magier, der die Oger unterstützte, wurde ein Ring mit einem großen blutroten Stein gefunden, dessen Magie der Magie auf dem bei der Lamiamatriarchin gefundenen Ring ähnelt.
   * Außerdem wurde eine nicht näher identifizierte "Freundin vom großen Haken" erwähnt, deren Waffen offenbar von den Ogern genutzt werden.
   * Die Schmieden der Ranickfeste arbeiten nach Aussage der Belauschten ununterbrochen.
@@ -108,7 +112,7 @@ Die Gruppe / Eigenes Ziel
 
 ### Zusammenfassung
 
-* [ ] Findet einen Weg, Fox wiederzubeleben.
+* [x] Findet einen Weg, Fox wiederzubeleben.
 
   * Fox wurde im Kampf gegen Jakrat in der Ranickfeste von dessen Ogerhaken tödlich getroffen.
   * Ein Heiltrank und Fafnirs anschließende Heilung konnten sie nicht mehr zurückholen.
@@ -117,7 +121,8 @@ Die Gruppe / Eigenes Ziel
   * Im Splitterbaumtal traf die Gruppe die Hexe Mutter Weide. Sie erklärte sich bereit, Fox am folgenden Tag mit **Tote erwecken** zurückzuholen, sofern Materialien im Wert von 5.000 GM bereitgestellt werden.
   * Fox' Körper wurde bis dahin in Mutter Weides Obhut gelassen und zusätzlich in einem gekühlten Raum aufgebahrt.
   * Die Gruppe übergab Mutter Weide bereits mehrere wertvolle Gegenstände als Teil der benötigten Bezahlung.
-  * Die Gruppe muss zunächst den Schädeldamm sichern und anschließend zu Mutter Weide zurückkehren.
+  * Nach der Sicherung des Schädeldamms kehrte die Gruppe zu Mutter Weide zurück. Fox lebte wieder, stand jedoch unter einer fremden Kontrolle, die offenbar mit dem pinken Licht in Mutter Weides verborgenem Raum zusammenhing.
+  * Mutter Weide entpuppte sich als Blutvettel und wurde von Kyras getötet. Fox konnte sich zeitweise gegen die fremde Kontrolle wehren; am Ende des Kampfes hatte sie die Kontrolle über ihren Körper wiedererlangt, war jedoch noch deutlich von den Nachwirkungen gezeichnet.
 
 ### Auftragstext
 
