@@ -1,3 +1,221 @@
+# Sitzung vom 26. August 2026: Die Schleusen öffnen sich
+
+Tief im überfluteten Inneren des Schädeldamms setzte die Gruppe ihren Weg fort. Hinter ihr lauerte weiterhin das riesige schwarze Wesen mit seinen zahlreichen roten Augen, das Fafnir bereits schwer gebissen hatte. Vor ihr lag ein unbekannter Teil des uralten Bauwerks. Die Kälte hatte längst durch Kleidung und Rüstung gegriffen, die magische Wasseratmung näherte sich ihrem Ende, und immer wieder erschütterten dumpfe Schläge das Mauerwerk.
+
+Die Schleusen mussten geöffnet werden, bevor der Damm endgültig nachgab.
+
+## Die Kammer im Herzen des Damms
+
+Ein schmaler Gang führte die Gefährten zu einer Glastür, hinter der Cal Verwandlungs- und Bannmagie wahrnahm. Als er einen großen roten Knopf neben der Tür betätigte, öffnete sie sich unvermittelt. Der Wasserdruck schob die gesamte Gruppe hindurch, ehe sich die Tür wieder schloss und ein verborgener Mechanismus das Wasser aus der dahinterliegenden Kammer absaugte.
+
+Zum ersten Mal seit langer Zeit standen die Gefährten wieder im Trockenen.
+
+Im Zentrum des Raumes befand sich ein Modell des Schädeldamms. Die fünf Schädel des Bauwerks waren darauf deutlich hervorgehoben, und das Modell selbst strahlte Verwandlungsmagie aus. Zu beiden Seiten lagen hinter schweren Fallgittern aus kaltem Eisen magische Kreise, in denen starke Bannmagie wirkte.
+
+Der linke Kreis war leer.
+
+Im rechten saß eine ausgemergelte, gehörnte Gestalt mit beschädigten Flügeln. Tobin erkannte sie als Teufel.
+
+Fafnir ließ zunächst heilende Energie durch die Gruppe strömen. Zu seiner Überraschung erholte sich dadurch auch der Gefangene: Löcher in seinen Flügeln schlossen sich, und die geschwächte Gestalt richtete sich auf. Der Teufel stellte sich später als **Avaxial** vor und begrüßte seine unverhofften Besucher auffallend freundlich.
+
+Die Zeit für ein ruhiges Gespräch fehlte jedoch. Im überfluteten Raum hinter der Glastür erschienen bereits die augenbesetzten Tentakel. Kurz darauf zeichnete sich auch der gewaltige schwarze Kopf ab, der die Gruppe durch den Stausee verfolgt hatte.
+
+Avaxial nannte das Wesen die **Schwarze Maga**. Es sei schon dort gewesen, als er selbst in den Damm gekommen sei. Auf die Frage, wie mit ihr umzugehen sei, kannte er nur eine Antwort: Sie müsse vernichtet werden.
+
+## Der Vertrag mit Avaxial
+
+Kyras versuchte unterdessen, das magische Modell des Damms zu bedienen. Als sich einer der Schädel nicht ohne Kraftaufwand bewegen ließ, riss er versehentlich dessen Unterkiefer ab. Avaxial warnte ihn davor, weiter daran herumzubrechen.
+
+Der Teufel erklärte schließlich, er könne der Gruppe sagen, wie die Schleusen geöffnet würden. Im Gegenzug verlangte er seine Freiheit.
+
+Die Gefährten wollten sich auf sein Wort allein nicht verlassen. Gina beobachtete ihn aufmerksam und gewann den Eindruck, dass er sich tatsächlich an eine getroffene Abmachung halten würde. Cal prüfte seine Aussagen zusätzlich auf Lügen. Tobin übernahm die Verhandlung.
+
+Avaxial ließ ein infernalisches Pergament erscheinen, dessen Schrift sich für die Gruppe lesbar anordnete. Der Vertrag wurde mehrfach präzisiert: Der Teufel sollte nicht nur erklären, wie der Mechanismus funktionierte, sondern ihnen ermöglichen, ihn erfolgreich einzusetzen. Außerdem sollte er niemandem aus der Gruppe etwas antun und anschließend nach Hause zurückkehren.
+
+Während draußen die Schwarze Maga näher kam, unterschrieben die Gefährten den Vertrag mit Blut.
+
+Avaxial hielt seinen Teil der Abmachung ein.
+
+Damit sich die Schleusen öffneten, musste sich gleichzeitig jeweils eine Person in den beiden magischen Kreisen befinden. Die schweren Gitter ließen sich anheben, doch Avaxial selbst konnte das kalte Eisen nicht berühren.
+
+Dann offenbarte sich der Preis des Mechanismus: Die Kreise entzogen den darin Stehenden Lebenskraft.
+
+Avaxial war nach seiner langen Gefangenschaft bereits so geschwächt, dass er einen weiteren solchen Entzug nach eigener Aussage nicht überleben würde. Cal bestätigte, dass der Teufel dabei nicht log.
+
+Fafnir versuchte deshalb, den Bannkreis um Avaxial aufzuheben. Seine göttliche Magie griff nach dem uralten Zauber und löste ihn tatsächlich auf. Gemeinsam hob die Gruppe anschließend das schwere Gitter an. Avaxial war frei.
+
+Die Glastür hinter ihnen begann bereits unter den Schlägen der Schwarzen Maga zu reißen.
+
+## Die Schleusen
+
+Nun blieb keine Zeit mehr.
+
+Kyras begab sich in einen der Kreise, während Fafnir den anderen besetzte. Augenblicklich spürten beide, wie etwas nicht nur an ihren Körpern, sondern an ihrer Lebenskraft selbst zog. Fafnir, der bereits schwer geschwächt war, wurde erneut von Lebensentzug getroffen.
+
+Gleichzeitig nahm die Schwarze Maga Anlauf auf die beschädigte Glastür.
+
+Dann leuchteten beide Kreise auf.
+
+Tief im Inneren des Schädeldamms setzte sich ein gewaltiger Mechanismus in Bewegung. Metall ratterte, das Bauwerk donnerte und die Schleusen öffneten sich.
+
+Noch bevor die Schwarze Maga die Tür durchbrechen konnte, entstand ein gewaltiger Sog. Das Wasser wurde aus den überfluteten Räumen gerissen. Die roten Augen des Wesens öffneten sich weit, seine Tentakel suchten Halt, doch die Strömung war stärker. Unter einem schrillen Schrei wurde die Schwarze Maga zurück in den Stausee gerissen.
+
+Am Modell waren nun alle fünf Schädel abgesenkt – auch jener, dessen Unterkiefer Kyras abgebrochen hatte.
+
+Der Wasserdruck auf den Damm begann nachzulassen.
+
+Avaxial betrachtete die Gruppe noch einen Moment und bot Fafnir an, ihn zu begleiten. Der Zwerg lehnte ab. Daraufhin erinnerte der Teufel die Gefährten mit einem bedrohlichen Lächeln daran, dass allein ihr Vertrag sie vor weiteren Schwierigkeiten bewahrte. Dann verschwand er.
+
+## Karzoug und der Notausgang
+
+Nachdem die unmittelbare Gefahr gebannt war, blieb etwas Zeit, die Kammer genauer zu untersuchen. Tobin zeichnete das magische Modell ausführlich in sein Notizbuch, während Gina ihm bei der Untersuchung half.
+
+Dabei entdeckte sie eine thassilonische Plakette am Modell.
+
+Sie trug die Widmung:
+
+**„Zu Ehren Karzoug.“**
+
+Damit war der Schädeldamm eindeutig mit dem alten Runenherrscher verbunden.
+
+Cal fand außerdem einen silbrig leuchtenden **Ionenstein**, den Brocc als magischen Speicher identifizierte, in dem bis zu sechs Zauberplätze aufbewahrt werden konnten.
+
+An einer Wand befand sich zudem eine Tür, deren thassilonische Beschriftung Gina als **„Notausgang“** las. Da die Wasseratmung inzwischen ausgelaufen war und das Wasser langsam wieder in die Kammer zurückströmte, entschied sich die Gruppe gegen den gefährlichen Rückweg durch die überfluteten und teilweise eingestürzten Gänge.
+
+Der Notausgang führte durch einen engen, dunklen Wartungsgang. Dort nahm Fafnir zwei zurückgelassene Schriftrollenbehälter mit, ohne ihren Inhalt vor Ort näher zu untersuchen.
+
+Am Ende des Ganges öffnete Gina eine weitere Tür – und blickte unmittelbar in einen tiefen Abgrund.
+
+Der Ausgang lag mitten in der Außenseite des Damms. Eine frühere Plattform oder Treppe war längst verschwunden. Unterhalb der Gruppe stürzten gewaltige Wassermassen durch die nun geöffneten Schleusen ins Tal. Das Donnern war so laut, dass Verständigung kaum noch möglich war.
+
+Ein Abstieg war dort ebenso wenig praktikabel wie ein Aufstieg.
+
+Brocc löste das Problem schließlich mit Flugmagie. Kyras wurde vergrößert und zum fliegenden Transporteur der Gruppe. Einen Gefährten nach dem anderen brachte er hinauf auf die Dammkrone.
+
+Oben zeigte sich das Ausmaß ihres Erfolges. Der Pegel des Stausees war bereits sichtbar gesunken, während auf der anderen Seite ungeheure Wassermassen ins Tal schossen. Der gesamte Damm vibrierte unter der Belastung, hielt jedoch stand.
+
+Die Gruppe verließ das Bauwerk so schnell wie möglich.
+
+## Rückkehr zu Mutter Weide
+
+Der Weg entlang des Schädelflusses war durch die abgelassenen Wassermassen nicht mehr passierbar. Das Splitterbaumtal selbst blieb jedoch trocken, sodass die Gruppe durch Wald und Morast zu Mutter Weides Hütte zurückkehren konnte.
+
+Der Marsch wurde zur letzten Prüfung des Tages. Alle waren durchnässt, ausgekühlt und erschöpft. Besonders Fafnir war nach dem Biss im Damm, dem Lebensentzug und der langen Kälte kaum noch auf den Beinen.
+
+Am Abend erschien endlich das kleine Backsteinhaus mit seinem warmen Licht.
+
+Einer von Mutter Weides lederhäutigen Dienern ließ die Gruppe wortlos hinein. Im Inneren brannte ein Feuer, Schluffi lag davor, und aus der Küche roch es nach warmem Essen. Mutter Weide begrüßte die Gefährten freundlich und stellte ihnen einen großen Topf Suppe auf den Tisch.
+
+Tobin berichtete ausführlich von den Ereignissen am Schädeldamm und besonders von der Begegnung mit Avaxial. Mutter Weide hörte interessiert zu. Auf Broccs Frage bestätigte sie außerdem, dass inzwischen alles für Fox’ Wiederbelebung vorbereitet sei.
+
+Die erschöpfte Gruppe glaubte sich endlich in Sicherheit.
+
+Dann schlief Brocc am Tisch ein.
+
+## Mutter Weides wahres Gesicht
+
+Zunächst wirkte es wie die natürliche Folge eines langen Tages. Cal bemerkte jedoch später, dass Brocc nicht einfach vor Erschöpfung eingeschlafen war. In der Suppe hatte sich ein Schlafgift befunden.
+
+Mutter Weide führte die übrigen Gefährten zu dem verschlossenen Raum, in dem Fox aufbewahrt worden war.
+
+Als sich die Tür öffnete, fiel grelles pinkfarbenes Licht in den Flur.
+
+Auf einem Tisch lag nicht Fox, sondern ein etwa vier Meter großer, menschenähnlicher Hüne mit weißem Bart, gefesselt und von zahllosen kleinen Wunden gezeichnet. Zwei von Mutter Weides lederhäutigen Dienern folterten ihn mit Klingen und grinsten dabei auf eine Weise, die nichts mehr mit den stillen Gehilfen zu tun hatte, welche die Gruppe bislang gekannt hatte.
+
+Am Kopfende stand Fox.
+
+Sie lebte.
+
+Doch etwas stimmte mit ihr nicht.
+
+Schwarze Flüssigkeit schien ihre Augen vollständig auszufüllen, tief darin glomm rotes Feuer. Ihr Grinsen war unnatürlich breit, ihre Zähne wirkten spitzer, und ihre Bewegungen zuckten in Winkeln, die nicht zu ihr passten. An der zuvor verstümmelten Hand waren schwarze Klauen gewachsen.
+
+Dann begann Mutter Weide zu kichern.
+
+Sie zog ihre Haut und Kleidung ab wie eine Verkleidung. Darunter kam ein Wesen aus Muskeln, Sehnen und Knochen zum Vorschein.
+
+Tobin erkannte sie als **Blutvettel**.
+
+Der Kampf begann.
+
+## Fox zwischen zwei Willen
+
+Die Blutvettel verwandelte sich in einen glühenden Feuerkörper und raste durch die Gruppe. Fox griff währenddessen Kyras an. Obwohl sie ihre vertrauten Waffen führte, bewegte sie sich nicht wie die Fox, an die sich ihre Gefährten erinnerten.
+
+Gina erschoss zunächst Schluffi, als der Waran in den Kampf eingriff. Tobin warnte die anderen vor der Blutvettel und stärkte seine Gefährten mit Magie und Trommeln. Kyras versuchte, die Feuerform mit kaltem Eisen und sogar Weihwasser anzugreifen, konnte ihr jedoch nichts anhaben.
+
+Cal erkannte unterdessen, dass Brocc vergiftet worden war. Da er gegen die Blutvettel in ihrer Feuerform wenig ausrichten konnte, wandte er sich dem bewusstlosen Gnom zu. Mit Magie drang er in Broccs Traum ein.
+
+Brocc stand dort wieder auf dem Schädeldamm und musste mit ansehen, wie Shalelu und die Wölfe von den entfesselten Wassermassen fortgerissen zu werden drohten. Cal erschien ihm als geisterhafte Gestalt und versuchte ihm klarzumachen, dass er träumte und aufwachen müsse.
+
+Zunächst konnte Brocc sich nicht von dem Bild lösen.
+
+Im Folterraum geschah währenddessen etwas Entscheidendes. Einer der lederhäutigen Diener stieß versehentlich eine der pinken Lampen um, deren Licht auf Fox gerichtet gewesen war.
+
+Für einen Augenblick gewann Fox die Kontrolle über ihren Körper zurück.
+
+Sie erinnerte sich an Fafnir und daran, dass er um sie geweint und versucht hatte, sie zu retten. Als er an ihr vorbeiging, widersetzte sie sich dem fremden Willen und ließ ihn passieren, statt ihn anzugreifen.
+
+Fafnir nutzte die Gelegenheit, um zu dem gefesselten Hünen vorzudringen und eine seiner Fesseln zu durchtrennen.
+
+Dann explodierte die Blutvettel.
+
+Ihr Feuerkörper zog sich auf einen winzigen Punkt zusammen und detonierte in einer gewaltigen Feuerwelle. Mehrere Gefährten wurden schwer getroffen. Als die Flammen verschwanden, stand die Vettel wieder in ihrer körperlichen Gestalt vor ihnen.
+
+Fox nutzte ihren kurzen Moment der Freiheit.
+
+Sie floh aus dem pinken Licht und griff die Blutvettel an.
+
+## Kyras’ Zorn
+
+Tobin begann zu trommeln und schloss Fox bewusst in die Unterstützung für seine Verbündeten ein. Gina feuerte aus nächster Nähe auf die nun wieder körperliche Vettel und setzte schließlich auch eine Kalteisenpatrone ein.
+
+Dann erreichte Kyras sie.
+
+Die vergangenen Stunden hatten ihn an seine Grenzen gebracht: der beschädigte Damm, die Trolle, die Dunkelheit unter Wasser, die Tentakel, die Schwarze Maga, der Teufel und schließlich die Hoffnung, Fox endlich zurückzubekommen.
+
+Stattdessen hatte er eine Falle vorgefunden.
+
+Kyras verlor jede Zurückhaltung.
+
+Mit seinem Falchion aus kaltem Eisen schlug er auf die Blutvettel ein und zerhackte sie in einem Ausbruch aus Wut und Verzweiflung. Selbst nachdem sie bereits gefallen war, hörte er nicht sofort auf. Blut bedeckte ihn, während er weiter auf die Überreste einschlug.
+
+Der Anblick erschütterte selbst die fremde Macht, die Fox kontrollierte.
+
+Für einen weiteren Moment wurden ihre Augen wieder normal.
+
+Währenddessen hatte der gefesselte Hüne durch Fafnirs Hilfe eine Hand freibekommen. Er riss einen schweren Bodenanker aus seiner Befestigung und schleuderte ihn gegen einen der verwandelten Diener. Der Schlag zertrümmerte dessen Schädel.
+
+Cal stellte sich dem zweiten entgegen und verhinderte, dass dieser eine der pinken Lampen in den Flur warf. Fafnir versuchte trotz seiner völligen Erschöpfung weiterzukämpfen.
+
+Im Traum erkannte Brocc schließlich die Wahrheit in Cals Worten. Die Bilder von Shalelu, dem Wasser und dem Damm lösten sich auf, und er erwachte am Tisch.
+
+Noch halb benommen hörte er den Kampf, sah Cal dem letzten Diener gegenüberstehen und schleuderte Säure auf die Kreatur. Der Treffer fraß sich durch ihr Gesicht.
+
+Der letzte Gegner brach zusammen.
+
+Dann wurde es still.
+
+Fox stand im Flur, schwer atmend und noch immer von den Nachwirkungen der fremden Kontrolle gezeichnet. Ihre Haltung wechselte zwischen Anspannung und Orientierungslosigkeit. Sie hielt Abstand zu dem pinken Licht und musterte ihre Gefährten, als müsse sie erst wieder begreifen, wer sie waren – und was mit ihr geschehen war.
+
+Die Reaktionen darauf mussten warten.
+
+
+
+## Aktueller Stand
+
+* Die Schleusen des Schädeldamms sind geöffnet. Der Wasserdruck sinkt, und der Damm galt beim Verlassen der Gruppe als stabilisiert.
+* Die als **Schwarze Maga** bezeichnete vielfach rotäugige Kreatur wurde vom Sog der geöffneten Schleusen zurück in den Stausee gerissen; ihr endgültiges Schicksal ist unbekannt.
+* Im Inneren des Damms traf die Gruppe den Teufel **Avaxial**, schloss einen Vertrag mit ihm und befreite ihn. Er erfüllte seinen Teil der Abmachung und verschwand anschließend.
+* Das magische Modell des Schädeldamms trägt die thassilonische Widmung **„Zu Ehren Karzoug.“**
+* Cal fand einen **Ionenstein**, der bis zu sechs Zauberplätze speichern kann. Fafnir nahm außerdem zwei bislang nicht untersuchte Schriftrollenbehälter aus dem Notausgang mit.
+* Mutter Weide hat sich als **Blutvettel** entpuppt und wurde von Kyras getötet. Ihre lederhäutigen Helfer und Schluffi wurden ebenfalls besiegt.
+* Fox lebt wieder, steht jedoch offenbar unter den Nachwirkungen einer fremden Kontrolle, die mit dem pinken Licht zusammenhing. Ihr genauer Zustand ist noch ungeklärt.
+* In Mutter Weides verborgenem Raum befindet sich ein etwa vier Meter großer, weißbärtiger Hüne. Eine seiner Fesseln wurde von Fafnir durchtrennt; seine Identität ist unbekannt.
+* Brocc wurde mit Schlafgift außer Gefecht gesetzt, durch Cals Eingreifen in seinen Traum jedoch wieder geweckt.
+* Fafnir ist durch Kälte, Erschöpfung und Lebensentzug stark geschwächt.
+* Die Sitzung endete unmittelbar nach dem Kampf in Mutter Weides Haus; die Reaktionen auf Fox’ Rückkehr und die Enthüllungen dort stehen noch aus.
+
 # Sitzung vom 19. August 2026: Unter dem Schädeldamm
 
 Regen und Donner lagen über dem Schädeldamm, als die Gruppe ihren Weg fortsetzte. Hinter ihnen waren die Ogerstellung und ihre Katapulte weitgehend ausgeschaltet, doch die eigentliche Gefahr bestand weiterhin. Der Stausee stand beinahe bis zur Dammkrone, die Schleusen waren geschlossen und immer wieder brachen unter dem gewaltigen Wasserdruck kleinere Stücke aus dem alten Bauwerk.
