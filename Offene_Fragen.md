@@ -1,7 +1,15 @@
 # Offene Fragen
 
-* Was ist nach ihrer Wiederbelebung mit Fox geschehen? Warum stand sie unter fremder Kontrolle, welche Rolle spielte dabei das pinke Licht und ist dieser Einfluss nach dem Tod der Blutvettel vollständig gebrochen? - 260826
-* Wer ist der etwa vier Meter große, weißbärtige Hüne, den Mutter Weides Diener gefangen hielten und folterten? - 260826
+* Wohin führt die Blutspur im Wald, und wer oder was wurde dort verletzt? Die Spur ist etwa einen halben bis ganzen Tag alt, enthält für einen Menschen vermutlich zu viel Blut und wird von frischen Spuren von ungefähr fünf bis sieben Ogern begleitet. Sie führte über einen schmalen, mit Bärenfallen gesicherten Pfad bis zu einem nahezu stehenden Gewässer. Cal setzte die Verfolgung fort, weil er nicht ausschließen wollte, dass jemand Hilfe benötigt. - 260909
+* Warum sammeln sich auf Mokmurians Befehl Riesen im Nesselwald, und was plant er dort? Rasmus beschrieb Mokmurian als mächtigen, magiebegabten Riesen mit hohem Ansehen unter seinesgleichen, der Gegner unter den Riesen tötet. - 260909
+* Ist Kalami tatsächlich Broccs verschwundene Mutter, und was tut sie in den Eisenbergen? Rasmus beschrieb eine grünhaarige Gnomin namens Kalami, die ihn und seine Brüder vergiftete, ihn jedoch anschließend rettete. Ihre Beschreibung erinnert Brocc stark an seine Mutter, die vor längerer Zeit ohne Nachricht verschwand. - 260909
+* Was ist mit Fox' rechter Hand geschehen? Nach ihrer Rückkehr blieb eine schwarze Klauenhand zurück, die selbst keine erkennbare Magie ausstrahlt. Als Fafnir sie berührte, erlebte Fox eine schmerzhafte Erinnerung aus seiner Vergangenheit mit. Ein Versuch, einen möglichen Fluch zu brechen, veränderte die Klaue nicht. - 260909
+* Warum nimmt Fox neben ihrem eigenen Herzschlag einen zweiten, teilweise synchronen Rhythmus wahr, und hängt dies mit ihrer Wiederbelebung oder der Klauenhand zusammen? - 260909
+* Was geschah mit der echten Bewohnerin der Hütte im Splitterbaumtal? Nach dem Tod der Blutvettel brach die magisch veränderte Erscheinung des Hauses zusammen. Zurück blieb eine verwüstete kleine Steinhütte mit Kräutergarten, alchemistischen Resten, Zauberstabrohlingen und Briefen, die auf eine frühere Bewohnerin hindeuten. - 260909
+* Was steht in den Briefen, die Gina in der verwüsteten Hütte im Splitterbaumtal gefunden hat? Sie wurden mitgenommen, aber noch nicht vollständig gelesen. - 260909
+* Warum befand sich auch auf dem magischen Lichtgürtel aus der verwüsteten Hütte das Symbol des zerbrochenen Dreiecks? - 260909
+* Warum steigen aus Richtung der Ranickfeste große dunkle Rauchwolken auf, und was ist dort seit dem Tod Jakrats geschehen? - 260909
+* Was ist nach ihrer Wiederbelebung mit Fox geschehen? Warum stand sie unter fremder Kontrolle, welche Rolle spielte dabei das pinke Licht und ist dieser Einfluss nach dem Tod der Blutvettel vollständig gebrochen? Fox verhält sich wieder wie sie selbst, doch die schwarze Klauenhand und weitere ungewöhnliche Wahrnehmungen blieben zurück. - 260826
 * Wer oder was ist Avaxial genau, warum war er im Schädeldamm gefangen und wohin kehrte er nach seiner Befreiung zurück? - 260826
 * Was ist aus der Schwarzen Maga geworden? Sie wurde beim Öffnen der Schleusen vom Sog zurück in den Stausee gerissen, ihr endgültiges Schicksal ist jedoch unbekannt. - 260826
 * Warum trägt das magische Modell des Schädeldamms die Widmung „Zu Ehren Karzoug“, und welche Bedeutung hatte der Damm für den Runenherrscher? - 260826
@@ -9,17 +17,27 @@
 * Was bewirkt der Ring des Magiers vom Schädeldamm genau? Der Ring trägt einen großen blutroten Stein und weist eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie auf. Besonders auffällig ist, dass seine Magie derjenigen auf dem bei der Lamiamatriarchin gefundenen Ring ähnelt. Welche Funktion diese Ringe haben und wie der Magier mit der Lamiamatriarchin beziehungsweise Lucrezia verbunden war, ist ungeklärt. - 260812
 * Erreichen Jakardros und Thal Schildkrötenfähre mit Kaven lebend, oder setzen sie Tobins unausgesprochene Billigung einer Hinrichtung um? - 260722
 * Wird Kaven vor Gericht gestellt, und was kann er noch über Lucrezia, den Siebenstern und den Verrat an der Ranickfeste berichten? - 260722
-* Wer ist die Frau, die sich Kaven gegenüber als Lucrezia ausgab? War es tatsächlich Lucrezia, die verschwundene Betreiberin des "Paradieses", oder jemand anderes? - 260722
-* Warum verschwand Lamatar bei jedem Vollmond für zwei Nächte, und wohin ging er? - 260722
+* Warum verschwand Lamatar bei jedem Vollmond für zwei Nächte, und wohin ging er? Zur Zeit des Ogerangriffs hielt er sich offenbar im Schimmersumpf auf und gilt weiterhin als vermisst. - 260722
 * Kann das Verhältnis zwischen Shalelu und Jakardros noch gerettet werden, nachdem seine Vergangenheit und sein Verlassenwerden offengelegt wurden? - 260722
-* Was beabsichtigen die Oger und der Sichedronkult mit dem Beschuss des Damms: seine Zerstörung, die Befreiung von etwas oder ein anderes Ziel? - 260722
-* Warum lehnte Mutter Weide ausgerechnet Jakrats Haken des Verderbens ab? - 260722
+* Was beabsichtigten die Oger und der Sichedronkult mit dem Beschuss des Damms: seine Zerstörung, die Befreiung von etwas oder ein anderes Ziel? - 260722
 * Was für einen Ring hatte die Lamiamatriarchin? Der Ring ist grün und mit dem Symbol eines Salamanders verziert. - 260715
-* Was bedeuten die zerbrochenen Dreiecke auf dem Ogerhaken von Jakrat und den Dolchen der Lamiamatriarchin? - 260715
+* Was bedeuten die zerbrochenen Dreiecke auf dem Ogerhaken von Jakrat, den Dolchen der Lamiamatriarchin und dem magischen Lichtgürtel aus der Hütte im Splitterbaumtal? - 260715
 * Welche Namen stehen noch auf der Schriftrolle der Lamiamatriarchin außer Kaven und Ralf? - 260715
 * Was wird aus den Ogern in der Ranickfeste? Gewinnt der kleine Oger mit den drei Haaren auf der Beule, den Tobin zum Anführer der Oger ernannt hat, den Kampf um die Nachfolge von Jakrat? - 260715
 
 # Beantwortet
+
+* Wer ist der etwa vier Meter große, weißbärtige Hüne, den Mutter Weides Diener gefangen hielten und folterten? - 260826
+
+  260909: Der Riese heißt Rasmus und lebt in einer Höhle im Splitterbaumtal. Er war in seiner Höhle eingeschlafen und später gefesselt im Haus der Blutvettel erwacht. Die Gruppe befreite ihn, woraufhin er im Kampf half und ihr anschließend Unterkunft in seiner Höhle gewährte.
+
+* Warum lehnte Mutter Weide ausgerechnet Jakrats Haken des Verderbens ab? - 260722
+
+  260909: Die vermeintliche Mutter Weide war eine Blutvettel. Eine konkrete Erklärung dafür, warum sie den Haken nicht als Bezahlung annahm, wurde nicht gefunden. Ihr Interesse galt jedoch dem unbekannten Symbol auf der Waffe.
+
+* Wer ist die Frau, die sich Kaven gegenüber als Lucrezia ausgab? War es tatsächlich Lucrezia, die verschwundene Betreiberin des "Paradieses", oder jemand anderes? - 260722
+
+  260909: Die rothaarige Lamiamatriarchin der Ranickfeste wurde als Lukrezia bestätigt.
 
 * Was befindet sich in dem Haus auf dem Schädeldamm? Das Gebäude wurde erreicht, aber noch nicht untersucht. Gerade wegen der Stimme und der bösen Präsenz könnte es für die Kontrolle des Damms wichtig sein. - 260812
 
@@ -37,9 +55,11 @@
 
   260826: Bei der Rückkehr zu Mutter Weide lebte Fox wieder. Die Umstände ihrer Wiederbelebung wurden jedoch nicht geklärt. Sie stand unter einer fremden Kontrolle, die offenbar mit dem pinken Licht in Mutter Weides verborgenem Raum zusammenhing.
 
+  260909: Nach dem Tod der Blutvettel gewann Fox wieder die Kontrolle über sich selbst und kehrte zur Gruppe zurück. Die genaue Art ihrer Wiederbelebung bleibt jedoch ungeklärt.
+
 * Welche Gegenleistung erwartet Mutter Weide langfristig für ihre Hilfe, abgesehen von den Reagenzien und angenommenen Gegenständen? - 260722
 
-  260826: Mutter Weide entpuppte sich als Blutvettel. Sie setzte die Gruppe mit Schlafgift außer Gefecht und hielt Fox unter fremdem Einfluss. Nach ihrer Enttarnung wurde sie von Kyras getötet. Welche längerfristigen Absichten sie ursprünglich mit der Gruppe oder Fox verfolgte, wurde nicht mehr geklärt.
+  260826: Mutter Weide entpuppte sich als Blutvettel. Sie setzte die Gruppe mit Schlafgift außer Gefecht und hielt Fox unter fremdem Einfluss. Nach ihrer Enttarnung wurde sie getötet. Welche längerfristigen Absichten sie ursprünglich mit der Gruppe oder Fox verfolgte, wurde nicht mehr geklärt.
 
 * Wer ist der Mann in der Kutte bei den Ogern am Schädeldamm, und welche Rolle spielt er beim Angriff? - 260722
 
@@ -74,4 +94,3 @@ Welche Namen stehen auf der Schriftrolle der Lamiamatriarchin? - 260715
   260812: Die Ogerstellung wurde weitgehend zerschlagen. Malogus, der Anführer der Oger, und der namenlose menschliche Magier wurden getötet; mindestens ein Oger entkam. Der Damm ist bis zum Bersten gefüllt, weist bereits Risse auf und verliert Wasser, während seine Schleusen vollständig geschlossen sind.
 
   260826: Die Schleusen wurden geöffnet und der Wasserdruck erfolgreich gesenkt. Ein magisches Modell im Inneren des Damms trägt außerdem die thassilonische Widmung „Zu Ehren Karzoug“.
-  
