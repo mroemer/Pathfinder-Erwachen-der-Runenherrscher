@@ -45,11 +45,17 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Ein magisches Modell des Schädeldamms trägt die thassilonische Widmung „Zu Ehren Karzoug“.
   * Die Gruppe verließ den Schädeldamm über einen Notausgang. Kyras brachte die Gefährten mit Broccs Flugmagie zurück auf die Dammkrone. Beim Verlassen galt der Damm als stabilisiert.
   * Anschließend kehrte die Gruppe zu Mutter Weide ins Splitterbaumtal zurück.
+  * Mutter Weide entpuppte sich als Blutvettel. Fox lebte wieder, stand zunächst jedoch unter fremder Kontrolle. Die Gruppe tötete die Vettel und ihre Diener; Fox gewann die Kontrolle über sich zurück.
+  * Nach einer Rast bei dem befreiten Riesen Rasmus machte sich die Gruppe wieder auf den Weg zur Ranickfeste. Aus Richtung der Feste waren große dunkle Rauchwolken zu sehen.
+  * Auf dem Weg entdeckte Cal eine ältere Blutspur sowie Spuren von etwa fünf bis sieben Ogern. Die Gruppe folgt dieser Spur derzeit in den Wald, bevor sie zur Ranickfeste zurückkehrt.
+  * Lamatar Bayden, der Kommandant der Ranickfeste, gilt weiterhin als vermisst. Zur Zeit des Ogerangriffs hielt er sich offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
   * Erledigt - wir haben Oger auf dem Weg zur Feste Ranik auf dem Hof Graul aufgespürt und die dortige Sippe samt Anführerin Mama Graul zerschlagen.
   * Die Ranickfeste selbst befindet sich weiterhin in Ogerhand. Die Gerüchte über eine organisierte Ogerbesetzung haben sich vollständig bestätigt.
+
+* [ ] Berichte zurück an den Bürgermeister über die Ogerbesetzung der Ranickfeste.
 
 ### Auftragstext
 
@@ -70,6 +76,28 @@ Die Gruppe / Eigenes Ziel
 
 Hagen und Mako wurden durch ein Portal offenbar in das Nirvana entrissen. Die Gruppe versucht Informationen zu sammeln und mögliche Wege zur Rettung zu finden.
 
+## Findet einen Platz für Anna und Tom
+
+### Auftraggeber
+
+Anna und Tom, die wir in Xaneshas Turm gerettet haben (siehe Notizen 29. Oktober 2025).
+
+### Zusammenfassung
+
+Findet einen Platz für Anna und Tom.
+
+Wir haben folgende Optionen vorgeschlagen
+
+* Waisenhaus - sieht gut aus und wird von Anja, einer Bekannten von Hagen geleitet
+* Hafenmeister - Arbeit gegen Kost und Logi
+* Stadtplage - Fox' alte Truppe
+
+### Details
+
+* Anna und Tom wünschen sich Sicherheit und Essen. Sie wurden über ihre Optionen aufgeklärt und waren zuletzt in der Taverne in Werftweg mit 50 Silbermünzen als Überbrückung bis sie sich entschieden haben. - (siehe Notizen 10. Dezember 2025)
+
+# Abgeschlossene Quests
+
 ## Findet Xaneshas Schwester
 
 ### Auftraggeber
@@ -81,19 +109,19 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
 * [x] Warnt den Oberbürgermeister vor der Gefahr.
 
   * Erledigt am 19. November 2025 (siehe Notizen 19. November 2025)
-* [ ] Findet Xaneshas Schwester und klärt ihre Pläne in der Region um Schildkrötenfähre auf.
+* [x] Findet Xaneshas Schwester und klärt ihre Pläne in der Region um Schildkrötenfähre auf.
 
-  * Xaneshas Schwester sammelt vermutlich Seelen im Gebiet um Schildkrötenfähre und stand laut ihrem Brief mit dem Fall der Ranickfeste in Verbindung.
-  * In der Ranickfeste wurde eine rothaarige Lamiamatriarchin getötet. Ihre genaue Identität wurde jedoch nicht bestätigt. Es ist daher weiterhin offen, ob sie Xaneshas Schwester, Lucrezia oder eine andere Verbündete der Oger war.
-  * Kaven Windstreich gestand, Lucrezia Informationen über die Ranickfeste und ihre Geheimgänge verraten zu haben. Sie interessierte sich insbesondere für die Festung und deren Verteidigung.
-  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert.
-  * Bei der Lamiamatriarchin wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
-  * Auf den beiden Dolchen der Lamiamatriarchin und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck.
+  * Xaneshas Schwester sammelte vermutlich Seelen im Gebiet um Schildkrötenfähre und stand laut ihrem Brief mit dem Fall der Ranickfeste in Verbindung.
+  * Die in der Ranickfeste getötete rothaarige Lamiamatriarchin wurde als Lukrezia bestätigt.
+  * Kaven Windstreich gestand, Lukrezia Informationen über die Ranickfeste und ihre Geheimgänge verraten zu haben. Sie interessierte sich insbesondere für die Festung und deren Verteidigung.
+  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert; nach ihrer Rückkehr erhielt Fox den Stammbaum zurück, während Gina das zweite Buch verwahrt.
+  * Bei Lukrezia wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
+  * Auf den beiden Dolchen Lukrezias und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck. Dasselbe Zeichen wurde später auf einem magischen Lichtgürtel in der verwüsteten Hütte im Splitterbaumtal gefunden.
   * Der Schädeldamm wurde erreicht. Die Gruppe konnte die Schleusen öffnen und den gefährlich hohen Wasserdruck auf den Damm senken. Ein magisches Modell im Inneren des Damms trägt die thassilonische Widmung „Zu Ehren Karzoug“.
-  * Malogus, der Anführer der Oger am Schädeldamm, wurde dort angetroffen und von der Gruppe getötet. Bei einem menschlichen Magier, der die Oger unterstützte, wurde ein Ring mit einem großen blutroten Stein gefunden, dessen Magie der Magie auf dem bei der Lamiamatriarchin gefundenen Ring ähnelt.
+  * Malogus, der Anführer der Oger am Schädeldamm, wurde dort angetroffen und von der Gruppe getötet. Bei einem menschlichen Magier, der die Oger unterstützte, wurde ein Ring mit einem großen blutroten Stein gefunden, dessen Magie der Magie auf dem bei Lukrezia gefundenen Ring ähnelt.
   * Außerdem wurde eine nicht näher identifizierte "Freundin vom großen Haken" erwähnt, deren Waffen offenbar von den Ogern genutzt werden.
   * Die Schmieden der Ranickfeste arbeiten nach Aussage der Belauschten ununterbrochen.
-  * Der Zusammenhang zwischen diesen Hinweisen, der Seelensammlung und Xaneshas Schwester ist noch ungeklärt.
+  * Der Zusammenhang zwischen diesen Hinweisen, der Seelensammlung und den weiteren Plänen Lukrezias ist noch ungeklärt.
 
 ### Auftragstext
 
@@ -122,7 +150,8 @@ Die Gruppe / Eigenes Ziel
   * Fox' Körper wurde bis dahin in Mutter Weides Obhut gelassen und zusätzlich in einem gekühlten Raum aufgebahrt.
   * Die Gruppe übergab Mutter Weide bereits mehrere wertvolle Gegenstände als Teil der benötigten Bezahlung.
   * Nach der Sicherung des Schädeldamms kehrte die Gruppe zu Mutter Weide zurück. Fox lebte wieder, stand jedoch unter einer fremden Kontrolle, die offenbar mit dem pinken Licht in Mutter Weides verborgenem Raum zusammenhing.
-  * Mutter Weide entpuppte sich als Blutvettel und wurde von Kyras getötet. Fox konnte sich zeitweise gegen die fremde Kontrolle wehren; am Ende des Kampfes hatte sie die Kontrolle über ihren Körper wiedererlangt, war jedoch noch deutlich von den Nachwirkungen gezeichnet.
+  * Mutter Weide entpuppte sich als Blutvettel und wurde von der Gruppe getötet. Fox gewann die Kontrolle über ihren Körper wieder und kehrte zu ihren Gefährten zurück.
+  * Die genauen Umstände ihrer Wiederbelebung bleiben ungeklärt. An ihrer rechten Hand blieb eine schwarze Klaue zurück. Bei einer Berührung übertrug sie eine Erinnerung Fafnirs auf Fox, und Fox nahm später neben ihrem eigenen Herzschlag einen zweiten Rhythmus wahr. Ein Versuch, einen möglichen Fluch zu brechen, veränderte die Klaue nicht.
 
 ### Auftragstext
 
@@ -131,23 +160,3 @@ Fox fiel im Kampf gegen Jakrat, nachdem dessen Ogerhaken sie schwer im Bauch get
 Fafnir bewahrte ihren Leib mit Sanfte Ruhe und verschaffte der Gruppe damit Zeit. Noch besteht die Möglichkeit, Fox zurückzuholen – doch dafür werden mächtige göttliche Magie, eine geeignete Person und eine große Menge Gold benötigt.
 
 Die Gruppe muss nun einen Weg finden, Fox wiederzubeleben, bevor ihre Seele endgültig unerreichbar wird.
-
-## Findet einen Platz für Anna und Tom
-
-### Auftraggeber
-
-Anna und Tom, die wir in Xaneshas Turm gerettet haben (siehe Notizen 29. Oktober 2025).
-
-### Zusammenfassung
-
-Findet einen Platz für Anna und Tom.
-
-Wir haben folgende Optionen vorgeschlagen
-
-* Waisenhaus - sieht gut aus und wird von Anja, einer Bekannten von Hagen geleitet
-* Hafenmeister - Arbeit gegen Kost und Logi
-* Stadtplage - Fox' alte Truppe
-
-### Details
-
-* Anna und Tom wünschen sich Sicherheit und Essen. Sie wurden über ihre Optionen aufgeklärt und waren zuletzt in der Taverne in Werftweg mit 50 Silbermünzen als Überbrückung bis sie sich entschieden haben. - (siehe Notizen 10. Dezember 2025)
