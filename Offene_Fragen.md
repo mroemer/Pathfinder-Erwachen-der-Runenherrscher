@@ -1,5 +1,10 @@
 # Offene Fragen
 
+* Was ist nach ihrer Wiederbelebung mit Fox geschehen? Warum stand sie unter fremder Kontrolle, welche Rolle spielte dabei das pinke Licht und ist dieser Einfluss nach dem Tod der Blutvettel vollständig gebrochen? - 260826
+* Wer ist der etwa vier Meter große, weißbärtige Hüne, den Mutter Weides Diener gefangen hielten und folterten? - 260826
+* Wer oder was ist Avaxial genau, warum war er im Schädeldamm gefangen und wohin kehrte er nach seiner Befreiung zurück? - 260826
+* Was ist aus der Schwarzen Maga geworden? Sie wurde beim Öffnen der Schleusen vom Sog zurück in den Stausee gerissen, ihr endgültiges Schicksal ist jedoch unbekannt. - 260826
+* Warum trägt das magische Modell des Schädeldamms die Widmung „Zu Ehren Karzoug“, und welche Bedeutung hatte der Damm für den Runenherrscher? - 260826
 * Wer oder was hat das zweite Katapult zerbissen und die Oger angegriffen? Die Spuren deuten auf eine große, primitive, ogerähnliche Kreatur; Trolle sind naheliegend. Shalelu berichtete zudem, dass der Damm laut Aussagen aus dem Dorf offenbar von einem Trollstamm besetzt wurde. An älteren Ogerleichen fanden sich teils ähnliche Biss- und Kratzspuren, teils aber auch Verletzungen durch Ogerhaken und Knüppel. Am 19.08. wurden tatsächlich mehrere Trolle im Kontrollhaus des Schädeldamms angetroffen. Ob sie auch für die Bissspuren am Katapult verantwortlich waren, bleibt ungeklärt. - 260812
 * Was bewirkt der Ring des Magiers vom Schädeldamm genau? Der Ring trägt einen großen blutroten Stein und weist eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie auf. Besonders auffällig ist, dass seine Magie derjenigen auf dem bei der Lamiamatriarchin gefundenen Ring ähnelt. Welche Funktion diese Ringe haben und wie der Magier mit der Lamiamatriarchin beziehungsweise Lucrezia verbunden war, ist ungeklärt. - 260812
 * Erreichen Jakardros und Thal Schildkrötenfähre mit Kaven lebend, oder setzen sie Tobins unausgesprochene Billigung einer Hinrichtung um? - 260722
@@ -13,11 +18,6 @@
 * Was bedeuten die zerbrochenen Dreiecke auf dem Ogerhaken von Jakrat und den Dolchen der Lamiamatriarchin? - 260715
 * Welche Namen stehen noch auf der Schriftrolle der Lamiamatriarchin außer Kaven und Ralf? - 260715
 * Was wird aus den Ogern in der Ranickfeste? Gewinnt der kleine Oger mit den drei Haaren auf der Beule, den Tobin zum Anführer der Oger ernannt hat, den Kampf um die Nachfolge von Jakrat? - 260715
-* Was ist nach ihrer Wiederbelebung mit Fox geschehen? Warum stand sie unter fremder Kontrolle, welche Rolle spielte dabei das pinke Licht und ist dieser Einfluss nach dem Tod der Blutvettel vollständig gebrochen? - 260826
-* Wer ist der etwa vier Meter große, weißbärtige Hüne, den Mutter Weides Diener gefangen hielten und folterten? - 260826
-* Wer oder was ist Avaxial genau, warum war er im Schädeldamm gefangen und wohin kehrte er nach seiner Befreiung zurück? - 260826
-* Was ist aus der Schwarzen Maga geworden? Sie wurde beim Öffnen der Schleusen vom Sog zurück in den Stausee gerissen, ihr endgültiges Schicksal ist jedoch unbekannt. - 260826
-* Warum trägt das magische Modell des Schädeldamms die Widmung „Zu Ehren Karzoug“, und welche Bedeutung hatte der Damm für den Runenherrscher? - 260826
 
 # Beantwortet
 
