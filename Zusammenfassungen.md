@@ -1,3 +1,162 @@
+# Sitzung vom 9. September 2026: Fox’ Rückkehr und die Spur der Riesen
+
+Nachdem die Gruppe den Schädeldamm vor dem Bersten bewahrt hatte, kehrte sie durch das Splitterbaumtal zu Mutter Weide zurück. Dort sollte endlich eingelöst werden, worauf die Gefährten seit Fox’ Tod gehofft hatten: ihre Wiederbelebung.
+
+Doch von der freundlichen Hexe und ihrem einladenden Heim war kaum etwas geblieben. Was die Gruppe erwartete, war keine Rettung, sondern eine Falle.
+
+## Die falsche Mutter Weide
+
+Mutter Weide empfing die Gefährten zunächst so freundlich wie zuvor und bewirtete sie. Brocc schlief schon bald auf seinem Stuhl ein, ohne dass die Gruppe darin unmittelbar eine Gefahr erkannte. Anschließend führte die vermeintliche Hexe ihre Gäste tiefer in das Anwesen und bot ihnen an, zuvor noch ihre Freundin zu sehen.
+
+Als sich die Tür öffnete, fiel pinkfarbenes Licht in den Flur.
+
+Im Raum dahinter lag ein gefesselter Riese auf einem Tisch und wurde von Mutter Weides Dienern gefoltert. Fox stand am Kopfende und sah dabei zu.
+
+Sie besaß wieder ihren vertrauten Körper, doch ihr Gesicht war entstellt. Ihre Augen wirkten, als seien sie mit schwarzer Flüssigkeit gefüllt, tief darin glommen rote Flammen. Ihr Grinsen war unnatürlich breit, ihre Bewegungen fremd. An der rechten Hand, an der ihr zuvor Finger gefehlt hatten, waren schwarze Klauen gewachsen.
+
+Im selben Augenblick ließ Mutter Weide ihre menschliche Gestalt fallen. Unter der Hülle der jungen Frau kam ein Wesen aus Blut, Knochen und Muskeln mit langen Krallen und spitzen Zähnen zum Vorschein. Tobin erkannte die Kreatur als Blutvettel.
+
+Der Kampf begann unmittelbar.
+
+Die Gruppe befreite den gefesselten Riesen, der sich trotz seiner Verletzungen gegen seine Peiniger wandte und den Gefährten half. Auch Fox griff zunächst ihre alten Freunde an. Doch etwas in ihr schien sich gegen den fremden Einfluss aufzulehnen. Sie hielt inne und wandte sich schließlich gegen die Vettel.
+
+Gemeinsam töteten sie die falsche Mutter Weide und ihre Diener.
+
+Für Kyras war der Kampf dennoch nicht einfach vorbei. Blut und Überreste der Vettel klebten an ihm, und nach den Erlebnissen der vergangenen Wochen brach seine Fassung endgültig zusammen. Während die anderen begannen, die Lage zu ordnen, blieb er apathisch zurück.
+
+Fox hingegen ging auf den Flur und suchte einen Spiegel.
+
+Dort sah sie, wie ihre Augen und ihre Hautfarbe wieder normal wurden, ihr Grinsen verschwand und ihre Zähne ihre vertraute Form annahmen. Auch ihre Bewegungen fühlten sich wieder wie ihre eigenen an.
+
+Nur die schwarze Klaue an ihrer rechten Hand blieb.
+
+## Wieder unter den Lebenden
+
+Fox erinnerte sich nur an die letzten Augenblicke ihres früheren Lebens: den Kampf gegen einen Oger in der Ranickfeste, ihren Anlauf und die erhobene Waffe des Gegners. Danach war für sie nichts mehr gewesen.
+
+Die anderen erklärten ihr, dass Jakrat sie getötet hatte. Sie hatten ihren Körper mitgenommen und magisch bewahrt, waren auf der Suche nach einer Wiederbelebung ins Splitterbaumtal gekommen und hatten ihn schließlich der vermeintlichen Mutter Weide anvertraut. Während Fox dort geblieben war, hatten sie den Schädeldamm gesichert.
+
+Dass ihre Gefährten sie bei der Hexe zurückgelassen hatten, traf Fox sichtbar. Zugleich wurde allen erst nach und nach bewusst, dass sie tatsächlich wieder vor ihnen stand: lebendig, ansprechbar und mit denselben Erinnerungen wie zuvor.
+
+Fafnirs Heilmagie wirkte auf sie wie auf jeden anderen Lebenden. Die Klaue blieb jedoch unverändert und zeigte selbst keine erkennbare magische Aura. Als Fox damit über Holz kratzte, hinterließ sie tiefe Spuren.
+
+Fafnir untersuchte die Hand vorsichtig.
+
+In dem Augenblick, in dem er sie berührte, erlebten beide eine schmerzhafte Erinnerung aus Fafnirs Vergangenheit. Fox sah aus seinen Augen einen Kampf zwischen Zwergen und Orks. Ein großer Teil von Fafnirs Gefährten wurde niedergemetzelt. Am Ende kniete er über einem tödlich verwundeten Zwerg und versuchte vergeblich, ihn zu retten.
+
+Fafnir bestätigte anschließend, dass dies tatsächlich eine seiner Erinnerungen gewesen war. Mehr wollte er zunächst nicht darüber erzählen, außer dass Zwerge häufig gemeinsam mit ihren Clans und Familien in den Krieg zögen.
+
+Damit war klar, dass Fox’ neue Hand mehr als eine körperliche Veränderung war. Eine eindeutige Erklärung fand die Gruppe jedoch nicht. Auch ein Versuch Fafnirs, einen möglichen Fluch zu brechen, veränderte die Klaue nicht.
+
+## Das wahre Gesicht des Hauses
+
+Währenddessen untersuchten die anderen das Anwesen.
+
+Die gemütliche, bewohnte Hütte, die sie bei ihrem ersten Besuch gesehen hatten, war verschwunden. Das Gebäude wirkte nun alt, staubig und verlassen. Die pinkfarbenen Lampen im Folterraum waren unmittelbar nach dem Tod der Vettel erloschen. Tobin kam zu dem Schluss, dass ihr unnatürliches Licht den Eindruck erweckt hatte, als hätte etwas von einer anderen Ebene die Geschehnisse beobachtet. Mit dem Ende des Kampfes schien dieses Interesse erloschen zu sein.
+
+Der befreite Riese stellte sich als **Rasmus** vor. Er berichtete, in seiner eigenen Höhle eingeschlafen und später gefesselt neben Fox erwacht zu sein. Fox sei bereits dort gewesen und habe gelacht, während er gefoltert worden sei. Rasmus machte deutlich, dass er das Anwesen nur noch verlassen wollte.
+
+Bei der Durchsuchung fanden die Gefährten weitere Hinterlassenschaften der Vettel. Besonders verstörend war eine magische **Maske des Hautdiebs**, in deren Rahmen echte Häute verschiedener Humanoider gespannt waren. Sie konnte ihrem Träger helfen, andere Gestalten anzunehmen. Außerdem fanden sie zwei wertvolle Schriftrollen – eine zum Brechen von Flüchen und eine zur Genesung – sowie einen **Dolch der Stille**, der in seiner unmittelbaren Umgebung jedes Geräusch unterdrückte.
+
+Gina stieß auf noch rätselhaftere Spuren der früheren Bewohnerin: Fläschchen mit Namen, darunter eines mit der Aufschrift „Die Witwe von Eichenhain“, eingeschmolzene Ringe mit alten Gravuren und einen kleinen warmen Kristall, dessen inneres Licht langsam erlosch. Seine Bedeutung blieb unbekannt.
+
+Hinter einem verborgenen Zugang entdeckte die Gruppe schließlich einen Keller voller leerer Gefängniszellen. Dort lagen auch die Gegenstände, die sie der vermeintlichen Mutter Weide als Bezahlung für Fox’ Wiederbelebung übergeben hatte. Vieles Zerstörbare war inzwischen vernichtet worden, darunter Mama Grauls Zauberbuch; widerstandsfähigere und magische Gegenstände konnten jedoch geborgen werden.
+
+Während der Untersuchung bemerkten Cal und Brocc, dass sich das gesamte Haus langsam zusammenzuziehen schien. Wände und Einrichtung rückten unmerklich näher, als würde aus einer gewaltigen Blase die Luft entweichen.
+
+Die Gruppe verließ das Anwesen unverzüglich.
+
+Kurz darauf hörten die Gefährten hinter sich ein Geräusch wie von etwas Platzendem. Das fremdartige Innenleben des Hauses war verschwunden.
+
+## Rasmus’ Höhle
+
+Draußen warteten Fox und Kyras. Fox hatte Kyras angeboten, ihm aufzuhelfen; vor ihrer Klauenhand schreckte er zurück, nahm jedoch schließlich ihre andere Hand. Seine Erlebnisse mit der verwandelten Fox und der Blutvettel hatten deutliche Spuren hinterlassen. Er blieb still, erschöpft und innerlich weit entfernt von seiner sonstigen Entschlossenheit.
+
+Rasmus bot der Gruppe an, die Nacht in seiner nahe gelegenen Höhle zu verbringen. Tobin prüfte sein Verhalten aufmerksam und kam zu dem Schluss, dass der Riese keine bösen Absichten hatte. Er war selbst von der Folter erschöpft und wollte den Gefährten lediglich etwas von der Hilfe zurückgeben, die sie ihm erwiesen hatten.
+
+Die Höhle erwies sich als überraschend bewohnbar. Rasmus hatte Wege geebnet, einfache Unterteilungen aus Fels gebaut, Vorräte angelegt und eine Feuerstelle eingerichtet.
+
+Beim gemeinsamen Essen erzählte er Brocc von einer Gnomin namens **Kalami**, die er in den Eisenbergen kennengelernt hatte. Sie hatte Rasmus und seine Brüder vergiftet. Seine Brüder starben, doch Rasmus wurde von ihr gerettet. Sie erklärte ihm, dass Riesen einst ihr Leben zerstört hätten und sie deshalb nun das Leben von Riesen zerstöre.
+
+Ihre Beschreibung – besonders die grünen Haare und ihre Gesichtszüge – erinnerte Brocc stark an seine eigene Mutter.
+
+Rasmus berichtete außerdem, Kalami habe ihn davon überzeugt, sich nicht den anderen Riesen anzuschließen. Diese hätten den Befehl erhalten, sich im **Nesselwald** zu sammeln.
+
+Der Befehl stammte von einem Riesen namens **Mokmurian**.
+
+Rasmus beschrieb ihn als mächtig, magiebegabt und unter den Riesen hoch angesehen. Wer sich ihm widersetzte, wurde von ihm getötet. Warum Mokmurian die Riesen im Nesselwald sammeln ließ, wusste Rasmus nicht.
+
+Die Nachricht war besonders beunruhigend, weil der Nesselwald unmittelbar bei Sandspitze lag und der Gruppe aus ihren früheren Abenteuern um die Distelkrone gut bekannt war.
+
+Für Brocc brachte die Geschichte zugleich eine unerwartete persönliche Spur. Seine Mutter war eines Tages ohne Nachricht verschwunden. Nun deutete erstmals etwas darauf hin, dass sie in den Eisenbergen Jagd auf Riesen gemacht hatte und möglicherweise mit den größeren Bewegungen der Riesenvölker in Berührung gekommen war.
+
+## Fox’ fremder Herzschlag
+
+In der Nacht versuchte Fox, die Veränderungen an sich selbst zu verstehen.
+
+Als sie still am Feuer saß und in sich hineinhorchte, erinnerte sie sich an den Moment, in dem Fafnirs Erinnerung durch sie hindurchgegangen war. Tiefer in sich glaubte sie schließlich neben ihrem eigenen Herzschlag noch einen zweiten Rhythmus wahrzunehmen, der sich teilweise mit ihrem synchronisierte.
+
+Sie konnte nicht sagen, was dieses Gefühl bedeutete.
+
+Auch ihre Klaue blieb unverändert. Fafnirs Versuch, einen Fluch von ihr zu nehmen, zeigte keinerlei Wirkung.
+
+Am Morgen stellte sich immerhin heraus, dass Fafnirs schwere Bisswunde aus dem Schädeldamm heilte. Der schwarze Rand um die Verletzung ging zurück, und gesunde Haut bildete sich nach.
+
+Fox erhielt außerdem die beiden Bücher zurück, die sie vor ihrem Tod im geheimen Lesezimmer der Ranickfeste gefunden hatte. Gina hatte sie während ihrer Abwesenheit verwahrt. Fox nahm den Stammbaum der Familie Lysander wieder an sich; das zweite, textlastige Buch gab sie Gina zurück.
+
+## Die Ruine der echten Hütte
+
+Bevor die Gruppe weiterzog, kehrte sie noch einmal zu dem Haus zurück.
+
+Nun stand dort nur noch eine verwüstete kleine Steinhütte. Das Bett war zerbrochen, Geschirr und Werkbank lagen zerstört am Boden, alchemistische Produkte waren verdorben und rohe, noch unverzauberte Zauberstäbe lagen verstreut. Ein leerer Vogelkäfig und ein verwelkter Kräutergarten vervollständigten das Bild eines Ortes, dessen Bewohner nicht freiwillig verschwunden war.
+
+Cal konnte nur noch schwache magische Rückstände wahrnehmen.
+
+Zwischen den Trümmern fand Brocc einen kleinen magischen Gürtel, der als Lichtquelle dienen konnte. Auf seiner Schnalle befand sich jedoch ein bekanntes Zeichen: **ein in der Mitte zerbrochenes Dreieck** – dasselbe Symbol, das die Gruppe bereits auf Lukrezias Waffen und Jakrats Haken des Verderbens gefunden hatte.
+
+Gina barg außerdem mehrere teilweise erhaltene Briefe. Für eine gründliche Lektüre blieb zunächst keine Zeit; sie nahm sie mit.
+
+Fafnir nutzte unterdessen die bei der Blutvettel gefundene Schriftrolle der Genesung, um einen Teil des Lebenskraftentzugs zu beseitigen, den er im Schädeldamm erlitten hatte.
+
+## Rauch über der Ranickfeste
+
+Die Gruppe beriet anschließend ihr nächstes Ziel. Schildkrötenfähre musste nach dem Ablassen des Schädeldamms überprüft werden. Zugleich war die Ranickfeste noch immer nicht vollständig gesichert. Außerdem galt ihr Kommandant **Lamatar Bayden** weiterhin als vermisst; zur Zeit des Ogerangriffs hatte er sich offenbar wie regelmäßig bei Vollmond im Schimmersumpf aufgehalten.
+
+Schließlich entschieden die Gefährten, zunächst zur Ranickfeste zurückzukehren und dort die Lage zu prüfen.
+
+Aus ihrer Richtung stiegen große dunkle Rauchwolken auf.
+
+Auf dem Weg dorthin entdeckte Cal jedoch eine Blutspur, die einen Pfad kreuzte und tiefer in den Wald führte. Die Spuren waren ungefähr einen halben bis einen ganzen Tag alt. Neben dem Blut fanden sich tiefe Abdrücke, die zu Ogern passten. Die Menge des verlorenen Blutes wäre für einen Menschen auf dieser Strecke vermutlich tödlich gewesen.
+
+Eigentlich wollte die Gruppe nur kurz prüfen, ob irgendwo ein verletzter Mensch lag. Doch auch nach mehreren hundert Metern fanden sie keine Leiche.
+
+Cal bestand darauf, der Spur weiter zu folgen, solange die Möglichkeit bestand, dass jemand Hilfe benötigte. Fox begleitete ihn als Kundschafterin, während die übrigen Gefährten mit Abstand folgten.
+
+Der Pfad wurde enger. Mehrere versteckte Bärenfallen lagen zwischen dem Bewuchs, und frische Spuren deuteten auf ungefähr fünf bis sieben Oger hin. Fox entschärfte die Fallen, während Cal die Blutspur weiterverfolgte.
+
+Was als kurzer Abstecher begonnen hatte, führte die Gruppe schließlich immer tiefer vom Weg zur Ranickfeste fort.
+
+Nach ungefähr einer Stunde erreichten Cal und Fox ein nahezu stehendes Gewässer. Der Pfad setzte sich auf der anderen Seite fort.
+
+Fox war inzwischen überzeugt, dass sie einem verletzten Oger folgten, und stellte zunehmend infrage, wie weit sie die Suche noch treiben sollten. Cal blieb bei seiner Haltung: Solange nicht feststand, wer dort verletzt war, machte es für ihn keinen Unterschied, ob es sich um einen Menschen, Riesen, Oger oder Goblin handelte.
+
+Fox prüfte seine Absichten und erkannte darin keine Täuschung. Cal handelte tatsächlich aus tiefem Glauben und einem ausgeprägten Ehrgefühl.
+
+Dann sprang er ins Wasser, um die Spur auf der anderen Seite weiterzuverfolgen.
+
+Fox blieb am Ufer zurück, während der Rest der Gruppe noch hinter ihnen aufschloss.
+
+## Aktueller Stand
+
+* Fox lebt wieder und ist zur Gruppe zurückgekehrt. Ihre schwarze Klauenhand blieb bestehen; weder ihre genaue Natur noch die Ursache der übertragenen Erinnerung und des von Fox wahrgenommenen zweiten Herzschlags sind geklärt.
+* Die vermeintliche Mutter Weide war eine Blutvettel. Nach ihrem Tod brach die magisch veränderte Erscheinung des Hauses zusammen; das Schicksal der echten Bewohnerin der Hütte ist ungeklärt.
+* Rasmus, ein von der Vettel gefolterter Riese, ist frei und lebt wieder in seiner Höhle im Splitterbaumtal.
+* Rasmus berichtete von Mokmurian, einem mächtigen und gefürchteten magiebegabten Riesen, der andere Riesen im Nesselwald sammeln ließ.
+* Die Gnomin Kalami, die Rasmus’ Brüder vergiftete und ihn selbst verschonte, könnte Broccs verschwundene Mutter sein.
+* In den Überresten der Hütte wurde erneut das Symbol des in der Mitte zerbrochenen Dreiecks gefunden. Gina besitzt außerdem mehrere noch nicht vollständig gelesene Briefe aus der Hütte.
+* Die Gruppe wollte die Ranickfeste erneut aufsuchen; aus ihrer Richtung waren große dunkle Rauchwolken zu sehen. Lamatar Bayden bleibt vermisst.
+* Cal und Fox befinden sich am Rand eines nahezu stehenden Gewässers, nachdem sie einer älteren Blut- und Ogerspur tief in den Wald gefolgt sind. Cal ist ins Wasser gegangen, um die Spur weiterzuverfolgen; die übrige Gruppe folgt mit Abstand.
+
 # Sitzung vom 26. August 2026: Die Schleusen öffnen sich
 
 Tief im überfluteten Inneren des Schädeldamms setzte die Gruppe ihren Weg fort. Hinter ihr lauerte weiterhin das riesige schwarze Wesen mit seinen zahlreichen roten Augen, das Fafnir bereits schwer gebissen hatte. Vor ihr lag ein unbekannter Teil des uralten Bauwerks. Die Kälte hatte längst durch Kleidung und Rüstung gegriffen, die magische Wasseratmung näherte sich ihrem Ende, und immer wieder erschütterten dumpfe Schläge das Mauerwerk.
