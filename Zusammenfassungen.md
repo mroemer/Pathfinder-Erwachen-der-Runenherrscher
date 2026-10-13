@@ -1,3 +1,134 @@
+# Sitzung vom 7. Oktober 2026: Eine Spur aus Blut und goldenen Haaren
+
+Die Gruppe folgt weiterhin der Blutspur eines verletzten Ogers tief in den Kriegwald. Cal führt die Spurensuche an, während die anderen vorsichtig nachrücken. Der Weg wird immer enger und dunkler, bis die Verfolger einen etwa fünf Meter breiten, nahezu stehenden Bach erreichen. Auf dem gegenüberliegenden Ufer setzt sich die Spur fort.
+
+Cal springt kurzerhand ins Wasser - und tritt auf etwas, das unter seinen Füßen nachgibt. Augenblicke später schießt eine gewaltige Schallwelle aus dem Bach. Ein ohrenbetäubender Schrei erschüttert den Wald und lässt die Trommelfelle von Cal und Fox bluten. Als Cal versucht, dem Angriff auszuweichen, löst er eine weitere Schallentladung aus. Diesmal klingt der Schrei wie das unnatürlich verstärkte Kreischen eines Babys.
+
+Cal wird durch die Luft auf das gegenüberliegende Ufer geschleudert. Fox bleibt zunächst zurück. Als die übrige Gruppe eintrifft, schlägt ein Speer knapp neben Cal ins Wasser und löst eine weitere Schallwelle aus. Der erneute Angriff trifft die gesamte Gruppe und bringt Cal bewusstlos zu Boden.
+
+Aus dem Wald tritt ein verletzter Oger hervor. Ihm fehlt ein Fuß, doch das hindert ihn nicht daran, sich mit gezogener Klinge auf den wehrlosen Cal zuzubewegen. Gina eröffnet das Feuer und trifft den Oger. Fox nimmt Anlauf, überspringt den Bach mit einem beeindruckenden akrobatischen Satz und stürzt sich auf den Angreifer. Mit ihren Klingen fügt sie ihm eine tödliche Halsverletzung zu.
+
+Der Oger ist besiegt, doch die Gruppe erkennt, dass sein fehlender Fuß nicht durch eine Bärenfalle abgetrennt wurde. Die Verletzung stammt von einem gewaltigen Biss.
+
+## Erinnerungen, die Fox' Klaue weckt
+
+Während Cal bewusstlos am Boden liegt, versucht Fox, ihn zu stabilisieren. Dabei berührt sie ihn unbeabsichtigt mit ihrer schwarzen Klaue.
+
+Wie zuvor bei Fafnir wird eine schmerzhafte Erinnerung ausgelöst. Fox erlebt Cals Vergangenheit mit: Während seiner Ausbildung war er mit seinem Meister unterwegs, einem gutmütigen Menschen, der für ihn zur wichtigsten Bezugsperson geworden war. Eines Morgens erwachte Cal allein. Sein Meister war verschwunden. Trotz verzweifelter Suche fand Cal keine Spur von ihm und blieb mit Angst, Verlorenheit und tiefer Niedergeschlagenheit zurück.
+
+Fox spürt die Emotionen dieser Erinnerung unmittelbar. Zugleich bemerkt sie, dass etwas versucht, diese Gefühle in sich aufzunehmen. Diesmal gelingt es ihr jedoch, sich dagegen zu wehren. Sie behält die Erinnerung und die damit verbundenen Gefühle bei sich, statt sie der unbekannten Macht zu überlassen.
+
+Brocc ermöglicht Fafnir mit einem Flugzauber die Überquerung des Bachs. Fafnir versorgt Cal und bringt ihn schließlich zurück zur Gruppe.
+
+## Der abyssische Geysir
+
+Bei der Untersuchung des Gewässers entdecken die Abenteurer unter der trüben Wasseroberfläche mehrere kleine, hügelartige Öffnungen.
+
+Tobin erinnert sich an die Schriften des eigenwilligen Dr. Dranzel und identifiziert das Phänomen als abyssischen Geysir. Solche Öffnungen können an verschiedenen Orten der materiellen Ebene auftreten und dämonische Energie aus dem Abyss freisetzen. Manche entladen elementare Kräfte, andere - wie dieser - zerstörerische Schallwellen. Sie reagieren auf Bewegung oder die Nähe von Lebewesen.
+
+Dr. Dranzel vertrat sogar die Theorie, diese Geysire seien notwendige Ablassventile für die Dämonenwelt. Würde man sie alle verschließen, könnte sich der Druck auf die materielle Ebene gefährlich erhöhen.
+
+Die Gruppe diskutiert, ob sie andere Reisende vor der Gefahr warnen sollte. Eine endgültige Lösung findet sie nicht.
+
+Fox bemerkt außerdem, dass die dämonische Energie in ihr ein merkwürdiges Gefühl ausgelöst hat: Sehnsucht, beinahe wie Heimweh. Eine weitere beunruhigende Verbindung zwischen ihrer Veränderung und den Mächten des Abyss.
+
+## Shalelus Spur
+
+Am gegenüberliegenden Ufer entdecken die Abenteurer mehrere einzelne goldene Haare, an denen Blut haftet. Brocc erkennt an ihrem Geruch eine deutliche Ähnlichkeit mit Shalelu.
+
+Die Gruppe befürchtet, dass die Waldläuferin von den Ogern verschleppt wurde. Zwar hatte Shalelu ursprünglich nach Schildkrötenfähre aufbrechen wollen, doch die gefundenen Haare deuten darauf hin, dass sie stattdessen tiefer in den Kriegwald gebracht wurde.
+
+Die Gruppe entscheidet sich, der Spur weiter zu folgen.
+
+Unterwegs entdecken die Abenteurer weitere goldene Haare, die auffällig an Ästen hängen. Sie befinden sich durchgehend etwa zweieinhalb Meter über dem Boden. Die Gruppe erkennt darin eine bewusst hinterlassene Spur: Shalelu wird offenbar von einem Oger getragen und nutzt jede Gelegenheit, einzelne Haare an der Vegetation zu befestigen, damit mögliche Retter ihr folgen können.
+
+Damit wird aus der Verfolgung der Oger eine Rettungsmission.
+
+## Ein Wettlauf gegen die Zeit
+
+Die Spuren führen immer weiter bergauf in die Eisenberge, offenbar in Richtung des Großen Hakens, eines gewaltigen Bergmassivs, das als Hauptquartier der Kriegoger bekannt ist.
+
+Die Gruppe hat bereits viele Stunden verloren. Zwischen Shalelus Verschwinden und der Verfolgung liegt mindestens eine längere Rast. Niemand weiß, wie weit die Oger voraus sind oder ob Shalelu noch lebt.
+
+Um sie möglichst vor dem Erreichen der Ogerfestung einzuholen, geben die Abenteurer ihre vorsichtige, heimliche Fortbewegung weitgehend auf und beginnen einen Gewaltmarsch.
+
+Der Weg steigt stetig an. Der Wald wird von Nadelbäumen geprägt, die Luft immer kälter, und schließlich tauchen erste Schneefelder auf. Die Anstrengung setzt insbesondere den Gefährten mit kürzeren Beinen zu. Fafnir muss wiederholt Heilmagie einsetzen, um die Folgen von Erschöpfung und Kälte abzumildern.
+
+Die Gruppe versucht, sich mit zusätzlichen Kleidungsschichten zu schützen. Kyras verteilt mitgebrachte Kultistenkutten, Brocc teilt sogar eine davon mit Fafnir. Zwischendurch sorgt eine herumgereichte Flasche Rotwein für etwas Ablenkung von den Strapazen.
+
+## Unheimliche Verfolger
+
+Als die Dunkelheit hereinbricht, bemerkt Gina, die die Nachhut bildet, fremde Schritte hinter der Gruppe. Sobald die Abenteurer stehen bleiben, verstummen auch die Geräusche.
+
+Brocc schickt Tanzende Lichter in den Wald und enthüllt drei groteske Gestalten: zwei monströse Wesen, deren Körper aus Gliedmaßen verschiedener Kreaturen zusammengesetzt sind, und ein Skelett, aus dessen Mund Eingeweide und eine lange Zunge hängen.
+
+Tobin erkennt, dass es sich bei den beiden zusammengesetzten Wesen um Fleischgolems handelt. Das dritte Wesen kann die Gruppe nicht genauer identifizieren.
+
+Die Kreaturen greifen nicht an. Sie stehen regungslos im Wald und beobachten die Abenteurer.
+
+Fafnir wirkt Hide from Undead, um die Gruppe vor der Wahrnehmung durch Untote zu verbergen. Die Gefährten setzen ihren Weg fort, doch die drei Gestalten folgen ihnen weiterhin in gleichbleibendem Abstand.
+
+Besonders beunruhigend ist ihr Verhalten: Gina experimentiert damit, zurückzubleiben und ihre Bewegungen zu verändern. Die Kreaturen bleiben stehen, solange sie selbst wartet, und folgen wieder, sobald sie sich in Bewegung setzt. Sie scheinen vor allem auf Gina beziehungsweise die Nachhut zu reagieren.
+
+Die Gruppe diskutiert, ob sie die Verfolger bekämpfen oder ignorieren sollte. Kyras befürchtet, zwischen den unbekannten Kreaturen und den Ogern eingekesselt zu werden. Die Mehrheit möchte jedoch keine Zeit verlieren und setzt die Rettungsmission fort.
+
+## Eine Nacht unter Beobachtung
+
+Unterwegs begegnet die Gruppe einer weiteren Gefahr: ungewöhnlichen Blumen, die nur nachts ihre Blüten öffnen und verwirrende Sporen freisetzen. Brocc und Tobin erkennen die Gefahr rechtzeitig. Die Gefährten schützen Mund und Nase mit Stoff und passieren die Pflanzen vorsichtig.
+
+Die Verfolger hingegen bewegen sich unbeirrt an den Blumen vorbei.
+
+Der Marsch wird zunehmend unerträglich. Schnee, Kälte und die körperliche Belastung zwingen die Abenteurer schließlich zu einer Rast. Sie finden eine kleine, windgeschützte Lichtung mit moosigem Boden.
+
+Brocc überrascht die Gruppe mit dem Zauber Tiny Hut: Eine grüne magische Barriere bildet eine angenehm warme, von außen blickgeschützte Unterkunft. Nach den Strapazen des Tages ist die Erleichterung groß.
+
+Die Gruppe richtet eine Nachtwache ein. Gina übernimmt die erste Schicht und hört, wie die unheimlichen Verfolger langsam um die Hütte herumgehen, bevor sie stehen bleiben. Während der gesamten Nacht greifen sie nicht an.
+
+Am Morgen sind die Gefährten einigermaßen erholt. Doch als sie hinausschauen, stehen die drei Kreaturen noch immer in einiger Entfernung und warten.
+
+## Durch Schnee und lebendige Wurzeln
+
+Die Gruppe setzt die Verfolgung fort. Inzwischen liegt auf weiten Teilen des Weges Schnee, und die großen Fußabdrücke der Oger sind leichter zu erkennen. Schneeregen erschwert allerdings das Vorankommen.
+
+Gegen Abend können die Abenteurer erstmals die fünf Oger in der Ferne ausmachen. Noch immer folgen ihnen die drei unheimlichen Gestalten.
+
+Auf einem verschneiten Waldweg bemerkt Cal auffällige Unebenheiten im Boden. Fox untersucht sie und entdeckt darunter Wurzeln, die sich langsam auf ihre Hand zubewegen. Offenbar handelt es sich um eine weitere gefährliche Stelle.
+
+Cal erkennt anhand der Ogerspuren, dass die großen Kreaturen den Bereich vorsichtig umgangen haben. Er zeigt der Gruppe einen sicheren Weg. Einige Gefährten überwinden die Wurzeln mit akrobatischen Bewegungen, andere nutzen erneut Flugmagie, um das Hindernis zu umgehen.
+
+Als die Verfolger die Stelle erreichen, zeigt sich eine weitere verstörende Eigenschaft der Fleischgolems: Ihre Körper können sich auf unnatürliche Weise verformen. Knochen, Sehnen und Gliedmaßen verschieben sich, während die Wesen nahezu mühelos das Hindernis überwinden.
+
+Die Gruppe entkommt ihnen nicht.
+
+## Endlich in Sichtweite
+
+Nach weiteren Stunden des Marsches erreichen die Abenteurer eine felsigere Landschaft am Fuß des gewaltigen Bergmassivs. Zwischen großen Steinen und vereinzelten Bäumen führt der Weg durch eine Schlucht und schließlich zu einer kleinen Waldlichtung.
+
+Dort haben die fünf Oger Rast gemacht.
+
+Die Gruppe nähert sich bis auf etwa 50 bis 100 Meter. Mit dem letzten Tageslicht können die Abenteurer erkennen, dass die Oger angehalten haben und Shalelu bei ihnen am Boden liegt.
+
+Damit bestätigt sich die Befürchtung der Gruppe: Die Waldläuferin wurde tatsächlich von den Ogern verschleppt.
+
+Ihre tierischen Begleiter sind nicht zu sehen.
+
+Hinter der Gruppe warten weiterhin die drei unheimlichen Verfolger. Vor ihr lagern fünf Oger mit ihrer Gefangenen.
+
+Brocc erwägt bereits, sich unsichtbar in das Lager zu schleichen und Shalelu herauszuholen. Fox möchte ebenfalls ihre Fähigkeiten zum Anschleichen einsetzen. Ob die Gruppe einen heimlichen Rettungsversuch wagt oder die Oger offen angreift, bleibt zunächst unentschieden.
+
+Hier endet die Sitzung: Shalelu ist endlich gefunden, doch ihre Rettung steht noch bevor - und die drei unbekannten Verfolger könnten jederzeit zu einer zusätzlichen Gefahr werden.
+
+## Offene Fragen und nächste Schritte
+
+- Shalelus Rettung: Wie kann die Gruppe sie aus dem Lager der fünf Oger befreien, ohne sie zu gefährden?
+- Die drei Verfolger: Warum folgen die beiden Fleischgolems und das Skelett der Gruppe, ohne anzugreifen? Wer oder was kontrolliert sie?
+- Fox' schwarze Klaue: Warum kann sie schmerzhafte Erinnerungen anderer Menschen hervorrufen und deren Emotionen absorbieren? Was bedeutet Fox' Sehnsucht beim Kontakt mit dämonischer Energie?
+- Der Große Haken: Welche Rolle spielt die Ogerfestung bei den aktuellen Ereignissen, und warum wurde Shalelu dorthin verschleppt?
+- Die abyssischen Geysire: Warum befinden sich diese dämonischen Auslässe im Kriegwald?
+- Die Ranickfeste: Die Rückkehr dorthin und die Untersuchung der zuvor gesehenen Rauchwolken stehen weiterhin aus.
+
+Die Gruppe hat Shalelus Spur trotz eines gefährlichen Gewässers, eines Ogerangriffs, eines kräftezehrenden Gewaltmarsches und dreier unheimlicher Verfolger nicht aufgegeben. Nun steht sie unmittelbar vor der Rettung ihrer Verbündeten - aber zwischen ihr und Shalelu befinden sich noch fünf Oger.
+
 # Sitzung vom 9. September 2026: Fox’ Rückkehr und die Spur der Riesen
 
 Nachdem die Gruppe den Schädeldamm vor dem Bersten bewahrt hatte, kehrte sie durch das Splitterbaumtal zu Mutter Weide zurück. Dort sollte endlich eingelöst werden, worauf die Gefährten seit Fox’ Tod gehofft hatten: ihre Wiederbelebung.

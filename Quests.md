@@ -47,7 +47,7 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Anschließend kehrte die Gruppe zu Mutter Weide ins Splitterbaumtal zurück.
   * Mutter Weide entpuppte sich als Blutvettel. Fox lebte wieder, stand zunächst jedoch unter fremder Kontrolle. Die Gruppe tötete die Vettel und ihre Diener; Fox gewann die Kontrolle über sich zurück.
   * Nach einer Rast bei dem befreiten Riesen Rasmus machte sich die Gruppe wieder auf den Weg zur Ranickfeste. Aus Richtung der Feste waren große dunkle Rauchwolken zu sehen.
-  * Auf dem Weg entdeckte Cal eine ältere Blutspur sowie Spuren von etwa fünf bis sieben Ogern. Die Gruppe folgt dieser Spur derzeit in den Wald, bevor sie zur Ranickfeste zurückkehrt.
+  * Auf dem Weg entdeckte Cal eine ältere Blutspur sowie Spuren von etwa fünf bis sieben Ogern. Die Gruppe folgte den Spuren durch den Kriegwald und fand Hinweise darauf, dass Shalelu von den Ogern verschleppt wurde (siehe Quest "Rettet Shalelu aus den Händen der Oger").
   * Lamatar Bayden, der Kommandant der Ranickfeste, gilt weiterhin als vermisst. Zur Zeit des Ogerangriffs hielt er sich offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
@@ -60,6 +60,35 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
 ### Auftragstext
 
 Der Bürgermeister hält eine Rede, er wolle uns belohnen für unseren Mut und er hätte uns nicht nur wegen des Festes eingeladen. Er erwähnt die Feste Ranik - geführt von Waldläufern, von der lange keine Nachricht mehr gekommen ist. Außerdem gibt es Gerüchte aus Schildkrötenfähre von Ogern. Er hat eine "Bitte" - eher einen Auftrag - für uns. Sein Assistent übergibt Hagen eine Schatulle mit einem Siegel, Reisepapieren, Brief an die Bewohner, etc. für Schildkrötenfähre. Er verspricht jedem von uns 350 GM für die Ausgaben und Dienste. Hagen handelte ihn auf 355 GM hoch. Er spricht einen Toast auf uns.
+
+## Rettet Shalelu aus den Händen der Oger
+
+### Auftraggeber
+
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+
+* [x] Findet heraus, was mit Shalelu geschehen ist.
+
+  * Auf der Verfolgung einer Blutspur durch den Kriegwald entdeckte die Gruppe an einem Bach mehrere einzelne goldene Haare mit Blut daran. Brocc erkannte an ihrem Geruch eine Ähnlichkeit mit Shalelu.
+  * Weitere goldene Haare waren in etwa 2,50 Metern Höhe an Ästen befestigt. Die Gruppe erkannte, dass Shalelu von den Ogern getragen wurde und selbst eine Spur für mögliche Retter hinterließ.
+
+* [x] Verfolgt die Oger und findet Shalelu.
+
+  * Die Gruppe folgte der Spur im Gewaltmarsch durch den zunehmend verschneiten Wald in Richtung des Großen Hakens, des Hauptquartiers der Kriegoger.
+  * Dabei wurde sie von zwei Fleischgolems und einem unidentifizierten Skelett verfolgt. Die drei Kreaturen griffen nicht an, blieben der Gruppe aber auch nach einer Nachtruhe auf den Fersen.
+  * Schließlich holte die Gruppe fünf Oger ein, die auf einer Waldlichtung Rast machten. Shalelu lag eindeutig erkennbar am Boden ihres Lagers.
+
+* [ ] Befreit Shalelu aus der Gefangenschaft der Oger.
+
+  * Die Gruppe befindet sich etwa 50 bis 100 Meter vom Ogerlager entfernt. Die fünf Oger haben die Abenteurer offenbar noch nicht entdeckt.
+  * Brocc erwägt, sich unsichtbar ins Lager zu schleichen und Shalelu zu befreien. Ob die Gruppe heimlich vorgeht oder die Oger offen angreift, ist noch nicht entschieden.
+  * Die drei unheimlichen Verfolger befinden sich weiterhin hinter der Gruppe.
+
+### Auftragstext
+
+Shalelu wurde auf ihrem Weg nach Schildkrötenfähre offenbar von Ogern verschleppt. Die Gruppe entdeckte ihre Spur im Kriegwald und folgte ihr bis in die Eisenberge in Richtung des Großen Hakens. Dort fand sie Shalelu in der Gewalt von fünf Ogern. Nun gilt es, sie zu befreien.
 
 ## Rettet Hagen und Mako
 

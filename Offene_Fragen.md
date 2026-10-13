@@ -1,9 +1,13 @@
+
 # Offene Fragen
 
-* Wohin führt die Blutspur im Wald, und wer oder was wurde dort verletzt? Die Spur ist etwa einen halben bis ganzen Tag alt, enthält für einen Menschen vermutlich zu viel Blut und wird von frischen Spuren von ungefähr fünf bis sieben Ogern begleitet. Sie führte über einen schmalen, mit Bärenfallen gesicherten Pfad bis zu einem nahezu stehenden Gewässer. Cal setzte die Verfolgung fort, weil er nicht ausschließen wollte, dass jemand Hilfe benötigt. - 260909
+* Wer oder was sind die drei unheimlichen Verfolger der Gruppe, und warum folgen sie ihr, ohne anzugreifen? Zwei der Kreaturen wurden als Fleischgolems erkannt, die dritte ist ein Skelett mit herausquellenden Eingeweiden und einer langen Zunge. Sie folgen der Gruppe seit dem Gewaltmarsch durch den Kriegwald, bleiben bei Pausen stehen und warteten sogar während der Nachtruhe vor der magischen Schutzhütte. Besonders auffällig ist ihre Reaktion auf Gina, die die Nachhut bildet. - 261007
+* Wie kann die Gruppe Shalelu aus der Gewalt der fünf Oger befreien? Die Oger haben auf einer Waldlichtung in den Eisenbergen, in Richtung des Großen Hakens, Rast gemacht. Shalelu liegt erkennbar am Boden ihres Lagers. Die Gruppe befindet sich etwa 50 bis 100 Meter entfernt und erwägt einen heimlichen Rettungsversuch. Die drei unheimlichen Verfolger befinden sich weiterhin hinter ihr. - 261007
+* Was hat es mit den abyssischen Geysiren im Bach im Kriegwald auf sich? Mehrere gleichartige Öffnungen unter der Wasseroberfläche setzen bei Berührung oder Annäherung gewaltige Schallwellen frei. Tobin identifizierte sie anhand der Schriften von Dr. Dranzel als Auslässe dämonischer Energie aus dem Abyss. Warum sie sich gerade dort befinden, ist unbekannt. - 261007
+* Warum verspürte Fox beim Kontakt mit der dämonischen Energie des abyssischen Geysirs eine Art Sehnsucht oder Heimweh? Könnte dies mit ihrer schwarzen Klaue, ihrer Wiederbelebung oder dem unbekannten Einfluss auf sie zusammenhängen? - 261007
 * Warum sammeln sich auf Mokmurians Befehl Riesen im Nesselwald, und was plant er dort? Rasmus beschrieb Mokmurian als mächtigen, magiebegabten Riesen mit hohem Ansehen unter seinesgleichen, der Gegner unter den Riesen tötet. - 260909
 * Ist Kalami tatsächlich Broccs verschwundene Mutter, und was tut sie in den Eisenbergen? Rasmus beschrieb eine grünhaarige Gnomin namens Kalami, die ihn und seine Brüder vergiftete, ihn jedoch anschließend rettete. Ihre Beschreibung erinnert Brocc stark an seine Mutter, die vor längerer Zeit ohne Nachricht verschwand. - 260909
-* Was ist mit Fox' rechter Hand geschehen? Nach ihrer Rückkehr blieb eine schwarze Klauenhand zurück, die selbst keine erkennbare Magie ausstrahlt. Als Fafnir sie berührte, erlebte Fox eine schmerzhafte Erinnerung aus seiner Vergangenheit mit. Ein Versuch, einen möglichen Fluch zu brechen, veränderte die Klaue nicht. - 260909
+* Was ist mit Fox' rechter Hand geschehen? Nach ihrer Rückkehr blieb eine schwarze Klauenhand zurück, die selbst keine erkennbare Magie ausstrahlt. Als Fafnir sie berührte, erlebte Fox eine schmerzhafte Erinnerung aus seiner Vergangenheit mit. Ein Versuch, einen möglichen Fluch zu brechen, veränderte die Klaue nicht. Bei einer späteren Berührung mit Cal erlebte Fox auch dessen schmerzhafte Erinnerung an seinen verschwundenen Meister. Dabei versuchte etwas, die ausgelösten Emotionen zu absorbieren, was Fox durch einen erfolgreichen Willenswurf verhindern konnte. - 260909
 * Warum nimmt Fox neben ihrem eigenen Herzschlag einen zweiten, teilweise synchronen Rhythmus wahr, und hängt dies mit ihrer Wiederbelebung oder der Klauenhand zusammen? - 260909
 * Was geschah mit der echten Bewohnerin der Hütte im Splitterbaumtal? Nach dem Tod der Blutvettel brach die magisch veränderte Erscheinung des Hauses zusammen. Zurück blieb eine verwüstete kleine Steinhütte mit Kräutergarten, alchemistischen Resten, Zauberstabrohlingen und Briefen, die auf eine frühere Bewohnerin hindeuten. - 260909
 * Was steht in den Briefen, die Gina in der verwüsteten Hütte im Splitterbaumtal gefunden hat? Sie wurden mitgenommen, aber noch nicht vollständig gelesen. - 260909
@@ -26,6 +30,10 @@
 * Was wird aus den Ogern in der Ranickfeste? Gewinnt der kleine Oger mit den drei Haaren auf der Beule, den Tobin zum Anführer der Oger ernannt hat, den Kampf um die Nachfolge von Jakrat? - 260715
 
 # Beantwortet
+
+* Wohin führt die Blutspur im Wald, und wer oder was wurde dort verletzt? Die Spur ist etwa einen halben bis ganzen Tag alt, enthält für einen Menschen vermutlich zu viel Blut und wird von frischen Spuren von ungefähr fünf bis sieben Ogern begleitet. Sie führte über einen schmalen, mit Bärenfallen gesicherten Pfad bis zu einem nahezu stehenden Gewässer. Cal setzte die Verfolgung fort, weil er nicht ausschließen wollte, dass jemand Hilfe benötigt. - 260909
+
+  261007: Die Blutspur stammte von einem verletzten Oger, dem durch einen gewaltigen Biss ein Fuß abgetrennt worden war. Er griff Cal am Bach an und wurde von Fox getötet. Die weiteren Ogerspuren führten in Richtung des Großen Hakens, wo die Gruppe fünf Oger mit der gefangenen Shalelu entdeckte.
 
 * Wer ist der etwa vier Meter große, weißbärtige Hüne, den Mutter Weides Diener gefangen hielten und folterten? - 260826
 
