@@ -1,3 +1,27 @@
+# Sitzung vom 14. Oktober 2026: Rettung im Schneesturm
+
+## Am Ogerlager
+
+Die Gruppe schleicht sich an das Lager der Oger heran. Während die anderen an den Felsen Stellung beziehen, macht Brocc sich unsichtbar und fliegt voraus. Er sieht eine Ogerfrau, die einen anderen Oger anschreit, sowie Shalelu bewusstlos am Boden. Ein Oger versucht, sie zu stabilisieren. Brocc teleportiert Shalelu mit Dimensionstür zurück zur Gruppe.
+
+Shalelu ist stark unterkühlt, hat kaum noch Kraft und wurde am Kopf verletzt; ihre Waffen haben die Oger ihr abgenommen. Fafnir heilt sie, woraufhin sie wieder zu sich kommt. Sie bleibt jedoch erschöpft und kann kaum kämpfen. Während die Oger bemerken, dass sie verschwunden ist, taucht das Skelett aus dem Wald auf und schlägt mit seinen Waffen Lärm. Es zieht sich anschließend hinter die Felsen zurück, doch die Oger und die unheimlichen Verfolger rücken näher.
+
+Die Gruppe verteilt sich zwischen den Felsen. Gina nimmt eine erhöhte, verschneite Stellung ein, Fox hält sich verborgen und wartet auf eine Gelegenheit zum Angriff. Als der erste Oger heranstürmt, trifft Gina ihn aus dem Hinterhalt. Kyras nutzt den Moment und verwundet ihn schwer. Tobin stärkt die Gruppe mit seinem Lied und wirkt Hast auf die Gefährten, von denen er weiß, wo sie sind.
+
+## Der Kampf zwischen den Felsen
+
+Die Gegner kommen von mehreren Seiten: Oger, die zauberkundige Ogerfrau, die Fleischgolems und das Skelett. Die Ogerfrau schleudert einen Blitzstrahl durch die Gruppe und trifft dabei auch Shalelu und Brocc. Brocc erwidert den Angriff mit einer Säurebombe, die einen Fleischgolem schwer beschädigt. Fafnir heilt Shalelu teilweise von ihrer Erschöpfung.
+
+Cal stürzt im Schnee vor einem Oger, kann sich aber wieder aufrichten und in den Kampf eingreifen. Shalelu nimmt Ginas Bogen und schießt auf einen Fleischgolem. Gina entdeckt das Skelett hinter den Konstrukten und trifft es mit einem Schuss. Fox und Kyras greifen einen der Fleischgolems im Nahkampf an; Fox richtet dabei schweren Schaden an. Kyras tötet einen Fleischgolem, während Tobin einen Oger mit Glitterdust blendet. Fafnir wirft diesen Oger später zu Boden, und die Gruppe schlägt ihn nieder, bevor er wieder aufstehen kann.
+
+Das Skelett erreicht Gina auf ihrer erhöhten Position und lähmt sie mit seiner langen Zunge. Es setzt zu einem tödlichen Angriff an, doch Kyras stößt es von ihr herunter und wird dabei selbst kurz von der Zunge berührt. Die Lähmung erfasst sein Bein, lässt aber wieder nach. Während Gina bewegungsunfähig bleibt, kämpfen Fox und Cal gegen die Fleischgolems. Einer der Konstrukte wird zerstört; Fox trennt einem weiteren den Unterarm ab. Kyras hält das Skelett am Boden fest und vernichtet es schließlich. Damit endet die unmittelbare Gefahr für Gina, auch wenn sie zunächst noch gelähmt bleibt.
+
+Brocc greift das Totem der Ogerfrau mit Säure an und zerstört es. Die Ogerfrau reagiert panisch; die Runen auf ihr erlöschen. Sie scheint nicht mehr kämpfen zu wollen und geht in Deckung. Der verbliebene Fleischgolem ist jedoch noch kampffähig und greift Cal an. Als Kyras Gina aus seiner Reichweite ziehen will, trifft der Golem sie noch einmal.
+
+## Sitzungsende
+
+Der Kampf ist nicht entschieden. Der verbliebene Fleischgolem steht noch und ist laut Spielleitung vergleichsweise unverletzt; auch die Ogerfrau und weitere Gegner sind nicht besiegt. Gina ist weiterhin gelähmt, aber Kyras hat sie aus der unmittelbaren Reichweite des Golems gezogen. Shalelu ist schwer angeschlagen und wurde im Kampf zu Boden geschlagen; ihr Zustand am Ende wird nicht mehr geklärt.
+
 # Sitzung vom 7. Oktober 2026: Eine Spur aus Blut und goldenen Haaren
 
 Die Gruppe folgt weiterhin der Blutspur eines verletzten Ogers tief in den Kriegwald. Cal führt die Spurensuche an, während die anderen vorsichtig nachrücken. Der Weg wird immer enger und dunkler, bis die Verfolger einen etwa fünf Meter breiten, nahezu stehenden Bach erreichen. Auf dem gegenüberliegenden Ufer setzt sich die Spur fort.

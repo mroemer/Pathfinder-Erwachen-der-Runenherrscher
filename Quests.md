@@ -82,9 +82,10 @@ Die Gruppe / Eigenes Ziel
 
 * [ ] Befreit Shalelu aus der Gefangenschaft der Oger.
 
-  * Die Gruppe befindet sich etwa 50 bis 100 Meter vom Ogerlager entfernt. Die fünf Oger haben die Abenteurer offenbar noch nicht entdeckt.
-  * Brocc erwägt, sich unsichtbar ins Lager zu schleichen und Shalelu zu befreien. Ob die Gruppe heimlich vorgeht oder die Oger offen angreift, ist noch nicht entschieden.
-  * Die drei unheimlichen Verfolger befinden sich weiterhin hinter der Gruppe.
+  * Brocc teleportierte Shalelu aus dem Lager zur Gruppe. Fafnir heilte sie, doch sie blieb erschöpft und schwer angeschlagen.
+  * Die Oger hatten Shalelu ihre Waffen abgenommen. Sie nahm eine Armbrust von Fox und Ginas Bogen an sich und konnte im Kampf einen Fleischgolem beschießen.
+  * 261014: Die drei Verfolger griffen gemeinsam mit den Ogern an. Die Gruppe zerstörte das Skelett und besiegte Fleischgolems; mindestens ein Fleischgolem stand am Sitzungsende noch. Brocc zerstörte das Totem der Ogerfrau, woraufhin die Runen auf ihr erloschen und sie panisch reagierte.
+  * 261014: Shalelu wurde im Kampf erneut niedergeschlagen. Der Kampf am Ogerlager ist beim Sitzungsende noch im Gang; nicht alle Oger sind besiegt und Shalelus Zustand ist ungeklärt. Ihre Befreiung aus dem Lager gelang, ihre Rettung ist aber noch nicht abgeschlossen.
 
 ### Auftragstext
 

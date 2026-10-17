@@ -60,11 +60,14 @@ Arbeite so, als würdest du den verbindlichen Kanon dieser Runde fortschreiben.
   - vollständiger Ablauf inkl. Entscheidungen und Endzustand
 
 - `Dramatis_personae.md`
-  - nur bestätigte Informationen
+  - dient der Beschreibung von Personen: bestätigte, dauerhafte Merkmale, Hintergründe, Rollen und Beziehungen
+  - keine Sitzungschronik, Questverläufe oder vorübergehenden Zustände wie aktuelle Aufenthaltsorte, Verletzungen oder Gefangenschaft eintragen
+  - dauerhafte Veränderungen einer Person, etwa ihr Tod, dürfen festgehalten werden
   - bestehende Einträge erweitern, nicht duplizieren
 
 - `Quests.md`
   - nur bei tatsächlichen Statusänderungen anpassen
+  - aktuellen Questfortschritt, Sitzungsereignisse und vorübergehende Zustände der Beteiligten hier dokumentieren
 
 - `README.md`
   - nur bei strukturellen Änderungen bearbeiten
