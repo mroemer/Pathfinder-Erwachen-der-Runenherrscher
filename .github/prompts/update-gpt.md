@@ -4,4 +4,4 @@ description: "Updates the custom GPT based on the latest session summary and cur
 agent: "edit"
 ---
 
-Edit yourself based on the summary of the last session and the current active quests and dramatis personae.
+Schreibe einen Update-Prompt für den Custom GPT basierend auf der Zusammenfassung der letzten Sitzung sowie den aktuellen aktiven Quests und der Dramatis Personae.
