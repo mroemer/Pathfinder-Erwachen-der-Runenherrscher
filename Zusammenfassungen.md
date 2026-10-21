@@ -20,7 +20,7 @@ Brocc greift das Totem der Ogerfrau mit Säure an und zerstört es. Die Ogerfrau
 
 ## Sitzungsende
 
-Der Kampf ist nicht entschieden. Der verbliebene Fleischgolem steht noch und ist laut Spielleitung vergleichsweise unverletzt; auch die Ogerfrau und weitere Gegner sind nicht besiegt. Gina ist weiterhin gelähmt, aber Kyras hat sie aus der unmittelbaren Reichweite des Golems gezogen. Shalelu ist schwer angeschlagen und wurde im Kampf zu Boden geschlagen; ihr Zustand am Ende wird nicht mehr geklärt.
+Der Kampf ist nicht entschieden. Der verbliebene Fleischgolem steht noch und auch die Ogerfrau ist noch nicht besiegt. Gina ist weiterhin gelähmt, aber Kyras hat sie aus der unmittelbaren Reichweite des Golems gezogen. Shalelu ist schwer angeschlagen und wurde im Kampf zu Boden geschlagen; ihr Zustand am Ende wird nicht mehr geklärt.
 
 # Sitzung vom 7. Oktober 2026: Eine Spur aus Blut und goldenen Haaren
 
