@@ -1,3 +1,35 @@
+# Sitzung vom 21. Oktober 2026: Fafnirs letzter Segen
+
+## Fafnirs Tod
+
+Der Kampf am Ogerlager geht weiter. Fox bedrängt die Oger-Anführerin Dorella im Nahkampf. Nach der Zerstörung ihres Totems erklärt Dorella, die Gruppe habe sie umgebracht und sie werde die Gefährten mitnehmen. Sie schleudert einen Blitzstrahl durch Fox hindurch, der auch Fafnir und den letzten Fleischgolem erreicht. Fox entgeht dem Blitz unverletzt. Am Golem schließen sich dagegen Wunden, während Fafnir schwer getroffen zu Boden geht.
+
+Der Fleischgolem wendet sich dem sterbenden Zwerg zu und schlägt auf ihn ein. Bevor die zweite Faust heruntersaust, hebt Fafnir noch einmal die Hand: Goldenes Licht breitet sich aus und heilt seine Gefährten. Dann trifft ihn der Golem tödlich, und seine Hand fällt leblos in den Schnee.
+
+Tobin eilt zu Fafnir und versucht, ihn mit Heilmagie zurückzuholen. Doch sein Zauber bleibt ohne Wirkung. Verzweifelt schüttelt er den reglosen Freund, ohne ihm noch helfen zu können.
+
+## Das Ende des Kampfes
+
+Brocc hat Fafnirs Tod von seiner Stellung hinter dem Felsen aus gesehen. Voller Wut steigt er in die Luft und schleudert mehrere Säurestrahlen auf Dorella. Die Treffer reißen Löcher in ihren Oberkörper; ihr Lachen geht in blutiges Husten über. Shalelu erkennt, dass der bereits schwer verletzte Brocc sich damit in Gefahr bringt, und nimmt Dorella ebenfalls unter Beschuss. Einer ihrer Pfeile trifft eine der Säurewunden.
+
+Cal greift unterdessen aus Trauer und Zorn über Fafnirs Tod den Fleischgolem mit seinem Rapier an. Fox kämpft weiter gegen Dorella und bringt sie mit ihren Kurzschwertern auf ein Knie. Gina kann sich endlich wieder bewegen. Noch desorientiert und voller Angst vor ihren Angreifern richtet sie sich auf, entfernt sich vom Golem und lädt ihre Muskete nach. Kyras stürzt sich auf das Konstrukt und schlägt es schließlich mit einem Schrei in der Mitte entzwei.
+
+Dorella richtet einen weiteren Blitzstrahl gegen Brocc. Fox versucht vergeblich, sie beim Zaubern zu treffen; auch Tobins magische Unterstützung kann Brocc nicht vor dem Blitz bewahren. Er verliert das Bewusstsein und sinkt durch seinen Flugzauber langsam dem Schnee entgegen. Shalelu sieht entsetzt zu ihm hinüber und will ihm zu Hilfe kommen.
+
+Cal lässt die Trümmer des Golems zurück und läuft zu Dorella. Mit den Worten "Du wirst büßen" stößt er ihr das Rapier zwischen die Rippen ins Herz. Als er die Klinge herauszieht, fällt sie rückwärts in den Schnee und stirbt. Damit ist der Kampf entschieden.
+
+## Broccs Rettung
+
+Brocc liegt im Sterben, und es bleibt nur wenig Zeit. Tobin eilt den vereisten Hang zu ihm hinauf und erreicht ihn rechtzeitig. Seine Heilmagie wirkt diesmal: Brocc ist stabilisiert, bleibt aber zunächst bewusstlos. Shalelu kommt ebenfalls zu ihm und versucht unter Tränen, ihn zu versorgen. Nach weiterer Heilung kommt Brocc wieder zu sich.
+
+## Trauer im Schnee
+
+Als es auf dem Kampfplatz still wird, geht Gina zum zerstörten Skelett und spuckt ihm ins Gesicht. Fox läuft zu Fafnir, stößt ihn vorsichtig an und fragt schockiert, warum ihn niemand heilt. Cal kniet neben ihm nieder und legt ihm die Hände auf. Er spürt noch eine gute Aura, die langsam schwächer wird.
+
+Fox fragt, ob sie selbst nach ihrem Tod genauso ausgesehen habe, und will wissen, was sie nun tun sollen. Shalelu stützt den geschwächten Brocc auf dem Weg zu den anderen. Sie weint ebenfalls, hält aber etwas Abstand zur Trauer der Gefährten um ihren Freund.
+
+Hier endet die Sitzung: Dorella und der letzte Fleischgolem sind besiegt, Brocc ist gerettet und Shalelu lebt. Fafnir jedoch ist tot. Die Gruppe steht noch am verschneiten Kampfplatz; wie sie mit seinem Tod umgehen und wohin sie als Nächstes gehen will, bleibt offen.
+
 # Sitzung vom 14. Oktober 2026: Rettung im Schneesturm
 
 ## Am Ogerlager
