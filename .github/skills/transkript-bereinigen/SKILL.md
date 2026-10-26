@@ -28,11 +28,21 @@ Verlange eine Transkriptdatei, wenn noch keine Quelle vorliegt; sie kann als `.m
 5. Bei einer relevanten Unklarheit, die eine inhaltliche Entscheidung oder einen unsicheren Eigennamen erfordert, halte an der Stelle an und stelle eine präzise Frage. Nimm bis zur Klärung keine unbelegte Korrektur vor. Belanglose Unsicherheiten behandelst du konservativ und originalnah.
 6. Lasse keinen spielrelevanten Inhalt aus. Entferne klar spielunabhängige Passagen, insbesondere Begrüßungen, Warten, Mikrofon-/Stream-/Musikprobleme und sonstiges Vorgeplänkel vor dem Rückblick oder Spielbeginn. Schneide auch später eindeutig spielunabhängige Einschübe, aber keine In-Character-Dialoge, Spielentscheidungen oder relevanten Tischgespräche.
 
+### Transkript, keine Nacherzählung
+
+- Die Ausgabe bleibt eine lektorierte Wiedergabe des Gesagten, keine Sitzungszusammenfassung und keine nachträglich geschriebene Erzählung.
+- Bewahre bei jedem Beitrag die ursprüngliche Sprecherzuordnung. Gesprochene Spielleitungserzählung bleibt als Beitrag von `Jan (DM)` gekennzeichnet; Spielerrede bleibt der jeweiligen Person zugeordnet.
+- Verwandle direkte Rede niemals in indirekte Rede. Schreibe zum Beispiel aus `Lisa E (Fox): Ich greife an.` nicht `Fox greift an.` Erhalte direkte Zitate und die ursprüngliche grammatische Perspektive.
+- Ergänze keine Handlungen, Gedanken, Gefühle, Übergänge oder atmosphärischen Beschreibungen, die im Transkript nicht gesagt wurden. Erfinde keine neutrale Erzählerstimme wie "Eine Minute zuvor" oder "Fox greift trotzdem an".
+- Du darfst Satzfragmente desselben Sprechers verbinden und offensichtliche ASR-Fehler korrigieren. Ändere dabei aber nicht die Redeform und paraphrasiere keinen Beitrag. Wenn eine Stelle ohne inhaltliche Rekonstruktion nicht lesbar wird, markiere nur diese Stelle gemäß den Regeln für `[Unverständlich.]`.
+- Vor dem Schreiben eines Absatzes muss er auf eine oder mehrere konkrete, aufeinanderfolgende Sprecheräußerungen im Rohtranskript zurückführbar sein. Gibt es dafür keine Quelle, füge den Absatz nicht hinzu.
+
 ### Redaktionsstandard
 
-- Eine Bereinigung ist keine Abschrift mit vereinzelter Interpunktionskorrektur. Redigiere aktiv jeden Abschnitt, in dem die Rohfassung Satzfragmente, offensichtliche ASR-Fehler, fehlerhafte Namen oder unlesbare Artefakte enthält.
+- Eine Bereinigung ist keine Zusammenfassung. Redigiere aktiv Satzfragmente, offensichtliche ASR-Fehler, fehlerhafte Namen und unlesbare Artefakte, aber nur innerhalb des im Rohtranskript belegten Wortlauts.
 - Fasse aufeinanderfolgende Fragmente desselben Sprechers zu einem lesbaren Absatz zusammen, wenn sie erkennbar zum selben Redebeitrag gehören. Bewahre Reihenfolge und Sprecherwechsel; lege keine Beiträge verschiedener Sprecher zusammen.
 - Korrigiere erkennbare ASR-Fehler anhand des unmittelbaren Satzkontexts und verfügbarer Kanonquellen. Verwende `[Unverständlich.]` nur für einen klar abgegrenzten Teil einer spielrelevanten Äußerung, dessen Wortlaut trotz Kontext nicht zuverlässig rekonstruierbar ist. Markiere nicht den gesamten Satz, wenn Teile verständlich sind. Isolierte Bruchstücke ohne erkennbaren Aussagewert, Geräusche und reine Erkennungsreste werden entfernt, nicht als "Unverständlich" ausgegeben.
+- Prüfe nach dem Zusammenfügen jeden Satz auf verständlichen Sinn. Lass keinen offensichtlich sinnlosen ASR-Wortsalat als scheinbar redigierten Satz stehen. Korrigiere nur bei sicherer Rekonstruktion; sonst markiere ausschließlich die unverständliche spielrelevante Stelle oder entferne ein isoliertes, bedeutungsloses Erkennungsfragment.
 - Achte in dieser Kampagne besonders auf Übersprechen: Das Headset von Lisa E (Fox) erfasst teils Jan (DM) im Hintergrund. Wenn eine Lisa-E-Zeile zeitlich und inhaltlich erkennbar Jans benachbarte Ansage wiederholt oder verstümmelt, behandle sie als Echo-/ASR-Artefakt und übernimm sie nicht zusätzlich. Entferne nicht pauschal echte, eigenständige Beiträge von Lisa E; bei einer klaren eigenen Reaktion oder Aussage bleibt ihr Beitrag erhalten.
 - Entferne eindeutige Einblendungen, Untertitelreste und technische Erkennungsartefakte. Lass klar spielunabhängige Vorbereitungs- und Off-topic-Passagen weg; bewahre lockere Gespräche, sobald sie Teil des Spiels, der Figuren oder relevanter Tischentscheidungen sind.
 - Verwende bei einem vorhandenen Datum den Titel `# Bereinigtes Transkript - TT.MM.JJJJ`. Bei langen Transkripten gliedere mit knappen, sachlichen Abschnittsüberschriften. Orientiere dich, sofern verfügbar, am Format von `transcripts/261007_edited_transcript.md`; nutze diese Datei nur als Stilreferenz, niemals als Quelle für Sitzungsinhalte.
@@ -53,7 +63,10 @@ Verlange eine Transkriptdatei, wenn noch keine Quelle vorliegt; sie kann als `.m
 ### Große Dateien inkrementell bearbeiten
 
 - Verarbeite Quellbereiche strikt in Reihenfolge. Halte die Quellzeilen des nächsten noch unbearbeiteten Bereichs fest.
+- Führe intern eine Fortschrittsliste mit Quellbereichen und Status: `ausgegeben`, `gezielt ausgelassen` oder `offen`. Jeder Quellbereich darf genau einen Status haben; jeder Bereich muss vor Abschluss als ausgegeben oder gezielt ausgelassen markiert sein.
 - Redigiere jeweils nur den aktuellen Bereich, prüfe ihn gegen die entsprechende Quelle und schreibe ihn sofort an das Ende derselben Ausgabedatei. Halte nicht das gesamte bearbeitete Transkript bis zum Schluss im Kontext und gib es nicht als eine große Antwort aus.
+- Schreibe jeden Quellbereich genau einmal. Prüfe vor dem Anhängen, dass dieser Bereich noch nicht in der Ausgabe steht. Aktualisiere den Status erst nach erfolgreichem Schreiben und gezielter Kontrolle der angehängten Stelle.
+- Wenn eine Korrektur nötig ist, ändere ausschließlich die bereits vorhandene betroffene Ausgabestelle. Hänge nie einen überarbeiteten Quellbereich erneut an und ersetze nie einen größeren Abschnitt, indem du ihn zusätzlich anfügst.
 - Lies bei Bedarf wenige Zeilen des vorherigen Bereichs als Übergangskontext erneut, aber füge überlappende Kontextzeilen nicht ein zweites Mal in die Ausgabe ein.
 - Fahre erst mit dem nächsten Quellbereich fort, wenn der aktuelle vollständig in die Ausgabedatei geschrieben und geprüft wurde. Wiederhole, bis alle Quellzeilen lückenlos verarbeitet sind.
 - Prüfe auch den abschließenden Vergleich bereichsweise: Vergleiche nacheinander jeden Quellbereich mit dem entsprechenden Abschnitt der Ausgabedatei, statt beide vollständigen Dateien erneut auf einmal zu laden.
@@ -67,6 +80,10 @@ Prüfe jeden bearbeiteten Abschnitt gegen die entsprechende Originalpassage:
 - Keine doppelten oder fehlenden Sätze an Abschnittsübergängen.
 - Eigennamen nur korrigiert, wenn die Schreibweise tatsächlich belegt ist.
 - Gliederung, Sprecher, Zeitmarken und Reihenfolge bewahrt.
+- Jeder inhaltliche Absatz ist auf konkrete Sprecheräußerungen zurückführbar; Sprecherzuordnung und Redeform sind erhalten.
+- Keine indirekte Nacherzählung, unmarkierte Erzählerstimme oder hinzugefügten Übergänge und Handlungen.
+- Kein ausgegebener Quellbereich erscheint doppelt; ausgegebene Bereiche stehen in derselben Reihenfolge wie die Quelle, und alle ausgelassenen Bereiche sind gezielt als spielunabhängig begründet.
+- Keine erkennbar sinnlosen ASR-Fragmente als verständliche Rede stehen gelassen.
 - ASR-Fragmente zu lesbaren Absätzen verbunden und nicht rekonstruierbare Passagen eindeutig markiert.
 - Kein klar spielunabhängiges Vorgeplänkel oder bestätigtes Echo als zusätzlicher Sprecherbeitrag übernommen; `[Unverständlich.]` nur sparsam und lokal eingesetzt.
 - Ausgabedatei vor Bereitstellung des Links erzeugt und geprüft.
