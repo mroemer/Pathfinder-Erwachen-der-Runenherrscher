@@ -61,36 +61,6 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
 
 Der Bürgermeister hält eine Rede, er wolle uns belohnen für unseren Mut und er hätte uns nicht nur wegen des Festes eingeladen. Er erwähnt die Feste Ranik - geführt von Waldläufern, von der lange keine Nachricht mehr gekommen ist. Außerdem gibt es Gerüchte aus Schildkrötenfähre von Ogern. Er hat eine "Bitte" - eher einen Auftrag - für uns. Sein Assistent übergibt Hagen eine Schatulle mit einem Siegel, Reisepapieren, Brief an die Bewohner, etc. für Schildkrötenfähre. Er verspricht jedem von uns 350 GM für die Ausgaben und Dienste. Hagen handelte ihn auf 355 GM hoch. Er spricht einen Toast auf uns.
 
-## Rettet Shalelu aus den Händen der Oger
-
-### Auftraggeber
-
-Die Gruppe / Eigenes Ziel
-
-### Zusammenfassung
-
-* [x] Findet heraus, was mit Shalelu geschehen ist.
-
-  * Auf der Verfolgung einer Blutspur durch den Kriegwald entdeckte die Gruppe an einem Bach mehrere einzelne goldene Haare mit Blut daran. Brocc erkannte an ihrem Geruch eine Ähnlichkeit mit Shalelu.
-  * Weitere goldene Haare waren in etwa 2,50 Metern Höhe an Ästen befestigt. Die Gruppe erkannte, dass Shalelu von den Ogern getragen wurde und selbst eine Spur für mögliche Retter hinterließ.
-
-* [x] Verfolgt die Oger und findet Shalelu.
-
-  * Die Gruppe folgte der Spur im Gewaltmarsch durch den zunehmend verschneiten Wald in Richtung des Großen Hakens, des Hauptquartiers der Kriegoger.
-  * Dabei wurde sie von zwei Fleischgolems und einem unidentifizierten Skelett verfolgt. Die drei Kreaturen griffen nicht an, blieben der Gruppe aber auch nach einer Nachtruhe auf den Fersen.
-  * Schließlich holte die Gruppe fünf Oger ein, die auf einer Waldlichtung Rast machten. Shalelu lag eindeutig erkennbar am Boden ihres Lagers.
-
-* [ ] Befreit Shalelu aus der Gefangenschaft der Oger.
-
-  * Brocc teleportierte Shalelu aus dem Lager zur Gruppe. Fafnir heilte sie, doch sie blieb erschöpft und schwer angeschlagen.
-  * Die Oger hatten Shalelu ihre Waffen abgenommen. Sie nahm eine Armbrust von Fox und Ginas Bogen an sich und konnte im Kampf einen Fleischgolem beschießen.
-  * 261014: Die drei Verfolger griffen gemeinsam mit den Ogern an. Die Gruppe zerstörte das Skelett und besiegte Fleischgolems; mindestens ein Fleischgolem stand am Sitzungsende noch. Brocc zerstörte das Totem der Ogerfrau, woraufhin die Runen auf ihr erloschen und sie panisch reagierte.
-  * 261014: Shalelu wurde im Kampf erneut niedergeschlagen. Der Kampf am Ogerlager ist beim Sitzungsende noch im Gang; nicht alle Oger sind besiegt und Shalelus Zustand ist ungeklärt. Ihre Befreiung aus dem Lager gelang, ihre Rettung ist aber noch nicht abgeschlossen.
-
-### Auftragstext
-
-Shalelu wurde auf ihrem Weg nach Schildkrötenfähre offenbar von Ogern verschleppt. Die Gruppe entdeckte ihre Spur im Kriegwald und folgte ihr bis in die Eisenberge in Richtung des Großen Hakens. Dort fand sie Shalelu in der Gewalt von fünf Ogern. Nun gilt es, sie zu befreien.
-
 ## Rettet Hagen und Mako
 
 ### Auftraggeber
@@ -127,6 +97,38 @@ Wir haben folgende Optionen vorgeschlagen
 * Anna und Tom wünschen sich Sicherheit und Essen. Sie wurden über ihre Optionen aufgeklärt und waren zuletzt in der Taverne in Werftweg mit 50 Silbermünzen als Überbrückung bis sie sich entschieden haben. - (siehe Notizen 10. Dezember 2025)
 
 # Abgeschlossene Quests
+
+## Rettet Shalelu aus den Händen der Oger
+
+### Auftraggeber
+
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+
+* [x] Findet heraus, was mit Shalelu geschehen ist.
+
+  * Auf der Verfolgung einer Blutspur durch den Kriegwald entdeckte die Gruppe an einem Bach mehrere einzelne goldene Haare mit Blut daran. Brocc erkannte an ihrem Geruch eine Ähnlichkeit mit Shalelu.
+  * Weitere goldene Haare waren in etwa 2,50 Metern Höhe an Ästen befestigt. Die Gruppe erkannte, dass Shalelu von den Ogern getragen wurde und selbst eine Spur für mögliche Retter hinterließ.
+
+* [x] Verfolgt die Oger und findet Shalelu.
+
+  * Die Gruppe folgte der Spur im Gewaltmarsch durch den zunehmend verschneiten Wald in Richtung des Großen Hakens, des Hauptquartiers der Kriegoger.
+  * Dabei wurde sie von zwei Fleischgolems und einem unidentifizierten Skelett verfolgt. Die drei Kreaturen griffen nicht an, blieben der Gruppe aber auch nach einer Nachtruhe auf den Fersen.
+  * Schließlich holte die Gruppe fünf Oger ein, die auf einer Waldlichtung Rast machten. Shalelu lag eindeutig erkennbar am Boden ihres Lagers.
+
+* [x] Befreit Shalelu aus der Gefangenschaft der Oger.
+
+  * Brocc teleportierte Shalelu aus dem Lager zur Gruppe. Fafnir heilte sie, doch sie blieb erschöpft und schwer angeschlagen.
+  * Die Oger hatten Shalelu ihre Waffen abgenommen. Sie nahm eine Armbrust von Fox und Ginas Bogen an sich und konnte im Kampf einen Fleischgolem beschießen.
+  * 261014: Die drei Verfolger griffen gemeinsam mit den Ogern an. Die Gruppe zerstörte das Skelett und besiegte Fleischgolems; mindestens ein Fleischgolem stand am Sitzungsende noch. Brocc zerstörte das Totem der Ogerfrau, woraufhin die Runen auf ihr erloschen und sie panisch reagierte.
+  * 261014: Shalelu wurde im Kampf erneut niedergeschlagen. Der Kampf am Ogerlager ist beim Sitzungsende noch im Gang; nicht alle Oger sind besiegt und Shalelus Zustand ist ungeklärt. Ihre Befreiung aus dem Lager gelang, ihre Rettung ist aber noch nicht abgeschlossen.
+  * 261021: Kyras zerstörte den letzten Fleischgolem, und Cal tötete die Oger-Anführerin Dorella. Der Kampf ist beendet und Shalelu lebt; ihre Befreiung ist abgeschlossen. Sie beteiligte sich am Kampf und half anschließend bei der Versorgung Broccs.
+  * 261021: Fafnir wurde nach einem Blitzstrahl Dorellas vom letzten Fleischgolem getötet. Tobins Heilmagie konnte ihn nicht zurückholen. Brocc wurde durch einen weiteren Blitzstrahl lebensgefährlich verletzt, aber von Tobin rechtzeitig geheilt und gerettet. Die Gruppe trauert am Kampfplatz um Fafnir; über das weitere Vorgehen wurde noch nicht entschieden.
+
+### Auftragstext
+
+Shalelu wurde auf ihrem Weg nach Schildkrötenfähre offenbar von Ogern verschleppt. Die Gruppe entdeckte ihre Spur im Kriegwald und folgte ihr bis in die Eisenberge in Richtung des Großen Hakens. Dort fand sie Shalelu in der Gewalt von fünf Ogern. Nun gilt es, sie zu befreien.
 
 ## Findet Xaneshas Schwester
 

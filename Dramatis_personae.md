@@ -5,8 +5,10 @@
 * **Ameiko Kaijitsu**:  Tavernenbesitzerin und Verbündete der Gruppe.
 * **Anna und Tom**:  Waisenkinder, die von den Kultisten des Häuterkults als Geiseln genommen wurden und von uns gerettet wurden.
 * **Brodert Quink**: Gelehrter aus Sandspitze, Spezialist für antike Runenmagie und Verbündeter von Gina bei der Untersuchung der Runenherrscher-Relikte.
+* **Dorella (verstorben)**: Zauberkundige Anführerin der Oger, die Shalelu in den Eisenbergen gefangen hielten. Wurde im Kampf am Ogerlager von Cal mit einem Rapierstoß ins Herz getötet.
 * **Dr. Dranzel**: Ehemaliger Lieblingsautor von Tobin, selbsterklärter Abenteurer und Leiter von Dr. Dranzels Spektakulärer Abenteurertruppe, Professor in Sirathu (nahe Kaer Maga) und in Tobins Wahrnehmung als Dummschwätzer entlarvt.
 * **Richter Eisendorn**: Ehemaliger Anhänger des Sihedron-Kults, der uns einen Brief mit Informationen über Xanesha zugespielt hat.
+* **Fafnir (verstorben)**: Zwergischer Kleriker und Gefährte der Gruppe. Wurde im Kampf am Ogerlager nach einem Blitzstrahl Dorellas von einem Fleischgolem getötet.
 * **Gellin Schwatzbart**: Händler und reisender Kaufmann, der uns von Sandspitze nach Magnimar und weiter nach Schildkrötenfähre begleitete. War bei der Rückkehr nach Schildkrötenfähre anwesend und erneut ein Ansprechpartner für regionale Gerüchte.
 * **Oberbürgermeister Haldmeer Grobaras**:  Oberbürgermeister von Magnimar. Wurde nach Xaneshas Tod über die Machenschaften des Kultes informiert und erteilte später den Auftrag zur Rettung von Fort Ranik.
 * **Iesha Foxglove**:  Geist der verstorbenen Adligen im Anwesen der Familie Foxglove – tragische Figur aus Alderns Vergangenheit.
