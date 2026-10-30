@@ -5,8 +5,9 @@
 * **Ameiko Kaijitsu**:  Tavernenbesitzerin und Verbündete der Gruppe.
 * **Anna und Tom**:  Waisenkinder, die von den Kultisten des Häuterkults als Geiseln genommen wurden und von uns gerettet wurden.
 * **Brodert Quink**: Gelehrter aus Sandspitze, Spezialist für antike Runenmagie und Verbündeter von Gina bei der Untersuchung der Runenherrscher-Relikte.
+* **Cal**: Goblin und Gefährte der Gruppe, der seine Herkunft mit einer magischen Kappe hinter der Erscheinung eines menschlichen Jungen verbarg. Sein Lehrmeister holte ihn aus einem Goblindorf, zog ihn auf und bildete ihn aus, weil er etwas Besonderes in ihm gespürt habe. Aus Angst vor Vorurteilen hielt Cal seine Herkunft zunächst geheim; die Gefährten akzeptieren ihn auch nach der Enthüllung.
 * **Dorella (verstorben)**: Zauberkundige Anführerin der Oger, die Shalelu in den Eisenbergen gefangen hielten. Wurde im Kampf am Ogerlager von Cal mit einem Rapierstoß ins Herz getötet.
-* **Dr. Dranzel**: Ehemaliger Lieblingsautor von Tobin, selbsterklärter Abenteurer und Leiter von Dr. Dranzels Spektakulärer Abenteurertruppe, Professor in Sirathu (nahe Kaer Maga) und in Tobins Wahrnehmung als Dummschwätzer entlarvt.
+* **Dr. Dranzel**: Ehemaliger Lieblingsautor von Tobin, selbsterklärter Abenteurer und Leiter von Dr. Dranzels Spektakulärer Abenteurertruppe, Professor in Sirathu (nahe Kaer Maga) und in Tobins Wahrnehmung als Dummschwätzer entlarvt. Wird von Theatergästen als Autor von "Tobin und seine Gefährten" genannt; Tobin betrachtet dies als Plagiat und hat ihm eine persönliche Fehde erklärt.
 * **Richter Eisendorn**: Ehemaliger Anhänger des Sihedron-Kults, der uns einen Brief mit Informationen über Xanesha zugespielt hat.
 * **Fafnir (verstorben)**: Zwergischer Kleriker und Gefährte der Gruppe. Wurde im Kampf am Ogerlager nach einem Blitzstrahl Dorellas von einem Fleischgolem getötet.
 * **Gellin Schwatzbart**: Händler und reisender Kaufmann, der uns von Sandspitze nach Magnimar und weiter nach Schildkrötenfähre begleitete. War bei der Rückkehr nach Schildkrötenfähre anwesend und erneut ein Ansprechpartner für regionale Gerüchte.
@@ -55,6 +56,15 @@
 * **Malogus (verstorben)**: Anführer der Oger am Schädeldamm, der zuvor nur aus einem belauschten Gespräch bekannt war. Wurde im Kampf getötet.
 * **Lamatar Bayden (vermisst)**: Kommandant der Ranickfeste. Hielt sich zur Zeit des Ogerangriffs offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf und gilt seitdem als verschwunden.
 
+## Großer Haken
+
+* **Baal Bruchbein**: Laut Shalelus Bericht ein offenbar riesenhafter Anführer und Nekromant, den die Oger fürchten und hassen. Er töte unliebsame Oger und erwecke sie als willenlose Zombies.
+
+## Bitterbräuch
+
+* **Helga**: Grauhaarige Wirtin mit Dutt im Wirtshaus "Zum Fischerhaus". Vermittelt Bootsfahrten und betreut eine Büchertauschstation. Sagte Tobin zu, dort auftauchende Dr.-Dranzel-Bücher für ihn zurückzulegen.
+* **Kohl**: Zwerg in der Poststation von Bitterbräuch, bei dem Bücher bestellt werden können. Sagte Tobin zu, weitere Dr.-Dranzel-Bücher für ihn zurückzulegen.
+
 ## Schädeldamm
 
 * **Avaxial**: Teufel, der seit unbekannter Zeit in einem magischen Bannkreis tief im Inneren des Schädeldamms gefangen war. Schloss mit der Gruppe einen mit Blut besiegelten Vertrag: Im Austausch für seine Befreiung erklärte er, wie die Schleusen erfolgreich geöffnet werden konnten, und verpflichtete sich, der Gruppe nichts anzutun und anschließend nach Hause zurückzukehren. Fafnir bannte seinen Gefängniskreis, woraufhin Avaxial befreit wurde. Nach Öffnung der Schleusen verschwand er.
@@ -62,6 +72,8 @@
 
 ## Splitterbaumtal
 
+* **Boudicca**: Briefpartnerin von Morgaine. Erkundigte sich nach deren anhaltendem Talent, warnte vor noch unbekannten negativen Nebenwirkungen von Flüchen und berichtete von erfolglosen Nachforschungen zu einem Dreieck. Ihre Briefe wurden in der kleinen Hütte gefunden, die nach Mutter Weides Tod zurückblieb.
+* **Morgaine**: Adressatin der in der Hütte im Splitterbaumtal gefundenen Briefe Boudiccas. Weder ihre genaue Identität noch eine mögliche Verbindung zur früheren Bewohnerin der Hütte sind geklärt.
 * **Kraut (verstorben)**: Kleine lederhäutige, koboldartig wirkende Kreatur mit dunklen Glyphen auf der Haut und schwarzem Anzug. Empfing die Gruppe in Mutter Weides Haus und gehörte zu ihren Gehilfen. Die lederhäutigen Diener entpuppten sich bei der Rückkehr der Gruppe als feindselige Kreaturen und wurden im Kampf getötet.
 * **Schluffi (verstorben)**: Riesiger Waran und tierischer Begleiter von Mutter Weide. Wurde beim Kampf nach der Rückkehr zum Haus von Gina erschossen.
 * **Rasmus**: Etwa vier Meter großer, weißbärtiger und außergewöhnlich muskulöser Riese aus dem Splitterbaumtal. Wurde von der Blutvettel und ihren Dienern gefangen gehalten und gefoltert, bis die Gruppe ihn befreite. Half anschließend im Kampf und gewährte der Gruppe eine Nacht Unterkunft in seiner nahe gelegenen Höhle. Berichtete von der Gnomin Kalami und davon, dass der mächtige Riese Mokmurian andere Riesen im Nesselwald sammeln ließ.

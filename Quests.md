@@ -49,6 +49,8 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Nach einer Rast bei dem befreiten Riesen Rasmus machte sich die Gruppe wieder auf den Weg zur Ranickfeste. Aus Richtung der Feste waren große dunkle Rauchwolken zu sehen.
   * Auf dem Weg entdeckte Cal eine ältere Blutspur sowie Spuren von etwa fünf bis sieben Ogern. Die Gruppe folgte den Spuren durch den Kriegwald und fand Hinweise darauf, dass Shalelu von den Ogern verschleppt wurde (siehe Quest "Rettet Shalelu aus den Händen der Oger").
   * Lamatar Bayden, der Kommandant der Ranickfeste, gilt weiterhin als vermisst. Zur Zeit des Ogerangriffs hielt er sich offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf.
+  * 261028: Shalelu bestätigte, vor ihrer Gefangennahme Rauch an der Ranickfeste gesehen zu haben; die Ursache bleibt unbekannt. Sie berichtete von Baal Bruchbein, einem gefürchteten Nekromanten und Anführer der Oger, der unliebsame Oger als Zombies zurückhole.
+  * 261028: Die Gruppe entschied sich gegen ein weiteres Vordringen zum Großen Haken und kehrte mit Shalelu über Bitterbräuch nach Schildkrötenfähre zurück, um sich zu erholen und Vorräte sowie Munition zu beschaffen. Dort will sie nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwendet. Bei der Einfahrt in den Hafen waren Wasserschäden an einigen Häusern erkennbar; Gespräche mit den Bewohnern stehen noch aus.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -71,10 +73,38 @@ Die Gruppe / Eigenes Ziel
 
 * [ ] Hagen und sein Vertrauter Mako wurden während einer Erkundung in den Höhlen bei der Ranickfeste von einer riesigen Kreatur in ein Portal gezogen. Brocc identifizierte das Residuum an der Höhlendecke als Hinweis auf ein planetarisches Tor; anhand einer Beschreibung erkennt er, dass die Ebene das Nirvana ist. Hagen und Mako gelten damit als vermisst. Eine Rettung wird als prioritär angesehen, ist bislang aber nicht durchgeführt.
 * [ ] Seit ihrem Verschwinden wurden keine neuen bestätigten Spuren von Hagen oder Mako gefunden.
+  * 261028: Durch eine Berührung ihrer Klaue erlebte Fox Ginas Erinnerung an das Verschwinden von Hagen und Mako mit. Gina und Fox wollen mit den anderen über einen möglichen Rettungsweg sprechen; neue Spuren oder ein konkreter Zugang wurden nicht gefunden.
 
 ### Auftragstext
 
 Hagen und Mako wurden durch ein Portal offenbar in das Nirvana entrissen. Die Gruppe versucht Informationen zu sammeln und mögliche Wege zur Rettung zu finden.
+
+## Tobins persönliche Fehde mit Dr. Dranzel
+
+### Auftraggeber
+
+Tobin / Persönliches Ziel
+
+### Zusammenfassung
+
+* [ ] Lasst Dr. Dranzel aus dem Gedächtnis der Schwertküste verschwinden.
+
+  * 261028: In Bitterbräuch erfuhr die Gruppe, dass "Tobin und seine Gefährten" regelmäßig in Sandspitze aufgeführt und von Gästen Dr. Dranzel zugeschrieben wird. Tobin betrachtet dies als Plagiat.
+  * 261028: Tobin schwor bei Fafnirs Seele, Dr. Dranzel dem Vergessen anheimfallen zu lassen. Sein Ziel ist, dass niemand mehr dessen Namen nennt oder liest.
+  * 261028: Als ersten öffentlichen Gegenauftritt führte Tobin mit Gina und Kyras die "wahre Version" des bisherigen Stücks auf. Die Gäste applaudierten, verglichen die Aufführung aber weiterhin mit Dr. Dranzel. Der Schwur ist noch nicht erfüllt.
+
+* [ ] Schreibt ein neues Stück über Fafnirs Heldentaten gegen die Oger, das Dr. Dranzels vermeintliches Plagiat verdrängt.
+
+  * 261028: Auf Ginas Vorschlag beschloss Tobin, ein besseres Stück zu Fafnirs Andenken zu schreiben. Das neue Stück ist noch nicht geschrieben; die Aufführung in Bitterbräuch war eine Wiederaufführung des bisherigen Werks.
+
+* [ ] Zieht Dr.-Dranzel-Bücher aus dem Verkehr und ersetzt sie durch Werke anderer Autoren.
+
+  * 261028: Tobin verbrannte Dr.-Dranzel-Bücher aus seinem Besitz und sammelte weitere aus der Büchertauschstation ein. Bei Kohl kaufte er zusätzliche Exemplare, um auch sie zu verbrennen.
+  * 261028: Für die Leihbücherei bestellte und bezahlte Tobin zehn Bücher anderer Autoren. Ihre Lieferung steht noch aus. Kohl und Helga sagten zu, weitere Dranzel-Bände für ihn zurückzulegen.
+
+### Auftragstext
+
+Tobin hat geschworen, Dr. Dranzel aus dem Gedächtnis der Schwertküste zu löschen. Mit einem besseren Theaterstück will er dessen vermeintliches Plagiat verdrängen und Fafnirs Taten bewahren. Das Verbrennen von Dranzels Büchern und ihr Ersatz durch Werke anderer Autoren sind erste Schritte seiner persönlichen Fehde; der Schwur ist noch nicht erfüllt.
 
 ## Findet einen Platz für Anna und Tom
 
@@ -125,6 +155,7 @@ Die Gruppe / Eigenes Ziel
   * 261014: Shalelu wurde im Kampf erneut niedergeschlagen. Der Kampf am Ogerlager ist beim Sitzungsende noch im Gang; nicht alle Oger sind besiegt und Shalelus Zustand ist ungeklärt. Ihre Befreiung aus dem Lager gelang, ihre Rettung ist aber noch nicht abgeschlossen.
   * 261021: Kyras zerstörte den letzten Fleischgolem, und Cal tötete die Oger-Anführerin Dorella. Der Kampf ist beendet und Shalelu lebt; ihre Befreiung ist abgeschlossen. Sie beteiligte sich am Kampf und half anschließend bei der Versorgung Broccs.
   * 261021: Fafnir wurde nach einem Blitzstrahl Dorellas vom letzten Fleischgolem getötet. Tobins Heilmagie konnte ihn nicht zurückholen. Brocc wurde durch einen weiteren Blitzstrahl lebensgefährlich verletzt, aber von Tobin rechtzeitig geheilt und gerettet. Die Gruppe trauert am Kampfplatz um Fafnir; über das weitere Vorgehen wurde noch nicht entschieden.
+  * 261028: Die Gruppe begrub Fafnir auf einem Hügel unter der Erde und nahm gemeinsam Abschied. Danach verließ sie den Kampfplatz und kehrte mit Shalelu über Bitterbräuch nach Schildkrötenfähre zurück. Shalelu berichtete vom Ogerhinterhalt und bestätigte, die Haarspur selbst für mögliche Retter hinterlassen zu haben. Das Schicksal von Schwinge, Feder und Rute bleibt unbekannt.
 
 ### Auftragstext
 

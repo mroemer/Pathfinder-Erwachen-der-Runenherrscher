@@ -20,5 +20,5 @@ Spielercharaktere:
 - Ernesto als Kyras: Strohblonder Halbelf-Barbar mit violett schimmernden Augen, muskulös, mit billigem Seidenhemd, Lederrüstung und Falchion.
 - Frederik als Brocc: Gnomischer Hexenmeister, 1,10 m groß, schlank, mit dunkelgrünen Augen und palmwedelartig abstehenden Haaren. Ärmlich gekleidet, mit Armbrust und Kräutern.
 - Michael als Tobin: 17 Jahre alter Halbork-Barde, vorlaut und besserwisserisch, der unbedingt beweisen will, dass Halborks genauso gut sind wie alle anderen Völker.
-- Roman als Cal: ein 1,20m großer, ca. 18 Jahre alter, menschlicher Junge. Mit schlichter Kleidung, Mithralkettenhemd und Kappe.
+- Roman als Cal: Goblin, der mithilfe einer magischen Kappe als ein 1,20m großer, ca. 18 Jahre alter menschlicher Junge erscheint. Mit schlichter Kleidung und Mithralkettenhemd.
 - Jan als Hagen (ehemals): Älterer menschlicher Magier und ehemaliger Schuster aus Magnimar mit grauen Haaren. Sein Vertrauter Mako ist ein Bär mit Tigerstreifen und Geweih.
