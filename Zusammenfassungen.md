@@ -1,3 +1,89 @@
+# Sitzung vom 28. Oktober 2026: Abschied und Heimkehr
+
+## Ein Grab unter Stein
+
+Nach dem Kampf bestätigt Cal, dass Fafnir tot ist, und schließt ihm die Augen. Die Gefährten suchen verzweifelt nach einer Möglichkeit, ihm noch zu helfen. Doch Mutter Weide ist tot, und ohne Fafnir fehlt ihnen auch die Möglichkeit, einen Leichnam wie damals bei Fox zu bewahren. Schließlich entscheiden sie sich, den Freund zu begraben.
+
+Tobin erinnert sich an zwergische Begräbnisbräuche: Fafnir soll unter der Erde und möglichst unter Stein ruhen. Die Gruppe bringt seinen Körper auf einen Hügel. Dort verwandelt sich Brocc in einen kleinen Erdelementar und nimmt Fafnir mit ins Erdreich. Als Grabzeichen hinterlässt er einen schildförmigen Stein, verziert mit Quarz und Kristallen. Auf Fox' Vorschlag, eine Statue aufzustellen, baut Tobin daneben einen kleinen Fafnir aus Schnee.
+
+Die Gefährten nehmen mit persönlichen Worten Abschied. Kyras weiß nicht, wie sie ohne Fafnirs Schutz und Heilung weitermachen sollen. Brocc nennt ihn "verdammt groß für einen mittelgroßen Zwerg". Cal betet für die gute Seele, die er erst kurz kannte. Shalelu legt eine selbst geschnitzte Rose auf das Grab und wünscht Fafnir auf Elfisch einen sanften Weg. Fox beklagt, dass schon wieder jemand verschwindet, diesmal für immer. Gina legt einen weiteren Stein dazu und dankt Fafnir: Einen besseren Begleiter hätte sie sich nicht wünschen können.
+
+Tobin versucht zunächst, seinen eigenen Abschied hinter der Leitung der Zeremonie zu verbergen. Als Fox ihn darauf anspricht, kommen ihm die Tränen. Statt einer Rede begleitet er das Gedenken mit traurigen Trommeln. Brocc holt eine Flasche Wein hervor, um auf Fafnir anzustoßen.
+
+## Cals wahre Gestalt
+
+Während seines Gebets nimmt Cal gedankenverloren die Kappe ab. Vor den Augen der Gruppe wird er kleiner, seine Haut grün und seine Ohren spitz: Cal ist ein Goblin. Shalelu richtet erschrocken ihre Armbrust auf ihn. Tobin schiebt die Waffe zur Seite, und Kyras mahnt zur Ruhe, damit sie den Abschied von Fafnir fortsetzen können.
+
+Später erklärt Cal, dass seine bisherige Erscheinung von einer magischen Kappe stammt. Sein Lehrmeister habe ihn einst aus einem Goblindorf geholt, aufgezogen und ausgebildet, weil er etwas Besonderes in ihm gespürt habe. Die Verkleidung sollte ihm helfen, nicht aufzufallen. Aus Angst vor den üblichen Reaktionen auf Goblins wollte Cal die Gefährten erst kennenlernen lassen, wer er ist.
+
+Shalelu entschuldigt sich für ihre Reaktion. Tobin tritt entschieden dafür ein, Cal nach seinen Taten statt nach seiner Herkunft zu beurteilen. Dabei wird deutlich, wie sehr ihn dieses Thema auch als Halbork betrifft. Die Gruppe nimmt Cals Enthüllung an; er bleibt ihr Gefährte.
+
+## Geteilte Hilflosigkeit
+
+Beim Abschied nimmt Gina tröstend Fox' schwarze Klauenhand. Die Berührung lässt Fox Ginas Erinnerungen miterleben: Hagen und Mako verschwinden in einem Portal, Gina greift nach Hagen und wird mit in die Dunkelheit gezogen. Darauf folgt die Erinnerung an Ginas bewegungslose Lage im Schnee, an Kampfgeräusche und Fafnirs letzten Schrei. Fox spürt ihre Verzweiflung darüber, erneut nichts tun zu können.
+
+Fox umarmt Gina weinend. Während die Berührung anhält, nimmt sie wahr, dass etwas Hungriges in ihr weniger hungrig wird. Sie versucht daraufhin, weiteren Kontakt mit der Klaue zu vermeiden. Was dabei genau geschieht, bleibt ungeklärt.
+
+## Rückzug vom Großen Haken
+
+Die Gefährten durchsuchen die besiegten Gegner. Sie finden eine Truhe mit Gold-, Silber- und Kupfermünzen sowie zwei raue Granate und einen ungeflammten Achat. Zur weiteren Beute gehören ein Zauberstab, Dorellas silberner Stirnreif, ein Ring, eine Trankflasche mit rötlichem Inhalt und ein Amulett im Brustkorb des Skeletts. Hinzu kommen ein Dolch und zwei große Wurfspeere. Die übrigen großen Ogerwaffen und Rüstungen sind blutverschmiert und teils stark beschädigt. Die magischen Eigenschaften sind noch nicht vollständig bestimmt. Die genaue Verteilung von Fafnirs Ausrüstung bleibt offen.
+
+Fox legt die Überreste des Skeletts ins Ogerfeuer. Die schweren Fleischgolems entsorgt die Gruppe in einem tiefen Loch. Danach verlassen die Gefährten den Kampfplatz und ziehen ein Stück auf dem bekannten Weg zurück. Brocc errichtet seine magische Hütte. In deren Wärme können sie essen, Wachen einteilen und endlich schlafen; Tobin versorgt Verwundete mit weiterer Heilmagie.
+
+Während ihrer Wache sprechen Fox und Gina über die Erinnerungen. Fox erklärt, dass Berührungen ihrer Klaue sie manchmal schlimme Erlebnisse anderer Menschen sehen und fühlen lassen. Gina möchte die Hand zunächst lieber nicht mehr anfassen, ist zugleich aber erleichtert, dass Fox nun ebenfalls etwas von Hagen und Mako gesehen hat. Sie hofft weiterhin, die beiden zurückholen zu können. Gemeinsam wollen sie mit den anderen über einen möglichen Weg sprechen.
+
+## Die Entscheidung zur Rückkehr
+
+Am Morgen erzählt Shalelu von ihrem gescheiterten Weg nach Schildkrötenfähre und ihrer Gefangennahme. Bei der Ranickfeste habe sie Rauch bemerkt, bevor die Oger sie überfielen. Was aus Schwinge, Feder und Rute geworden ist, weiß sie nicht.
+
+Shalelu berichtet außerdem von Baal Bruchbein, einem offenbar riesenhaften Anführer, vor dem selbst die Oger große Angst hatten. Er sei ein Nekromant, der unliebsame Oger töte und als willenlose Zombies zurückhole. Die Gefährten wollen vorerst nicht weiter zum Großen Haken vordringen. Sie brauchen Erholung, Vorräte und insbesondere neue Munition für Gina.
+
+Die Gruppe entscheidet sich für die Rückkehr nach Schildkrötenfähre. Dort wollen die Gefährten auch nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwenden. Shalelu schlägt einen Abstieg zum Schiefersee vor: Vom kleinen Außenposten Bitterbräuch aus können sie mit einem Boot über den Weidenlauf weiterreisen. Die Gruppe wählt diese Route.
+
+Vor dem Aufbruch löst Gina noch ihr Versprechen an Fox ein und lässt sie mit der Muskete auf einen Apfel schießen. Fox trifft und zerfetzt den Apfel, wird aber vom Rückstoß umgeworfen. Dabei nimmt die Waffe Schaden. Gina fordert sie zurück, lobt jedoch Fox' Treffer.
+
+## Briefe aus der Hütte
+
+Auf dem Weg nach Bitterbräuch liest Gina die Briefe aus der Hütte im Splitterbaumtal. Sie enthalten einen Austausch zwischen Boudicca und Morgaine. In Boudiccas Briefen stehen folgende Passagen:
+
+> "Hält dein Talent an?"
+>
+> "Konnte bisher nichts dazu in Erfahrung bringen, es gibt keine geschichtlichen Parallelen"
+>
+> "Flüche haben immer eine negative Nebenwirkung. Nur weil wir sie noch nicht gefunden haben, heißt das nicht sie existiert nicht. Sei vorsichtig"
+>
+> "Konnten nichts herausfinden zu dem Dreieck"
+
+Die Gefährten klären dabei, dass die durchsuchte kleine Hütte nicht mit Mutter Weides magisch vergrößertem Innenraum gleichzusetzen ist: Dieser verschwand nach dem Tod der Vettel. Wem die zurückgebliebene Hütte zuvor gehörte und worauf sich die Briefe genau beziehen, bleibt offen. Eine Anschrift findet Gina nicht. Krallenspuren und Löcher für Bändel an den Umschlägen deuten auf die Zustellung durch Vögel hin.
+
+## Tobins Fehde mit Dr. Dranzel
+
+Am Abend erreicht die Gruppe Bitterbräuch und kehrt im Wirtshaus "Zum Fischerhaus" bei Helga ein. Dort erfahren die Gefährten, dass "Tobin und seine Gefährten" inzwischen regelmäßig in Sandspitze aufgeführt wird. Einige Gäste haben das Stück erst kürzlich mit anderen Darstellern gesehen. Die Gruppe wird begeistert erkannt, mit Fragen bestürmt und um Autogramme gebeten.
+
+Tobins Freude schlägt in Wut um, als die Gäste Dr. Dranzel als Autor nennen. Er stürmt hinaus und will zu den Booten, doch Gina hält ihn am Umhang fest. Auch Cals Versuch, ihn mit magisch unterstützten Worten zu beruhigen, scheitert. Tobin bricht schließlich in Tränen aus: Nach Fafnirs Tod bedeutet ihm das gemeinsame Stück besonders viel als bleibende Erinnerung.
+
+Gina schlägt vor, ein neues, besseres Stück über Fafnirs Heldentaten gegen die Oger zu schreiben. Der Gedanke erreicht Tobin. Er will Dr. Dranzels vermeintliches Plagiat durch ein besseres Werk verdrängen und schwört, den Namen seines früheren Vorbilds dem Vergessen zu überlassen. Zur Bekräftigung verbrennt er ein Dr.-Dranzel-Buch im Kamin.
+
+Währenddessen zeigt Kyras den Gästen seine Schwertkunst. Als der Zwerg Kohl ihn zu einem Übungskampf fordert, schüchtert Kyras ihn so gründlich ein, dass Kohl die Herausforderung zurücknimmt. Brocc unterhält die Runde mit Magie, und Fox lässt sich auf ein feuchtfröhliches Wetttrinken ein.
+
+Später führt Tobin "die wahre Version" von "Tobin und seine Gefährten" auf. Gina unterstützt ihn mit einer Goblinrolle und dem Verkleidungshut, Kyras stellt sich selbst als heldenhaften Kämpfer dar. Die Gäste applaudieren begeistert, auch wenn ein Vergleich mit Dr. Dranzel Tobin erneut reizt. Helga bedankt sich für die Aufführung und überlässt der Gruppe das gemeinsame Gästezimmer kostenlos.
+
+## Bücherfeuer und Weiterfahrt
+
+Am nächsten Morgen setzt Tobin seine persönliche Fehde fort. Er verbrennt weitere Dr.-Dranzel-Bücher aus seinem Besitz. Dabei entdeckt er, dass das von Hagen zurückerhaltene Buch über Führungskräfte lediglich einen Dranzel-Einband trägt. Im Inneren steht ein anderer Autor, dazu eine handschriftliche Notiz: "Viel Glück!" Tobin behält das Buch und verbrennt nur den Einband.
+
+Er sammelt außerdem Dranzel-Bücher aus dem Tauschregal des Wirtshauses und kauft bei Kohl in der Poststation weitere Exemplare, um auch sie zu verbrennen. Als Ersatz bestellt er auf eigene Kosten zehn Bücher anderer Autoren für die Leihbücherei. Kohl und Helga bittet er, künftig auftauchende Dranzel-Bände für ihn zurückzulegen.
+
+Helga vermittelt der Gruppe eine Mitfahrt bei Haku. Er verlangt kein Geld, sondern möchte unterwegs mit den Gefährten sprechen. Nach zwei bis drei Stunden auf dem Weidenlauf erreichen sie Schildkrötenfähre.
+
+Hier endet die Sitzung bei der Einfahrt in den Hafen. Der Ort sieht anders aus als bei ihrem letzten Besuch: Der Fluss ist zwischenzeitlich über die Ufer getreten, an einigen Häusern sind Wasserschäden, feuchte Stellen und leichte Verwüstungen zu erkennen. Die Ursache und das Ausmaß sind noch nicht geklärt. Die Gruppe ist mit Shalelu zurückgekehrt; die Gespräche mit den Bewohnern und die Entscheidung über das weitere Vorgehen stehen noch aus.
+
+## Nachträglich bestätigte Ergänzungen
+
+Brocc speichert für Cal je einmal Dimensionstür und Spiegelbilder in dessen Ionenstein.
+
+Nach der Identifizierung des Stirnreifs des Verführerischen Charismas +2 verzichtet Brocc zugunsten von Tobin darauf. Cal und Fox teilen den Schutzring +1 und das Amulett der Natürlichen Rüstung +1 unter sich auf; wer welchen Gegenstand erhält, ist noch nicht festgehalten.
+
 # Sitzung vom 21. Oktober 2026: Fafnirs letzter Segen
 
 ## Fafnirs Tod
