@@ -74,6 +74,7 @@ Die Gruppe / Eigenes Ziel
 * [ ] Hagen und sein Vertrauter Mako wurden während einer Erkundung in den Höhlen bei der Ranickfeste von einer riesigen Kreatur in ein Portal gezogen. Brocc identifizierte das Residuum an der Höhlendecke als Hinweis auf ein planetarisches Tor; anhand einer Beschreibung erkennt er, dass die Ebene das Nirvana ist. Hagen und Mako gelten damit als vermisst. Eine Rettung wird als prioritär angesehen, ist bislang aber nicht durchgeführt.
 * [ ] Seit ihrem Verschwinden wurden keine neuen bestätigten Spuren von Hagen oder Mako gefunden.
   * 261028: Durch eine Berührung ihrer Klaue erlebte Fox Ginas Erinnerung an das Verschwinden von Hagen und Mako mit. Gina und Fox wollen mit den anderen über einen möglichen Rettungsweg sprechen; neue Spuren oder ein konkreter Zugang wurden nicht gefunden.
+* [ ] Sammelt Wissen über die Ebenen und mögliche Wege ins Nirvana, um Hagen und Mako finden und zurückholen zu können.
 
 ### Auftragstext
 
@@ -102,9 +103,73 @@ Tobin / Persönliches Ziel
   * 261028: Tobin verbrannte Dr.-Dranzel-Bücher aus seinem Besitz und sammelte weitere aus der Büchertauschstation ein. Bei Kohl kaufte er zusätzliche Exemplare, um auch sie zu verbrennen.
   * 261028: Für die Leihbücherei bestellte und bezahlte Tobin zehn Bücher anderer Autoren. Ihre Lieferung steht noch aus. Kohl und Helga sagten zu, weitere Dranzel-Bände für ihn zurückzulegen.
 
+* [ ] Verhindert, dass Dr. Dranzel "Tobin und seine Gefährten" in Sandspitze weiterhin unter eigenem Namen aufführt.
+
+  * 261028: Die Gruppe erfuhr in Bitterbräuch, dass das Stück regelmäßig in Sandspitze aufgeführt und Dr. Dranzel zugeschrieben wird. Tobin will weitere Aufführungen unterbinden.
+
 ### Auftragstext
 
 Tobin hat geschworen, Dr. Dranzel aus dem Gedächtnis der Schwertküste zu löschen. Mit einem besseren Theaterstück will er dessen vermeintliches Plagiat verdrängen und Fafnirs Taten bewahren. Das Verbrennen von Dranzels Büchern und ihr Ersatz durch Werke anderer Autoren sind erste Schritte seiner persönlichen Fehde; der Schwur ist noch nicht erfüllt.
+
+## Stoppt Barl Bruchbein
+
+### Auftraggeber
+
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+
+* [ ] Findet heraus, was Barl Bruchbein am Großen Haken plant, und vereitelt seine Vorhaben.
+
+  * Barl führt die Kreeg-Oger an. Er steckt hinter der Eroberung der Ranickfeste und dem Versuch, den Schädeldamm zu zerstören. Seine Absichten sind unklar, aber er gilt als böse Bedrohung. Shalelu berichtete, dass Barl ein gefürchteter Nekromant sei, der unliebsame Oger tötet und als willenlose Zombies wiedererweckt (siehe auch "Rettet Fort Ranik vor den Ogern").
+
+## Untersucht Mokmurians Sammlung der Riesen
+
+### Auftraggeber
+
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+
+* [ ] Findet heraus, warum Mokmurian die Riesen im Nesselwald bei Sandspitze sammeln lässt.
+
+  * Rasmus berichtete, dass Mokmurian die Riesen angewiesen habe, sich im Nesselwald zu sammeln. Was er dort vorhat, ist unbekannt; die Gruppe hat die Lage noch nicht untersucht.
+
+## Findet Lamatar Bayden
+
+### Auftraggeber
+
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+
+* [ ] Sucht den vermissten Kommandanten der Ranickfeste im Schimmersumpf.
+
+  * Lamatar Bayden hielt sich zur Zeit des Ogerangriffs offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf und gilt seitdem als vermisst. Sein Aufenthaltsort ist ungeklärt (siehe auch "Rettet Fort Ranik vor den Ogern").
+
+## Prüft die Ranickfeste auf Bergbares
+
+### Auftraggeber
+
+Die Gruppe / Eigenes Ziel
+
+### Zusammenfassung
+
+* [ ] Prüft, ob sich in der Ranickfeste trotz des Rauchs und möglicher Brandschäden noch Beute bergen lässt.
+
+  * Shalelu sah vor ihrer Gefangennahme Rauch an der Ranickfeste. Ob sie ausgebrannt ist, noch brennt oder was den Rauch verursacht hat, ist unbekannt. Die Gruppe will nach Schildkrötenfähre zur Festung zurückkehren.
+
+## Ginas persönliche Quest: Kehrt zur Ruine zurück
+
+### Auftraggeber
+
+Gina / Persönliches Ziel
+
+### Zusammenfassung
+
+* [ ] Kehrt zu der Ruine zurück, in der Gina ihre frühere Gruppe verlor.
+
+  * Gina möchte zu der Ruine zurückkehren, in der sie ihre frühere Gruppe verlor. Ein früherer Gefährte namens Tom wurde bei einem Einsturz verschüttet.
 
 ## Findet einen Platz für Anna und Tom
 
