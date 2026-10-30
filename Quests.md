@@ -49,7 +49,7 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Nach einer Rast bei dem befreiten Riesen Rasmus machte sich die Gruppe wieder auf den Weg zur Ranickfeste. Aus Richtung der Feste waren große dunkle Rauchwolken zu sehen.
   * Auf dem Weg entdeckte Cal eine ältere Blutspur sowie Spuren von etwa fünf bis sieben Ogern. Die Gruppe folgte den Spuren durch den Kriegwald und fand Hinweise darauf, dass Shalelu von den Ogern verschleppt wurde (siehe Quest "Rettet Shalelu aus den Händen der Oger").
   * Lamatar Bayden, der Kommandant der Ranickfeste, gilt weiterhin als vermisst. Zur Zeit des Ogerangriffs hielt er sich offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf.
-  * 261028: Shalelu bestätigte, vor ihrer Gefangennahme Rauch an der Ranickfeste gesehen zu haben; die Ursache bleibt unbekannt. Sie berichtete von Baal Bruchbein, einem gefürchteten Nekromanten und Anführer der Oger, der unliebsame Oger als Zombies zurückhole.
+  * 261028: Shalelu bestätigte, vor ihrer Gefangennahme Rauch an der Ranickfeste gesehen zu haben; die Ursache bleibt unbekannt. Sie berichtete von Barl Bruchbein, einem gefürchteten Nekromanten und Anführer der Oger, der unliebsame Oger als Zombies zurückhole.
   * 261028: Die Gruppe entschied sich gegen ein weiteres Vordringen zum Großen Haken und kehrte mit Shalelu über Bitterbräuch nach Schildkrötenfähre zurück, um sich zu erholen und Vorräte sowie Munition zu beschaffen. Dort will sie nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwendet. Bei der Einfahrt in den Hafen waren Wasserschäden an einigen Häusern erkennbar; Gespräche mit den Bewohnern stehen noch aus.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.

@@ -58,7 +58,7 @@
 
 ## Großer Haken
 
-* **Baal Bruchbein**: Laut Shalelus Bericht ein offenbar riesenhafter Anführer und Nekromant, den die Oger fürchten und hassen. Er töte unliebsame Oger und erwecke sie als willenlose Zombies.
+* **Barl Bruchbein**: Laut Shalelus Bericht ein offenbar riesenhafter Anführer und Nekromant, den die Oger fürchten und hassen. Er töte unliebsame Oger und erwecke sie als willenlose Zombies.
 
 ## Bitterbräuch
 

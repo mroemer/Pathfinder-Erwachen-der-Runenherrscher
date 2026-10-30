@@ -36,7 +36,7 @@ Während ihrer Wache sprechen Fox und Gina über die Erinnerungen. Fox erklärt,
 
 Am Morgen erzählt Shalelu von ihrem gescheiterten Weg nach Schildkrötenfähre und ihrer Gefangennahme. Bei der Ranickfeste habe sie Rauch bemerkt, bevor die Oger sie überfielen. Was aus Schwinge, Feder und Rute geworden ist, weiß sie nicht.
 
-Shalelu berichtet außerdem von Baal Bruchbein, einem offenbar riesenhaften Anführer, vor dem selbst die Oger große Angst hatten. Er sei ein Nekromant, der unliebsame Oger töte und als willenlose Zombies zurückhole. Die Gefährten wollen vorerst nicht weiter zum Großen Haken vordringen. Sie brauchen Erholung, Vorräte und insbesondere neue Munition für Gina.
+Shalelu berichtet außerdem von Barl Bruchbein, einem offenbar riesenhaften Anführer, vor dem selbst die Oger große Angst hatten. Er sei ein Nekromant, der unliebsame Oger töte und als willenlose Zombies zurückhole. Die Gefährten wollen vorerst nicht weiter zum Großen Haken vordringen. Sie brauchen Erholung, Vorräte und insbesondere neue Munition für Gina.
 
 Die Gruppe entscheidet sich für die Rückkehr nach Schildkrötenfähre. Dort wollen die Gefährten auch nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwenden. Shalelu schlägt einen Abstieg zum Schiefersee vor: Vom kleinen Außenposten Bitterbräuch aus können sie mit einem Boot über den Weidenlauf weiterreisen. Die Gruppe wählt diese Route.
 

@@ -14,7 +14,7 @@ Jan (DM): Wenn ich weglaufe, kann ich die Leute warnen, aber die Wölfe sind sic
 
 Jan (DM): Ich wache von der Kälte auf. Ich zittere am ganzen Körper. [Unverständlich.] in einem Wald. Oger hatten [unverständlich] über die Schulter geworfen. Warum lebe ich? [Unverständlich.] die Wölfe? Ich bekomme die schreckliche Befürchtung, dass mir das Schlimmste noch bevorsteht. In der Hoffnung, dass Tobins Bande mich sucht, wenn sie die Kampfspuren finden, reiße ich mir Haare aus und hänge sie, wo ich hinkomme, immer darauf bedacht, dass die Monster nicht merken, dass ich bei Bewusstsein bin. Ich versuche, mich an diese Hoffnung zu klammern und nicht aufzugeben. Es wird mir schwer.
 
-Jan (DM): Ich kann sie verstehen. Sie reden über Baal Bruchbein, und ich merke, dass sie ihn hassen. [Unverständlich.] Er scheint ihr Anführer zu sein. Warum heißen sie denn Kreegoger? Er ist Nekromant und tötet unliebsame Oger, um sie als willenlose Zombies wiederzubeleben. Ein Schicksal, das sogar diese inzestuösen Abscheulichkeiten fürchten. Sie hoffen, dass er mich als untote Braut möchte, ich schätze, um für ihr Versagen zu bezahlen.
+Jan (DM): Ich kann sie verstehen. Sie reden über Barl Bruchbein, und ich merke, dass sie ihn hassen. [Unverständlich.] Er scheint ihr Anführer zu sein. Warum heißen sie denn Kreegoger? Er ist Nekromant und tötet unliebsame Oger, um sie als willenlose Zombies wiederzubeleben. Ein Schicksal, das sogar diese inzestuösen Abscheulichkeiten fürchten. Sie hoffen, dass er mich als untote Braut möchte, ich schätze, um für ihr Versagen zu bezahlen.
 
 Jan (DM): Ich habe Angst, reiße noch ein paar Haare aus. [Unverständlich.] meine Zähne nicht mehr. Ich denke an die Wölfe, und Trauer packt mich. Plötzlich fühle ich mich wieder warm, richtig heiß sogar, obwohl ich den Schnee überall sehen kann. Ich kämpfe gegen den Drang, mich auszuziehen und damit zu verraten. Ich weiß, was Hypothermie mit einem macht. Müdigkeit übermannt mich, und ich schlafe ein. "Zum Glück habe ich meinem Vater noch die Hand gereicht", mein letzter Gedanke.
 
@@ -672,7 +672,7 @@ Jan (DM): Sie haben nicht mit mir geredet. Ich glaube nicht, dass sie dachten, i
 
 Frederik (Brocc): Und wie hieß noch mal der Anführer, von dem sie geredet haben, zu dem sie dich bringen wollten?
 
-Jan (DM): Baal Bruchbein. Ein Riese scheinbar.
+Jan (DM): Barl Bruchbein. Ein Riese scheinbar.
 
 Lisa D (Gina): Wir haben gehört, was die gesagt haben, oder? Brocc und Tobin haben das ja verstanden, oder?
 
@@ -686,7 +686,7 @@ Lisa D (Gina): Also es passt schon zusammen, irgendwie.
 
 Frederik (Brocc): Vielleicht dachten sie, dass, wenn sie einen Gefangenen mitbringen, eine bessere Chance zu haben, aufgenommen zu werden in den Ogerstamm oder ich weiß nicht was.
 
-Jan (DM): Ich denke auch. Ich denke, sie kommen von hier, [unverständlich] eigentlich eine andere Aufgabe. Sie sind zu früh zurückgekommen, weil ihr es ja geschafft habt, die Ranickfeste abzuluchsen. Mussten sie sich irgendwie ihr Leben verdienen sozusagen. Sie haben nichts Gutes über Baal Bruchbein erzählt, ganz im Gegenteil.
+Jan (DM): Ich denke auch. Ich denke, sie kommen von hier, [unverständlich] eigentlich eine andere Aufgabe. Sie sind zu früh zurückgekommen, weil ihr es ja geschafft habt, die Ranickfeste abzuluchsen. Mussten sie sich irgendwie ihr Leben verdienen sozusagen. Sie haben nichts Gutes über Barl Bruchbein erzählt, ganz im Gegenteil.
 
 Lisa E (Fox): Warum wollten die dann ausgerechnet da hin?
 
