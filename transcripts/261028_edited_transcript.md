@@ -790,15 +790,15 @@ Lisa D (Gina): Nur wenn die Feste jetzt auf dem Weg liegen würde, dann würde i
 
 Frederik (Brocc): Müssen wir quer durch den Kriegwald, oder? Also müssen wir so oder so, aber noch länger durch den Kriegwald.
 
-Jan (DM): Und Shalelu würde euch Hilfestellung geben, weil die sich immer informiert, wo sie hinkommt, wie es da aussieht und so. "Ich glaube, wir haben mehrere Möglichkeiten, wie wir zurück nach Schildkrötenfähre kommen. Wir können entweder jetzt direkt ... Ich denke, wir sind nah dran. Wir könnten am Ufer des Schiefersees nach Bitterbräuch, das ist so ein kleiner Außenposten, und von dort aus dann, haben sie dort Boote, nach Schildkrötenfähre fahren zum Lehmbrunnsee. Da gibt es den Weidenlauf, und dem sollten wir da unproblematisch hinkommen. Steiler Abstieg, aber das könnten wir hinkriegen. Alternativ die Route, die wir hergekommen sind. Also das wäre dann so grob zwei Tage wahrscheinlich."
+Jan (DM): Und Shalelu würde euch Hilfestellung geben, weil die sich immer informiert, wo sie hinkommt, wie es da aussieht und so. "Ich glaube, wir haben mehrere Möglichkeiten, wie wir zurück nach Schildkrötenfähre kommen. Wir können entweder jetzt direkt ... Ich denke, wir sind nah dran. Wir könnten am Ufer des Schiefersees nach Bitterbroich, das ist so ein kleiner Außenposten, und von dort aus dann, haben sie dort Boote, nach Schildkrötenfähre fahren zum Lehmbrunnsee. Da gibt es den Weidenlauf, und dem sollten wir da unproblematisch hinkommen. Steiler Abstieg, aber das könnten wir hinkriegen. Alternativ die Route, die wir hergekommen sind. Also das wäre dann so grob zwei Tage wahrscheinlich."
 
 Lisa E (Fox): Und wie schnell sind wir bei der ersten Route?
 
-Jan (DM): Bei dem Wetter, wenig Wind, und wenn wir in Bitterbräuch schnell irgendwas bekommen, dann vielleicht nur zwei Tage. Aber es wird halt ein bisschen Geld kosten, um dort ein Boot zu nehmen.
+Jan (DM): Bei dem Wetter, wenig Wind, und wenn wir in Bitterbroich schnell irgendwas bekommen, dann vielleicht nur zwei Tage. Aber es wird halt ein bisschen Geld kosten, um dort ein Boot zu nehmen.
 
 Lisa E (Fox): Wir haben ja ein bisschen Geld gefunden.
 
-Ernesto (Kyras): Gibt es in Bitterbräuch Händler?
+Ernesto (Kyras): Gibt es in Bitterbroich Händler?
 
 Jan (DM): Vielleicht. Aber wenn, dann keine großen, denke ich.
 
@@ -806,7 +806,7 @@ Ernesto (Kyras): Ist da eine Kirche oder eine Kapelle?
 
 Jan (DM): [Unverständlich.]
 
-Ernesto (Kyras): [Unverständlich.] Ab nach Bitterbräuch. Klingt gut.
+Ernesto (Kyras): [Unverständlich.] Ab nach Bitterbroich. Klingt gut.
 
 Jan (DM): Seid euch alle einig?
 
@@ -960,21 +960,21 @@ Micha (Tobin): [Unverständlich.] 26, und dann habe ich noch elf zu vergeben. Ta
 
 Jan (DM): Wenn niemand die elf will, nimmst du alle noch mal. Gibt es noch irgendwas, was ihr machen wollt, bevor ihr dort abreist?
 
-## Abschnitt 8 - Der Weg nach Bitterbräuch
+## Abschnitt 8 - Der Weg nach Bitterbroich
 
 Jan (DM): Ihr begebt euch auf den langen Weg. Shalelu führt euch so ein bisschen an, auch wenn sie nur von der Karte weiß, dass es da einen Weg geben soll. Und ich werde mal für sie würfeln.
 
 Micha (Tobin): Was war unsere Entscheidung? Wo gehen wir hin? Ranickfeste?
 
-Jan (DM): [Unverständlich.] Bitterbräuch.
+Jan (DM): [Unverständlich.] Bitterbroich.
 
-Micha (Tobin): Bitterbräuch. Wo ist das?
+Micha (Tobin): Bitterbroich. Wo ist das?
 
-Jan (DM): Das ist hier, unten am Schiefersee. Von dort aus könnt ihr ein Boot über den Weidenlauf nehmen zum Lehmbrunnsee, wo dann auch Schildkrötenfähre ist. Shalelu [unverständlich] findet den Weg. Ihr geht so einen steilen Felspfad hier runter, Zickzack, bis ihr unten ankommt am See. Und da gibt es dann eine schöne Panoramaroute, die an dem See entlangführt und ab und zu mal wieder in den Wald reinführt. Das ist schon eine ziemlich steile Kante, die euch aber dann langsam entgegenkommt. Und hier in Bitterbräuch könnte man eben bis nach Schildkrötenfähre [unverständlich].
+Jan (DM): Das ist hier, unten am Schiefersee. Von dort aus könnt ihr ein Boot über den Weidenlauf nehmen zum Lehmbrunnsee, wo dann auch Schildkrötenfähre ist. Shalelu [unverständlich] findet den Weg. Ihr geht so einen steilen Felspfad hier runter, Zickzack, bis ihr unten ankommt am See. Und da gibt es dann eine schöne Panoramaroute, die an dem See entlangführt und ab und zu mal wieder in den Wald reinführt. Das ist schon eine ziemlich steile Kante, die euch aber dann langsam entgegenkommt. Und hier in Bitterbroich könnte man eben bis nach Schildkrötenfähre [unverständlich].
 
-Jan (DM): Ihr könnt dann Bitterbräuch auch schon von relativ Weitem sehen. Es sind einfach so drei, vier Häuser, da steigt Rauch auf. Die Kälte lässt nach und nach, wird nach und nach weniger. Und ihr zieht eventuell eure [unverständlich] aus und könnt ganz normal [unverständlich].
+Jan (DM): Ihr könnt dann Bitterbroich auch schon von relativ Weitem sehen. Es sind einfach so drei, vier Häuser, da steigt Rauch auf. Die Kälte lässt nach und nach, wird nach und nach weniger. Und ihr zieht eventuell eure [unverständlich] aus und könnt ganz normal [unverständlich].
 
-Jan (DM): [Unverständlich.] laufen jetzt. Macht so wahrscheinlich noch mal tausend Höhenmeter oder so, bis es wieder im Grünen ist. 14, 15 Grad, und bis ihr da seid, ist es wahrscheinlich [unverständlich]. Das heißt, ihr seht dann auch schon die Lichter in den Häusern von diesem Outpost in Bitterbräuch.
+Jan (DM): [Unverständlich.] laufen jetzt. Macht so wahrscheinlich noch mal tausend Höhenmeter oder so, bis es wieder im Grünen ist. 14, 15 Grad, und bis ihr da seid, ist es wahrscheinlich [unverständlich]. Das heißt, ihr seht dann auch schon die Lichter in den Häusern von diesem Outpost in Bitterbroich.
 
 Ernesto (Kyras): So, jetzt [unverständlich] die Kultistenoutfits wieder [unverständlich].
 
@@ -1570,7 +1570,7 @@ Jan (DM): Sehr gut. War jetzt nicht die beste Show. Und er stößt noch mal mit 
 
 Ernesto (Kyras): Oh Gott!
 
-Jan (DM): Wollt ihr noch irgendwas machen in Bitterbräuch, bevor der Abend [unverständlich]?
+Jan (DM): Wollt ihr noch irgendwas machen in Bitterbroich, bevor der Abend [unverständlich]?
 
 Roman (Cal): Ich hätte noch einen ...
 
@@ -1744,7 +1744,7 @@ Jan (DM): Der Typ aus der Post kommt noch mal: "Wir haben übrigens auch so eine
 
 Micha (Tobin): Danke, da war ich schon. Aber danke für den Hinweis.
 
-Jan (DM): Der Rest von euch klärt wahrscheinlich mit Helga das mit den Booten. Haku nimmt euch mit. Wollt ihr noch irgendwas machen in Bitterbräuch, bevor ihr aufbrecht?
+Jan (DM): Der Rest von euch klärt wahrscheinlich mit Helga das mit den Booten. Haku nimmt euch mit. Wollt ihr noch irgendwas machen in Bitterbroich, bevor ihr aufbrecht?
 
 Micha (Tobin): Tobin würde tatsächlich bei der Post nachfragen, was sie für Bücher außer von Dr. Dranzel [unverständlich], würde quasi alle Alternativen zu Dr. Dranzel bestellen, um die Bücher zu ersetzen, die da sind. Und würde dann quasi für die Leihbücherei, um die Lücken aufzufüllen, Bücher nachbestellen, die nicht von Dr. Dranzel sind. Ich würde Kohl sagen: "Das mit der Leihbücherei ist eine super Sache. Ich glaube, da müsste man noch so ein bisschen kickstarten, dass das so richtig abhebt. Bestell doch mal, pass auf", und dann gehe ich durch die Liste, "die ersten zehn, die nicht Dr. Dranzel sind, bestell die einfach für die Leihbücherei."
 
@@ -1782,11 +1782,11 @@ Jan (DM): Also ich lege dir die gerne zur Seite, gar kein Thema.
 
 Micha (Tobin): Perfekt. Und wenn ich nicht rechtzeitig zurückkomme, dann einfach in den Müll damit, gell? [Unverständlich.]
 
-Jan (DM): Ich mache eine Liste, und [unverständlich] gleichen wir das, wenn du kommst. Die meisten Leute kommen immer nur einmal im Leben nach Bitterbräuch.
+Jan (DM): Ich mache eine Liste, und [unverständlich] gleichen wir das, wenn du kommst. Die meisten Leute kommen immer nur einmal im Leben nach Bitterbroich.
 
 Micha (Tobin): Tobin zahlt schon mal. Ich will ja nicht, dass du in Vorleistung gehst. Und Tobin lässt noch fünf Goldmünzen da.
 
-Jan (DM): Dankeschön. Alles klar, ich kümmere mich drum. Hast du einen neuen Freund gewonnen in Bitterbräuch.
+Jan (DM): Dankeschön. Alles klar, ich kümmere mich drum. Hast du einen neuen Freund gewonnen in Bitterbroich.
 
 Micha (Tobin): Dann gehe ich noch mal kurz bei Helga vorbei, weil die hat die Leihbücherei, und sage ihr, dass sie doch bitte regelmäßig mal nachschauen soll, ob Dr.-Dranzel-Bücher in der Leihbücherei sind. Ich würde auch ihr noch zwei Goldmünzen oder so hinlegen als Ausgleich und würde sagen: "Wenn dann ein Dr.-Dranzel-Buch kommt, dann leg es doch bitte für mich zur Seite. Ich bin großer Sammler."
 
@@ -1818,7 +1818,7 @@ Jan (DM): Die Frau mit dem Dutt kommt raus, [unverständlich]. "Ja?"
 
 Frederik (Brocc): Ja, da bist du. Ich wollte nur wissen, wo die Helga ist.
 
-Jan (DM): Tür wieder zu, geht wieder. [Unverständlich.] Wollt ihr denn jetzt ein Boot oder was? [Unverständlich.] Bitterbräuch einfach nicht verlassen.
+Jan (DM): Tür wieder zu, geht wieder. [Unverständlich.] Wollt ihr denn jetzt ein Boot oder was? [Unverständlich.] Bitterbroich einfach nicht verlassen.
 
 Ernesto (Kyras): Das wäre gut.
 

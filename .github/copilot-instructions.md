@@ -20,7 +20,7 @@ Arbeite so, als würdest du den verbindlichen Kanon dieser Runde fortschreiben.
   - kurze Absätze
   - sparsame Aufzählungen
 - Keine regelmechanischen Details oder Würfelauflösungen ausführen, außer sie sind narrativ relevant.
-- Nutze als Anführungszeichen immer " (statt z.B. „ oder “).
+- Verwende ausschließlich gerade ASCII-Anführungszeichen (`"` und `'`), auch für Apostrophe. Keine typografischen Anführungszeichen oder Apostrophe verwenden.
 
 ## Kanonische Konsistenz
 

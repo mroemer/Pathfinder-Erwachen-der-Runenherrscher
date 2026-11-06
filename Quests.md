@@ -40,9 +40,9 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Im Kontrollhaus des Schädeldamms traf die Gruppe auf mehrere Trolle und tötete sie. Wandmalereien deuten darauf hin, dass die Trolle ein gewaltiges einäugiges Wesen aus dem Wasser verehren.
   * Auf der oberen Ebene des Kontrollhauses wurde kein offensichtlicher Mechanismus zum Öffnen der Schleusen gefunden. Die Gruppe drang deshalb mit Wasseratmung tiefer in den überfluteten Damm vor.
   * Im Inneren des Damms wurde die Gruppe von augenbesetzten Tentakeln angegriffen. Später stieß ein riesiges schwarzes, schuppiges Wesen mit zahlreichen roten Augen und einem gewaltigen Maul durch eine Öffnung im Damm und verletzte Fafnir schwer.
-  * Tief im Inneren des Damms fand die Gruppe schließlich den Mechanismus zur Steuerung der Schleusen. Dort traf sie auf den gefangenen Teufel Avaxial, der die Kreatur im Wasser als „Schwarze Maga“ bezeichnete. Nach einem mit Blut besiegelten Vertrag erklärte er der Gruppe die Bedienung des Mechanismus und wurde anschließend befreit.
+  * Tief im Inneren des Damms fand die Gruppe schließlich den Mechanismus zur Steuerung der Schleusen. Dort traf sie auf den gefangenen Teufel Avaxial, der die Kreatur im Wasser als "Schwarze Maga" bezeichnete. Nach einem mit Blut besiegelten Vertrag erklärte er der Gruppe die Bedienung des Mechanismus und wurde anschließend befreit.
   * Kyras und Fafnir aktivierten die beiden magischen Kreise des Mechanismus. Die Schleusen öffneten sich und der Wasserdruck auf den Damm begann zu sinken. Die Schwarze Maga wurde vom entstehenden Sog zurück in den Stausee gerissen.
-  * Ein magisches Modell des Schädeldamms trägt die thassilonische Widmung „Zu Ehren Karzoug“.
+  * Ein magisches Modell des Schädeldamms trägt die thassilonische Widmung "Zu Ehren Karzoug".
   * Die Gruppe verließ den Schädeldamm über einen Notausgang. Kyras brachte die Gefährten mit Broccs Flugmagie zurück auf die Dammkrone. Beim Verlassen galt der Damm als stabilisiert.
   * Anschließend kehrte die Gruppe zu Mutter Weide ins Splitterbaumtal zurück.
   * Mutter Weide entpuppte sich als Blutvettel. Fox lebte wieder, stand zunächst jedoch unter fremder Kontrolle. Die Gruppe tötete die Vettel und ihre Diener; Fox gewann die Kontrolle über sich zurück.
@@ -50,7 +50,10 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * Auf dem Weg entdeckte Cal eine ältere Blutspur sowie Spuren von etwa fünf bis sieben Ogern. Die Gruppe folgte den Spuren durch den Kriegwald und fand Hinweise darauf, dass Shalelu von den Ogern verschleppt wurde (siehe Quest "Rettet Shalelu aus den Händen der Oger").
   * Lamatar Bayden, der Kommandant der Ranickfeste, gilt weiterhin als vermisst. Zur Zeit des Ogerangriffs hielt er sich offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf.
   * 261028: Shalelu bestätigte, vor ihrer Gefangennahme Rauch an der Ranickfeste gesehen zu haben; die Ursache bleibt unbekannt. Sie berichtete von Barl Bruchbein, einem gefürchteten Nekromanten und Anführer der Oger, der unliebsame Oger als Zombies zurückhole.
-  * 261028: Die Gruppe entschied sich gegen ein weiteres Vordringen zum Großen Haken und kehrte mit Shalelu über Bitterbräuch nach Schildkrötenfähre zurück, um sich zu erholen und Vorräte sowie Munition zu beschaffen. Dort will sie nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwendet. Bei der Einfahrt in den Hafen waren Wasserschäden an einigen Häusern erkennbar; Gespräche mit den Bewohnern stehen noch aus.
+  * 261028: Die Gruppe entschied sich gegen ein weiteres Vordringen zum Großen Haken und kehrte mit Shalelu über Bitterbroich nach Schildkrötenfähre zurück, um sich zu erholen und Vorräte sowie Munition zu beschaffen. Dort will sie nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwendet. Bei der Einfahrt in den Hafen waren Wasserschäden an einigen Häusern erkennbar; Gespräche mit den Bewohnern stehen noch aus.
+  * 261104: Die Gruppe traf Jakardros und Thal mit dem lebenden Kaven bei den Aufräumarbeiten. Laut Thal evakuierten die Schwarzpfeile Bewohner beim Anstieg des Schädelflusses; inzwischen ist das Wasser zurückgegangen. Kaven arbeitet unter Jakardros' Aufsicht.
+  * 261104: Die Schwarzpfeile suchen neue Mitglieder und haben in Magnimar Männer, Geld und Baumaterial angefordert; sie rechnen erst in ungefähr einem Monat mit Unterstützung. Sie würden die Gruppe zur Ranickfeste begleiten. Trotz Melins öffentlicher Erklärung, die Feste sei frei, wurde sie seit dem Rückzug nicht erneut überprüft. Melin kündigte Bergung und Wiederaufbau für den nächsten Tag an; begonnen haben diese noch nicht.
+  * 261104: Gina stellte Munition her, Kyras beschaffte Weihwasser, eine Schutzschriftrolle und ein neues Kettenhemd. Schwinge, Feder und Rute sind nicht im Dorf angekommen. Die Gruppe erwägt eine Rückkehr zur Feste und eine Suche im Schimmersumpf, hat aber noch keine Reihenfolge festgelegt und bleibt am Sitzungsende beim Dorffest in Schildkrötenfähre.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -90,13 +93,14 @@ Tobin / Persönliches Ziel
 
 * [ ] Lasst Dr. Dranzel aus dem Gedächtnis der Schwertküste verschwinden.
 
-  * 261028: In Bitterbräuch erfuhr die Gruppe, dass "Tobin und seine Gefährten" regelmäßig in Sandspitze aufgeführt und von Gästen Dr. Dranzel zugeschrieben wird. Tobin betrachtet dies als Plagiat.
+  * 261028: In Bitterbroich erfuhr die Gruppe, dass "Tobin und seine Gefährten" regelmäßig in Sandspitze aufgeführt und von Gästen Dr. Dranzel zugeschrieben wird. Tobin betrachtet dies als Plagiat.
   * 261028: Tobin schwor bei Fafnirs Seele, Dr. Dranzel dem Vergessen anheimfallen zu lassen. Sein Ziel ist, dass niemand mehr dessen Namen nennt oder liest.
   * 261028: Als ersten öffentlichen Gegenauftritt führte Tobin mit Gina und Kyras die "wahre Version" des bisherigen Stücks auf. Die Gäste applaudierten, verglichen die Aufführung aber weiterhin mit Dr. Dranzel. Der Schwur ist noch nicht erfüllt.
 
 * [ ] Schreibt ein neues Stück über Fafnirs Heldentaten gegen die Oger, das Dr. Dranzels vermeintliches Plagiat verdrängt.
 
-  * 261028: Auf Ginas Vorschlag beschloss Tobin, ein besseres Stück zu Fafnirs Andenken zu schreiben. Das neue Stück ist noch nicht geschrieben; die Aufführung in Bitterbräuch war eine Wiederaufführung des bisherigen Werks.
+  * 261028: Auf Ginas Vorschlag beschloss Tobin, ein besseres Stück zu Fafnirs Andenken zu schreiben. Das neue Stück ist noch nicht geschrieben; die Aufführung in Bitterbroich war eine Wiederaufführung des bisherigen Werks.
+  * 261104: Tobin bereitete einen neuen Auftritt vor und führte mit den Gefährten beim Dorffest in Schildkrötenfähre ein improvisiertes Stück über Fafnirs Taten und Tod auf. Das Publikum applaudierte begeistert; Melin bezeichnete es als besser als "Die Helden von Sandspitze". Tobin betonte seine Urheberschaft und erneuerte öffentlich den Plagiatsvorwurf gegen Dr. Dranzel. Ob das neue Werk dessen vermeintliches Plagiat dauerhaft verdrängt, bleibt offen.
 
 * [ ] Zieht Dr.-Dranzel-Bücher aus dem Verkehr und ersetzt sie durch Werke anderer Autoren.
 
@@ -105,7 +109,7 @@ Tobin / Persönliches Ziel
 
 * [ ] Verhindert, dass Dr. Dranzel "Tobin und seine Gefährten" in Sandspitze weiterhin unter eigenem Namen aufführt.
 
-  * 261028: Die Gruppe erfuhr in Bitterbräuch, dass das Stück regelmäßig in Sandspitze aufgeführt und Dr. Dranzel zugeschrieben wird. Tobin will weitere Aufführungen unterbinden.
+  * 261028: Die Gruppe erfuhr in Bitterbroich, dass das Stück regelmäßig in Sandspitze aufgeführt und Dr. Dranzel zugeschrieben wird. Tobin will weitere Aufführungen unterbinden.
 
 ### Auftragstext
 
@@ -135,6 +139,20 @@ Die Gruppe / Eigenes Ziel
 
   * Rasmus berichtete, dass Mokmurian die Riesen angewiesen habe, sich im Nesselwald zu sammeln. Was er dort vorhat, ist unbekannt; die Gruppe hat die Lage noch nicht untersucht.
 
+## Nicks Warnung
+
+### Auftraggeber
+
+Nick / Hinweis des Fischers in Schildkrötenfähre
+
+### Zusammenfassung
+
+* [ ] Geht Nicks Bericht über das Ungeheuer nahe dem Schimmersumpf nach und klärt die Gefahr für die Fischer.
+
+  * 261104: Nick berichtete Brocc und Cal, dass im Nebel nahe dem Schimmersumpf ein mindestens neun Meter langes Wesen mit knöchriger Rückenflosse sein Fischerboot entzwei gebissen habe. Er rettete sich ans Ufer und wurde später von Paco aufgenommen. Nick verglich das Wesen mit den Knochenhechten des Lehmgrundsees, nur sei es viel größer; seine genaue Natur bleibt ungeklärt.
+  * Nick erzählte außerdem von abendlichen Lichtern am Schimmersumpf und einem weiteren Boot, das nicht zurückgekehrt sei. Seit den Angriffen wagen sich die Fischer nicht mehr auf den See.
+  * Nach Nicks Einschätzung ließe sich für einen Versuch, etwas gegen das Monster zu unternehmen, ein Boot finden.
+
 ## Findet Lamatar Bayden
 
 ### Auftraggeber
@@ -146,6 +164,7 @@ Die Gruppe / Eigenes Ziel
 * [ ] Sucht den vermissten Kommandanten der Ranickfeste im Schimmersumpf.
 
   * Lamatar Bayden hielt sich zur Zeit des Ogerangriffs offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf und gilt seitdem als vermisst. Sein Aufenthaltsort ist ungeklärt (siehe auch "Rettet Fort Ranik vor den Ogern").
+  * 261104: Die Schwarzpfeile haben per Brief jemanden für eine magische Suche angefragt, aber noch keine Antwort erhalten. Von Lamatar gibt es weiterhin keine Nachricht. Brocc und Cal befragten den Fischer Nick, der von einem Bootsangriff und abendlichen Lichtern nahe dem Schimmersumpf berichtete; eine Spur zu Lamatar ergab sich nicht.
 
 ## Prüft die Ranickfeste auf Bergbares
 
@@ -170,6 +189,26 @@ Gina / Persönliches Ziel
 * [ ] Kehrt zu der Ruine zurück, in der Gina ihre frühere Gruppe verlor.
 
   * Gina möchte zu der Ruine zurückkehren, in der sie ihre frühere Gruppe verlor. Ein früherer Gefährte namens Tom wurde bei einem Einsturz verschüttet.
+
+## Fox' persönliche Quest: Findet das Schicksal ihrer Eltern heraus
+
+### Auftraggeber
+
+Fox / Persönliches Ziel
+
+### Zusammenfassung
+
+* [ ] Findet heraus, was mit Fox' Eltern nach dem nächtlichen Einbruch in ihr Stadthaus in Magnimar geschah.
+
+  * 261104: Fox erzählte Gina, dass sie sich während des Einbruchs versteckt hatte. Danach fand sie Blut und die Halskette ihrer Mutter, aber keine Leichen. Ihre Eltern waren verschwunden. Als Stadtwachen kamen, floh Fox; später brachte Raven sie zu den Stadtratten. Ob ihre Eltern noch leben, ist ungeklärt.
+  * Gina bot an, bei einer Rückkehr nach Magnimar gemeinsam nachzuforschen. Fox blieb skeptisch, wollte aber darüber nachdenken.
+
+* [ ] Klärt, welche Hinweise der Stammbaum der Lysanders und die Funde aus der Ranickfeste auf Fox' Familie geben.
+
+  * Im verborgenen Lesezimmer fand Fox einen Stammbaum der Familie Lysander und erkannte im Porträt von Suna Lysander ihre Mutter. Von Sunas Eintrag führt eine nachträglich eingezeichnete Linie zu einem Fragezeichen.
+  * 261104: Fox fand ihren Vater nicht im Stammbaum. Ihr goldener Salamanderohrring stammt von der Halskette ihrer Mutter und entspricht dem Symbol auf deren Porträt. Der Stammbaum zeigt wiederholt einen goldenen Salamander auf grünem Grund.
+  * Das zweite Buch aus dem Lesezimmer enthält Zweifel an der Richtigkeit des Stammbaums, Aufzeichnungen über Treffen und vage Fortschrittsberichte. Fox und Gina haben es noch nicht ausführlich untersucht.
+  * Bei Lukrezia wurde außerdem ein grüner Ring mit goldenem Salamander gefunden. Hat der Ring eine Verbindung zu Fox' Familie? Seine Bedeutung ist weiterhin ungeklärt.
 
 ## Findet einen Platz für Anna und Tom
 
@@ -220,7 +259,7 @@ Die Gruppe / Eigenes Ziel
   * 261014: Shalelu wurde im Kampf erneut niedergeschlagen. Der Kampf am Ogerlager ist beim Sitzungsende noch im Gang; nicht alle Oger sind besiegt und Shalelus Zustand ist ungeklärt. Ihre Befreiung aus dem Lager gelang, ihre Rettung ist aber noch nicht abgeschlossen.
   * 261021: Kyras zerstörte den letzten Fleischgolem, und Cal tötete die Oger-Anführerin Dorella. Der Kampf ist beendet und Shalelu lebt; ihre Befreiung ist abgeschlossen. Sie beteiligte sich am Kampf und half anschließend bei der Versorgung Broccs.
   * 261021: Fafnir wurde nach einem Blitzstrahl Dorellas vom letzten Fleischgolem getötet. Tobins Heilmagie konnte ihn nicht zurückholen. Brocc wurde durch einen weiteren Blitzstrahl lebensgefährlich verletzt, aber von Tobin rechtzeitig geheilt und gerettet. Die Gruppe trauert am Kampfplatz um Fafnir; über das weitere Vorgehen wurde noch nicht entschieden.
-  * 261028: Die Gruppe begrub Fafnir auf einem Hügel unter der Erde und nahm gemeinsam Abschied. Danach verließ sie den Kampfplatz und kehrte mit Shalelu über Bitterbräuch nach Schildkrötenfähre zurück. Shalelu berichtete vom Ogerhinterhalt und bestätigte, die Haarspur selbst für mögliche Retter hinterlassen zu haben. Das Schicksal von Schwinge, Feder und Rute bleibt unbekannt.
+  * 261028: Die Gruppe begrub Fafnir auf einem Hügel unter der Erde und nahm gemeinsam Abschied. Danach verließ sie den Kampfplatz und kehrte mit Shalelu über Bitterbroich nach Schildkrötenfähre zurück. Shalelu berichtete vom Ogerhinterhalt und bestätigte, die Haarspur selbst für mögliche Retter hinterlassen zu haben. Das Schicksal von Schwinge, Feder und Rute bleibt unbekannt.
 
 ### Auftragstext
 
@@ -242,10 +281,11 @@ Xanesha, beziehungsweise der Brief den wir bei ihrer Leiche gefunden haben (sieh
   * Xaneshas Schwester sammelte vermutlich Seelen im Gebiet um Schildkrötenfähre und stand laut ihrem Brief mit dem Fall der Ranickfeste in Verbindung.
   * Die in der Ranickfeste getötete rothaarige Lamiamatriarchin wurde als Lukrezia bestätigt.
   * Kaven Windstreich gestand, Lukrezia Informationen über die Ranickfeste und ihre Geheimgänge verraten zu haben. Sie interessierte sich insbesondere für die Festung und deren Verteidigung.
-  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Das zweite Buch wurde bislang nicht genauer untersucht. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert; nach ihrer Rückkehr erhielt Fox den Stammbaum zurück, während Gina das zweite Buch verwahrt.
+  * In einem verborgenen Lesezimmer der Ranickfeste wurden zwei Bücher sichergestellt. Eines davon enthält den Stammbaum der Familie Lysander und Hinweise auf Fox' Mutter Suna Lysander. Nach Fox' Tod wurden beide Bücher von der Gruppe gesichert; nach ihrer Rückkehr erhielt Fox den Stammbaum zurück, während Gina das zweite Buch verwahrt.
+  * 261104: Fox und Gina untersuchten das zweite Buch: ein Notizbuch mit Zweifeln am Stammbaum, Treffen, vagen Fortschrittsberichten, einem Plan zur Versenkung des "Paradieses" und Skizzen der Ranickfeste. Weitere Erkenntnisse erfordern eine ausführlichere Untersuchung. Beim Dorffest erkannte Gina zudem bei ungefähr der Hälfte der offenbar einheimischen Gäste Sihedron-Tätowierungen; deren Bedeutung wurde noch nicht untersucht.
   * Bei Lukrezia wurden eine Namensliste sowie ein grüner Ring mit goldenem Salamander gefunden. Die Bedeutung des Rings und seine mögliche Verbindung zur Familie Lysander sind ungeklärt.
   * Auf den beiden Dolchen Lukrezias und Jakrats Haken des Verderbens befindet sich dasselbe Zeichen: ein in der Mitte zerbrochenes Dreieck. Dasselbe Zeichen wurde später auf einem magischen Lichtgürtel in der verwüsteten Hütte im Splitterbaumtal gefunden.
-  * Der Schädeldamm wurde erreicht. Die Gruppe konnte die Schleusen öffnen und den gefährlich hohen Wasserdruck auf den Damm senken. Ein magisches Modell im Inneren des Damms trägt die thassilonische Widmung „Zu Ehren Karzoug“.
+  * Der Schädeldamm wurde erreicht. Die Gruppe konnte die Schleusen öffnen und den gefährlich hohen Wasserdruck auf den Damm senken. Ein magisches Modell im Inneren des Damms trägt die thassilonische Widmung "Zu Ehren Karzoug".
   * Malogus, der Anführer der Oger am Schädeldamm, wurde dort angetroffen und von der Gruppe getötet. Bei einem menschlichen Magier, der die Oger unterstützte, wurde ein Ring mit einem großen blutroten Stein gefunden, dessen Magie der Magie auf dem bei Lukrezia gefundenen Ring ähnelt.
   * Außerdem wurde eine nicht näher identifizierte "Freundin vom großen Haken" erwähnt, deren Waffen offenbar von den Ogern genutzt werden.
   * Die Schmieden der Ranickfeste arbeiten nach Aussage der Belauschten ununterbrochen.

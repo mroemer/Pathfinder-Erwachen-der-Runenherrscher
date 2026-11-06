@@ -1,3 +1,185 @@
+# Sitzung vom 4. November 2026: Ein Fest für die Lebenden
+
+## Wiedersehen am Kai
+
+In Schildkrötenfähre helfen die Gefährten Paco beim Abladen seines Segelboots.
+Am Kai treffen sie Thal, Jakardros und den weiterhin beaufsichtigten Kaven bei
+den Aufräumarbeiten. Thal berichtet, dass der Schädelfluss plötzlich
+angeschwollen sei. Die Schwarzpfeile hätten Bewohner aus ihren Häusern
+evakuiert; inzwischen sei das Wasser wieder zurückgegangen. Gemeinsam beheben
+die Dorfbewohner nun die Schäden. Die frühere Angst und das Misstrauen sind
+einer spürbaren Gemeinschaft gewichen.
+
+Als Thal Fox begrüßen will, streift ihre Klaue versehentlich seine Hand. Beide
+erleben seine Erinnerung daran, wie die Grauls seinen Bruder verspeisten. Fox
+übergibt sich über den Kai. Zugleich wird erneut deutlich, dass etwas in ihr
+solche Erinnerungen aufnimmt.
+
+Die Gruppe berichtet von Fafnirs Tod und den Kämpfen gegen die Oger. Shalelu
+begrüßt Jakardros diesmal mit einer Umarmung. Brocc und Gina hören, wie sie ihm
+zuflüstert, dass sie ihn inzwischen besser verstehe und den Mann kennenlernen
+wolle, der ihre Mutter glücklich gemacht habe. Für den Abend verabredet sie ein
+Gespräch mit ihm.
+
+## Offene Wege
+
+Von Lamatar Bayden gibt es weiterhin keine Nachricht. Die Schwarzpfeile haben
+versucht, jemanden für eine magische Suche nach ihrem Kommandanten zu gewinnen,
+bislang jedoch ohne Antwort. Jakardros und Thal stehen ihm inzwischen
+zwiespältig gegenüber: Seine regelmäßigen Rückzüge in den Schimmersumpf könnten
+ihn am Fall der Ranickfeste mitverantwortlich machen.
+
+Die Schwarzpfeile helfen vorerst im Dorf und suchen neue Mitglieder. Aus
+Magnimar haben sie Männer, Geld und Baumaterial angefordert; mit Unterstützung
+rechnen sie erst in ungefähr einem Monat. Zur Ranickfeste würden sie die
+Gefährten begleiten. Die Gruppe weist allerdings darauf hin, dass sie die Feste
+nicht erneut überprüft hat. Auch Schwinge, Feder und Rute sind nicht in
+Schildkrötenfähre angekommen; seit Shalelus Gefangennahme bleibt ihr Schicksal
+ungewiss.
+
+Die Gefährten erwägen sowohl eine Rückkehr zur Feste mit einer Suche nach den
+Wölfen als auch Nachforschungen im Schimmersumpf. Eine Reihenfolge legen sie
+noch nicht fest. Für den Abend nehmen sie die Einladung zu einem Dorffest an.
+Tobin zieht sich in die Gaststätte zurück, um einen Auftritt zum Gedenken an
+Fafnir vorzubereiten. Die anderen beziehen Zimmer in der Herberge. Cal bringt
+den zunächst auf Bezahlung bestehenden Wirt mit magischen Worten dazu, sie ohne
+Geldforderung aufzunehmen; Brocc gibt ihm dennoch fünf Goldstücke.
+
+## Nachforschungen am Nachmittag
+
+Gina nutzt die Ruhe, um Munition herzustellen. Brocc und Cal gehen in die
+Gaststätte. Dort spricht Cal Brocc auf dessen Gefühle für Shalelu an und
+ermutigt ihn, sie ihr zu gestehen. Brocc räumt ein, sie gernzuhaben, möchte nach
+den jüngsten Ereignissen aber den richtigen Moment abwarten.
+
+Auf ihre Fragen zum Schimmersumpf verweist der Wirt die beiden an die Fischer.
+Zugleich erfahren sie von weiteren Unglücken auf dem See: Ein Überlebender
+namens Nick könne von einem Angriff berichten.
+
+## Fox' Bücher und die fremde Regung
+
+Allein in ihrem Zimmer untersucht Fox den Stammbaum aus der Ranickfeste. Die
+professionellen Porträts zeigen meist kostbar gekleidete Menschen und wiederholt
+den goldenen Salamander auf grünem Grund. Ihren Vater findet sie darin nicht.
+Als sie anschließend in sich hineinhorcht, spürt sie wieder einen Herzschlag.
+Beim Gedanken an Ginas schmerzhafte Erinnerung regt sich etwas Fremdes in ihr,
+das sich dieser Erinnerung zuzuwenden scheint. Fox bricht den Versuch
+erschrocken ab. Berührungen ihrer Klaue mit der eigenen Hand lösen dagegen
+nichts Vergleichbares aus.
+
+Später besprechen Fox und Gina die beiden Bücher gemeinsam. Das Notizbuch
+enthält Zweifel an der Richtigkeit des Stammbaums, Aufzeichnungen über Treffen
+und vage Fortschrittsberichte. Außerdem finden sich darin ein Plan zur
+Versenkung des Glücksspielschiffs "Paradies" sowie Skizzen, in denen sich die
+Ranickfeste erkennen lässt. Für weitere Erkenntnisse müssten sie das Buch
+ausführlicher untersuchen.
+
+Fox zeigt Gina das Porträt ihrer Mutter und ihren Salamanderohrring. Dessen
+Symbol entspricht dem Schmuck auf dem Bild; früher war er Teil der Halskette
+ihrer Mutter. Fox erzählt von einem behaglichen Stadthaus in Magnimar, von
+Zimtgeruch und einem nächtlichen Einbruch. Sie versteckte sich, fand später Blut
+und die Halskette, aber ihre Eltern waren verschwunden. Als Stadtwachen kamen,
+floh sie. Schließlich brachte Raven sie zu den Stadtratten. Seitdem hat sie
+versucht, das Geschehen zu vergessen.
+
+Gina bietet an, bei einer Rückkehr nach Magnimar mit ihr nachzuforschen. Da Fox
+keine Leichen gesehen hat, hält Gina das Schicksal ihrer Eltern nicht für sicher
+geklärt. Fox bleibt skeptisch, will aber darüber nachdenken. Auch von der
+fremden Regung in ihrem Inneren erzählt sie Gina. Sie möchte andere nicht ohne
+guten Grund mit der Klaue berühren und verspricht, Gina zu sagen, falls sich
+daran etwas ändert. Handschuhe erwägen die beiden als mögliche
+Vorsichtsmaßnahme, ohne sie bereits auszuprobieren.
+
+## Kyras sucht Schutz
+
+Kyras geht in den Erastiltempel zu Bürgermeister und Priester Melin Schried.
+Nach den Begegnungen mit unheiligen Wesen sucht er Schutz, den ihm sein Schwert
+allein nicht bieten kann. Melin betet mit ihm und verkauft ihm Weihwasser sowie
+eine Schriftrolle zum Verbergen vor Untoten. Für beides gibt Kyras seine letzten
+93 Goldstücke aus. Anschließend erhält er von Fox Geld für ein neues Kettenhemd
+und kauft es beim Schmied.
+
+Die Schriftrolle vertraut Kyras Brocc an. Dieser erklärt, dass er bei solcher
+göttlichen Magie keinen sicheren Erfolg versprechen könne, aber versuchen werde,
+sie einzusetzen. Kyras möchte sich künftig stärker mit dem Göttlichen
+beschäftigen; einer Gottheit schließt er sich noch nicht endgültig an.
+
+## Nicks Warnung
+
+Am Kai finden Brocc und Cal den älteren Halbling Nick. Er erzählt, wie nahe dem
+Schimmersumpf Nebel aufgezogen sei und ein gewaltiges Wesen sein Fischerboot
+angegriffen habe. Er habe eine knöchrige Rückenflosse gesehen; das Tier sei
+mindestens neun Meter lang gewesen und habe sein Boot entzwei gebissen. Nick
+rettete sich ans Ufer und wurde später von Paco aufgenommen.
+
+Nick vergleicht das Ungeheuer mit den Knochenhechten des Lehmgrundsees, nur sei
+es viel größer. Cal gewinnt den Eindruck, dass Nick seine Geschichte aufrichtig
+erzählt. Außerdem berichtet der Fischer von abendlichen Lichtern am
+Schimmersumpf und einem weiteren Boot, das nicht zurückgekehrt sei. Seit den
+Angriffen wagen sich die Fischer nicht mehr auf den See. Für einen Versuch,
+etwas gegen das Monster zu unternehmen, ließe sich nach Nicks Einschätzung ein
+Boot finden. Die Gefährten brechen aber noch nicht dorthin auf.
+
+## Spiele und Ehrungen
+
+Am Abend beginnt das Dorffest mit Musik, Essen und Wettspielen. Fox fordert den
+großspurigen Axtwerfer Max heraus. Cal und Tobin unterstützen ihre Würfe
+magisch; Brocc irritiert Max mit einem Lichtblitz, während Fox ihn mit ihrer
+Klaue einschüchtert, ohne ihn zu berühren. Max verfehlt seinen letzten Wurf,
+erkennt Fox' Sieg an und zahlt ihr fünf Goldstücke.
+
+Beim Baumstammdrehen tritt Gina gegen den seit Jahren ungeschlagenen Patrick an.
+Von Cal und Tobin magisch gestärkt, hält sie mühelos das Gleichgewicht und
+befördert ihn ins Wasser. Patrick gratuliert ihr und muss auf Drängen seiner
+Frau Maria den traditionellen Lebertran für den Verlierer trinken.
+
+Melin Schried ruft anschließend zum Gedenken an die Toten auf. Er verkündet,
+dass am nächsten Tag die Bergung der Gefallenen und der Wiederaufbau der Feste
+beginnen sollen. Heute jedoch wolle das Dorf das Leben und die Opfer seiner
+Beschützer feiern. Im Namen Schildkrötenfähres ehrt er die Gefährten mit
+Schlüsseln zur Stadt, die kleine Holzschildkröten tragen.
+
+## Ein Geschenk für Cal
+
+Während Melins Ansprache entdeckt Cal an der Bar einen ihm vertrauten Mann mit
+einem edlen Rapier. Magisch betrachtet besteht die Erscheinung aus einer für Cal
+nicht einzuordnenden Mischung von Magie. Cal geht aufgeregt zu ihm und sagt, wie
+sehr er ihn vermisst habe.
+
+Der Mann überreicht Cal einen Gegenstand aus Numeria: einen Schwertgriff ohne
+Klinge und ohne Handschutz, aber mit einem hervorstehenden Knopf. Er vermutet,
+dass dieser Cal helfen könne, kennt seine genaue Funktion jedoch nicht sicher.
+Cal solle seine Freundin danach fragen. Dann verabschiedet er sich bereits
+wieder und versichert Cal, oft bei ihm zu sein, auch wenn dieser es nicht merke.
+Cal weint; beim nächsten Blinzeln ist der Mann verschwunden. Das zurückgelassene
+Bier steht noch an der Bar. Cal trinkt es aus und folgt Tobins Ruf zur Bühne.
+Die Identität der Erscheinung und die Funktion des Geschenks werden nicht
+ausdrücklich geklärt.
+
+## Tobins neues Stück
+
+Tobin erzählt auf der Bühne von Fafnir und macht aus seiner Rede ein
+improvisiertes Schauspiel. Über Botschaft gibt er den Gefährten
+Regieanweisungen; magische Geräusche begleiten ihre Darstellung der Kämpfe. Zum
+Schluss inszeniert er das Begräbnis mit einem vorbereiteten kleinen Schneemann.
+Shalelu bleibt bewusst im Publikum, da ihr die Rolle der Geretteten nicht
+behagt.
+
+Das Publikum ist zunächst völlig still, bricht danach aber in begeisterten
+Applaus aus. Tobin besteht auf seiner Urheberschaft und beschuldigt Dr. Dranzel
+erneut des Diebstahls seines früheren Stücks. Als er Melin deswegen auch noch
+einschüchtert, weicht der Bürgermeister vor ihm zurück. Gina feiert Tobin vor
+dem Publikum; gemeinsam verlassen die Gefährten die Bühne in magischem Nebel.
+
+Zum Abschluss schaut Gina in die Menge. Unter den offenbar einheimischen
+Festgästen erkennt sie bei ungefähr der Hälfte Sihedron-Tätowierungen. Eine
+Erklärung oder weitere Untersuchung folgt noch nicht.
+
+Hier endet die Sitzung: Die Aufführung ist vorbei, die Musiker übernehmen
+wieder, und das Fest geht weiter. Die Gefährten sind weiterhin in
+Schildkrötenfähre. Weder die Reise zur Ranickfeste noch eine Erkundung des
+Schimmersumpfs oder die Jagd auf das Seeungeheuer hat begonnen.
+
 # Sitzung vom 28. Oktober 2026: Abschied und Heimkehr
 
 ## Ein Grab unter Stein
@@ -38,13 +220,13 @@ Am Morgen erzählt Shalelu von ihrem gescheiterten Weg nach Schildkrötenfähre 
 
 Shalelu berichtet außerdem von Barl Bruchbein, einem offenbar riesenhaften Anführer, vor dem selbst die Oger große Angst hatten. Er sei ein Nekromant, der unliebsame Oger töte und als willenlose Zombies zurückhole. Die Gefährten wollen vorerst nicht weiter zum Großen Haken vordringen. Sie brauchen Erholung, Vorräte und insbesondere neue Munition für Gina.
 
-Die Gruppe entscheidet sich für die Rückkehr nach Schildkrötenfähre. Dort wollen die Gefährten auch nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwenden. Shalelu schlägt einen Abstieg zum Schiefersee vor: Vom kleinen Außenposten Bitterbräuch aus können sie mit einem Boot über den Weidenlauf weiterreisen. Die Gruppe wählt diese Route.
+Die Gruppe entscheidet sich für die Rückkehr nach Schildkrötenfähre. Dort wollen die Gefährten auch nach Jakardros und Thal sehen, bevor sie sich wieder der Ranickfeste zuwenden. Shalelu schlägt einen Abstieg zum Schiefersee vor: Vom kleinen Außenposten Bitterbroich aus können sie mit einem Boot über den Weidenlauf weiterreisen. Die Gruppe wählt diese Route.
 
 Vor dem Aufbruch löst Gina noch ihr Versprechen an Fox ein und lässt sie mit der Muskete auf einen Apfel schießen. Fox trifft und zerfetzt den Apfel, wird aber vom Rückstoß umgeworfen. Dabei nimmt die Waffe Schaden. Gina fordert sie zurück, lobt jedoch Fox' Treffer.
 
 ## Briefe aus der Hütte
 
-Auf dem Weg nach Bitterbräuch liest Gina die Briefe aus der Hütte im Splitterbaumtal. Sie enthalten einen Austausch zwischen Boudicca und Morgaine. In Boudiccas Briefen stehen folgende Passagen:
+Auf dem Weg nach Bitterbroich liest Gina die Briefe aus der Hütte im Splitterbaumtal. Sie enthalten einen Austausch zwischen Boudicca und Morgaine. In Boudiccas Briefen stehen folgende Passagen:
 
 > "Hält dein Talent an?"
 >
@@ -58,7 +240,7 @@ Die Gefährten klären dabei, dass die durchsuchte kleine Hütte nicht mit Mutte
 
 ## Tobins Fehde mit Dr. Dranzel
 
-Am Abend erreicht die Gruppe Bitterbräuch und kehrt im Wirtshaus "Zum Fischerhaus" bei Helga ein. Dort erfahren die Gefährten, dass "Tobin und seine Gefährten" inzwischen regelmäßig in Sandspitze aufgeführt wird. Einige Gäste haben das Stück erst kürzlich mit anderen Darstellern gesehen. Die Gruppe wird begeistert erkannt, mit Fragen bestürmt und um Autogramme gebeten.
+Am Abend erreicht die Gruppe Bitterbroich und kehrt im Wirtshaus "Zum Fischerhaus" bei Helga ein. Dort erfahren die Gefährten, dass "Tobin und seine Gefährten" inzwischen regelmäßig in Sandspitze aufgeführt wird. Einige Gäste haben das Stück erst kürzlich mit anderen Darstellern gesehen. Die Gruppe wird begeistert erkannt, mit Fragen bestürmt und um Autogramme gebeten.
 
 Tobins Freude schlägt in Wut um, als die Gäste Dr. Dranzel als Autor nennen. Er stürmt hinaus und will zu den Booten, doch Gina hält ihn am Umhang fest. Auch Cals Versuch, ihn mit magisch unterstützten Worten zu beruhigen, scheitert. Tobin bricht schließlich in Tränen aus: Nach Fafnirs Tod bedeutet ihm das gemeinsame Stück besonders viel als bleibende Erinnerung.
 
@@ -331,7 +513,7 @@ Der befreite Riese stellte sich als **Rasmus** vor. Er berichtete, in seiner eig
 
 Bei der Durchsuchung fanden die Gefährten weitere Hinterlassenschaften der Vettel. Besonders verstörend war eine magische **Maske des Hautdiebs**, in deren Rahmen echte Häute verschiedener Humanoider gespannt waren. Sie konnte ihrem Träger helfen, andere Gestalten anzunehmen. Außerdem fanden sie zwei wertvolle Schriftrollen – eine zum Brechen von Flüchen und eine zur Genesung – sowie einen **Dolch der Stille**, der in seiner unmittelbaren Umgebung jedes Geräusch unterdrückte.
 
-Gina stieß auf noch rätselhaftere Spuren der früheren Bewohnerin: Fläschchen mit Namen, darunter eines mit der Aufschrift „Die Witwe von Eichenhain“, eingeschmolzene Ringe mit alten Gravuren und einen kleinen warmen Kristall, dessen inneres Licht langsam erlosch. Seine Bedeutung blieb unbekannt.
+Gina stieß auf noch rätselhaftere Spuren der früheren Bewohnerin: Fläschchen mit Namen, darunter eines mit der Aufschrift "Die Witwe von Eichenhain", eingeschmolzene Ringe mit alten Gravuren und einen kleinen warmen Kristall, dessen inneres Licht langsam erlosch. Seine Bedeutung blieb unbekannt.
 
 Hinter einem verborgenen Zugang entdeckte die Gruppe schließlich einen Keller voller leerer Gefängniszellen. Dort lagen auch die Gegenstände, die sie der vermeintlichen Mutter Weide als Bezahlung für Fox’ Wiederbelebung übergeben hatte. Vieles Zerstörbare war inzwischen vernichtet worden, darunter Mama Grauls Zauberbuch; widerstandsfähigere und magische Gegenstände konnten jedoch geborgen werden.
 
@@ -506,13 +688,13 @@ Dabei entdeckte sie eine thassilonische Plakette am Modell.
 
 Sie trug die Widmung:
 
-**„Zu Ehren Karzoug.“**
+**"Zu Ehren Karzoug."**
 
 Damit war der Schädeldamm eindeutig mit dem alten Runenherrscher verbunden.
 
 Cal fand außerdem einen silbrig leuchtenden **Ionenstein**, den Brocc als magischen Speicher identifizierte, in dem bis zu sechs Zauberplätze aufbewahrt werden konnten.
 
-An einer Wand befand sich zudem eine Tür, deren thassilonische Beschriftung Gina als **„Notausgang“** las. Da die Wasseratmung inzwischen ausgelaufen war und das Wasser langsam wieder in die Kammer zurückströmte, entschied sich die Gruppe gegen den gefährlichen Rückweg durch die überfluteten und teilweise eingestürzten Gänge.
+An einer Wand befand sich zudem eine Tür, deren thassilonische Beschriftung Gina als **"Notausgang"** las. Da die Wasseratmung inzwischen ausgelaufen war und das Wasser langsam wieder in die Kammer zurückströmte, entschied sich die Gruppe gegen den gefährlichen Rückweg durch die überfluteten und teilweise eingestürzten Gänge.
 
 Der Notausgang führte durch einen engen, dunklen Wartungsgang. Dort nahm Fafnir zwei zurückgelassene Schriftrollenbehälter mit, ohne ihren Inhalt vor Ort näher zu untersuchen.
 
@@ -639,7 +821,7 @@ Die Reaktionen darauf mussten warten.
 * Die Schleusen des Schädeldamms sind geöffnet. Der Wasserdruck sinkt, und der Damm galt beim Verlassen der Gruppe als stabilisiert.
 * Die als **Schwarze Maga** bezeichnete vielfach rotäugige Kreatur wurde vom Sog der geöffneten Schleusen zurück in den Stausee gerissen; ihr endgültiges Schicksal ist unbekannt.
 * Im Inneren des Damms traf die Gruppe den Teufel **Avaxial**, schloss einen Vertrag mit ihm und befreite ihn. Er erfüllte seinen Teil der Abmachung und verschwand anschließend.
-* Das magische Modell des Schädeldamms trägt die thassilonische Widmung **„Zu Ehren Karzoug.“**
+* Das magische Modell des Schädeldamms trägt die thassilonische Widmung **"Zu Ehren Karzoug."**
 * Cal fand einen **Ionenstein**, der bis zu sechs Zauberplätze speichern kann. Fafnir nahm außerdem zwei bislang nicht untersuchte Schriftrollenbehälter aus dem Notausgang mit.
 * Mutter Weide hat sich als **Blutvettel** entpuppt und wurde von Kyras getötet. Ihre lederhäutigen Helfer und Schluffi wurden ebenfalls besiegt.
 * Fox lebt wieder, steht jedoch offenbar unter den Nachwirkungen einer fremden Kontrolle, die mit dem pinken Licht zusammenhing. Ihr genauer Zustand ist noch ungeklärt.
@@ -942,7 +1124,7 @@ Dann hörten die anderen eine Stimme.
 
 Nur ein einziges Wort.
 
-**„Komm.“**
+**"Komm."**
 
 Fast augenblicklich wandten sich die Gefährten dem Wasser zu.
 
@@ -975,7 +1157,7 @@ Nach ihrer Befreiung vom Bann begann die Gruppe vorsichtig zu prüfen, ob sie nu
 * Der Schädeldamm ist stark gefüllt, die Schleusen sind geschlossen und der Wasserdruck wirkt gefährlich hoch.
 * Auf dem Damm befindet sich ein Haus, das noch nicht untersucht wurde.
 * Aus Richtung des Wassers geht eine schwache böse Präsenz aus.
-* Eine unbekannte Stimme konnte nahezu die gesamte Gruppe mit dem Ruf „Komm“ bezaubern und zum Wasser locken. Cal blieb unbeeinflusst und half gemeinsam mit Fafnir und Tobin, die anderen aus dem Einfluss zu lösen.
+* Eine unbekannte Stimme konnte nahezu die gesamte Gruppe mit dem Ruf "Komm" bezaubern und zum Wasser locken. Cal blieb unbeeinflusst und half gemeinsam mit Fafnir und Tobin, die anderen aus dem Einfluss zu lösen.
 * Die Ursache der Stimme, der Zustand der Schleusen und die unmittelbare Gefahr eines Dammbruchs sind noch ungeklärt.
 
 # Sitzung vom 22. Juli 2026: Hoffnung im Splitterbaumtal
@@ -984,11 +1166,11 @@ Nach dem blutigen Kampf in der Ranickfeste kehrte die Gruppe erst nach Mitternac
 
 Dort bot sich ihnen ein unerwartetes Bild. Das vor dem Aufbruch gelöschte Feuer brannte wieder, Shalelu Andosana saß an den Flammen, Kaven Windstreich war an einen Baum gefesselt und der Händler Ralven lag mit aufgeschlitzter Kehle im Gras. Als die Gruppe näher trat, begrüßte Shalelu jeden der Gefährten mit Namen. Wenig später betrat auch Jakardros das Lager, woraufhin sie ihn sofort ansprach. Zu ihrem Entsetzen erkannte der Waldläufer sie jedoch nicht. Shalelu erinnerte ihn daran, dass sie einst seine Ziehtochter gewesen war und dass er sie verlassen hatte, als sie erst zehn Jahre alt gewesen war. Erst als sie ihren Namen nannte, erinnerte sich Jakardros an sie.
 
-Kaven nutzte den schmerzhaften Augenblick für eine spöttische Bemerkung, woraufhin Shalelus Wut erneut aufflammte. Jakardros reagierte verletzt und erklärte, sie sei schließlich nicht sein „Fleisch und Blut“, was Shalelu zu einem weiteren Schlag veranlasste. Fafnir und Tobin griffen ein, während mehrere der anderen Gefährten deutlich mehr Verständnis für Shalelus Zorn zeigten. Nur mit Mühe gelang es Tobin, die Auseinandersetzung zu unterbrechen. Kurzerhand teilte er das Lager in eine Seite für Shalelu und eine für Jakardros, wodurch der Streit zwar keineswegs gelöst, für den Moment aber wenigstens beendet wurde.
+Kaven nutzte den schmerzhaften Augenblick für eine spöttische Bemerkung, woraufhin Shalelus Wut erneut aufflammte. Jakardros reagierte verletzt und erklärte, sie sei schließlich nicht sein "Fleisch und Blut", was Shalelu zu einem weiteren Schlag veranlasste. Fafnir und Tobin griffen ein, während mehrere der anderen Gefährten deutlich mehr Verständnis für Shalelus Zorn zeigten. Nur mit Mühe gelang es Tobin, die Auseinandersetzung zu unterbrechen. Kurzerhand teilte er das Lager in eine Seite für Shalelu und eine für Jakardros, wodurch der Streit zwar keineswegs gelöst, für den Moment aber wenigstens beendet wurde.
 
 Nachdem sich die Gemüter etwas beruhigt hatten, berichtete Shalelu, was bei ihrer Ankunft geschehen war. Sie hatte mit eigenen Augen gesehen, wie Kaven den Händler Ralven tötete. Bei einer ersten Befragung behauptete Kaven hingegen, Shalelu selbst habe dem Mann die Kehle aufgeschlitzt, doch seine Lüge war für die Gruppe offensichtlich. Tobin wandte sich daraufhin an Thal, um mehr über den gefesselten Schwarzpfeil zu erfahren. Thal erklärte, Kaven sei erst vor zwei Jahren zu ihnen gestoßen und habe kaum über seine Herkunft gesprochen. Er galt als Draufgänger und Frauenheld, spielte häufig um Geld und lebte bei seinen Aufenthalten in Schildkrötenfähre auffällig verschwenderisch.
 
-Auf Ginas gezielte Nachfrage erinnerte sich Thal außerdem an eine siebenzackige Rune, die er an Kaven gesehen hatte. Gina nahm daraufhin die bei der Lamiamatriarchin gefundene Namensliste zur Hand und entdeckte dort tatsächlich den Namen Kaven Windstreich. Auch der Fallensteller Ralf Kupferstecher aus Schildkrötenfähre, der einst von Lucrezia, dem untergegangenen Glücksspielschiff „Paradies“ und dem Siebenstern erzählt hatte, stand auf dieser Liste. Für Thal ergab sich daraus ein furchtbarer Verdacht: Kaven könnte die Ranickfeste an die Oger verraten haben. Bei ihrem Fall war auch Thals Bruder ums Leben gekommen, weshalb die Enthüllung für ihn weit mehr als nur ein militärischer Verrat war.
+Auf Ginas gezielte Nachfrage erinnerte sich Thal außerdem an eine siebenzackige Rune, die er an Kaven gesehen hatte. Gina nahm daraufhin die bei der Lamiamatriarchin gefundene Namensliste zur Hand und entdeckte dort tatsächlich den Namen Kaven Windstreich. Auch der Fallensteller Ralf Kupferstecher aus Schildkrötenfähre, der einst von Lucrezia, dem untergegangenen Glücksspielschiff "Paradies" und dem Siebenstern erzählt hatte, stand auf dieser Liste. Für Thal ergab sich daraus ein furchtbarer Verdacht: Kaven könnte die Ranickfeste an die Oger verraten haben. Bei ihrem Fall war auch Thals Bruder ums Leben gekommen, weshalb die Enthüllung für ihn weit mehr als nur ein militärischer Verrat war.
 
 Bevor die Gruppe Kaven ausführlicher verhörte, suchten Brocc, Kyras und Tobin noch einmal das Gespräch mit Jakardros, während Gina den Gefangenen bewachte und ihn damit zugleich vor Shalelu und Thal schützte. Jakardros hatte geweint und bereute die Worte, die er seiner ehemaligen Ziehtochter entgegengeschleudert hatte. Auf Tobins Fragen erzählte er schließlich von seiner Vergangenheit. Vor vielen Jahren hatte er in einem Dorf seine große Liebe Syanzia kennengelernt. Shalelu war ihre Tochter aus einer früheren Beziehung, doch Jakardros hatte das Kind angenommen und wie seine eigene Tochter behandelt. Dann wurde das Dorf von einem Drachen zerstört und Syanzia getötet. Jakardros war nicht imstande gewesen, ihren Tod zu überwinden, und fühlte sich zugleich von der Verantwortung für Shalelu überfordert. Schließlich ließ er sie bei anderen Elfen zurück. Was für ihn damals wie ein Ausweg aus seiner Trauer erschienen sein mochte, war für Shalelu ein Verlassenwerden gewesen, dessen Wunde auch nach all den Jahren nicht verheilt war.
 
@@ -1131,7 +1313,7 @@ verletzt zurückziehen.
 
 Jakardros erkannte den Angreifer.
 
-„Das ist Jakrat!“
+"Das ist Jakrat!"
 
 Doch seine Hände zitterten so stark, dass er nur einen seiner Pfeile ins Ziel
 brachte.
@@ -1141,7 +1323,7 @@ Tobin hatte Recht behalten. Der Ogerboss war noch am Leben.
 Der junge Barde beschleunigte Kyras, Fox, Cal, Fafnir, Gina, Jakardros und sich
 selbst mit Magie. Während seine Worte immer schneller wurden, rief er:
 
-„Schnell, bringt ihn um!“
+"Schnell, bringt ihn um!"
 
 Die Gruppe stellte sich Jakrat entgegen.
 
@@ -1404,7 +1586,7 @@ Zwischen den Überresten früherer Opfer entdeckt die Gruppe mehrere wertvolle F
 * einen meisterhaften Kriegshammer
 * eine meisterhafte Peitsche
 * Rubine und Saphire im Gesamtwert von 160 GM
-* einen noch nicht identifizierten Zauberstab mit der Aufschrift „Eigentum der Magiergilde Magnimar“
+* einen noch nicht identifizierten Zauberstab mit der Aufschrift "Eigentum der Magiergilde Magnimar"
 * ein Öl des Austilgens
 * eine Schriftrolle der Bullenstärke
 
@@ -1431,8 +1613,8 @@ Bevor die Gruppe die Bücher näher untersuchen kann, hört sie Stimmen aus dem 
 * Zwei Wachen sollen für eine nicht näher bezeichnete Aufgabe ausreichen.
 * Ein Damm soll nach den letzten Nachrichten jeden Augenblick brechen.
 * Ein Handlanger namens **Malogus** ist offenbar auf unerwarteten Widerstand gestoßen.
-* Eine unbekannte Verbündete wird als „Freundin vom großen Haken“ bezeichnet.
-* Die Schmieden der Oger arbeiten ununterbrochen und „machen die Nacht zum Tage“.
+* Eine unbekannte Verbündete wird als "Freundin vom großen Haken" bezeichnet.
+* Die Schmieden der Oger arbeiten ununterbrochen und "machen die Nacht zum Tage".
 
 Fox nimmt den Stammbaum an sich. Tobin sichert das zweite Buch und markiert dabei die zuvor aufgeschlagene Seite.
 
@@ -1484,7 +1666,7 @@ Am Ende der Sitzung lebt Schatten noch und hält sich weiterhin im Bereich der S
 
 Als die Matriarchin schwer verwundet ist, versucht sie mit einer Dimensionstür zu entkommen. Die Gruppe erkennt den Zauber rechtzeitig und trifft sie während des Wirkens mehrfach. Ihre Konzentration bricht zusammen und der Fluchtzauber scheitert.
 
-Daraufhin schlängelt sie sich die Treppe hinauf und ruft laut „Alarm!“.
+Daraufhin schlängelt sie sich die Treppe hinauf und ruft laut "Alarm!".
 
 Kyras, Fox, Brocc, Gina, Jakardros, Kip und Schwinge nehmen die Verfolgung auf. Brocc erschafft vor ihr ein dichtes Netz aus verdichteter Erde und Schmutz. Die Matriarchin kann sich zwar daraus lösen, wird aber stark verlangsamt.
 
@@ -1502,7 +1684,7 @@ Der Sieg hat jedoch unmittelbar neue Gefahr heraufbeschworen: In der Halle vor K
 
 Cal ist weiterhin von der Gruppe getrennt und befindet sich bei den Schockechsen. Schatten lebt noch und beobachtet beziehungsweise verfolgt ihn.
 
-In der Wolfszucht befinden sich weiterhin zwei schwer verletzte Wölfe. Das zweite entwendete Buch, die Bedeutung von Sunas Stammbaum, der bevorstehende Bruch des Damms, Malogus und die „Freundin vom großen Haken“ müssen noch untersucht werden.
+In der Wolfszucht befinden sich weiterhin zwei schwer verletzte Wölfe. Das zweite entwendete Buch, die Bedeutung von Sunas Stammbaum, der bevorstehende Bruch des Damms, Malogus und die "Freundin vom großen Haken" müssen noch untersucht werden.
 
 # Sitzung 17. Juni 2026: Hagens Verschwinden und Kundschaft in der Ranickfeste
 
