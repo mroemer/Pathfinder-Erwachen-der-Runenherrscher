@@ -1,3 +1,158 @@
+# Sitzung vom 11. November 2026: Wahrheiten und ein fremdes Zeichen
+
+## Tanz und Zukunftsfragen
+
+Das Fest in Schildkrötenfähre geht weiter. Während die Musiker wieder die Bühne
+übernehmen, zieht Shalelu Jakardros zum Tanzen. Die Halbelfin Irena spricht Kyras
+an: Ihre Freundin Leandell möchte mit einem der Helden tanzen, traue sich aber
+nicht, ihn selbst zu fragen. Kyras sucht zunächst bei seinen Gefährten Hilfe.
+Cal gibt ihm magischen Zuspruch, und Gina zeigt ihm abseits der Tanzfläche,
+wie viel Freude zwangloses Herumhüpfen machen kann. Anschließend tanzen Gina,
+Fox, Brocc und Cal zusammen; besonders Cals gleitende Tanzschritte beeindrucken
+die anderen.
+
+Tobin sucht unterdessen Stoff für eine Standarte der Gruppe. Dabei hört er von
+einer Wahrsagerin und besucht ihren Stand. Die ältere Frau mit den trüben Augen
+verlangt eine persönliche Wahrheit, bevor sie etwas über die Zukunft verrät.
+Tobin nennt seinen Wunsch, der berühmteste Dichter der Schwertküste zu werden.
+Sie erklärt, seine Kraft liege in seiner Vergangenheit: Er solle sie suchen,
+bevor sie ihn finde. Als er von seiner Mutter in Kaer Maga und seiner Wut auf
+Dr. Dranzel erzählt, deutet sie auch diesen Zorn als mögliche Kraftquelle.
+Woher er seinen Bannerstoff bekommen soll, erfährt er bei ihr nicht.
+
+## Kyras und die beiden Halbelfinnen
+
+Kyras lässt sich von Leandell auf die Tanzfläche führen. Seine anfängliche
+Unsicherheit weicht eigenen akrobatischen Bewegungen, die sie begeistert
+nachahmt. Anschließend trinken die beiden am Nebelschluckstand Schnaps.
+Kyras erzählt von den Kämpfen und dem Schädeldamm; auch Irena kommt hinzu und
+fragt nach seinen Heldentaten. Leandells Bewunderung und die Aufmerksamkeit
+der beiden lassen ihn zunehmend auftauen.
+
+Unterdessen bezahlt Tobin einem Standbesitzer Stoff aus dessen Dekoration, den
+er am nächsten Morgen abholen darf. Danach setzt er sich zu den Musikern und
+unterstützt die Tanzenden mit seinen Trommeln.
+
+Irena bringt eine weitere Runde. Dieser Schnaps schmeckt süßer, und Kyras
+spürt eine ungewöhnlich wohlige Wärme, die ihn entspannt und müde macht.
+Es ist nicht bloß die Wirkung des Alkohols: Ihm fällt es schwer, klare Worte
+zu finden. Irena und Leandell laden ihn ein, mit in ihr Zimmer im Gasthaus
+zu kommen, haken sich bei ihm unter und führen ihn fort. Von den anderen
+ist noch zu sehen, wie er mit den beiden am Gasthaus verschwindet; niemand
+begleitet ihn.
+
+## Die Wahrheiten der Wahrsagerin
+
+Auch Brocc sucht die Wahrsagerin auf. Als persönliche Wahrheit gesteht er,
+seine Eltern manchmal sehr zu vermissen. Sie spricht von seiner lähmenden
+Verlustangst: Weitere Verluste könne er nicht verhindern, wohl aber entscheiden,
+ob er sich davor verstecke oder die Zeit mit geliebten Menschen genieße.
+Brocc fragt ausdrücklich, ob er jemandem sagen solle, wie gern er diese Person
+habe. Die Frau hält ihre Antwort bereits für gegeben. Nachdenklich und
+aufgewühlt verlässt er den Stand.
+
+Fox entscheidet sich ebenfalls für einen Besuch. Die Wahrsagerin reagiert
+jedoch abweisend und erklärt, Fox müsse zunächst einen eigenen Konflikt
+austragen. Erst als Fox fünfzig Goldstücke zahlt, lässt sie sie Platz nehmen.
+Sie erzählt von anderen Ebenen, vom Abyss und von Wesen, die freiwillig oder
+gezwungen zwischen den Welten wechseln. Fox sei nicht allein; etwas in ihr
+versuche sich zu verbergen. Eine Umkehr sei schwierig und könne Folgen für
+Fox und andere haben. Was genau in ihr ist und wie es zu ihr kam, klärt sie
+nicht.
+
+Fox fragt, wo sie hingehöre. Die Wahrsagerin lehnt ihre unproblematische Hand ab
+und lässt sich die andere geben. Durch diese Berührung erlebt Fox deren
+Erinnerung an ein frisches Grab. Der Schmerz darin ist nicht mehr offen, sondern
+angenommen. Die Wahrsagerin verweist Fox auf die Menschen, die sie schätzen und
+brauchen, und darauf, wo sie Einfluss auf das Kommende nehmen könne. Fox geht
+verstört und nachdenklich zurück zum Fest und holt sich noch ein Bier.
+
+## Brocc und Shalelu am Ufer
+
+Shalelu gesellt sich zu den tanzenden Gefährten. Brocc trinkt sich mit einem
+Schnaps Mut an und kommt dazu. Cal zieht sich unauffällig zurück und bittet
+die Musiker um ein langsames, romantisches Stück. Als es erklingt, fordert
+Shalelu Brocc zum Tanzen auf.
+
+Im Gespräch verrät Brocc, dass sein Lieblingslied ein selbst erfundenes
+Schlaflied über sie ist. Shalelu führt ihn zu einer Bank am Ufer, wo er es
+ihr vorsingt. Er erklärt, dass er es singe, wenn er sich allein fühle und
+wünsche, sie wäre bei ihm. Shalelu ist gerührt und sagt, dass auch sie ihn
+oft vermisse.
+
+Die beiden sprechen über ihre Gefangenschaft und Broccs Angst, sie zu verlieren.
+Er versichert ihr, dass sie zur Gruppe gehöre. Shalelu erzählt, wie fremd ihr
+die eigene Hilflosigkeit gewesen sei. Ihr Wunsch, während der Gefangenschaft
+einfach zu verschwinden, habe ihr geholfen, Jakardros' damalige Flucht besser
+zu verstehen. Broccs Sorge wegen der Wahrsagerin versucht sie zu zerstreuen:
+Sie kennt die Frau als die alte Elsbeth aus dem Dorf und hält sie vor allem
+für eine Sammlerin und Verbreiterin von Klatsch. Schließlich nimmt Shalelu
+Broccs Hände, kommt ihm näher und küsst ihn.
+
+## Ein Banner für Fafnir
+
+Später zeigt Tobin Fox im Gasthaus seinen Entwurf: Schild, Morgenstern und
+Zwergenhelm sollen an Fafnir erinnern. Die Standarte soll im Kampf zeigen,
+wer die Gefährten sind und für wen sie kämpfen. Nähen kann Tobin selbst nicht;
+er möchte dafür Kyras gewinnen.
+
+Fox erkennt Fafnir in der Zeichnung wieder. Cal schlägt ergänzend ein heiliges
+Leuchten um den Schild vor, das Tobin einzeichnet. Über einen Gruppennamen
+werden sie sich nicht einig: Während Tobin seinen eigenen Namen darin sehen
+möchte, stehen auch Vorschläge mit Bezug auf Fafnir oder auf Riesentöter im
+Raum. Eine Entscheidung vertagen sie auf den nächsten Tag.
+
+## Kyras' Erwachen
+
+Kyras verbringt eine unruhige Nacht. In traumartigen Erinnerungsfetzen hört
+er eine verführerische Frauenstimme, die ihn nach der Verteidigung der
+Ranickfeste und den Fähigkeiten seiner Gefährten fragt. Wie in Trance gibt
+er zutreffende Antworten, darunter die Auskunft, dass die Feste unbewacht
+sei. Er kann sich kaum dagegen wehren. Später spürt er ein Stechen am Oberarm.
+
+Am späten Morgen erwacht er allein im fremden Gasthauszimmer. Auf seinem
+Oberarm findet er einen schwarzen siebenzackigen Stern. Seine Kleidung und
+Rüstung sind noch da, sein Adamantschwert fehlt jedoch.
+
+Die anderen sitzen bereits beim Frühstück. Tobin hat inzwischen den bezahlten
+Stoff abgeholt und wartet auf Kyras, der ihm die Standarte nähen soll.
+
+In Panik holt Kyras Gina vom Frühstückstisch und zeigt ihr unter vier Augen
+das Zeichen. Er berichtet von dem ungewöhnlichen Schnaps und der Befragung
+im vermeintlichen Traum. Aus Angst vor einer bösen Veränderung will er
+unbedingt Hilfe. Gina beruhigt ihn zunächst mit dem Hinweis auf die vielen
+anderen Tätowierten im Dorf und holt auf seinen Wunsch Brocc und Cal dazu.
+Fox und Tobin werden nicht hinzugezogen.
+
+## Ein gescheiterter Bann
+
+Gina erkundigt sich beim Wirt nach den beiden Frauen. Er hat weder weitere
+Begleiter noch ihren Aufbruch bemerkt und glaubt, sie seien noch in ihrem
+Zimmer.
+
+Brocc und Cal untersuchen Kyras' Oberarm magisch. Am Zeichen erkennen sie eine
+schwache, abklingende Aura der Verwandlung. Es wurde offenbar etwas an Kyras
+verändert; welche Wirkung dies genau hat, können sie nicht bestimmen.
+
+Das Zimmer der Frauen erweist sich als genau der Raum, in dem Kyras aufgewacht
+ist. Cal durchsucht ihn gründlich, findet aber keine weiterführenden Spuren.
+Wie Irena und Leandell das Haus verlassen haben und wer sie tatsächlich
+sind, bleibt offen. Die Gefährten vermuten eine gezielte Falle und ein
+verabreichtes Mittel.
+
+Cal versucht, die Magie in Kyras zu bannen. Er spürt einen widerständigen
+Kern, den er nicht auflösen kann; Brocc beherrscht den nötigen Bannzauber
+nicht und kann ihn dabei nicht unterstützen. Cals Versuch scheitert,
+und das Zeichen bleibt. Er verspricht Kyras, es am folgenden Tag erneut
+zu versuchen.
+
+Hier endet die Sitzung: Jakardros kommt ins Gasthaus und kündigt Besuch an.
+Hinter ihm tritt ein sehr dürres, feenhaftes Wesen mit kleinen Flügeln ein
+und grüßt freundlich. Seine Identität und sein Anliegen werden noch nicht
+bekannt. Die Gefährten sind weiterhin in Schildkrötenfähre; Kyras trägt das
+ungeklärte Zeichen, sein Adamantschwert fehlt, und die beiden Halbelfinnen
+sind verschwunden.
+
 # Sitzung vom 4. November 2026: Ein Fest für die Lebenden
 
 ## Wiedersehen am Kai

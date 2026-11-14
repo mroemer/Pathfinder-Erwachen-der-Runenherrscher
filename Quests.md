@@ -210,6 +210,34 @@ Fox / Persönliches Ziel
   * Das zweite Buch aus dem Lesezimmer enthält Zweifel an der Richtigkeit des Stammbaums, Aufzeichnungen über Treffen und vage Fortschrittsberichte. Fox und Gina haben es noch nicht ausführlich untersucht.
   * Bei Lukrezia wurde außerdem ein grüner Ring mit goldenem Salamander gefunden. Hat der Ring eine Verbindung zu Fox' Familie? Seine Bedeutung ist weiterhin ungeklärt.
 
+## Klärt und entfernt Kyras' Markierung
+
+### Auftraggeber
+
+Kyras / Persönliches Ziel
+
+### Zusammenfassung
+
+* [ ] Findet heraus, was der siebenzackige Stern auf Kyras' Oberarm bewirkt, und entfernt die unerwünschte Magie.
+
+  * 261111: Kyras erwachte nach der Nacht mit Irena und Leandell mit dem schwarzen Zeichen und bat Gina, Brocc und Cal um Hilfe. Brocc und Cal erkannten eine schwache, abklingende Aura der Verwandlung; die genaue Veränderung an Kyras bleibt unbekannt. Cals Bannversuch scheiterte an einem widerständigen magischen Kern. Er versprach einen erneuten Versuch am folgenden Tag; dieser steht noch aus.
+
+* [ ] Findet Irena und Leandell und klärt, was in der Nacht geschehen ist.
+
+  * 261111: Kyras erinnert sich an eine Frauenstimme, der er wie in Trance zutreffende Antworten zur Verteidigung der Ranickfeste und den Fähigkeiten seiner Gefährten gab. Sein Adamantschwert fehlt. Gina befragte den Wirt, und Cal durchsuchte das Zimmer der Frauen ohne weiterführende Spuren. Die beiden sind verschwunden; ihre Identität und ihr Fluchtweg bleiben ungeklärt.
+
+## Fertigt eine Standarte zum Andenken an Fafnir
+
+### Auftraggeber
+
+Tobin / Persönliches Ziel
+
+### Zusammenfassung
+
+* [ ] Fertigt die Standarte für die Gruppe.
+
+  * 261111: Tobin bezahlte Bannerstoff und holte ihn am nächsten Morgen ab. Sein Entwurf zeigt Schild, Morgenstern und Zwergenhelm; auf Cals Vorschlag zeichnete er ein heiliges Leuchten um den Schild ein. Fox erkannte darin Fafnir. Tobin möchte Kyras für die Näharbeit gewinnen; die Standarte ist noch nicht genäht. Ein Gruppenname wurde nicht beschlossen.
+
 ## Findet einen Platz für Anna und Tom
 
 ### Auftraggeber
