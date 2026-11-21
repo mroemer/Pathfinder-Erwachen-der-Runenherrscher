@@ -59,7 +59,12 @@
 * **Schatten**: Gewaltiger schwarzer Wolf mit rot leuchtenden Augen und ehemaliger Gefährte einer rothaarigen Lamiamatriarchin. Verfolgte Cal durch die Höhlen bis zu den brütenden Schockechsen. Nach dem Tod der Lamiamatriarchin wirkte er verwirrt und nicht mehr feindselig; Cal konnte nichts Böses mehr an ihm erkennen. Schatten kehrte zu Jakardros und den anderen Wölfen zurück und scheint von einem fremden Einfluss befreit zu sein. Begleitete Jakardros nach Schildkrötenfähre.
 * **Lukrezia (verstorben)**: Rothaarige, grünäugige Frau mit aristokratischem Auftreten, die in einem verborgenen Lesezimmer der Ranickfeste angetroffen wurde. Offenbarte im Kampf ihre wahre Gestalt als Lamiamatriarchin, bezauberte Gina und kämpfte mit zwei ungewöhnlichen Dolchen. Einer ihrer Dolche glühte wie Magma, während der andere Lebenskraft entzog. Wurde nach einem gescheiterten Fluchtversuch von Kyras erschlagen.
 * **Malogus (verstorben)**: Anführer der Oger am Schädeldamm, der zuvor nur aus einem belauschten Gespräch bekannt war. Wurde im Kampf getötet.
-* **Lamatar Bayden (vermisst)**: Kommandant der Ranickfeste. Hielt sich zur Zeit des Ogerangriffs offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf und gilt seitdem als verschwunden.
+* **Lamatar Bayden (vermisst)**: Kommandant der Ranickfeste. Hielt sich zur Zeit des Ogerangriffs offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf und gilt seitdem als verschwunden. Laut Yap traf er sich dort regelmäßig mit der Nymphe Myriana.
+
+## Schimmersumpf
+
+* **Myriana**: Nymphe aus dem Schimmersumpf und Yaps Herrin. Laut Yap wechselte sie früher zwischen der Feenwelt und der hiesigen Welt. Nachdem sie Lamatar Bayden kennengelernt hatte, blieb sie im Schimmersumpf und traf sich dort regelmäßig mit ihm.
+* **Yap**: Kleines, geflügeltes Feenwesen aus dem Schimmersumpf. Steht im Dienst der Nymphe Myriana und kennt die Pfade durch den Sumpf.
 
 ## Großer Haken
 

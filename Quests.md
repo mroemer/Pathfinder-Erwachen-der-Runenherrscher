@@ -54,6 +54,7 @@ Oberbürgermeister Haldmeer Grobaras, erhalten am 3. Dezember 2025 (siehe Notize
   * 261104: Die Gruppe traf Jakardros und Thal mit dem lebenden Kaven bei den Aufräumarbeiten. Laut Thal evakuierten die Schwarzpfeile Bewohner beim Anstieg des Schädelflusses; inzwischen ist das Wasser zurückgegangen. Kaven arbeitet unter Jakardros' Aufsicht.
   * 261104: Die Schwarzpfeile suchen neue Mitglieder und haben in Magnimar Männer, Geld und Baumaterial angefordert; sie rechnen erst in ungefähr einem Monat mit Unterstützung. Sie würden die Gruppe zur Ranickfeste begleiten. Trotz Melins öffentlicher Erklärung, die Feste sei frei, wurde sie seit dem Rückzug nicht erneut überprüft. Melin kündigte Bergung und Wiederaufbau für den nächsten Tag an; begonnen haben diese noch nicht.
   * 261104: Gina stellte Munition her, Kyras beschaffte Weihwasser, eine Schutzschriftrolle und ein neues Kettenhemd. Schwinge, Feder und Rute sind nicht im Dorf angekommen. Die Gruppe erwägt eine Rückkehr zur Feste und eine Suche im Schimmersumpf, hat aber noch keine Reihenfolge festgelegt und bleibt am Sitzungsende beim Dorffest in Schildkrötenfähre.
+  * 261118: Die Gruppe stellte die Rückkehr zur Ranickfeste zurück, um zuerst Yap zu helfen. Jakardros, Shalelu und Thal begleiteten sie in den Schimmersumpf.
 
 * [x] Überprüft die Gerüchte von Ogern in Schildkrötenfähre.
 
@@ -139,19 +140,18 @@ Die Gruppe / Eigenes Ziel
 
   * Rasmus berichtete, dass Mokmurian die Riesen angewiesen habe, sich im Nesselwald zu sammeln. Was er dort vorhat, ist unbekannt; die Gruppe hat die Lage noch nicht untersucht.
 
-## Nicks Warnung
+## Helft Myriana im Schimmersumpf
 
 ### Auftraggeber
 
-Nick / Hinweis des Fischers in Schildkrötenfähre
+Yap, erhalten am 18. November 2026
 
 ### Zusammenfassung
 
-* [ ] Geht Nicks Bericht über das Ungeheuer nahe dem Schimmersumpf nach und klärt die Gefahr für die Fischer.
+* [ ] Findet Myriana und klärt, wie ihr geholfen werden kann.
 
-  * 261104: Nick berichtete Brocc und Cal, dass im Nebel nahe dem Schimmersumpf ein mindestens neun Meter langes Wesen mit knöchriger Rückenflosse sein Fischerboot entzwei gebissen habe. Er rettete sich ans Ufer und wurde später von Paco aufgenommen. Nick verglich das Wesen mit den Knochenhechten des Lehmgrundsees, nur sei es viel größer; seine genaue Natur bleibt ungeklärt.
-  * Nick erzählte außerdem von abendlichen Lichtern am Schimmersumpf und einem weiteren Boot, das nicht zurückgekehrt sei. Seit den Angriffen wagen sich die Fischer nicht mehr auf den See.
-  * Nach Nicks Einschätzung ließe sich für einen Versuch, etwas gegen das Monster zu unternehmen, ein Boot finden.
+  * 261118: Yap bat die Gruppe um Hilfe für seine Herrin, die Nymphe Myriana. Nach ihrem letzten bekannten Treffen mit Lamatar fand er ihren Körper reglos an einem Baum; sie erschien dennoch weiterhin geisterhaft in ihrem Teich.
+  * 261118: Die Gruppe folgte Yap über den Lehmgrundsee und auf einem Ziegenpfad in den Schimmersumpf. Am Sitzungsende hörte Cal Hilferufe aus dem Nebel jenseits eines giftgrünen Teichs. Die Gruppe hat die Quelle nicht untersucht und Myriana noch nicht erreicht.
 
 ## Findet Lamatar Bayden
 
@@ -165,6 +165,7 @@ Die Gruppe / Eigenes Ziel
 
   * Lamatar Bayden hielt sich zur Zeit des Ogerangriffs offenbar wie regelmäßig bei Vollmond im Schimmersumpf auf und gilt seitdem als vermisst. Sein Aufenthaltsort ist ungeklärt (siehe auch "Rettet Fort Ranik vor den Ogern").
   * 261104: Die Schwarzpfeile haben per Brief jemanden für eine magische Suche angefragt, aber noch keine Antwort erhalten. Von Lamatar gibt es weiterhin keine Nachricht. Brocc und Cal befragten den Fischer Nick, der von einem Bootsangriff und abendlichen Lichtern nahe dem Schimmersumpf berichtete; eine Spur zu Lamatar ergab sich nicht.
+  * 261118: Yap sah Lamatar vor etwa einem Monat zu einem Treffen mit Myriana im Schimmersumpf kommen. Als Yap zurückkehrte, war Lamatar verschwunden. Die Gruppe ist mit Yap in den Sumpf vorgedrungen; Lamatars Schicksal und Aufenthaltsort sind weiter ungeklärt.
 
 ## Prüft die Ranickfeste auf Bergbares
 
@@ -225,6 +226,7 @@ Kyras / Persönliches Ziel
 * [ ] Findet Irena und Leandell und klärt, was in der Nacht geschehen ist.
 
   * 261111: Kyras erinnert sich an eine Frauenstimme, der er wie in Trance zutreffende Antworten zur Verteidigung der Ranickfeste und den Fähigkeiten seiner Gefährten gab. Sein Adamantschwert fehlt. Gina befragte den Wirt, und Cal durchsuchte das Zimmer der Frauen ohne weiterführende Spuren. Die beiden sind verschwunden; ihre Identität und ihr Fluchtweg bleiben ungeklärt.
+  * 261118: Kyras und Tobin fragten in Schildkrötenfähre nach den beiden. Herrmann verwies sie an eine andere Halbelfin namens Irena, die nicht auf dem Fest gewesen war und keine Spur zu den Gesuchten liefern konnte.
 
 ## Fertigt eine Standarte zum Andenken an Fafnir
 
@@ -237,6 +239,7 @@ Tobin / Persönliches Ziel
 * [ ] Fertigt die Standarte für die Gruppe.
 
   * 261111: Tobin bezahlte Bannerstoff und holte ihn am nächsten Morgen ab. Sein Entwurf zeigt Schild, Morgenstern und Zwergenhelm; auf Cals Vorschlag zeichnete er ein heiliges Leuchten um den Schild ein. Fox erkannte darin Fafnir. Tobin möchte Kyras für die Näharbeit gewinnen; die Standarte ist noch nicht genäht. Ein Gruppenname wurde nicht beschlossen.
+  * 261118: Kyras sagte zu, die Standarte zu nähen, sobald sich eine ruhige Gelegenheit dazu ergibt. Die Standarte blieb unfertig.
 
 ## Findet einen Platz für Anna und Tom
 
@@ -259,6 +262,21 @@ Wir haben folgende Optionen vorgeschlagen
 * Anna und Tom wünschen sich Sicherheit und Essen. Sie wurden über ihre Optionen aufgeklärt und waren zuletzt in der Taverne in Werftweg mit 50 Silbermünzen als Überbrückung bis sie sich entschieden haben. - (siehe Notizen 10. Dezember 2025)
 
 # Abgeschlossene Quests
+
+## Nicks Warnung
+
+### Auftraggeber
+
+Nick / Hinweis des Fischers in Schildkrötenfähre
+
+### Zusammenfassung
+
+* [x] Geht Nicks Bericht über das Ungeheuer nahe dem Schimmersumpf nach und klärt die Gefahr für die Fischer.
+
+  * 261104: Nick berichtete Brocc und Cal, dass im Nebel nahe dem Schimmersumpf ein mindestens neun Meter langes Wesen mit knöchriger Rückenflosse sein Fischerboot entzwei gebissen habe. Er rettete sich ans Ufer und wurde später von Paco aufgenommen. Nick verglich das Wesen mit den Knochenhechten des Lehmgrundsees, nur sei es viel größer; seine genaue Natur bleibt ungeklärt.
+  * Nick erzählte außerdem von abendlichen Lichtern am Schimmersumpf und einem weiteren Boot, das nicht zurückgekehrt sei. Seit den Angriffen wagen sich die Fischer nicht mehr auf den See.
+  * Nach Nicks Einschätzung ließe sich für einen Versuch, etwas gegen das Monster zu unternehmen, ein Boot finden.
+  * 261118: Nick besorgte der Gruppe zwei Schildkrötenfähren unter der Bedingung, dass sie für die Boote bezahlt, falls sie das Ungeheuer nicht besiegt. Die Gruppe erlegte den rund neun Meter langen Knochenhecht, nachdem er eine Fähre gerammt hatte, und nahm Trophäen als Beleg mit. Die Rückkehr zu Nick steht noch aus.
 
 ## Rettet Shalelu aus den Händen der Oger
 

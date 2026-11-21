@@ -1,14 +1,22 @@
 
 # Offene Fragen
 
-* Wer ist der dürre, feenhafte Gast mit kleinen Flügeln, den Jakardros ins Gasthaus bringt, und welches Anliegen hat er? Die Sitzung endet bei seiner freundlichen Begrüßung. - 261111
+* Wer oder was ruft hinter dem giftgrünen Teich im Schimmersumpf um Hilfe? Cal hört die Rufe aus dem Nebel, Kyras hört nichts. Die Gruppe hat die Quelle noch nicht untersucht. - 261118
+* Was löste Ginas Vision auf dem Ziegenpfad aus? Gina sah in Fox ihre frühere Gefährtin Maren und glaubte, ein Monster greife sie an. Fox sah kein Monster; Brocc entdeckte keine magische Aura. - 261118
+* Was ist Myriana zugestoßen, und hängt es mit dem Verfall des Schimmersumpfs zusammen? Laut Yap lag ihr Körper nach dem letzten bekannten Treffen mit Lamatar reglos an einem Baum, während sie weiterhin geisterhaft in ihrem Teich erschien. Yap hat nicht gesehen, was geschah. Die Gruppe hat Myriana noch nicht erreicht. - 261118
 * Was bewirkt der schwarze siebenzackige Stern auf Kyras' Oberarm, und wie lässt sich die Magie entfernen? Brocc und Cal erkennen eine schwache, abklingende Aura der Verwandlung; etwas an Kyras wurde verändert, die genaue Wirkung bleibt unbekannt. Cal spürt beim Bannversuch einen widerständigen magischen Kern, kann ihn aber nicht auflösen. Das Zeichen bleibt. - 261111
 * Wer sind Irena und Leandell tatsächlich, wohin sind sie verschwunden, und wo ist Kyras' Adamantschwert? Nach dem ungewöhnlich wirkenden Schnaps führten die beiden ihn ins Gasthaus. In traumartigen Erinnerungsfetzen beantwortete er einer Frauenstimme Fragen zur unbewachten Ranickfeste und den Fähigkeiten seiner Gefährten. Am Morgen fehlt sein Schwert; der Wirt hat den Aufbruch der Frauen nicht bemerkt, und die Durchsuchung ihres Zimmers liefert keine weiterführenden Spuren. Ihre genaue Beteiligung an Befragung, Markierung und dem Verschwinden des Schwerts ist ungeklärt. - 261111
+
+  261118: Herrmann verwies Kyras und Tobin an eine andere Halbelfin namens Irena. Sie war nicht beim Fest und konnte ihnen keinen Hinweis auf die beiden Gesuchten geben.
+
 * Warum trägt ungefähr die Hälfte der Festgäste in Schildkrötenfähre Sihedron-Tätowierungen? Gina erkannte die Zeichen im offenbar einheimischen Publikum; eine nähere Untersuchung steht aus. - 261104
 * Wer ist die Cal vertraute magische Erscheinung an der Bar, und was bewirkt ihr Geschenk aus Numeria? Der Mann übergab ihm einen Schwertgriff ohne Klinge und Handschutz, aber mit einem Knopf. Seine Identität und die Funktion des Gegenstands wurden nicht ausdrücklich geklärt. - 261104
 * Die Fragen zum Schicksal von Fox' Eltern und die bisherigen Hinweise sind in [Fox' persönlicher Quest](Quests.md#fox-persönliche-quest-findet-das-schicksal-ihrer-eltern-heraus) gebündelt. Ihr Schicksal bleibt ungeklärt. - 261104
 * Wer verfasste das Notizbuch aus der Ranickfeste, und welche weiteren Zusammenhänge lassen sich daraus erschließen? Es enthält Zweifel am Stammbaum der Lysanders, Treffen, vage Fortschrittsberichte, einen Plan zur Versenkung des "Paradieses" und Skizzen der Ranickfeste. Eine ausführlichere Untersuchung steht aus. Die familienbezogenen Hinweise und Fragen sind in [Fox' persönlicher Quest](Quests.md#fox-persönliche-quest-findet-das-schicksal-ihrer-eltern-heraus) zusammengeführt. - 261104
 * Was greift die Boote auf dem Lehmgrundsee an, und was hat es mit den abendlichen Lichtern am Schimmersumpf auf sich? Nick berichtet von einem mindestens neun Meter langen Wesen mit knöchriger Rückenflosse, das sein Boot entzwei biss. Ein weiteres Boot kehrte nicht zurück. Ob die Angriffe und die Lichter zusammenhängen, ist unbekannt. - 261104
+
+  261118: Ein rund neun Meter langer Knochenhecht rammte eine der Fähren und wurde von der Gruppe getötet. Brocc entdeckte im Nebel fluoreszierende magische Fäden und vermutete einen Fluch. Ob die Fäden mit den abendlichen Lichtern oder dem Knochenhecht zusammenhängen und was aus dem anderen Boot wurde, bleibt offen.
+
 * Was ist aus Schwinge, Feder und Rute nach dem Ogerhinterhalt auf Shalelu geworden? Schwinge wurde von einem Speer getroffen, die Wölfe gerieten in ein Netz. Shalelu kennt ihr weiteres Schicksal nicht. Die Wölfe sind auch nicht in Schildkrötenfähre angekommen. - 261028; ergänzt 261104
 * Wie groß sind die Überschwemmungsschäden in Schildkrötenfähre nach dem Ablassen des Wassers aus dem Schädeldamm? Die Gruppe hat die Schleusen selbst geöffnet und Wasser abgelassen. Bei der Rückkehr erkennt sie Wasserschäden, feuchte Stellen und leichte Verwüstungen an einigen Häusern. Thal berichtet von Evakuierungen durch die Schwarzpfeile; das Wasser ist inzwischen zurückgegangen, und das Dorf arbeitet gemeinsam an den Reparaturen. Offen bleibt das genaue Ausmaß der Schäden. - 261028; ergänzt 261104
 * Worauf beziehen sich Morgaines Talent, der besprochene Fluch und das Dreieck in Boudiccas Briefen? Boudicca fand keine geschichtlichen Parallelen zu dem Talent, warnte vor unbekannten negativen Nebenwirkungen von Flüchen und konnte zum Dreieck nichts herausfinden. Eine Verbindung zu Fox oder zum Symbol des zerbrochenen Dreiecks ist nicht bestätigt. - 261028
@@ -18,6 +26,9 @@
 * Warum sammeln sich auf Mokmurians Befehl Riesen im Nesselwald, und was plant er dort? Rasmus beschrieb Mokmurian als mächtigen, magiebegabten Riesen mit hohem Ansehen unter seinesgleichen, der Gegner unter den Riesen tötet. - 260909
 * Ist Kalami tatsächlich Broccs verschwundene Mutter, und was tut sie in den Eisenbergen? Rasmus beschrieb eine grünhaarige Gnomin namens Kalami, die ihn und seine Brüder vergiftete, ihn jedoch anschließend rettete. Ihre Beschreibung erinnert Brocc stark an seine Mutter, die vor längerer Zeit ohne Nachricht verschwand. - 260909
 * Was ist mit Fox' rechter Hand geschehen? Nach ihrer Rückkehr blieb eine schwarze Klauenhand zurück, die selbst keine erkennbare Magie ausstrahlt. Als Fafnir sie berührte, erlebte Fox eine schmerzhafte Erinnerung aus seiner Vergangenheit mit. Ein Versuch, einen möglichen Fluch zu brechen, veränderte die Klaue nicht. Bei einer späteren Berührung mit Cal erlebte Fox auch dessen schmerzhafte Erinnerung an seinen verschwundenen Meister. Dabei versuchte etwas, die ausgelösten Emotionen zu absorbieren, was Fox durch einen erfolgreichen Willenswurf verhindern konnte. Bei Ginas Berührung erlebte Fox deren Erinnerungen an Hagens und Makos Verschwinden sowie an ihre Hilflosigkeit bei Fafnirs Tod. Während der anhaltenden Berührung spürte Fox, dass etwas Hungriges in ihr weniger hungrig wurde. Durch eine versehentliche Berührung Thals erlebten beide seine Erinnerung an den Tod seines Bruders bei den Grauls. Auch beim bloßen Nachdenken über Ginas Erinnerung regte sich etwas Fremdes in Fox. Die Berührung ihrer Klaue mit der eigenen Hand löste dagegen nichts Vergleichbares aus. Beim Kontakt mit Elsbeth über ihre weniger problematische Hand erlebte Fox deren Erinnerung an ein frisches Grab und einen bereits angenommenen Schmerz. Elsbeth erklärte, etwas in Fox versuche sich zu verbergen, und stellte einen Zusammenhang mit anderen Ebenen her; eine Umkehr sei schwierig und könne Folgen für Fox und andere haben. Was genau in Fox ist, wie es hineinkam und was bei den Berührungen geschieht, bleibt ungeklärt. - 260909; ergänzt 261028, 261104, 261111
+
+  261118: Als Gina auf dem Ziegenpfad Fox' schwarze Klaue packte, erlebte Fox Ginas Erinnerung an den Einsturz in der Ruine mit. Gina hatte das Freie erreicht, konnte den verschütteten Eingang aber nicht öffnen. Die Ursache der Erinnerungsübertragung bleibt ungeklärt.
+
 * Warum nimmt Fox neben ihrem eigenen Herzschlag einen zweiten, teilweise synchronen Rhythmus wahr, und hängt dies mit ihrer Wiederbelebung oder der Klauenhand zusammen? - 260909
 * Was geschah mit der echten Bewohnerin der Hütte im Splitterbaumtal? Nach dem Tod der Blutvettel brach die magisch veränderte Erscheinung des Hauses zusammen. Zurück blieb eine verwüstete kleine Steinhütte mit Kräutergarten, alchemistischen Resten, Zauberstabrohlingen und Briefen, die auf eine frühere Bewohnerin hindeuten. - 260909
 * Warum befand sich auch auf dem magischen Lichtgürtel aus der verwüsteten Hütte das Symbol des zerbrochenen Dreiecks? - 260909
@@ -30,6 +41,9 @@
 * Was bewirkt der Ring des Magiers vom Schädeldamm genau? Der Ring trägt einen großen blutroten Stein und weist eine ungewöhnliche Mischung aus Erkenntnis- und Verzauberungsmagie auf. Besonders auffällig ist, dass seine Magie derjenigen auf dem bei der Lamiamatriarchin gefundenen Ring ähnelt. Welche Funktion diese Ringe haben und wie der Magier mit der Lamiamatriarchin beziehungsweise Lucrezia verbunden war, ist ungeklärt. - 260812
 * Wird Kaven vor Gericht gestellt, und was kann er noch über Lucrezia, den Siebenstern und den Verrat an der Ranickfeste berichten? - 260722
 * Warum verschwand Lamatar bei jedem Vollmond für zwei Nächte, und wohin ging er? Zur Zeit des Ogerangriffs hielt er sich offenbar im Schimmersumpf auf und gilt weiterhin als vermisst. Laut Jakardros begründete er seine Rückzüge mit Einkehr und Zeit für sich selbst. Die Schwarzpfeile haben jemanden für eine magische Suche angeschrieben, bislang jedoch keine Antwort erhalten. - 260722; ergänzt 261104
+
+  261118: Laut Yap traf sich Lamatar regelmäßig mit Myriana im Schimmersumpf. Yap sah ihn vor etwa einem Monat beim Eintreffen zu ihrem letzten bekannten Treffen. Als Yap zurückkam, war Lamatar nicht mehr da. Ob alle Vollmondabwesenheiten diesen Treffen galten und was aus Lamatar wurde, bleibt offen.
+
 * Was beabsichtigten die Oger und der Sichedronkult mit dem Beschuss des Damms: seine Zerstörung, die Befreiung von etwas oder ein anderes Ziel? - 260722
 * Was für einen Ring hatte die Lamiamatriarchin? Der Ring ist grün und mit dem Symbol eines Salamanders verziert. Seine mögliche Verbindung zu den Lysanders wird in [Fox' persönlicher Quest](Quests.md#fox-persönliche-quest-findet-das-schicksal-ihrer-eltern-heraus) verfolgt; sie ist nicht bestätigt. - 260715
 * Was bedeuten die zerbrochenen Dreiecke auf dem Ogerhaken von Jakrat, den Dolchen der Lamiamatriarchin und dem magischen Lichtgürtel aus der Hütte im Splitterbaumtal? - 260715
@@ -37,6 +51,10 @@
 * Was wird aus den Ogern in der Ranickfeste? Gewinnt der kleine Oger mit den drei Haaren auf der Beule, den Tobin zum Anführer der Oger ernannt hat, den Kampf um die Nachfolge von Jakrat? - 260715
 
 # Beantwortet
+
+* Wer ist der dürre, feenhafte Gast mit kleinen Flügeln, den Jakardros ins Gasthaus bringt, und welches Anliegen hat er? Die Sitzung endet bei seiner freundlichen Begrüßung. - 261111
+
+  261118: Der Besucher heißt Yap und bittet die Gruppe um Hilfe für seine Herrin Myriana, eine Nymphe im Schimmersumpf.
 
 * Erreichen Jakardros und Thal Schildkrötenfähre mit Kaven lebend, oder setzen sie Tobins unausgesprochene Billigung einer Hinrichtung um? - 260722
 

@@ -1,3 +1,118 @@
+# Sitzung vom 18. November 2026: Der Knochenhecht und der Schimmersumpf
+
+## Yaps Bitte und Kyras' Suche
+
+Beim späten Frühstück in Schildkrötenfähre sitzen Shalelu, Tobin und Fox noch
+im Schankraum, als Jakardros einen winzigen geflügelten Besucher mitbringt.
+Kyras kommt mit Gina, Brocc und Cal aus dem Obergeschoss zurück. Die Rune
+beunruhigt ihn weiterhin, und er will die beiden Halbelfinnen vom Fest zur
+Rede stellen. Tobin möchte ihm gerade die Zeichnung für die Standarte zeigen.
+Als sich herausstellt, dass Tobin die Frauen wiedererkennen würde, bittet
+Kyras ihn stattdessen um Hilfe bei der Suche.
+
+Der Besucher heißt Yap und bittet um Hilfe für seine Herrin Myriana, eine
+Nymphe im Schimmersumpf. Während Kyras und Tobin im Dorf nachfragen, erzählt
+Yap Gina und Fox, dass Myriana sich vor etwa einem Monat wie gewohnt mit dem
+Kommandanten der Ranickfeste getroffen habe. Yap ließ die beiden allein.
+Als er zurückkam, war der Kommandant verschwunden; Myrianas Körper lag reglos
+an einem Baum, doch sie erschien weiterhin geisterhaft in ihrem Teich.
+
+Im Dorf hilft Kyras der Halblingsfrau Gerlinde mit ihren Einkäufen und befragt
+ihren Mann Herrmann. Der verweist ihn an eine Halbelfin namens Ariane, die zwei
+Häuser weiter wohnt. Sie war nicht auf dem Fest und kennt in Schildkrötenfähre
+niemanden, der auf Kyras' Beschreibung passt. Die Suche nach Irena und Leandell
+führt zu keiner Spur. Kyras und Tobin kehren ins Gasthaus zurück.
+
+## Zwei Fähren für den Schimmersumpf
+
+Die Gefährten wollen zuerst Yap helfen und stellen die Rückkehr zur
+Ranickfeste zurück. Gina spricht mit Jakardros, Shalelu und Thal über die
+Feste, weil offenbar noch jemand Interesse an ihr hat. Die drei fahren
+schließlich mit in den Sumpf.
+
+Am Kai handelt Tobin mit dem alten Nick aus, dass dieser zwei
+Schildkrötenfähren besorgt. Wenn die Gruppe das Ungeheuer im Lehmgrundsee
+erlegt, soll sie für die Boote nichts bezahlen. Nick selbst fährt nicht mit.
+
+Fox schlägt am Kai erneut "Fafnirs Bande" als Gruppennamen vor. Tobin will
+Fafnir mit der Standarte ehren, den Namen aber nach denen wählen, die noch
+dabei sind. Kyras fürchtet, dass das Ungeheuer die Fähren im offenen Wasser
+zum Kentern bringen könnte. Auf Nicks Rat paddeln die Gefährten am Ufer
+entlang. Unterwegs zeigt Tobin Yap den Entwurf und die Stoffe. Die Gruppe
+findet keinen gemeinsamen Namen. Kyras sagt zu, die Standarte zu nähen,
+sobald sich eine ruhige Gelegenheit dazu ergibt. Die Standarte bleibt
+noch unfertig.
+
+Auf Ginas Fragen hin erzählt Yap von Leylinien, über die man im Schimmersumpf
+zwischen der Feenwelt und der hiesigen Welt wechseln kann. Seit Myriana
+Lamatar Bayden kennengelernt hatte, blieb sie im Sumpf; in ihrer glücklichen
+Zeit mit ihm blühte die Landschaft auf. Jetzt stirbt der Sumpf, und Myriana
+macht Yap Vorwürfe, weil er Lamatar nicht gerettet habe. Sie hat Yap sogar
+angegriffen. Was in jener Nacht geschah und was aus Lamatar wurde, weiß Yap
+nicht.
+
+## Der Riesenhecht im Lehmgrundsee
+
+Dichter Nebel trennt die Fähren. Kyras paddelt zum Ufer, und auch die zweite
+Fähre findet ans Land. Brocc entdeckt im Nebel fluoreszierende magische
+Fäden, die er für Anzeichen eines Fluchs hält. Ob sie mit dem Ungeheuer
+zusammenhängen, bleibt offen. Tobin ahmt mit einem Zauber die Rufe vieler
+Menschen nach, um das Ungeheuer zu locken. Kurz darauf rammt es eine Fähre.
+Kyras zieht mit den anderen die unbeschädigte Fähre an Land, und Gina
+bringt die Besatzung der gerammten Fähre ans Ufer. Cal nimmt die riesige
+Kreatur unter Wasser wahr und warnt die anderen, als sie erneut heranschießt.
+Der zweite Stoß beschädigt den Panzer und die Holzverkleidung; danach zieht
+die Gruppe auch diese Fähre ganz aus dem Wasser. Brocc markiert den Fisch
+beim Abtauchen mit einem Zauber, der seine Schwanzflosse golden glitzern lässt.
+
+Die Gruppe will den Rückweg sichern und den Fischern helfen. Gina bittet Yap,
+aus sicherer Höhe Ausschau zu halten, während Tobin den Fisch erneut mit
+magisch vervielfachten Rufen lockt. Yap entdeckt das Glitzern, doch der rund
+neun Meter lange Knochenhecht schießt aus dem Wasser nach ihm. Gina trifft
+ihn mit einem Schuss, Brocc mit einem Blitz und Cal mit seinem magischen
+Rapier. Auch Shalelu, Jakardros und Thal greifen an. Trotz der Treffer
+erwischt der Hecht Yap und taucht mit ihm ab.
+
+Cal behält das Tier unter Wasser im Blick und weist Gina das Ziel. Mit
+Tobins magischem Zuspruch gelingt ihr der tödliche zweite Schuss. Kyras
+schiebt eine Fähre zurück ins Wasser, paddelt zur auftreibenden Leiche und
+schneidet den Hecht auf. Yap kommt lebend heraus; Tobin versorgt seine
+Schürfwunden. Auf Broccs Vorschlag bergen die Gefährten den Kadaver als
+Beweis für die Fischer und nehmen Trophäen mit, darunter Zähne und die
+Rückenflosse. Den restlichen Kadaver schiebt Kyras zurück ins Wasser.
+
+Die Gefährten fahren weiter am Ufer entlang. Tobin bessert die beschädigte
+Fähre während der Fahrt aus. Am Nachmittag weist Yap ihnen eine Landestelle
+bei einem Ziegenpfad. Sie ziehen beide Fähren für den Rückweg an Land.
+
+## Auf dem Ziegenpfad
+
+Der Schimmersumpf ist unheimlich still. Zwischen sterbenden Bäumen steht
+schwarzes, teerartiges Wasser. Yap führt die Gruppe zu Fuß über den
+überwucherten Pfad und warnt davor, ihn zu verlassen.
+
+Gina sieht plötzlich in Fox ihre frühere Gefährtin Maren und glaubt, ein
+Monster hole hinter ihr zum Schlag aus. Sie reißt Fox zu sich, ruft zum
+Rückzug und zieht sie in Richtung der Boote mit. Fox sieht kein Monster
+und versucht vergeblich, Gina aufzuhalten. Auch Kyras, Cal, Tobin und
+Brocc können sie zunächst nicht stoppen. Brocc fliegt ihr schließlich
+nach und redet auf sie ein. Unmittelbar bevor Gina vom Pfad tritt, kommt
+sie wieder zu sich und lässt Fox los.
+
+Bei der Flucht hatte Gina Fox' schwarze Klaue gepackt. Durch die Berührung
+erlebt Fox Ginas Erinnerung an den Einsturz in der Ruine: Gina erreicht
+das Freie, doch hinter ihr wird der Eingang verschüttet. Sie versucht
+vergeblich, die Steine zu bewegen und den Eingeschlossenen zu helfen.
+Wieder im Hier und Jetzt umarmen sich Gina und Fox. Gina rückt in die Mitte
+der Gruppe. Kyras reicht ein Seil nach vorn und übernimmt das Ende der
+Reihe; wer möchte, hält sich beim Weitergehen daran fest.
+
+Am Rand eines giftgrünen Teichs hört Cal aus der Nebelwand dahinter
+Hilferufe. Kyras hört nichts und mahnt ihn, am Seil zu bleiben. Cal ruft
+"Stopp!" und sagt, dass jemand in Not sei. Hier endet die Sitzung:
+Die Gruppe hat die Quelle der Rufe noch nicht untersucht und Myriana
+noch nicht erreicht.
+
 # Sitzung vom 11. November 2026: Wahrheiten und ein fremdes Zeichen
 
 ## Tanz und Zukunftsfragen
